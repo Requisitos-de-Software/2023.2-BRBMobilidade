@@ -2,4 +2,7 @@ site_name: possível app
 site_url: https://example.com/
 
 nav:
--home: pagina-inicial.md
+  - Home: 'pagina-inicial.md'
+  - Atas: 'atas.md'
+  - Planejamento do projeto: 'planejamento-projeto.md'
+theme: readthedocs
