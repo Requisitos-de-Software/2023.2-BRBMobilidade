@@ -6,3 +6,6 @@ nav:
   - Atas: 'atas.md'
   - Planejamento do projeto: 'planejamento-projeto.md'
 theme: readthedocs
+
+extra_css:
+  - 'css/custom.css'
