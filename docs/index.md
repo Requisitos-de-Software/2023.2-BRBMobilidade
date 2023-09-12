@@ -31,4 +31,3 @@ Além disso, esta página serve como um arquivo para as atas de nossas reuniões
 | 1.1    | 11/09/2023 | Redesenho da interface    | [Caio Braga](https://github.com/caioalvesbraga)  |
 
 ---
-
