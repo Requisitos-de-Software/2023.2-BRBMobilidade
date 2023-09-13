@@ -38,9 +38,9 @@ Discutimos sobre o projeto e suas tarefas definindo-as aos membros e por fim con
 
 #### Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor          |
-|--------|------------|----------------------|----------------|
-| 1.0    | 12/09/2023 | Versão inicial       |   Doan Filho   |
+| Versão | Data       | Descrição            | Autor          | Revisor        |
+|--------|------------|----------------------|----------------|--------------- |
+| 1.0    | 12/09/2023 | Versão inicial       |   Doan Filho   |[Caio Lelis](https://github.com/caio-lelis)|
 
 
 ---
