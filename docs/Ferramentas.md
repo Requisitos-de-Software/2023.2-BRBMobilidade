@@ -10,7 +10,7 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 | <img src="https://github.com/Requisitos-de-Software/2023.2-Grupo03/blob/5-ferramentas/docs/img/github-logo.png" alt="Github" width=75px> | <a id="a" href="#aa">Github</a> | Plataforma online de gerenciamento de projetos utilizada para manter o repositório |
 | <img src="https://github.com/Requisitos-de-Software/2023.2-Grupo03/blob/5-ferramentas/docs/img/Git-logo.png" alt="Git" width=75px> | <a id="b" href="#bb">Git</a> | Sistema de versionamento de código em que o grupo vai se basear para organização do projeto |
 | <img src="https://github.com/Requisitos-de-Software/2023.2-Grupo03/blob/5-ferramentas/docs/img/teams-logo.png" alt="Teams" width=75px> | <a id="c" href="#cc">Teams</a> | Aplicativo usado para fazer as reuniões e também para gravá-las |
-| <img src="https://github.com/Requisitos-de-Software/2023.2-Grupo03/blob/5-ferramentas/docs/img/telegram-logo.png" alt="Telegram" width=75px> | <a id="d" href="#dd">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe |
+| <img src="https://github.com/Requisitos-de-Software/2023.2-Grupo03/blob/5-ferramentas/docs/img/telegram-logo.png.png" alt="Telegram" width=75px> | <a id="d" href="#dd">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe |
 | <img src="https://github.com/Requisitos-de-Software/2023.2-Grupo03/blob/5-ferramentas/docs/img/drawio-logo.png" alt="Draw.io" width=75px> | <a id="a" href="#aa">Draw.io</a> | Utilizado para criação do Rich picture |
 
 ## Bibliografia
