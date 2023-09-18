@@ -23,11 +23,11 @@ Com base na avaliação do Heatmap, identificamos os seguintes horários como os
 Após uma votação entre os membros, ficou estabelecido que:
 
 - As reuniões de planejamento (Plannings) ocorrerão às **segundas-feiras**, das **20:00 às 21:00**.
-- As reuniões de atualização de status (Status) serão realizadas às **quintas-feiras**, também das **20:00 às 21:00**.
+- As reuniões de atualização de revisão (Review) serão realizadas às **quintas-feiras**, também das **20:00 às 21:00**.
 
 ### Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
 | 0.1    | 11/09/2023 | Planejamento Heat Map       | [Caio Lelis](https://github.com/caio-lelis) | [Caio Braga](https://github.com/caioalvesbraga) |
-
+   

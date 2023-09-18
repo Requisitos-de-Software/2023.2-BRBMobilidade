@@ -7,10 +7,10 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 ## Tabela de ferramentas
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img src="/img/ferramentas/github-logo.png" alt="Github" width=75px> | <a id="a" href="#aa">Github</a> | Plataforma online de gerenciamento de projetos utilizada para manter o repositório |
+| <img src="/img/ferramentas/github-logo.png" alt="Github" width=75px> | <a id="a" href="#aa">Github</a> | Plataforma usada para o vesionamento de códigos pelo grupo para manter o repositório |
 | <img src="/img/ferramentas/Git-logo.png" alt="Git" width=75px> | <a id="b" href="#bb">Git</a> | Sistema de versionamento de código em que o grupo vai se basear para organização do projeto |
 | <img src="/img/ferramentas/teams-logo.png" alt="Teams" width=75px> | <a id="c" href="#cc">Teams</a> | Aplicativo usado para fazer as reuniões e também para gravá-las |
-| <img src="/img/ferramentas/telegram-logo.png.png" alt="Telegram" width=75px> | <a id="d" href="#dd">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe |
+| <img src="/img/ferramentas/telegram-logo.png.png" alt="Telegram" width=75px> | <a id="d" href="#dd">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe de forma fácil.|
 | <img src="/img/ferramentas/drawio-logo.png" alt="Draw.io" width=75px> | <a id="a" href="#aa">Draw.io</a> | Utilizado para criação do Rich picture |
 
 ## Bibliografia
