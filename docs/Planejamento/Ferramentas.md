@@ -29,4 +29,4 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 14/09/2023 | Criação do documento e adição de ferramentas   | [Gabriel Barbosa](https://github.com/gabrie1barbosa)|  |
+| 1.0    | 14/09/2023 | Criação do documento e adição de ferramentas   | [Gabriel Barbosa](https://github.com/gabrie1barbosa)| [Caio Lelis](https://github.com/caio-lelis) |
