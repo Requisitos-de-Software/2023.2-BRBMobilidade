@@ -9,10 +9,6 @@ O principal objetivo desta página é fornecer uma documentação abrangente e o
 
 Além disso, esta página serve como um arquivo para as atas de nossas reuniões de desenvolvimento. Essas atas fornecem um registro detalhado dos progressos realizados em nossas reuniões, decisões tomadas e ações futuras planejadas.
 
-## Objetivo Central do Projeto
-
-
-
 ## Equipe
 <table>
   <tr>
@@ -28,6 +24,6 @@ Além disso, esta página serve como um arquivo para as atas de nossas reuniões
 | Versão | Data       | Descrição            | Autor          | Revisor          |
 |--------|------------|----------------------|----------------|----------------|
 | 1.0    | 10/09/2023 | Versão inicial       | [Caio Lelis](https://github.com/caio-lelis)  | [Caio Braga](https://github.com/caioalvesbraga)  |
-| 1.1    | 11/09/2023 | Redesenho da interface    | [Caio Braga](https://github.com/caioalvesbraga)  |
-
+| 1.1    | 11/09/2023 | Redesenho da interface    | [Caio Braga](https://github.com/caioalvesbraga)  | [Caio Lelis](https://github.com/caio-lelis)
+|1.2     | 17/09/2023 | Redefinindo estrutura de páginas|  [Caio Lelis](https://github.com/caio-lelis)  |                       |
 ---
