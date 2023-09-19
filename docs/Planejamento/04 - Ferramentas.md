@@ -11,7 +11,8 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 | <img src="/img/ferramentas/Git-logo.png" alt="Git" width=75px> | <a id="b" href="#bb">Git</a> | Sistema de versionamento de código em que o grupo vai se basear para organização do projeto |
 | <img src="/img/ferramentas/teams-logo.png" alt="Teams" width=75px> | <a id="c" href="#cc">Teams</a> | Aplicativo usado para fazer as reuniões e também para gravá-las |
 | <img src="/img/ferramentas/telegram-logo.png.png" alt="Telegram" width=75px> | <a id="d" href="#dd">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe de forma fácil.|
-| <img src="/img/ferramentas/drawio-logo.png" alt="Draw.io" width=75px> | <a id="a" href="#aa">Draw.io</a> | Utilizado para criação do Rich picture |
+| <img src="/img/ferramentas/miro-logo.png" alt="Miro" width=75px> | <a id="e" href="#aa">Miro</a> | Utilizado para criação do Rich picture |
+| <img src="/img/ferramentas/vscode-logo.png" alt="VsCode" width=75px> | <a id="f" href="#aa">VsCode</a> | IDE usada para realização do projeto, documentação, e implementar conceitos de versionamento |
 
 ## Bibliografia
 
@@ -23,7 +24,9 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 
 <a id="dd" href="#d">[4]</a> TELEGRAM. Disponível em: [Telegram](https://web.telegram.org/k/). Acesso em: 14 de setembro de 2023.
 
-<a id="ee" href="#e">[5]</a> DRAW.IO. Disponível em: [Draw.io](https://app.diagrams.net/). Acesso em: 14 de setembro de 2023.
+<a id="ee" href="#e">[5]</a> MIRO. Disponível em: [Miro](https://miro.com/pt/). Acesso em: 14 de setembro de 2023.
+
+<a id="ff" href="#f">[6]</a> VSCODE. Disponível em: [VsCode](https://code.visualstudio.com/). Acesso em: 19 de setembro de 2023.
 
 #### Histórico de Versões
 
