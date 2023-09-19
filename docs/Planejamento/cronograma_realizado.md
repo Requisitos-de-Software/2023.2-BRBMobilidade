@@ -5,10 +5,8 @@ Parte da documentação que tem como objetivo marcar e mostrar as reais datas e 
 
 
 
-
+### **Primeira Entrega**
 Atividades realizadas para a primeira entrega do projeto, com seus autores, revisores e datas. Previsto para o dia **20/09/23**.
-
-Primeira Entrega 
 
 | Tarefa       | Entrega |  Revisão  | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
