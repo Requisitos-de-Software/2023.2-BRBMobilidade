@@ -21,15 +21,10 @@ Primeira Entrega
 |Cronograma|05/09  |18/09  |[Doan Filho](https://github.com/FilhoDoan), [Miguel Matos](https://github.com/migueldefrias)    | [Miguel Matos](https://github.com/migueldefrias)   |
 |Gravação|16/09  |18/09  | Todos |Todos|
 
-## **Executado**
--
-
--
-
-
 
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 0.1    | 18/09/2023 | Adicionando tópicos e estrutura base|  [Doan Filho](https://github.com/FilhoDoan) | |
-| 0.2    | 18/09/2023 | Planejamento Entrega 01|  [Doan Filho](https://github.com/FilhoDoan) | |
+| 1.1    | 18/09/2023 | Adicionando tópicos e estrutura base|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)  |
+| 1.2    | 18/09/2023 | Planejamento Entrega 01|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)|
+| 1.3    | 19/09/2023 | Ajustes no documento|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)|
 

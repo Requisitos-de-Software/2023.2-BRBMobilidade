@@ -1,4 +1,4 @@
-# **Cronograma**
+# **Cronograma Realizado**
 
 ## **Introdução**
 Parte da documentação que tem como objetivo marcar e mostrar as reais datas e prazos utilizados para realização das atividades requeridas pelo trabalho, sequenciado com a determinação dos responsáveis, revisores, datas de entrega e revisão. Está documentação será feita durante o semetre de 2023.2 que vai de 25/08/23 a 23/12/23
@@ -25,5 +25,5 @@ Atividades realizadas para a primeira entrega do projeto, com seus autores, revi
 ### Histórico de versão
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `0.1` | 18/09 | -/09 | Adicionando tópicos e estrutura base | [Miguel Matos](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
-| `1.0` | 18/09 | -/09 | Adição da Entrega 1 | [Miguel Matos](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
+| `1.1` | 18/09 | -/09 | Adicionando tópicos e estrutura base | [Miguel Matos](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
+| `1.2` | 18/09 | -/09 | Adição da Entrega 1 | [Miguel Matos](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
