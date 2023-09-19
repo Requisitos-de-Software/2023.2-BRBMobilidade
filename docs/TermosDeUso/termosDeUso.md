@@ -108,4 +108,4 @@ A equipe responsável pelo planejamento do projeto garante que foi lido e que se
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 18/09/2023 | Criação do documento e adição dos termos de uso   | [Joel Soares](https://github.com/JoelSRangel)| | 
+| 1.0    | 18/09/2023 | Criação do documento e adição dos termos de uso   | [Joel Soares](https://github.com/JoelSRangel)| [Guilherme Basilio](https://github.com/GuilhermeBES) |
