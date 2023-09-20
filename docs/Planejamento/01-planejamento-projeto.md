@@ -5,8 +5,6 @@ Nesta seção, você encontrará informações detalhadas sobre o planejamento d
 
 ## Aplicativo Selecionado
 
-## Aplicativo Selecionado
-
 Após uma análise criteriosa de vários aplicativos e a revisão dos nossos próprios rich pictures, identificamos as seguintes opções:
 
 - Caixa
@@ -152,21 +150,3 @@ A equipe responsável pelo planejamento do projeto garante que foi lido e que se
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
 | 1.0    | 18/09/2023 | Criação do documento e adição dos termos de uso   | [Joel Soares](https://github.com/JoelSRangel)|[Guilherme Basilio](https://github.com/GuilhermeBES)| 
-
-
-
-## Cronograma Detalhado
-
-Cronograma detalhado das atividades do projeto, incluindo a data de início e fim de cada atividade, os responsáveis e a gravação da apresentação.
-
-| Atividade | Data de Início | Data de Fim | Responsáveis |
-|-----------|----------------|-------------|--------------|
-| Atividade 1 | 01/10/2023 | 07/10/2023 | Integrante 1, Integrante 2 |
-| Atividade 2 | 08/10/2023 | 14/10/2023 | Integrante 3, Integrante 4 |
-| ...         | ...            | ...         | ...            | 
-
----
-
-| Versão | Data       | Descrição            | Autor | Revisor |
-|--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 0.1    | xx/xx/2023 | ------      |  ----------- | ---------- |
