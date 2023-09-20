@@ -54,7 +54,7 @@ Discutimos sobre o projeto e suas tarefas definindo-as aos membros e por fim con
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
 | 1.0    | 12/09/2023 | Versão inicial       |   [Doan Filho](https://github.com/FilhoDoan)   |[Caio Lelis](https://github.com/caio-lelis)|
-| 1.1    | 14/09/2023 | Ajustes e adição de tópico       |   [Doan Filho](https://github.com/)
+| 1.1    | 14/09/2023 | Ajustes e adição de tópico       |   [Doan Filho](https://github.com/) | [Caio Lelis](https://github.com/caio-lelis) |
 
 ---
 
