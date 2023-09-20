@@ -33,4 +33,4 @@ Encontra-se acima uma breve explicação sobre os principais componentes que est
 
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.0    | 19/09/2023 | Adição do Rich Picture     |  Caio Felipe | Caio Lelis |
+| 1.0    | 19/09/2023 | Adição do Rich Picture     |  [Caio Braga](https://github.com/caioalvesbraga) |[Doan Filho](https://github.com/FilhoDoan)|
