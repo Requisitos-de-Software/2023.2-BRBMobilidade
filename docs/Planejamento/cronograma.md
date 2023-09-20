@@ -8,6 +8,7 @@ Parte da documentação que anota as pretenções para analisar o projeto BRB Mo
 ### **Cronograma Planejado**
 
 Planejamento feito para a primeira entrega do projeto previsto pro dia **20/09/23**
+
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
 | HeatMap| 05/09     | 11/09             | [Caio Lelis](http://github.com/caio-lelis)   |[Caio Braga](http://github.com/caioalvesbraga)
@@ -25,6 +26,7 @@ Planejamento feito para a primeira entrega do projeto previsto pro dia **20/09/2
 ### **Cronograma Realizado**
 
 Atividades realizadas para a primeira entrega do projeto, com seus autores, revisores e datas.
+
 | Tarefa       | Entrega |  Revisão  | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
 | HeatMap| 11/09     | 12/09             | [Caio Lelis](http://github.com/caio-lelis)   |[Caio Braga](http://github.com/caioalvesbraga)
