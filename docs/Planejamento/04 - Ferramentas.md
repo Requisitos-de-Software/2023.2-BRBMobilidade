@@ -1,10 +1,10 @@
 # Ferramentas de Uso
 
-## Introdução
+## **Introdução**
 
 Este documento tem como objetivo detalhar quais são os softwares que o grupo usará durante o desenvolvimento do projeto e quais são as finalidades dessas ferramentas.
 
-## Tabela de ferramentas
+## **Tabela de ferramentas**
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
 | <img src="/docs/img/ferramentas/github-logo.png" alt="Github" width=75px> | <a id="a" href="#aa">Github</a> | Plataforma usada para o vesionamento de códigos pelo grupo para manter o repositório |
@@ -14,7 +14,7 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 | <img src="/docs/img/ferramentas/miro-logo.png" alt="Miro" width=75px> | <a id="e" href="#aa">Miro</a> | Utilizado para criação do Rich picture |
 | <img src="/docs/img/ferramentas/vscode-logo.png" alt="VsCode" width=75px> | <a id="f" href="#aa">VsCode</a> | IDE usada para realização do projeto, documentação, e implementar conceitos de versionamento |
 
-## Bibliografia
+## **Bibliografia**
 
 <a id="aa" href="#a">[1]</a> GITHUB. Disponível em: [GitHub](https://github.com). Acesso em: 14 de setembro de 2023.
 
@@ -28,7 +28,7 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 
 <a id="ff" href="#f">[6]</a> VSCODE. Disponível em: [VsCode](https://code.visualstudio.com/). Acesso em: 19 de setembro de 2023.
 
-#### Histórico de Versões
+#### **Histórico de Versões**
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |

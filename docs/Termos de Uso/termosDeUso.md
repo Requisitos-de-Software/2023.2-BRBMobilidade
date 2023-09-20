@@ -1,9 +1,9 @@
-# Termos de Uso - BRB Mobilidade
-## Introdução
+# **Termos de Uso - BRB Mobilidade**
+## **Introdução**
 
 Esse documento tem como objetivo documentar os termos de uso da aplicação BRB Mobilidade, escolhida para estudo e planejamento do projeto.
 
-## Termos de Uso e Política de Privacidade
+## **Termos de Uso e Política de Privacidade**
 
 As políticas de Termos de Uso e Privacidade do aplicativo informam, com transparência, a forma de tratamento e uso das informações a partir de sua coleta. A leitura dos termos de Uso e da Política de Privacidade deverá acontecer de forma periódica, considerando que o documento está sujeito a alterações sempre que o BRB Banco de Brasília S/A julgar necessário. A utilização do aplicativo implica em concordância com as alterações feitas.
 
@@ -96,15 +96,15 @@ no aplicativo é de responsabilidade do usuário.
 ou interromper o acesso ao aplicativo a qualguer momento,
 sem aviso prévio ou posterior.
 
-## Conclusão
+## **Conclusão**
 
 A equipe responsável pelo planejamento do projeto garante que foi lido e que serão seguidos todos os termos de uso durante seu desenvolvimento, mantendo a conformidade com as políticas estabelecidas pela empresa.
 
-## Fonte
+## **Fonte**
 
 <a id="aa" href="#a">[1]</a> BRB Mobilidade. Disponível em sua aplicação Mobile. Acesso em: 18 de setembro de 2023.
 
-#### Histórico de Versões
+#### **Histórico de Versões**
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |

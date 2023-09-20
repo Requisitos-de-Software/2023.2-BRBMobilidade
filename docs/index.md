@@ -1,10 +1,10 @@
-# Projeto 2023.2-Grupo03 
+# Página Inicial
 
-## Sobre Nós 
+## **Sobre Nós** 
 
 Somos o Grupo 3 da disciplina de Requisitos de Software, ministrada pelo Professor André Barros. Este espaço serve como um repositório central para todos os artefatos desenvolvidos por nossa equipe ao longo da matéria. Aqui, você encontrará uma variedade de recursos, desde documentação técnica até atas de nossas reuniões de desenvolvimento.
 
-### Equipe
+### **Equipe**
 <table>
   <tr>
      <td align="center"><a href="https://github.com/caioalvesbraga"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86745462?v=4" width="100px;" alt=""/><br /><sub><b>Caio Braga</b></sub></a><br />
@@ -12,20 +12,20 @@ Somos o Grupo 3 da disciplina de Requisitos de Software, ministrada pelo Profess
     <td align="center"><a href="https://github.com/FilhoDoan"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/100856019?v=4" width="100px;" alt=""/><br /><sub><b>Doan Filho</b></sub></a><br />
     <td align="center"><a href="https://github.com/gabrie1barbosa"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105024303?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Barbosa</b></sub></a><br />
     <td align="center"><a href="https://github.com/GuilhermeBES"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/124632450?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Basilio</b></sub></a><br />
-    <td align="center"><a href="https://github.com/JoelSRangel"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98978800?v=4" width="100px;" alt=""/><br /><sub><b>Joes Soares</b></sub></a><br />
+    <td align="center"><a href="https://github.com/JoelSRangel"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98978800?v=4" width="100px;" alt=""/><br /><sub><b>Joel Soares</b></sub></a><br />
     <td align="center"><a href="https://github.com/migueldefrias"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89036493?v=4" width="100px;" alt=""/><br /><sub><b>Miguel Matos</b></sub></a><br />
 </table>
 
 
 
-## Instalação
+## **Instalação**
 
-### Pré-requisitos
+### **Pré-requisitos**
 
 - Certifique-se de que você tem Python instalado em sua máquina. Se não tiver, você pode baixá-lo [aqui](https://www.python.org/downloads/).
 - Você também precisará do gerenciador de pacotes Python `pip`. Ele geralmente é instalado junto com o Python.
 
-### Instalar MkDocs
+### **Instalar MkDocs**
 
 1. Abra o terminal e execute o seguinte comando para instalar o MkDocs.
 
@@ -33,7 +33,7 @@ Somos o Grupo 3 da disciplina de Requisitos de Software, ministrada pelo Profess
     pip install mkdocs
     ```
 
-### Instalar MkDocs Material
+### **Instalar MkDocs Material**
 
 1. Abra o terminal e execute o seguinte comando para instalar o MkDocs Material.
 
@@ -41,9 +41,9 @@ Somos o Grupo 3 da disciplina de Requisitos de Software, ministrada pelo Profess
     pip install mkdocs material
     ```
 
-## Execução
+## **Execução**
 
-### Construir o Projeto
+### **Construir o Projeto**
 
 1. Utilize o comando abaixo para construir os arquivos estáticos do projeto.
 
@@ -52,7 +52,7 @@ Somos o Grupo 3 da disciplina de Requisitos de Software, ministrada pelo Profess
     ```
     Este comando irá gerar uma pasta `site` contendo todos os arquivos HTML, CSS e outros necessários para a visualização da documentação.
 
-### Servir o Projeto Localmente
+### **Servir o Projeto Localmente**
 
 1. Execute o seguinte comando para iniciar um servidor local.
 
