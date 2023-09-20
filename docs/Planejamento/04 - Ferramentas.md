@@ -7,18 +7,18 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 ## **Tabela de ferramentas**
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img src="/docs/img/ferramentas/github-logo.png" alt="Github" width=75px> | <a id="a" href="#aa">Github</a> | Plataforma usada para o vesionamento de códigos pelo grupo para manter o repositório |
-| <img src="/docs/img/ferramentas/Git-logo.png" alt="Git" width=75px> | <a id="b" href="#bb">Git</a> | Sistema de versionamento de código em que o grupo vai se basear para organização do projeto |
-| <img src="/docs/img/ferramentas/teams-logo.png" alt="Teams" width=75px> | <a id="c" href="#cc">Teams</a> | Aplicativo usado para fazer as reuniões e também para gravá-las |
-| <img src="/docs/img/ferramentas/telegram-logo.png.png" alt="Telegram" width=75px> | <a id="d" href="#dd">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe de forma fácil.|
-| <img src="/docs/img/ferramentas/miro-logo.png" alt="Miro" width=75px> | <a id="e" href="#aa">Miro</a> | Utilizado para criação do Rich picture |
-| <img src="/docs/img/ferramentas/vscode-logo.png" alt="VsCode" width=75px> | <a id="f" href="#aa">VsCode</a> | IDE usada para realização do projeto, documentação, e implementar conceitos de versionamento |
+| <img src="/img/ferramentas/github-logo.png" alt="Github" width=75px> | <a id="a" href="#aa">Github</a> | Plataforma usada para o vesionamento de códigos pelo grupo para manter o repositório |
+| <img src="/img/ferramentas/Git-logo.png" alt="Git" width=75px> | <a id="b" href="#bb">Git</a> | Sistema de versionamento de código em que o grupo vai se basear para organização do projeto |
+| <img src="/img/ferramentas/teams-logo.png" alt="Teams" width=75px> | <a id="c" href="#cc">Teams</a> | Aplicativo usado para fazer as reuniões e também para gravá-las |
+| <img src="/img/ferramentas/telegram-logo.png.png" alt="Telegram" width=75px> | <a id="d" href="#dd">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe de forma fácil.|
+| <img src="/img/ferramentas/miro-logo.png" alt="Miro" width=75px> | <a id="e" href="#aa">Miro</a> | Utilizado para criação do Rich picture |
+| <img src="/img/ferramentas/vscode-logo.png" alt="VsCode" width=75px> | <a id="f" href="#aa">VsCode</a> | IDE usada para realização do projeto, documentação, e implementar conceitos de versionamento |
 
 ## **Bibliografia**
 
 <a id="aa" href="#a">[1]</a> GITHUB. Disponível em: [GitHub](https://github.com). Acesso em: 14 de setembro de 2023.
 
-<a id="bb" href="#b">[2]</a> GIT. Disponível em: [Git](https://git-scm.com/docs). Acesso em: 14 de setembro de 2023.
+<a id="bb" href="#b">[2]</a> GIT. Disponível em: [Git](https://git-scm.com). Acesso em: 14 de setembro de 2023.
 
 <a id="cc" href="#c">[3]</a> TEAMS. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in). Acesso em: 14 de setembro de 2023.
 
@@ -33,3 +33,4 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
 | 1.0    | 14/09/2023 | Criação do documento e adição de ferramentas   | [Gabriel Barbosa](https://github.com/gabrie1barbosa)| [Caio Lelis](https://github.com/caio-lelis) |
+|1.1     | 19/09/2023 | Atualização de ferramentas e logos | [Caio Lelis](https://github.com/caio-lelis) | [Gabriel Barbosa](https://github.com/gabrie1barbosa)|
