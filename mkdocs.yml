@@ -1,5 +1,6 @@
-site_name: Possível app
+site_name: BRB Mobilidade
 theme:
+  logo: img/Logo BRBMobilidade.png
   name: material
   features:
     - navigation.tabs
@@ -17,12 +18,11 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: deep purple
-      accent: deep purple 
+      primary: 
+      accent: blue 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: deep purple
-      accent: deep purple
-
+      primary: indigo
+      accent: blue
