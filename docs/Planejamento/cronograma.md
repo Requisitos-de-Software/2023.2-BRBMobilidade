@@ -4,11 +4,12 @@
 Parte da documentação que anota as pretenções para analisar o projeto BRB Mobilidade sequenciado com a determinação dos responsáveis,revisadores, datas de entrega e revisão. Está documentação será feita durante o semetre de 2023.2 que vai de 25/08/23 a 23/12/23
 
 
-## **Planejado**
+## **Cronograma Planejado**
+
+#### Primeira Entrega
 
 Planejamento feito para a primeira entrega do projeto previsto pro dia **20/09/23**
 
-Primeira Entrega 
 
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
@@ -22,9 +23,31 @@ Primeira Entrega
 |Gravação|16/09  |18/09  | Todos |Todos|
 
 
+
+## **Cronograma Realizado**
+
+#### Primeira Entrega
+Atividades realizadas para a primeira entrega do projeto, com seus autores, revisores e datas. Previsto para o dia **20/09/23**.
+
+| Tarefa       | Entrega |  Revisão  | Atribuição |Revisor|
+|--------------|-----------------|-------------------|-------|-----|
+| HeatMap| 11/09     | 12/09             | [Caio Lelis](http://github.com/caio-lelis)   |[Caio Braga](http://github.com/caioalvesbraga)
+| Escolher APP | 16/09     | 16/09             | Todos   |Todos|
+| Ferramentas do projeto| 18/09     | -/09          |[Caio Lelis](http://github.com/caio-lelis), [Gabriel Barbosa](https://github.com/gabrie1barbosa) |[Caio Lelis](http://github.com/caio-lelis)|
+| Termos de Uso | 18/09  |  -/09    | [Guilherme Basilio](https://github.com/GuilhermeBES), [Joel Soares](https://github.com/JoelSRangel) |[Guilherme Basilio](https://github.com/GuilhermeBES) |
+| Atas das reuniões | 15/09    | -/09 |[Doan Filho](https://github.com/FilhoDoan)|[Caio Lelis](http://github.com/caio-lelis)|
+| Rich picture | 17/09     | 17/09   |[Caio Braga](http://github.com/caioalvesbraga) | [Doan Filho](https://github.com/FilhoDoan)|
+|Cronograma| 18/09  | -/09  |[Doan Filho](https://github.com/FilhoDoan)   | [Miguel Matos](https://github.com/migueldefrias)   |
+|Cronograma Realizado | 18/09  | -/09  | [Miguel Matos](https://github.com/migueldefrias)    |  [Doan Filho](https://github.com/FilhoDoan)  |
+|Gravação| 19/09  | -/09  | Todos |Todos|
+
+
+
+#### Histórico de Versões
+
+
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
 | 1.1    | 18/09/2023 | Adicionando tópicos e estrutura base|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)  |
 | 1.2    | 18/09/2023 | Planejamento Entrega 01|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)|
-| 1.3    | 19/09/2023 | Ajustes no documento|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)|
-
+| 1.3   | 19/09/2023 | Ajustes no documento|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)|
