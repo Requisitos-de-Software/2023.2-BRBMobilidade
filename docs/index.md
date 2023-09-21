@@ -1,8 +1,14 @@
-# Página Inicial
-
-## **Sobre Nós** 
+# Página inicial
+## Sobre Nós
 
 Somos o Grupo 3 da disciplina de Requisitos de Software, ministrada pelo Professor André Barros. Este espaço serve como um repositório central para todos os artefatos desenvolvidos por nossa equipe ao longo da matéria. Aqui, você encontrará uma variedade de recursos, desde documentação técnica até atas de nossas reuniões de desenvolvimento.
+
+## Objetivo da Página
+
+O principal objetivo desta página é fornecer uma documentação abrangente e organizada de todos os artefatos que estamos desenvolvendo. Isso inclui, mas não se limita a, especificações de requisitos, diagramas, planos de teste e relatórios de progresso.
+
+Além disso, esta página serve como um arquivo para as atas de nossas reuniões de desenvolvimento. Essas atas fornecem um registro detalhado dos progressos realizados em nossas reuniões, decisões tomadas e ações futuras planejadas.
+
 
 ### **Equipe**
 <table>
@@ -17,46 +23,11 @@ Somos o Grupo 3 da disciplina de Requisitos de Software, ministrada pelo Profess
 </table>
 
 
+#### Histórico de Versões
 
-## **Instalação**
+| Versão | Data       | Descrição            | Autor          | Revisor          |
+|--------|------------|----------------------|----------------|----------------|
+| 1.0    | 10/09/2023 | Versão inicial       | [Caio Lelis](https://github.com/caio-lelis)  | [Caio Braga](https://github.com/caioalvesbraga)  |
+| 1.1    | 11/09/2023 | Redesenho da interface    | [Caio Braga](https://github.com/caioalvesbraga)  |
 
-### **Pré-requisitos**
-
-- Certifique-se de que você tem Python instalado em sua máquina. Se não tiver, você pode baixá-lo [aqui](https://www.python.org/downloads/).
-- Você também precisará do gerenciador de pacotes Python `pip`. Ele geralmente é instalado junto com o Python.
-
-### **Instalar MkDocs**
-
-1. Abra o terminal e execute o seguinte comando para instalar o MkDocs.
-
-    ```bash
-    pip install mkdocs
-    ```
-
-### **Instalar MkDocs Material**
-
-1. Abra o terminal e execute o seguinte comando para instalar o MkDocs Material.
-
-    ```bash
-    pip install mkdocs material
-    ```
-
-## **Execução**
-
-### **Construir o Projeto**
-
-1. Utilize o comando abaixo para construir os arquivos estáticos do projeto.
-
-    ```bash
-    mkdocs build
-    ```
-    Este comando irá gerar uma pasta `site` contendo todos os arquivos HTML, CSS e outros necessários para a visualização da documentação.
-
-### **Servir o Projeto Localmente**
-
-1. Execute o seguinte comando para iniciar um servidor local.
-
-    ```bash
-    mkdocs serve
-    ```
-    Este comando inicia um servidor web local para que você possa visualizar a documentação em seu navegador. Normalmente, a URL será `http://127.0.0.1:8000/`.
+---
