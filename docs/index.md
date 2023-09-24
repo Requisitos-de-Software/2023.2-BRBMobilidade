@@ -1,13 +1,14 @@
-# Página inicial
-## Sobre Nós
+# BRB Mobilidade
 
-Somos o Grupo 3 da disciplina de Requisitos de Software, ministrada pelo Professor André Barros. Este espaço serve como um repositório central para todos os artefatos desenvolvidos por nossa equipe ao longo da matéria. Aqui, você encontrará uma variedade de recursos, desde documentação técnica até atas de nossas reuniões de desenvolvimento.
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/altera-imagens/docs/Planejamento/img/BRB-mobilidade.png" style="width:15vw"/>
+    <p> Figura 1: Imagem BRB Mobilidade . Fonte: <a href="https://mobilidade.brb.com.br/passelivre/pages/index.xhtml">BRB Mobilidade</a></p> 
+</div>
 
-## Objetivo da Página
 
-O principal objetivo desta página é fornecer uma documentação abrangente e organizada de todos os artefatos que estamos desenvolvendo. Isso inclui, mas não se limita a, especificações de requisitos, diagramas, planos de teste e relatórios de progresso.
-
-Além disso, esta página serve como um arquivo para as atas de nossas reuniões de desenvolvimento. Essas atas fornecem um registro detalhado dos progressos realizados em nossas reuniões, decisões tomadas e ações futuras planejadas.
+<p style="text-align: center;">
+Somos o Grupo 3 de Requisitos de Software. Este repositório centraliza nossos artefatos e documentações. A página oferece uma visão organizada de nossos trabalhos, incluindo especificações, diagramas e atas de reuniões.
+</p>
 
 
 ### **Equipe**
@@ -22,12 +23,10 @@ Além disso, esta página serve como um arquivo para as atas de nossas reuniões
     <td align="center"><a href="https://github.com/migueldefrias"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89036493?v=4" width="100px;" alt=""/><br /><sub><b>Miguel Matos</b></sub></a><br />
 </table>
 
-
 #### Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor          | Revisor          |
 |--------|------------|----------------------|----------------|----------------|
 | 1.0    | 10/09/2023 | Versão inicial       | [Caio Lelis](https://github.com/caio-lelis)  | [Caio Braga](https://github.com/caioalvesbraga)  |
 | 1.1    | 11/09/2023 | Redesenho da interface    | [Caio Braga](https://github.com/caioalvesbraga)  |
-
----
+| 1.2    | 11/09/2023 | Redesenho da interface    | [Caio Lelis](https://github.com/caio-lelis)  |
