@@ -29,4 +29,4 @@ Somos o Grupo 3 de Requisitos de Software. Este repositório centraliza nossos a
 |--------|------------|----------------------|----------------|----------------|
 | 1.0    | 10/09/2023 | Versão inicial       | [Caio Lelis](https://github.com/caio-lelis)  | [Caio Braga](https://github.com/caioalvesbraga)  |
 | 1.1    | 11/09/2023 | Redesenho da interface    | [Caio Braga](https://github.com/caioalvesbraga)  |
-| 1.2    | 11/09/2023 | Redesenho da interface    | [Caio Lelis](https://github.com/caio-lelis)  |
+| 1.2    | 23/09/2023 | Atualiza home page    | [Caio Lelis](https://github.com/caio-lelis)  |
