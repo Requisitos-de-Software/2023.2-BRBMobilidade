@@ -1,51 +1,66 @@
-# **Cronogramas**
+# **Cronograma de Planejamento**
 
 ## **Introdução**
 Parte da documentação que anota as pretenções para analisar o projeto BRB Mobilidade sequenciado com a determinação dos responsáveis, revisores e datas. Está documentação será feita durante o semetre de 2023.2 que vai de 25/08/23 a 23/12/23.
 
-## Entrega 1 - Planejamento
+<br>
 
-### **Cronograma Planejado**
+### Cronograma Geral
+A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 
-Planejamento feito para a primeira entrega do projeto previsto pro dia **20/09/23**
+| Etapa | Descrição | Atividades | Entrega | Apresentação |
+|:-----:|--------|-----------|---------|--------------|
+|   1   | Planejamento | Equipe, escolha do app, rich picture e planejamento do projeto| 20/09 | 21/09 |
+|   2   | Elicitação de requisitos | Técnicas e priorização | 04/10| 05/10 |
+|   3   | Modelagem de requisitos | Cenário, léxicos, use case e especificação suplementar | 25/10 | 26/10 |
+|   4   | Modelagem de requisitos Ágil | Histórias de usuários, backlogs e NFR framework | 06/11 | 07/11|
+|   5.1 | Análise de requisitos | Verificação e validação | 13/11 | 14/11 |
+|   5.2 | Análise de requisitos | Verificação e validação | 29/11 | 30/11|
+|   6   | Pós-rastreabilidade | Gerência de desenvolvimento de software | 20/11 | 21/11 |
+|   7   | Entrega do Projeto | Entrega final e apresentação do projeto| 06/12 |  |
+
+<div><p>Tabela 1 - Cronograma Geral. (Fonte: Miguel de Frias, 2023).</p></div>
+
+<br>
+
+### Entrega 1
+
+Planejamento feito para a primeira entrega do projeto.
 
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
 | HeatMap| 05/09     | 11/09             | [Caio Lelis](http://github.com/caio-lelis)   |[Caio Braga](http://github.com/caioalvesbraga)
 | Escolher APP | 05/09     | 14/09             | Todos   |Todos|
+| Gitpage | 05/09 | 19/09 | | |
 | Ferramentas do projeto| 05/09     | 16/09          |[Caio Lelis](http://github.com/caio-lelis), [Gabriel Barbosa](https://github.com/gabrie1barbosa) |[Caio Lelis](http://github.com/caio-lelis)|
 | Termos de Uso | 05/09    |  16/09    | [Guilherme Basilio](https://github.com/GuilhermeBES), [Joel Soares](https://github.com/JoelSRangel) |[Guilherme Basilio](https://github.com/GuilhermeBES) |
 | Atas das reuniões | 05/09    | 16/09 |[Doan Filho](https://github.com/FilhoDoan)|[Caio Lelis](http://github.com/caio-lelis)|
 | Rich picture | 05/09     | 17/09   |[Caio Braga](http://github.com/caioalvesbraga) | [Doan Filho](https://github.com/FilhoDoan)|
-|Cronogramas|05/09  |18/09  |[Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias)    | [Miguel Matos](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
-|Gravação|16/09  |18/09  | Todos |Todos|
+|Cronograma Planejado|05/09  |18/09  |[Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias)    | [Miguel Matos](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
+|Cronograma Realizaado|05/09  |18/09  |[Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias)    | [Miguel Matos](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
+|Gravação da Apresentação|18/09  |19/09  | Todos |Todos|
+| Postagem da Apresentação| 19/09| 19/09 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel Matos](https://github.com/migueldefrias)|
+<div><p>Tabela 2 - Atividades realizadas na Entrega 1. (Fonte: Miguel de Frias e Doan Filho, 2023).</p></div>
 
+### Entrega 2 
 
+Planejamento feito para a primeira entrega do projeto.
 
-
-### **Cronograma Realizado**
-
-Atividades realizadas para a primeira entrega do projeto, com seus autores, revisores e datas.
-
-| Tarefa       | Entrega |  Revisão  | Atribuição |Revisor|
+| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
-| HeatMap| 11/09     | 12/09             | [Caio Lelis](http://github.com/caio-lelis)   |[Caio Braga](http://github.com/caioalvesbraga)
-| Escolher APP | 16/09     | 16/09             | Todos   |Todos|
-| Ferramentas do projeto| 18/09     | 19/09          |[Caio Lelis](http://github.com/caio-lelis), [Gabriel Barbosa](https://github.com/gabrie1barbosa) |[Caio Lelis](http://github.com/caio-lelis)|
-| Termos de Uso | 18/09  |  19/09    | [Guilherme Basilio](https://github.com/GuilhermeBES), [Joel Soares](https://github.com/JoelSRangel) |[Guilherme Basilio](https://github.com/GuilhermeBES) |
-| Atas das reuniões | 15/09    | 19/09 |[Doan Filho](https://github.com/FilhoDoan)|[Caio Lelis](http://github.com/caio-lelis)|
-| Rich picture | 17/09     | 17/09   |[Caio Braga](http://github.com/caioalvesbraga) | [Doan Filho](https://github.com/FilhoDoan)|
-|Cronogramas| 18/09  | 20/09  |[Doan Filho](https://github.com/FilhoDoan) e  [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)  |
-|Gravação| 19/09  | 20/09  | Todos |Todos|
+| Gravação da Apresentação |  | 03/10 | Todos |Todos|
+| Postagem da Apresentação| 03/10 | 03/10 | [Joel Soares](https://github.com/JoelSRangel) | |
+<div><p>Tabela 3 - Atividades realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p></div>
 
+### Bibliografia
 
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 17 de setembro de 2023.
 
-## Histórico de Versões
+[2] Cronograma VLC. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/planejamento/cronograma.md>>. Acesso em 17 de setembro de 2023.
 
+### Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
 | 1.1    | 18/09/2023 | Adicionando tópicos e estrutura base|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)  |
 | 1.2    | 18/09/2023 | Planejamento Entrega 01|  [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)|
-| 1.3   | 19/09/2023 | Ajustes no documento|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)|
-| 1.4   | 20/09/2023 | Ajustes no documento|   [Miguel Matos](https://github.com/migueldefrias) |  [Doan Filho](https://github.com/FilhoDoan)|
