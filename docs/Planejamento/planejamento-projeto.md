@@ -3,40 +3,6 @@
 Nesta seção, você encontrará informações detalhadas sobre o planejamento do nosso projeto. Isso inclui o heatmap de disponibilidade dos integrantes, o aplicativo selecionado, os termos de uso do aplicativo, as ferramentas do projeto, um cronograma detalhado e o rich picture.
 
 
-## **Aplicativo Selecionado**
-
-Após uma análise criteriosa de vários aplicativos e a revisão dos nossos próprios rich pictures, identificamos as seguintes opções:
-
-- Caixa
-- Caesb
-- OBS
-- BRB Mobilidade
-- Alistamento Militar
-- Moodle
-
-Inicialmente, ficamos inclinados a escolher o aplicativo da Caesb como base para o nosso projeto. No entanto, após uma discussão aprofundada entre todos os membros do grupo, chegamos à conclusão de que a escolha do desafio com o aplicativo BRB Mobilidade nos proporcionaria maior segurança. Isso se deve ao fato do aplicativo estar relacionado com as nossas necessidades como estudantes.
-
-## **BRB Mobilidade**
-
-## **Por que o BRB Mobilidade?**
-
-Nossa decisão de escolher o aplicativo BRB Mobilidade como base para o nosso projeto foi resultado de uma análise entre todos os membros do grupo. Consideramos vários fatores importantes para a escolha.
-
-
-### **Relevância para o Nosso Contexto**
-
-Além da experiência, também consideramos a relevância do BRB Mobilidade em nosso contexto acadêmico. O aplicativo está diretamente relacionado às nossas necessidades e interesses, tornando-o uma escolha natural para o nosso projeto.
-
-### **Potencial de Impacto e Aprendizado**
-
-Acreditamos que nossas contribuições podem beneficiar não apenas nosso grupo, mas também os usuários do BRB Mobilidade. Esta experiência de aprendizado prático enriquecerá nossa compreensão dos desafios da matéria.
-
-### **Escolha mútua**
-
-Nossa decisão foi tomada com o apoio de todos os membros do grupo. Cada membro teve a oportunidade de compartilhar suas opiniões e preocupações, e a escolha final representa nossa determinação em trabalhar juntos para alcançar nossos objetivos.
-
----
-
 ## **Termos de Uso**
 
 # **Termos de Uso - BRB Mobilidade**
