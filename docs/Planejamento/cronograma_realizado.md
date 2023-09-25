@@ -30,8 +30,13 @@ Atividades realizadas para a segunda entrega do projeto, com seus autores, revis
 |--------------|-----------------|-------------------|-------|-----|
 | Gravação da Apresentação |   |   | Todos |Todos|
 | Postagem da Apresentação |  |  |  | |
-| Correções da Entrega anterior |  |  | Todos | Todos |
+| Correções da Entrega 1 |  |  | Todos | Todos |
 <div><p>Tabela 2 - Atividades realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p></div>
+
+
+### Bibliografia
+
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 17 de setembro de 2023.
 
 
 ### Histórico de versão
