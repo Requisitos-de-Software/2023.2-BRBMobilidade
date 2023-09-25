@@ -1,4 +1,4 @@
-# **Cronograma de Planejamento**
+# **Cronograma de Planejamento Detalhado**
 
 ## **Introdução**
 Parte da documentação que anota as pretenções para analisar o projeto BRB Mobilidade sequenciado com a determinação dos responsáveis, revisores e datas. Está documentação será feita durante o semetre de 2023.2 que vai de 25/08/23 a 23/12/23.
