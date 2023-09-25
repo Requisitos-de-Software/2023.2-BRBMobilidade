@@ -1,18 +1,3 @@
-## **Aplicativos analisados**
-
-### Inicialmente, após uma análise criteriosa de vários aplicativos e a revisão dos nossos próprios rich pictures, identificamos as seguintes opções:
-
-| Aplicativo       | O que sou?                                       |
-|------------------|---------------------------------------------------|
-| Caixa            | Aplicativo de uma instituição financeira.                  |
-| Caesb            | Aplicativo da Companhia de Saneamento Ambiental do Distrito Federal. |
-| OBS              | Programa de streaming e gravação.                                        |
-| BRB Mobilidade   | Aplicatico da empresa de mobilidade urbana do Banco de Brasília. |
-| Alistamento Militar |Aplicativo para processo de ingresso nas Forças Armadas.      |
-| Moodle           | Plataforma de gestão de aprendizagem.              |
-
-
-Inicialmente, o grupo ficou inclinado a escolher o aplicativo da Caesb como base para o nosso projeto. No entanto, após uma discussão aprofundada entre todos os membros do grupo, chegamos à conclusão de que a escolha do desafio com o aplicativo BRB Mobilidade nos proporcionaria maior segurança. Isso se deve ao fato do aplicativo estar relacionado com as nossas necessidades como estudantes.
 
 ## **BRB Mobilidade**
 <div align="center">
