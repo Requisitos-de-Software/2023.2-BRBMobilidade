@@ -19,7 +19,7 @@ Atividades realizadas para a primeira entrega do projeto, com seus autores, revi
 | Rich picture | 17/09     | 17/09   |[Caio Braga](http://github.com/caioalvesbraga) | [Doan Filho](https://github.com/FilhoDoan)|
 | Cronograma Planejado | 18/09  | 20/09  |[Doan Filho](https://github.com/FilhoDoan) e  [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)  |
 | Cronograma Realizado | 18/09  | 20/09  |[Doan Filho](https://github.com/FilhoDoan) e  [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)  |
-| Gravação da Apresentação | 19/09  | 20/09  | Todos |Todos|
+| Gravação da Apresentação | 19/09  | 19/09  | Todos |Todos|
 | Postagem da Apresentação | 19/09 | 19/09 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel Matos](https://github.com/migueldefrias) |
 <div><p>Tabela 1 - Atividades realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p></div>
 
