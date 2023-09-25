@@ -2,14 +2,13 @@
 ### Titulo: Planejamento de cronograma 
 ---
 ### **Participantes presentes**
-
-- Caio Felipe Alves Braga
-- Caio Lucas Lelis Borges
-- Doan de Jesus Sales Galvão Filho
-- Gabriel Barbosa Alencar
-- Guilherme Basilio do Espírito Santo
-- Joel Soares Rangel
-- Miguel Matos
+<label><input type="checkbox" checked disabled>Caio Felipe Alves Braga</label><br>
+<label><input type="checkbox" checked disabled>Caio Lucas Lelis Borges</label><br>
+<label><input type="checkbox" checked disabled>Doan de Jesus Sales Galvão Filho</label><br>
+<label><input type="checkbox" checked disabled>Gabriel Barbosa Alencar</label><br>
+<label><input type="checkbox" checked disabled>Guilherme Basilio do Espírito Santo</label><br>
+<label><input type="checkbox" checked disabled>Joel Soares Rangel</label><br>
+<label><input type="checkbox" checked disabled> Miguel Matos</label><br>
 
 ### **Início e Término da Reunião**
 
@@ -46,8 +45,7 @@ Discutimos sobre o projeto e suas tarefas definindo-as aos membros e por fim con
 
 ### **Acesso da reunião**
 
-[Link da reunião](https://unbbr.sharepoint.com/sites/Grupo03requisitos/Documentos%20Compartilhados/General/Recordings/Nova%20reuni%C3%A3o%20do%20canal-20230912_205219-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vd3OOwGRwXA?si=Iw52fEDkrzrjy18Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Histórico de Versões
 
@@ -55,6 +53,7 @@ Discutimos sobre o projeto e suas tarefas definindo-as aos membros e por fim con
 |--------|------------|----------------------|----------------|--------------- |
 | 1.0    | 12/09/2023 | Versão inicial       |   [Doan Filho](https://github.com/FilhoDoan)   |[Caio Lelis](https://github.com/caio-lelis)|
 | 1.1    | 14/09/2023 | Ajustes e adição de tópico       |   [Doan Filho](https://github.com/) | [Caio Lelis](https://github.com/caio-lelis) |
+ 1.2    | 12/09/2023 | Inclusão do vídeo e ajustes|   [Doan Filho](https://github.com/FilhoDoan)   |
 
 ---
 
