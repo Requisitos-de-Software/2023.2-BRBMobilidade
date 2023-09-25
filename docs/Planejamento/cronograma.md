@@ -1,6 +1,7 @@
 # **Cronograma de Planejamento Detalhado**
 
 ## **Introdução**
+
 Parte da documentação que anota as pretenções para analisar o projeto BRB Mobilidade sequenciado com a determinação dos responsáveis, revisores e datas. Está documentação será feita durante o semetre de 2023.2 que vai de 25/08/23 a 23/12/23.
 
 <br>
@@ -63,4 +64,4 @@ Planejamento feito para a primeira entrega do projeto.
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
 | 1.1    | 18/09/2023 | Adicionando tópicos e estrutura base|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)  |
-| 1.2    | 18/09/2023 | Planejamento Entrega 01|  [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)|
+| 1.2    | 18/09/2023 | Planejamento Entrega 01|  [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias), [Doan Filho](https://github.com/FilhoDoan) e [Guilherme Basilio](https://github.com/GuilhermeBES)|
