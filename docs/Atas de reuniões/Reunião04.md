@@ -29,7 +29,7 @@ Reunião de esclarecimento de dúvidas com o monitor do grupo **3**
 |---|---|---|---|
 
 ### **Conclusão da Reunião**
-Nos encontramos com o monitor que nos detalhou os artefatos da segunda entrega
+Nos encontramos com o monitor que nos detalhou os artefatos da segunda entrega. Assim, levantaremos pautas em reuniões posteriores para alinharmos os membros e visar uma boa qualidade da 2ª entrega.
 
 ### **Acesso da reunião**
 
@@ -40,5 +40,5 @@ Nos encontramos com o monitor que nos detalhou os artefatos da segunda entrega
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 25/09/2023 | Versão inicial        | Doan Filho    |                |
+| 1.0    | 25/09/2023 | Versão inicial        | Doan Filho    |  Joel Soares  |
  

@@ -2,7 +2,7 @@
 ### **Titulo**: Reunião de alinhamento 2ª Entrega
 
 ## **Objetivo**
-Reunião de alinhamento para a 2ª entrega
+Primeira reunião de alinhamento para a 2ª entrega, onde discutiremos sobre quais artefatos serão desenvolvidos para a data proposta.
 
 ---
 ### **Participantes presentes**
@@ -33,7 +33,7 @@ Reunião de alinhamento para a 2ª entrega
 |Realizar gravação e upar pro youtube(Não Listado) | | --- | 03/10|
 
 ### **Conclusão da Reunião**
-Vimos sobre como vai ser a dinâmica da segunda entrega e marcamos uma reunião com o monitor 
+Vimos sobre como vai ser a dinâmica da segunda entrega e marcamos uma reunião com o monitor, onde então iríamos definir as atribuições de cada atividade listada acima, assim como entenderemos de forma acertiva o que deverá ser realizado pela equipe. 
 
 ### **Acesso da reunião**
 
@@ -43,5 +43,5 @@ Vimos sobre como vai ser a dinâmica da segunda entrega e marcamos uma reunião 
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 25/09/2023 | Versão inicial        | Doan Filho     |                |
+| 1.0    | 25/09/2023 | Versão inicial        | Doan Filho     | Joel Soares |
  

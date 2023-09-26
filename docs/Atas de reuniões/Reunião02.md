@@ -2,7 +2,7 @@
 ### **Titulo**: Reunião de alinhamento Refatoração
 
 ## **Objetivo**
-Reunião de alinhamento para organização do projeto
+Reunião de alinhamento para organização do projeto, onde discutimos sobre as melhorias propostas pelo professor em sala de Aula.
 
 ---
 ### **Participantes presentes**
@@ -43,7 +43,7 @@ Reunião de alinhamento para organização do projeto
 
 ### **Conclusão da Reunião**
 
-Discutimos sobre artefatos a serem refatorados depois da primeira entrega 
+Discutimos sobre artefatos a serem refatorados depois da primeira entrega que ocorreu no dia 21/09, de acordo com o feedback recebido pela equipe.
 
 ### **Acesso da reunião**
 
@@ -53,5 +53,5 @@ Discutimos sobre artefatos a serem refatorados depois da primeira entrega
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 25/09/2023 | Versão inicial       | Doan Filho     |                |
+| 1.0    | 25/09/2023 | Versão inicial       | Doan Filho     | Joel Soares  |
  

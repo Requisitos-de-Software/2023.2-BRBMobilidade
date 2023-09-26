@@ -54,8 +54,8 @@ Discutimos sobre o projeto e suas tarefas definindo-as aos membros e por fim con
 |--------|------------|----------------------|----------------|--------------- |
 | 1.0    | 12/09/2023 | Versão inicial       | Doan Filho | Caio Lelis |
 | 1.1    | 14/09/2023 | Ajustes e adição de tópico       | Doan Filho | Caio Lelis|
-| 1.2    | 12/09/2023 | Inclusão do vídeo e ajustes|   Doan Filho   |
-| 2.0    | 25/09/2023 | Redefinição de tabelas e Adição de vídeo|  Doan Filho |
+| 1.2    | 25/09/2023 | Inclusão do vídeo e ajustes|   Doan Filho   | Joel Soares | 
+| 2.0    | 25/09/2023 | Redefinição de tabelas e Adição de vídeo|  Doan Filho | Joel Soares |
 
 ---
 
