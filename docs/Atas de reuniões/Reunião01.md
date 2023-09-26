@@ -1,5 +1,5 @@
 # **Reunião 01** 
-### Titulo: Planejamento de cronograma 
+### **Titulo**: Planejamento de cronograma 
 
 ### **Objetivo**
 A reunião foi feita para que houvesse a definição de um cronograma de tarefas distribuidas conforme os membros do grupo.Além de uma breve conversa sobre a definição do aplicativo que será usado no projeto da disciplina. 

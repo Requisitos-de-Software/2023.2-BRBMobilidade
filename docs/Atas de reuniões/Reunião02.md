@@ -1,5 +1,5 @@
 # **Reunião 02** 
-### Titulo: Reunião de alinhamento 2ª Entrega
+### **Titulo**: Reunião de alinhamento Refatoração
 
 ## **Objetivo**
 Reunião de alinhamento para organização do projeto
