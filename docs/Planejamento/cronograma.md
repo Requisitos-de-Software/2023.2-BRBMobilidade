@@ -74,6 +74,19 @@ A tabela 4 mostra as tarefas do planejamento feito para a terceira entrega do pr
 | Correções da Entrega 2 | 05/10 | 10/10 | Todos | Todos |
 <div><p>Tabela 4 - Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p></div>
 
+### Entrega 4
+A tabela 5 mostra as tarefas do planejamento feito para a quarta entrega do projeto.
+
+| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
+|--------------|-----------------|-------------------|-------|-----|
+| Histórias de usuário  | 27/10 | 03/11 |  |  |
+| NFR Framework | 27/10 | 03/11  |  |  |
+| Backlog | 27/10 | 03/11 |  |  |
+| Gravação da Apresentação | 04/11 | 04/11 | Todos | Todos |
+| Postagem da Apresentação| 04/11 | 04/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Correções da Entrega 3 | 26/10 | 30/10 | Todos | Todos |
+<div><p>Tabela 5 - Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p></div>
+
 
 ### Bibliografia
 
