@@ -25,8 +25,7 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 <br>
 
 ### Entrega 1
-
-Planejamento feito para a primeira entrega do projeto.
+A tabela 2 mostra as tarefas do planejamento feito para a primeira entrega do projeto.
 
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
@@ -37,30 +36,44 @@ Planejamento feito para a primeira entrega do projeto.
 | Termos de Uso | 05/09    |  16/09    | [Guilherme Basilio](https://github.com/GuilhermeBES), [Joel Soares](https://github.com/JoelSRangel) |[Guilherme Basilio](https://github.com/GuilhermeBES) |
 | Atas das reuniões | 05/09    | 16/09 |[Doan Filho](https://github.com/FilhoDoan)|[Caio Lelis](http://github.com/caio-lelis)|
 | Rich picture | 05/09     | 17/09   | [Caio Braga](http://github.com/caioalvesbraga) | [Doan Filho](https://github.com/FilhoDoan)|
-| Cronograma Planejado | 05/09  |18/09  | [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
-| Cronograma Realizaado | 05/09  |18/09  | [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
+| Cronograma Planejado | 05/09  |18/09  | [Doan Filho](https://github.com/FilhoDoan) e [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
+| Cronograma Realizaado | 05/09  |18/09  | [Doan Filho](https://github.com/FilhoDoan) e [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
 | Gravação da Apresentação | 18/09  |19/09  | Todos |Todos|
-| Postagem da Apresentação | 19/09| 19/09 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel Matos](https://github.com/migueldefrias)|
-<div><p>Tabela 2 - Atividades realizadas na Entrega 1. (Fonte: Miguel de Frias e Doan Filho, 2023).</p></div>
+| Postagem da Apresentação | 19/09| 19/09 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
+<div><p>Tabela 2 - Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias e Doan Filho, 2023).</p></div>
 
 ### Entrega 2 
-
-Planejamento feito para a segunda entrega do projeto.
+A tabela 3 mostra as tarefas do planejamento feito para a segunda entrega do projeto.
 
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
 | Personas | 27/09 | 02/10 | [Joel Soares](https://github.com/JoelSRangel), [Gabriel Barbosa](https://github.com/gabrie1barbosa) | [Caio Lelis](http://github.com/caio-lelis) |
-| Brainstorming | 27/09 | 02/10 | [Miguel Matos](https://github.com/migueldefrias), [Caio Braga](http://github.com/caioalvesbraga) | [Joel Soares](https://github.com/JoelSRangel) |
-| Questionário | 27/09 | 02/10 | [Caio Braga](http://github.com/caioalvesbraga), [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias) |
-| Instropecção | 27/09 | 03/10 | [Miguel Matos](https://github.com/migueldefrias), [Guilherme Basilio](https://github.com/GuilhermeBES) | [Doan Filho](https://github.com/FilhoDoan) |
+| Brainstorming | 27/09 | 02/10 | [Miguel de Frias](https://github.com/migueldefrias), [Caio Braga](http://github.com/caioalvesbraga) | [Joel Soares](https://github.com/JoelSRangel) |
+| Questionário | 27/09 | 02/10 | [Caio Braga](http://github.com/caioalvesbraga), [Doan Filho](https://github.com/FilhoDoan) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Instropecção | 27/09 | 03/10 | [Miguel de Frias](https://github.com/migueldefrias), [Guilherme Basilio](https://github.com/GuilhermeBES) | [Doan Filho](https://github.com/FilhoDoan) |
 | Observação | 27/09 | 02/10 | [Gabriel Barbosa](https://github.com/gabrie1barbosa) | [Guilherme Basilio](https://github.com/GuilhermeBES) |
-| In or Out | 27/09 | 02/10 | [Miguel Matos](https://github.com/migueldefrias), [Caio Braga](http://github.com/caioalvesbraga) | [Caio Lelis](http://github.com/caio-lelis) |
+| In or Out | 27/09 | 02/10 | [Miguel de Frias](https://github.com/migueldefrias), [Caio Braga](http://github.com/caioalvesbraga) | [Caio Lelis](http://github.com/caio-lelis) |
 | Three Level Scale | 27/09 | 02/10 | [Caio Lelis](http://github.com/caio-lelis), [Doan Filho](https://github.com/FilhoDoan) | [Gabriel Barbosa](https://github.com/gabrie1barbosa) |
 | MoSCoW | 27/09 | 02/10 | [Joel Soares](https://github.com/JoelSRangel), [Caio Lelis](http://github.com/caio-lelis) | [Doan Filho](https://github.com/FilhoDoan) |
 | Gravação da Apresentação | 03/10 | 03/10 | Todos | Todos |
-| Postagem da Apresentação| 03/10 | 03/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel Matos](https://github.com/migueldefrias) |
-| Correção da Entrega 1 | 22/09 | 02/10 | Todos | Todos |
-<div><p>Tabela 3 - Atividades realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p></div>
+| Postagem da Apresentação| 03/10 | 03/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Correções da Entrega 1 | 22/09 | 02/10 | Todos | Todos |
+<div><p>Tabela 3 - Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p></div>
+
+### Entrega 3
+A tabela 4 mostra as tarefas do planejamento feito para a terceira entrega do projeto.
+
+| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
+|--------------|-----------------|-------------------|-------|-----|
+| Use Cases  | 06/10 | 21/10 |  |  |
+| Cenários | 06/10 | 21/10  |  |  |
+| Léxico | 06/10 | 21/10 |  |  |
+| Especificação suplementar | 06/10 | 21/10 | | |
+| Gravação da Apresentação | 23/10 | 23/10 | Todos | Todos |
+| Postagem da Apresentação| 23/10 | 23/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Correções da Entrega 2 | 05/10 | 10/10 | Todos | Todos |
+<div><p>Tabela 4 - Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p></div>
+
 
 ### Bibliografia
 
@@ -72,6 +85,6 @@ Planejamento feito para a segunda entrega do projeto.
 
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.0 | 18/09/2023 | Adicionando tópicos e estrutura base|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel Matos](https://github.com/migueldefrias)  |
-| 1.1 | 18/09/2023 | Planejamento Entrega 01|  [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias), [Doan Filho](https://github.com/FilhoDoan) e [Guilherme Basilio](https://github.com/GuilhermeBES)|
-| 2.0 | 25/09/2023 | Adicionando Entrega 02| [Miguel Matos](https://github.com/migueldefrias)  | [Doan Filho](https://github.com/FilhoDoan), [Guilherme Basilio](https://github.com/GuilhermeBES) |
+| 1.0 | 18/09/2023 | Adicionando tópicos e estrutura base|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel de Frias](https://github.com/migueldefrias)  |
+| 1.1 | 18/09/2023 | Planejamento Entrega 01|  [Doan Filho](https://github.com/FilhoDoan) e [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias), [Doan Filho](https://github.com/FilhoDoan) e [Guilherme Basilio](https://github.com/GuilhermeBES)|
+| 1.2 | 25/09/2023 | Atualização do Cronograma | [Miguel de Frias](https://github.com/migueldefrias)  | [Doan Filho](https://github.com/FilhoDoan), [Guilherme Basilio](https://github.com/GuilhermeBES) |
