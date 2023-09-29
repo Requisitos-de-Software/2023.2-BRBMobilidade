@@ -18,7 +18,7 @@ Reunião de esclarecimento de dúvidas com o monitor do grupo **3**
 
 | Data       | Inicio e Témino | Local            |
 |------------|-----------------|------------------|
-| 22/09/2023 | 09:15 às 09:30  | Microsoft Teamns |
+| 22/09/2023 | 09:15 às 09:30  | Microsoft Teams |
 
 ### **Tarefas atribuidas** 
 

@@ -39,5 +39,5 @@ Vimos como está o andamento do grupo em relação ao projeto, revisando e detal
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 28/09/2023 | Versão inicial       | Doan Filho     |                |
+| 1.0    | 28/09/2023 | Versão inicial       | Doan Filho     | Joel Soares    |
  
