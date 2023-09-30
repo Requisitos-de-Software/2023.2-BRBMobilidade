@@ -1,16 +1,20 @@
-# **Cronograma de Planejamento Detalhado**
+<div class="body">
 
-## **Introdução**
+# Cronograma de Planejamento detalhado
+
+## Introdução
+
+<p align="justify">
 
 Este documento é referente ao cronograma que será seguido pela equipe no semestre 2023.2 na disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, com a finalidade de estudar o aplicativo BRBMobilidade. Este documento possui um objetivo inicial de organizar todas as tarefas que deverão ser realizadas no decorrer do semestre e também destacar os principais tópicos a serem abordados, as tarefas necessárias e a devida alocação de tempo para cada entrega do projeto.
 
-<br>
+</p>
 
 ### Cronograma Geral
 A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 
 | Etapa | Descrição | Atividades | Entrega | Apresentação |
-|:-----:|--------|-----------|---------|--------------|
+|:-----:|--------|-----------|:------------:|:---------:|
 |   1   | Planejamento | Equipe, escolha do app, rich picture e planejamento do projeto| 20/09 | 21/09 |
 |   2   | Elicitação de requisitos | Técnicas e priorização | 04/10| 05/10 |
 |   3   | Modelagem de requisitos | Cenário, léxicos, use case e especificação suplementar | 25/10 | 26/10 |
@@ -20,15 +24,16 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 |   5.2 | Análise de requisitos | Verificação e validação 2| 29/11 | 30/11|
 |   7   | Entrega do Projeto | Entrega final e apresentação do projeto| 06/12 |  |
 
-<div><p>Tabela 1 - Cronograma Geral. (Fonte: Miguel de Frias, 2023).</p></div>
+<div style="text-align: center">
+    <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
-<br>
 
 ### Entrega 1
 A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 
-| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
-|--------------|-----------------|-------------------|-------|-----|
+| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
+|--------------|:-----------:|:------------:|------------|-------|
 | HeatMap | 05/09     | 11/09             | [Caio Lelis](http://github.com/caio-lelis)   |[Caio Braga](http://github.com/caioalvesbraga)
 | Escolher APP | 05/09     | 14/09             | Todos   |Todos|
 | Gitpage | 05/09 | 19/09 | | |
@@ -40,13 +45,16 @@ A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 | Cronograma Realizaado | 05/09  |18/09  | [Doan Filho](https://github.com/FilhoDoan) e [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
 | Gravação da Apresentação | 18/09  |19/09  | Todos |Todos|
 | Postagem da Apresentação | 19/09| 19/09 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
-<div><p>Tabela 2 - Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias e Doan Filho, 2023).</p></div>
+
+<div style="text-align: center">
+    <p> <b>Tabela 2</b>: Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 ### Entrega 2 
 A tabela 3 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 
-| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
-|--------------|-----------------|-------------------|-------|-----|
+| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
+|--------------|:-----------:|:------------:|------------|-------|
 | Personas | 27/09 | 02/10 | [Joel Soares](https://github.com/JoelSRangel), [Gabriel Barbosa](https://github.com/gabrie1barbosa) | [Caio Lelis](http://github.com/caio-lelis) |
 | Brainstorming | 27/09 | 02/10 | [Miguel de Frias](https://github.com/migueldefrias), [Caio Braga](http://github.com/caioalvesbraga) | [Joel Soares](https://github.com/JoelSRangel) |
 | Questionário | 27/09 | 02/10 | [Caio Braga](http://github.com/caioalvesbraga), [Doan Filho](https://github.com/FilhoDoan) | [Miguel de Frias](https://github.com/migueldefrias) |
@@ -58,13 +66,16 @@ A tabela 3 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 | Gravação da Apresentação | 03/10 | 03/10 | Todos | Todos |
 | Postagem da Apresentação| 03/10 | 03/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
 | Correções da Entrega 1 | 22/09 | 02/10 | Todos | Todos |
-<div><p>Tabela 3 - Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p></div>
+
+<div style="text-align: center">
+    <p> <b>Tabela 3</b>: Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 ### Entrega 3
 A tabela 4 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
 
-| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
-|--------------|-----------------|-------------------|-------|-----|
+| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
+|--------------|:-----------:|:------------:|------------|-------|
 | Use Cases  | 06/10 | 21/10 |  |  |
 | Cenários | 06/10 | 21/10  |  |  |
 | Léxico | 06/10 | 21/10 |  |  |
@@ -72,67 +83,85 @@ A tabela 4 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
 | Gravação da Apresentação | 23/10 | 23/10 | Todos | Todos |
 | Postagem da Apresentação| 23/10 | 23/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
 | Correções da Entrega 2 | 05/10 | 10/10 | Todos | Todos |
-<div><p>Tabela 4 - Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p></div>
+
+<div style="text-align: center">
+    <p> <b>Tabela 4</b>: Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 ### Entrega 4
 A tabela 5 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 
-| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
-|--------------|-----------------|-------------------|-------|-----|
+| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
+|--------------|:-----------:|:------------:|------------|-------|
 | Histórias de usuário  | 27/10 | 03/11 |  |  |
 | NFR Framework | 27/10 | 03/11  |  |  |
 | Backlog | 27/10 | 03/11 |  |  |
 | Gravação da Apresentação | 04/11 | 04/11 | Todos | Todos |
 | Postagem da Apresentação| 04/11 | 04/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
 | Correções da Entrega 3 | 26/10 | 30/10 | Todos | Todos |
-<div><p>Tabela 5 - Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p></div>
+
+<div style="text-align: center">
+    <p> <b>Tabela 5</b>: Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 ### Entrega 5.1
 A tabela 6 mostra as tarefas do planejamento feito para a entrega 5.1 do projeto.
 
-| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
-|--------------|-----------------|-------------------|-------|-----|
+| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
+|--------------|:-----------:|:------------:|------------|-------|
 | Verificação de requisitos 1	| 07/11 | 03/11 |  |  |
 | Validação de requisitos 1 | 07/11 | 03/11  |  |  |
 | Gravação da Apresentação | 12/11 | 12/11 | Todos | Todos |
 | Postagem da Apresentação| 12/11 | 12/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
 | Correções da Entrega 4 | 07/11 | 10/11 | Todos | Todos |
-<div><p>Tabela 6 - Tarefas realizadas na Entrega 5.1. (Fonte: Miguel de Frias, 2023).</p></div>
+
+<div style="text-align: center">
+    <p> <b>Tabela 6</b>: Tarefas realizadas na Entrega 5.1. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 ### Entrega 6
 A tabela 7 mostra as tarefas do planejamento feito para a entrega 6 do projeto.
 
-| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
-|--------------|-----------------|-------------------|-------|-----|
+| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
+|--------------|:-----------:|:------------:|------------|-------|
 | Forward From  | 14/11 | 19/11 |  |  |
 | Backward From | 14/11 | 19/11  |  |  |
 | Gravação da Apresentação | 19/11 | 19/11 | Todos | Todos |
 | Postagem da Apresentação| 19/11 | 19/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
 | Correções da Entrega 5.1 | 14/11 | 17/11 | Todos | Todos |
-<div><p>Tabela 7 - Tarefas realizadas na Entrega 6. (Fonte: Miguel de Frias, 2023).</p></div>
+
+<div style="text-align: center">
+    <p> <b>Tabela 7</b>: Tarefas realizadas na Entrega 6. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 ### Entrega 5.2
 A tabela 8 mostra as tarefas do planejamento feito para a entrega 5.2 do projeto.
 
-| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
-|--------------|-----------------|-------------------|-------|-----|
+| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
+|--------------|:-----------:|:------------:|------------|-------|
 | Verificação de requisitos 2 | 21/11 | 28/11 |  |  |
 | Validação de requisitos 2 | 21/11 | 28/11  |  |  |
 | Gravação da Apresentação | 28/11 | 28/11 | Todos | Todos |
 | Postagem da Apresentação| 28/11 | 28/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
 | Correções da Entrega 6 | 21/11 | 24/11 | Todos | Todos |
-<div><p>Tabela 8 - Tarefas realizadas na Entrega 5.2. (Fonte: Miguel de Frias, 2023).</p></div>
+
+<div style="text-align: center">
+    <p> <b>Tabela 8</b>: Tarefas realizadas na Entrega 5.2. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 ### Entrega 7/Final
 A tabela 9 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 
-| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
-|--------------|-----------------|-------------------|-------|-----|
-| Desenvolvimento do projeto final (corrigir e completar artefatos) | 30/11 | 04/12 | Todos | Todos |
+| Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
+|--------------|:-----------:|:------------:|------------|-------|
+| Desenvolvimento do projeto final | 30/11 | 04/12 | Todos | Todos |
 | Gravação da Apresentação | 04/12 | 04/12 | Todos | Todos |
 | Postagem da Apresentação| 04/12 | 04/12 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
 | Correções da Entrega 5.2 | 30/11 | 02/12 | Todos | Todos |
-<div><p>Tabela 9 - Tarefas realizadas na Entrega 7. (Fonte: Miguel de Frias, 2023).</p></div>
+
+<div style="text-align: center">
+    <p> <b>Tabela 9</b>: Tarefas realizadas na Entrega 7. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 ### Bibliografia
 
@@ -142,8 +171,10 @@ A tabela 9 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 
 ### Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor | Revisor |
-|--------|------------|----------------------|-----------------------------------|--------------------------------------|
+| Versão | Data       |       Descrição      | Autor | Revisor |
+|:------:|:----------:|----------------------|-------|---------|
 | 1.0 | 18/09/2023 | Adicionando tópicos e estrutura base|  [Doan Filho](https://github.com/FilhoDoan) | [Miguel de Frias](https://github.com/migueldefrias)  |
 | 1.1 | 18/09/2023 | Planejamento Entrega 01|  [Doan Filho](https://github.com/FilhoDoan) e [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias), [Doan Filho](https://github.com/FilhoDoan) e [Guilherme Basilio](https://github.com/GuilhermeBES)|
 | 1.2 | 25/09/2023 | Atualização do Cronograma | [Miguel de Frias](https://github.com/migueldefrias)  | [Doan Filho](https://github.com/FilhoDoan), [Guilherme Basilio](https://github.com/GuilhermeBES) |
+
+</div>
