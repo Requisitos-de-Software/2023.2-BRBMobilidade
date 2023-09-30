@@ -6,7 +6,7 @@
 
 <p align="justify">
   
-Este documento é referente ao cronograma das tarefas feitas pela equipe no semestre 2023.2 na disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, com a finalidade de estudar o aplicativo BRBMobilidade. O cronograma possui o objetivo de mostrar detalhadamente as reais datas e prazos das tarefas feitas pela equipe durante a realização do projeto.
+&emsp;&emsp;Este documento é referente ao cronograma das tarefas feitas pela equipe no semestre 2023.2 na disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, com a finalidade de estudar o aplicativo BRBMobilidade. O cronograma possui o objetivo de mostrar detalhadamente as reais datas e prazos das tarefas feitas pela equipe durante a realização do projeto.
 
 </p>
 
