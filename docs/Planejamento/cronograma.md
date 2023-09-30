@@ -92,12 +92,24 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 5.1 do projeto
 
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
-| Verificação de requisitos 1	  | 07/11 | 03/11 |  |  |
+| Verificação de requisitos 1	| 07/11 | 03/11 |  |  |
 | Validação de requisitos 1 | 07/11 | 03/11  |  |  |
 | Gravação da Apresentação | 12/11 | 12/11 | Todos | Todos |
 | Postagem da Apresentação| 12/11 | 12/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
-| Correções da Entrega 4 | 07/10 | 10/11 | Todos | Todos |
+| Correções da Entrega 4 | 07/11 | 10/11 | Todos | Todos |
 <div><p>Tabela 6 - Tarefas realizadas na Entrega 5.1. (Fonte: Miguel de Frias, 2023).</p></div>
+
+### Entrega 6
+A tabela 7 mostra as tarefas do planejamento feito para a entrega 6 do projeto.
+
+| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
+|--------------|-----------------|-------------------|-------|-----|
+| Forward From  | 14/11 | 19/11 |  |  |
+| Backward From | 14/11 | 19/11  |  |  |
+| Gravação da Apresentação | 19/11 | 19/11 | Todos | Todos |
+| Postagem da Apresentação| 19/11 | 19/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Correções da Entrega 5.1 | 14/11 | 17/11 | Todos | Todos |
+<div><p>Tabela 7 - Tarefas realizadas na Entrega 6. (Fonte: Miguel de Frias, 2023).</p></div>
 
 
 ### Bibliografia
