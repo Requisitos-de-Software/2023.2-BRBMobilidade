@@ -17,10 +17,10 @@ A tabela 1 mostra as atividades realizadas para a entrega 1 do projeto.
 | Termos de Uso | 18/09  |  19/09    | [Guilherme Basilio](https://github.com/GuilhermeBES), [Joel Soares](https://github.com/JoelSRangel) |[Guilherme Basilio](https://github.com/GuilhermeBES) |
 | Atas das reuniões | 15/09    | 19/09 |[Doan Filho](https://github.com/FilhoDoan)|[Caio Lelis](http://github.com/caio-lelis)|
 | Rich picture | 17/09     | 17/09   |[Caio Braga](http://github.com/caioalvesbraga) | [Doan Filho](https://github.com/FilhoDoan)|
-| Cronograma Planejado | 18/09  | 20/09  |[Doan Filho](https://github.com/FilhoDoan) e  [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)  |
-| Cronograma Realizado | 18/09  | 20/09  |[Doan Filho](https://github.com/FilhoDoan) e  [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)  |
+| Cronograma Planejado | 18/09  | 20/09  |[Doan Filho](https://github.com/FilhoDoan) e  [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)  |
+| Cronograma Realizado | 18/09  | 20/09  |[Doan Filho](https://github.com/FilhoDoan) e  [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)  |
 | Gravação da Apresentação | 19/09  | 19/09  | Todos |Todos|
-| Postagem da Apresentação | 19/09 | 19/09 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel Matos](https://github.com/migueldefrias) |
+| Postagem da Apresentação | 19/09 | 19/09 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
 <div><p>Tabela 1 - Atividades realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p></div>
 
 ### **Segunda Entrega**
@@ -51,6 +51,6 @@ A tabela 2 mostra as atividades realizadas para a entrega 2 do projeto.
 
 | Versão | Data de Execução| Data de Revisão | Descrição            | Autor | Revisor |
 |:-----:|-----------|------------|--------------------------------------|---------------------------------------------------|---------------------------------------------|
-| 1.0   | 18/09/2023 | 18/09/2023 | Adicionando tópicos e estrutura base |  [Miguel Matos](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
-| 1.1   | 18/09/2023 | 20/09/2023 | Adicionando Entrega 01 |  [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)|
-| 2.0   | 30/09/2023 | 04/10/2023 | Adicionando Entrega 02 |  [Miguel Matos](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
+| 1.0   | 18/09/2023 | 18/09/2023 | Adicionando tópicos e estrutura base |  [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
+| 1.1   | 18/09/2023 | 20/09/2023 | Adicionando Entrega 01 |  [Doan Filho](https://github.com/FilhoDoan) e [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)|
+| 2.0   | 30/09/2023 | 04/10/2023 | Adicionando Entrega 02 |  [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
