@@ -123,6 +123,17 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 5.2 do projeto
 | Correções da Entrega 6 | 21/11 | 24/11 | Todos | Todos |
 <div><p>Tabela 8 - Tarefas realizadas na Entrega 5.2. (Fonte: Miguel de Frias, 2023).</p></div>
 
+### Entrega 7/Final
+A tabela 9 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
+
+| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
+|--------------|-----------------|-------------------|-------|-----|
+| Desenvolvimento do projeto final (corrigir e completar artefatos) | 30/11 | 04/12 | Todos | Todos |
+| Gravação da Apresentação | 04/12 | 04/12 | Todos | Todos |
+| Postagem da Apresentação| 04/12 | 04/12 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Correções da Entrega 5.2 | 30/11 | 02/12 | Todos | Todos |
+<div><p>Tabela 9 - Tarefas realizadas na Entrega 7. (Fonte: Miguel de Frias, 2023).</p></div>
+
 ### Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 17 de setembro de 2023.
