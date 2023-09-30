@@ -1,12 +1,12 @@
 # **Cronograma Realizado**
 
 ## **Introdução**
-Parte da documentação que tem como objetivo marcar e mostrar as reais datas e prazos utilizados para realização das atividades requeridas pelo trabalho, sequenciado com a determinação dos responsáveis, revisores, datas de entrega e revisão. Esta documentação será feita durante o semetre de 2023.2 que vai de 25/08/23 a 23/12/23.
+Este documento é referente ao cronograma das tarefas feitas pela equipe no semestre 2023.2 na disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, com a finalidade de estudar o aplicativo BRBMobilidade. O cronograma possui o objetivo de mostrar detalhadamente as reais datas e prazos das tarefas feitas pela equipe durante a realização do projeto.
 
 
 
 ### **Primeira Entrega**
-Atividades realizadas para a primeira entrega do projeto, com seus autores, revisores e datas. 
+A tabela 1 mostra as atividades realizadas para a entrega 1 do projeto.
 
 | Tarefa       | Entrega |  Revisão  | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
@@ -24,13 +24,21 @@ Atividades realizadas para a primeira entrega do projeto, com seus autores, revi
 <div><p>Tabela 1 - Atividades realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p></div>
 
 ### **Segunda Entrega**
-Atividades realizadas para a segunda entrega do projeto, com seus autores, revisores e datas. 
+A tabela 2 mostra as atividades realizadas para a entrega 2 do projeto.
 
 | Tarefa       | Entrega |  Revisão  | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
+| Personas |  |  | [Joel Soares](https://github.com/JoelSRangel), [Gabriel Barbosa](https://github.com/gabrie1barbosa) | [Caio Lelis](http://github.com/caio-lelis) |
+| Brainstorming |  |  | [Miguel de Frias](https://github.com/migueldefrias), [Caio Braga](http://github.com/caioalvesbraga) | [Joel Soares](https://github.com/JoelSRangel) |
+| Questionário |  |  | [Caio Braga](http://github.com/caioalvesbraga), [Doan Filho](https://github.com/FilhoDoan) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Instropecção |  |  | [Miguel de Frias](https://github.com/migueldefrias), [Guilherme Basilio](https://github.com/GuilhermeBES) | [Doan Filho](https://github.com/FilhoDoan) |
+| Observação |  |  | [Gabriel Barbosa](https://github.com/gabrie1barbosa) | [Guilherme Basilio](https://github.com/GuilhermeBES) |
+| In or Out |  |  | [Miguel de Frias](https://github.com/migueldefrias), [Caio Braga](http://github.com/caioalvesbraga) | [Caio Lelis](http://github.com/caio-lelis) |
+| Three Level Scale |  |  | [Caio Lelis](http://github.com/caio-lelis), [Doan Filho](https://github.com/FilhoDoan) | [Gabriel Barbosa](https://github.com/gabrie1barbosa) |
+| MoSCoW |  |  | [Joel Soares](https://github.com/JoelSRangel), [Caio Lelis](http://github.com/caio-lelis) | [Doan Filho](https://github.com/FilhoDoan) |
 | Gravação da Apresentação |   |   | Todos |Todos|
-| Postagem da Apresentação |  |  |  | |
-| Correções da Entrega 1 |  |  | Todos | Todos |
+| Postagem da Apresentação |  |  | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Correções da Entrega 1 | 30/09 | 31/09 | Todos | Todos |
 <div><p>Tabela 2 - Atividades realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p></div>
 
 
@@ -42,6 +50,7 @@ Atividades realizadas para a segunda entrega do projeto, com seus autores, revis
 ### Histórico de versão
 
 | Versão | Data de Execução| Data de Revisão | Descrição            | Autor | Revisor |
-|--------|-----------|------------|--------------------------------------|---------------------------------------------------|---------------------------------------------|
-| 1.0   | 18/09/2023 | 18/09/2023 | Adicionando tópicos e estrutura base |  [Miguel Matos](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan)  |
-| 1.1   | 18/09/2023 | 20/09/2023 | Planejamento Entrega 01 |  [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)|
+|:-----:|-----------|------------|--------------------------------------|---------------------------------------------------|---------------------------------------------|
+| 1.0   | 18/09/2023 | 18/09/2023 | Adicionando tópicos e estrutura base |  [Miguel Matos](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
+| 1.1   | 18/09/2023 | 20/09/2023 | Adicionando Entrega 01 |  [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias) | [Miguel Matos](https://github.com/migueldefrias) e [Doan Filho](https://github.com/FilhoDoan)|
+| 2.0   | 30/09/2023 | 04/10/2023 | Adicionando Entrega 02 |  [Miguel Matos](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
