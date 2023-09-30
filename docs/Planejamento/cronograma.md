@@ -15,9 +15,9 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 |   2   | Elicitação de requisitos | Técnicas e priorização | 04/10| 05/10 |
 |   3   | Modelagem de requisitos | Cenário, léxicos, use case e especificação suplementar | 25/10 | 26/10 |
 |   4   | Modelagem de requisitos Ágil | Histórias de usuários, backlogs e NFR framework | 06/11 | 07/11|
-|   5.1 | Análise de requisitos | Verificação e validação | 13/11 | 14/11 |
-|   5.2 | Análise de requisitos | Verificação e validação | 29/11 | 30/11|
+|   5.1 | Análise de requisitos | Verificação e validação 1 | 13/11 | 14/11 |
 |   6   | Pós-rastreabilidade | Gerência de desenvolvimento de software | 20/11 | 21/11 |
+|   5.2 | Análise de requisitos | Verificação e validação 2| 29/11 | 30/11|
 |   7   | Entrega do Projeto | Entrega final e apresentação do projeto| 06/12 |  |
 
 <div><p>Tabela 1 - Cronograma Geral. (Fonte: Miguel de Frias, 2023).</p></div>
@@ -25,7 +25,7 @@ A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 <br>
 
 ### Entrega 1
-A tabela 2 mostra as tarefas do planejamento feito para a primeira entrega do projeto.
+A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
@@ -43,7 +43,7 @@ A tabela 2 mostra as tarefas do planejamento feito para a primeira entrega do pr
 <div><p>Tabela 2 - Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias e Doan Filho, 2023).</p></div>
 
 ### Entrega 2 
-A tabela 3 mostra as tarefas do planejamento feito para a segunda entrega do projeto.
+A tabela 3 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
@@ -61,7 +61,7 @@ A tabela 3 mostra as tarefas do planejamento feito para a segunda entrega do pro
 <div><p>Tabela 3 - Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p></div>
 
 ### Entrega 3
-A tabela 4 mostra as tarefas do planejamento feito para a terceira entrega do projeto.
+A tabela 4 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
 
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
@@ -75,7 +75,7 @@ A tabela 4 mostra as tarefas do planejamento feito para a terceira entrega do pr
 <div><p>Tabela 4 - Tarefas realizadas na Entrega 3. (Fonte: Miguel de Frias, 2023).</p></div>
 
 ### Entrega 4
-A tabela 5 mostra as tarefas do planejamento feito para a quarta entrega do projeto.
+A tabela 5 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 
 | Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
 |--------------|-----------------|-------------------|-------|-----|
@@ -86,6 +86,18 @@ A tabela 5 mostra as tarefas do planejamento feito para a quarta entrega do proj
 | Postagem da Apresentação| 04/11 | 04/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
 | Correções da Entrega 3 | 26/10 | 30/10 | Todos | Todos |
 <div><p>Tabela 5 - Tarefas realizadas na Entrega 4. (Fonte: Miguel de Frias, 2023).</p></div>
+
+### Entrega 5.1
+A tabela 6 mostra as tarefas do planejamento feito para a entrega 5.1 do projeto.
+
+| Tarefa       | Data Inicio |   Previsto        | Atribuição |Revisor|
+|--------------|-----------------|-------------------|-------|-----|
+| Verificação de requisitos 1	  | 07/11 | 03/11 |  |  |
+| Validação de requisitos 1 | 07/11 | 03/11  |  |  |
+| Gravação da Apresentação | 12/11 | 12/11 | Todos | Todos |
+| Postagem da Apresentação| 12/11 | 12/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Correções da Entrega 4 | 07/10 | 10/11 | Todos | Todos |
+<div><p>Tabela 6 - Tarefas realizadas na Entrega 5.1. (Fonte: Miguel de Frias, 2023).</p></div>
 
 
 ### Bibliografia
