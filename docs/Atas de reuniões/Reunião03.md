@@ -27,6 +27,7 @@ Primeira reunião de alinhamento para a 2ª entrega, onde discutiremos sobre qua
 
 | Tarefa | Atribuição | Revisor | Início  -  Fim|
 |--------|------------|---------|----------------|
+|Especificação do usuário|Joel / Gabriel| Caio Lelis |27/09 - 30/10|   
 |Brainstorming| Miguel / Caio Braga |Joel Soares | 27/09 - 30/10|
 |Questionário  |Doan Filho / Caio Braga | Miguel Matos| 27/09  - 30/10|   
 |Instrospecção  | Miguel Matos / Guilherme Basilio | Doan Filho | 27/09 - 30/10|
