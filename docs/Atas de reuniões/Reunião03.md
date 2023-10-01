@@ -27,10 +27,15 @@ Primeira reunião de alinhamento para a 2ª entrega, onde discutiremos sobre qua
 
 | Tarefa | Atribuição | Revisor | Início  -  Fim|
 |--------|------------|---------|----------------|
-|Especificação do usuário|  | ---| -03/10|
-|Cronograma (Elicitação)  |  | --- | -03/10|   
-|Cronograma (Priorização)  |  | --- |-03/10|
-|Realizar gravação e upar pro youtube(Não Listado) | | --- | 03/10|
+|Brainstorming| Miguel / Caio Braga |Joel Soares | 27/09 - 30/10|
+|Questionário  |Doan Filho / Caio Braga | Miguel Matos| 27/09  - 30/10|   
+|Instrospecção  | Miguel Matos / Guilherme Basilio | Doan Filho | 27/09 - 30/10|
+|Observação |Gabriel / Barbosa |Gabriel Barbosa | 27/09 - 30/10|
+|In our Out|Miguel / Caio Braga | Caio Lelis | 27/09 - 02/10|
+|Three Level Scale| Caio Lelis / Doan Filho  | Gabriel Barbosa |27/09 -  02/10|
+|MoSCoW|Joel Soares / Caio Lelis| Doan Filho |27/09 -  02/10|
+
+
 
 ### **Conclusão da Reunião**
 Vimos sobre como vai ser a dinâmica da segunda entrega e marcamos uma reunião com o monitor, onde então iríamos definir as atribuições de cada atividade listada acima, assim como entenderemos de forma acertiva o que deverá ser realizado pela equipe. 
@@ -42,6 +47,6 @@ Vimos sobre como vai ser a dinâmica da segunda entrega e marcamos uma reunião 
 #### Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 25/09/2023 | Versão inicial        | Doan Filho     | Joel Soares |
+|--------|------------|----------------------|----------------|----------------|
+| 1.0    | 25/09/2023 | Versão inicial        | Doan Filho    | Joel Soares    |
  

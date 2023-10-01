@@ -18,7 +18,7 @@ Reunião de esclarecimento de dúvidas com o monitor do grupo **3**
 
 | Data       | Inicio e Témino | Local            |
 |------------|-----------------|------------------|
-| 22/09/2023 | 09:15 às 09:30  | Microsoft Teamns |
+| 22/09/2023 | 09:15 às 09:30  | Microsoft Teams |
 
 ### **Tarefas atribuidas** 
 
@@ -40,5 +40,6 @@ Nos encontramos com o monitor que nos detalhou os artefatos da segunda entrega. 
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 25/09/2023 | Versão inicial        | Doan Filho    |  Joel Soares  |
+| 1.0    | 25/09/2023 | Versão inicial       | Doan Filho    |  Joel Soares    |
+| 1.1    | 28/09/2023 | Revisado             | Doan Filho    |  Joel Soares    |
  
