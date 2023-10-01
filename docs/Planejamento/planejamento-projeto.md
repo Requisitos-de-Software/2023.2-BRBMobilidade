@@ -1,10 +1,6 @@
-# Planejamento do Projeto
+# **Termos de Uso**
 
 Nesta seção, você encontrará informações detalhadas sobre o planejamento do nosso projeto. Isso inclui o heatmap de disponibilidade dos integrantes, o aplicativo selecionado, os termos de uso do aplicativo, as ferramentas do projeto, um cronograma detalhado e o rich picture.
-
-
-## **Termos de Uso**
-
 # **Termos de Uso - BRB Mobilidade**
 ## **Introdução**
 
