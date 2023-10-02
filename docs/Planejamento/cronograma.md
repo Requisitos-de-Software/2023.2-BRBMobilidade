@@ -2,7 +2,7 @@
 
 # Cronograma de Planejamento detalhado
 
-## Introdução
+### Introdução
 
 <p align="justify">
 
@@ -42,7 +42,7 @@ A tabela 2 mostra as tarefas do planejamento feito para a entrega 1 do projeto.
 | Atas das reuniões | 05/09    | 16/09 |[Doan Filho](https://github.com/FilhoDoan)|[Caio Lelis](http://github.com/caio-lelis)|
 | Rich picture | 05/09     | 17/09   | [Caio Braga](http://github.com/caioalvesbraga) | [Doan Filho](https://github.com/FilhoDoan)|
 | Cronograma Planejado | 05/09  |18/09  | [Doan Filho](https://github.com/FilhoDoan) e [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
-| Cronograma Realizaado | 05/09  |18/09  | [Doan Filho](https://github.com/FilhoDoan) e [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
+| Cronograma Realizado | 05/09  |18/09  | [Doan Filho](https://github.com/FilhoDoan) e [Miguel de Frias](https://github.com/migueldefrias) | [Miguel de Frias](https://github.com/migueldefrias)  e [Doan Filho](https://github.com/FilhoDoan) |
 | Gravação da Apresentação | 18/09  |19/09  | Todos |Todos|
 | Postagem da Apresentação | 19/09| 19/09 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias)|
 
@@ -65,6 +65,7 @@ A tabela 3 mostra as tarefas do planejamento feito para a entrega 2 do projeto.
 | MoSCoW | 27/09 | 02/10 | [Joel Soares](https://github.com/JoelSRangel), [Caio Lelis](http://github.com/caio-lelis) | [Doan Filho](https://github.com/FilhoDoan) |
 | Gravação da Apresentação | 03/10 | 03/10 | Todos | Todos |
 | Postagem da Apresentação| 03/10 | 03/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Cronograma Realizado | 27/09  | 02/10  | [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
 | Correções da Entrega 1 | 22/09 | 02/10 | Todos | Todos |
 
 <div style="text-align: center">
@@ -82,6 +83,7 @@ A tabela 4 mostra as tarefas do planejamento feito para a entrega 3 do projeto.
 | Especificação suplementar | 06/10 | 21/10 | | |
 | Gravação da Apresentação | 23/10 | 23/10 | Todos | Todos |
 | Postagem da Apresentação| 23/10 | 23/10 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Cronograma Realizado | 06/10  | 21/10  | [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
 | Correções da Entrega 2 | 05/10 | 10/10 | Todos | Todos |
 
 <div style="text-align: center">
@@ -98,6 +100,7 @@ A tabela 5 mostra as tarefas do planejamento feito para a entrega 4 do projeto.
 | Backlog | 27/10 | 03/11 |  |  |
 | Gravação da Apresentação | 04/11 | 04/11 | Todos | Todos |
 | Postagem da Apresentação| 04/11 | 04/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Cronograma Realizado | 27/10 | 03/11  | [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
 | Correções da Entrega 3 | 26/10 | 30/10 | Todos | Todos |
 
 <div style="text-align: center">
@@ -109,10 +112,11 @@ A tabela 6 mostra as tarefas do planejamento feito para a entrega 5.1 do projeto
 
 | Tarefa       | Data Início |   Previsto   | Atribuição |Revisor|
 |--------------|:-----------:|:------------:|------------|-------|
-| Verificação de requisitos 1	| 07/11 | 03/11 |  |  |
-| Validação de requisitos 1 | 07/11 | 03/11  |  |  |
+| Verificação de requisitos 1	| 07/11 | 12/11 |  |  |
+| Validação de requisitos 1 | 07/11 | 12/11  |  |  |
 | Gravação da Apresentação | 12/11 | 12/11 | Todos | Todos |
 | Postagem da Apresentação| 12/11 | 12/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Cronograma Realizado | 07/11 | 12/11  | [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
 | Correções da Entrega 4 | 07/11 | 10/11 | Todos | Todos |
 
 <div style="text-align: center">
@@ -128,6 +132,7 @@ A tabela 7 mostra as tarefas do planejamento feito para a entrega 6 do projeto.
 | Backward From | 14/11 | 19/11  |  |  |
 | Gravação da Apresentação | 19/11 | 19/11 | Todos | Todos |
 | Postagem da Apresentação| 19/11 | 19/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Cronograma Realizado | 14/11 | 19/11  | [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
 | Correções da Entrega 5.1 | 14/11 | 17/11 | Todos | Todos |
 
 <div style="text-align: center">
@@ -143,6 +148,7 @@ A tabela 8 mostra as tarefas do planejamento feito para a entrega 5.2 do projeto
 | Validação de requisitos 2 | 21/11 | 28/11  |  |  |
 | Gravação da Apresentação | 28/11 | 28/11 | Todos | Todos |
 | Postagem da Apresentação| 28/11 | 28/11 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Cronograma Realizado | 21/11 | 28/11  | [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
 | Correções da Entrega 6 | 21/11 | 24/11 | Todos | Todos |
 
 <div style="text-align: center">
@@ -157,6 +163,7 @@ A tabela 9 mostra as tarefas do planejamento feito para a entrega 7 do projeto.
 | Desenvolvimento do projeto final | 30/11 | 04/12 | Todos | Todos |
 | Gravação da Apresentação | 04/12 | 04/12 | Todos | Todos |
 | Postagem da Apresentação| 04/12 | 04/12 | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Cronograma Realizado | 30/11 | 04/12  | [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan) |
 | Correções da Entrega 5.2 | 30/11 | 02/12 | Todos | Todos |
 
 <div style="text-align: center">
