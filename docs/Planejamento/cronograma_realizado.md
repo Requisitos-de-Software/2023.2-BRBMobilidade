@@ -2,7 +2,7 @@
   
 # Cronograma Realizado
 
-## Introdução
+### Introdução
 
 <p align="justify">
   
@@ -46,6 +46,7 @@ A tabela 2 mostra as atividades realizadas para a entrega 2 do projeto.
 | MoSCoW |  |  | [Joel Soares](https://github.com/JoelSRangel), [Caio Lelis](http://github.com/caio-lelis) | [Doan Filho](https://github.com/FilhoDoan) |
 | Gravação da Apresentação |   |   | Todos |Todos|
 | Postagem da Apresentação |  |  | [Joel Soares](https://github.com/JoelSRangel) | [Miguel de Frias](https://github.com/migueldefrias) |
+| Cronograma Realizado |  |  | [Miguel de Frias](https://github.com/migueldefrias) | [Doan Filho](https://github.com/FilhoDoan)  |
 | Correções da Entrega 1 | 30/09 | 31/09 | Todos | Todos |
 
 <div style="text-align: center">
