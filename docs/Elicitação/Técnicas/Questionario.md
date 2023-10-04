@@ -6,7 +6,22 @@
 
 ## **Resultados da pesquisa**
 
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+<img src = "" width = 100px>
+
 [Termos de Consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EaOMpyry-npLg-Kh0Vrq0KgBRs-Yz9OoPlpqfDuAc-iuwA?e=F5VC90)
+
+
 
 ## **Requisitos Funcionais**
 
