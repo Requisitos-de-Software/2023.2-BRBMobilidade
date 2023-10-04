@@ -9,7 +9,7 @@ O questionário foi feito atraves da ferramenta [Google forms](https://workspace
 com perguntas objetivas e abertas com o intuito de trazer mais opniões de pessoas que usam o sistema, o formulário foi divulgado em grupos de WhatsApp de estudantes de Engenharia de Software da [Universidade de Brasilia](https://www.unb.br/) e grupo de usuários ativos, assim, trazendo pessoas que são familiarizadas com a aplicação.Usamos um [Termo de Consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EaOMpyry-npLg-Kh0Vrq0KgBRs-Yz9OoPlpqfDuAc-iuwA?e=F5VC90) que foi anunciado previamento antes do começo do questionário. 
 
 ## **Resultados da pesquisa**
-O questionário ficou em aberto nos periodos de 03/10 a 04/10 se obtendo 9 repostas das partes interessadas, trazendo 6 perguntas de perfil do usuário sendo elas perguntas objetivas , 7 perguntas sobre as funcionalidades existentes e 2 questões de sugestão de melhorias. 
+O questionário ficou em aberto nos periodos de 03/10 a 04/10 se obtendo 13 repostas das partes interessadas, trazendo 6 perguntas de perfil do usuário sendo elas perguntas objetivas , 7 perguntas sobre as funcionalidades existentes e 2 questões de sugestão de melhorias. 
 
 
 ### **Perfil do usuário**
