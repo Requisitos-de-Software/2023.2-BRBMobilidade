@@ -20,42 +20,42 @@ O questionário ficou em aberto nos periodos de 03/10 a 04/10 se obtendo 9 repos
 Aqui coletamos coletamos as idades dos participantes alvos do questionário indo de 18 a 60 anos com intervalos entre 
 18 a 25, 26 a 60 e menores de 18.
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/PizzaFaixaEtaria.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image.png" width = 700px>
 <p>Figura1: Pergunta 01, Perfil do usuário</p>
 
 **Sexualidade**
 
 Coletamos a sexualidade do usuário dentre eles masculino, feminino e prefiro não informar
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/PizzaSexualidade.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(1).png" width = 700px>
 <p>Figura2: Pergunta 02, Perfil do usuário</p>
 
 **Escolariedade** 
 
 Aferição à cerca de definir a escolaridade das pessoas que responderam o questionário.
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/BarraEscolaridade.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(2).png" width = 700px>
 <p>Figura3: Pergunta 03, Perfil do usuário</p>
 
 **Familiaridade com o aplicativo** 
 
 Aferimos a familiariedade de uso do usuário com o BRB-Mobilidade
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/PizzaFamiliaridade.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(3).png" width = 700px>
 <p>Figura4: Pergunta 04, Perfil do usuário</p>
 
 **Experiência**
 
 Aferimos a expêriencia dos usuários com relação ao uso do aplicativo
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/PizzaExperiencia.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(4).png" width = 700px>
 <p>Figura5: Pergunta 05, Perfil do usuário</p>
 
 **Avaliação Experiência**
 
 Aqui temos uma avaliação sobre a experiência do usuário com o aplicativo BRB-Mobilidade
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/BarraExperiencia.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(5).png" width = 700px>
 <p>Figura6: Pergunta 06, Perfil do usuário</p>
 
 ### **Avaliação funcionalidades existentes**
@@ -64,20 +64,21 @@ Aqui temos uma avaliação sobre a experiência do usuário com o aplicativo BRB
 
 Avaliação do usuário com relação a função de inserção de saldo variando de 1(pouco útil) á 3(muito útil).
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/BarraInser%C3%A7%C3%A3oSaldo.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(6).png" width = 700px>
 <p>Figura6: Pergunta 07, Avaliação funcionalidades existentes</p>
 
 **Extrato Uso mensal**
 
 Avaliação do usuário com relação a função de Extrato uso mensal variando de 1(pouco útil) á 3(muito útil).
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/BarraExtratoDeUso.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(7).png" width = 700px>
 <p>Figura7: Pergunta 08, Avaliação funcionalidades existentes</p>
 
 **Itinerário**
 
 Avaliação do usuário com relação a função de acompanhamento de itinerário variando de 1(pouco útil) á 3(muito útil).
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/BarraItineario.png" width = 300px>
+
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(8).png" width = 700px>
 <p>Figura8: Pergunta 08, Avaliação funcionalidades existentes</p>
 
 ### **Sugestão de melhorias**
@@ -85,15 +86,34 @@ Avaliação do usuário com relação a função de acompanhamento de itinerári
  **Melhorias**
 
 Dada algumas opções, o usuário pode sugerir algumas melhorias propostas no questionário.
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/BarraDeitadaFuncionalidade.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(9).png" width = 700px>
 <p>Figura9: Pergunta 09, Sugestão de melhorias</p>
 
 **Funcionalidades**
 
 Avliação do usuário á cerca das funcionalidades propostas.
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/BarraFuncionalidades.png" width = 300px>
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(10).png" width = 700px>
 <p>Figura10: Pergunta 10, Sugestão de melhorias</p>
+
+## **Perguntas abertas**
+
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(11).png" width = 700px>
+<p>Figura11: Pergunta 11, Perguntas Abertas</p>
+
+
+<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(12).png" width = 700px>
+<p>Figura12: Pergunta 12, Perguntas Abertas</p>
+
+
+<img src ="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(13).png" width = 700px>
+<p>Figura13: Pergunta 13, Perguntas Abertas</p>
+
+
+<img src ="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(14).png" width = 700px>
+<p>Figura14: Pergunta 14, Perguntas Abertas</p>
+
+
 
 
 ## **Requisitos Elicitados**
@@ -106,64 +126,47 @@ Avliação do usuário á cerca das funcionalidades propostas.
 - Requisito nºx elicitado pelo questionário
 ## **Requisitos Funcionais**
 
+<p style="text-align: center;">
 Tabela 1: Requisitos funcionais.
+</p>
 
 | Tipo   | Funcionalidade   | ID   | Implementado |
 |--------|------------------|------|--------------|
-| RF01   | Visualização do saldo   | Q01  |              |
-| RF02   | Linha 2          | Q02  |              |
-| RF03   | Linha 3          | Q03  |              |
-| RF04   | Linha 4          | Q04  |              |
-| RF05   | Linha 5          | Q05  |              |
-| RF06   | Linha 6          | Q06  |              |
-| RF07   | Linha 7          | Q07  |              |
-| RF08   | Linha 8          | Q08  |              |
-| RF09   | Linha 9          | Q09  |              |
-| RF10   | Linha 10         | Q10  |              |
-| RF11   | Linha 11         | Q11  |              |
-| RF12   | Linha 12         | Q12  |              |
-| RF13   | Linha 13         | Q13  |              |
-| RF14   | Linha 14         | Q14  |              |
-| RF15   | Linha 15         | Q15  |              |
-| RF16   | Linha 16         | Q16  |              |
-| RF17   | Linha 17         | Q17  |              |
-| RF18   | Linha 18         | Q18  |              |
-| RF19   | Linha 19         | Q19  |              |
-| RF20   | Linha 20         | Q20  |              |
+| RF01   | O aplicativo possui mecanismo de visualização do saldo   | Q01  |      sim        |
+| RF02   | O aplicativo acessa o histórico de acessos    | Q02  |      sim        |
+| RF03   | O aplicativo tem meios de mecanismo de bloqueio de cartões     | Q03  |     não         |
+| RF04   | O aplicativo tem meios de mecanismo de desbloqueio de cartões  | Q04  |     não       |
+| RF05   | O aplicativo concede acesso as paradas próximas        | Q05  |    não      |
+| RF06   | O aplicativo concede visualização a quantidade de passes    | Q06  |    não          |
+| RF07   | O aplicativo tem opção de pagamento via cartão de crédito| Q07  |       não       |
+| RF08   | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado          | Q08  |   não           |
+| RF09   | O aplicativo mostra o histórico de transportes pego pelo usuário ao longo do seu uso       | Q09  |      não        |
+| RF10   | O aplicativo deve fornecer notificações de depósito ao usuário     | Q10  |  sim       |
+
 
 
 
 ## **Requisitos não Funcionais**
+
+<p style="text-align: center;">
 Tabela 2: Requisitos não funcionais.
+</p>
 
 | Tipo   | Funcionalidade   | ID   | Implementado |
 |--------|-------------------|------|--------------|
-| RNF01   | Linha 1          | Q01  |              |
-| RNF02   | Linha 2          | Q02  |              |
-| RNF03   | Linha 3          | Q03  |              |
-| RNF04   | Linha 4          | Q04  |              |
-| RNF05   | Linha 5          | Q05  |              |
-| RNF06   | Linha 6          | Q06  |              |
-| RNF07   | Linha 7          | Q07  |              |
-| RNF08   | Linha 8          | Q08  |              |
-| RNF09   | Linha 9          | Q09  |              |
-| RNF10   | Linha 10         | Q10  |              |
-| RNF11   | Linha 11         | Q11  |              |
-| RNF12   | Linha 12         | Q12  |              |
-| RNF13   | Linha 13         | Q13  |              |
-| RNF14   | Linha 14         | Q14  |              |
-| RNF15   | Linha 15         | Q15  |              |
-| RNF16   | Linha 16         | Q16  |              |
-| RNF17   | Linha 17         | Q17  |              |
-| RNF18   | Linha 18         | Q18  |              |
-| RNF19   | Linha 19         | Q19  |              |
-| RNF20   | Linha 20         | Q20  |              |
+| RNF01   | O aplicativo deve fornecer segurança ao usuário com dados cadastrados        | Q11  |     sim         |
+| RNF02   | O aplicativo deve rastrear os ônibus via GPS           | Q12  |      sim        |
+| RNF03   | O aplicativo deve ser otimizado           | Q12  |      sim        |
+| RNF03   | O aplicativo deve ter atualização imediata de saldo         | Q12  |      não        |
+
 
 ## **Bibliografia**
+> [1] "Aprender 3", Disponivel em: [link](https://aprender3.unb.br/course/view.php?id=19953), acesso em 04 de Outubro de 2023
 
+## **Histórico de versões** 
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
 | 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho     |     |
 | 1.1    | 03/10/2023 | Trazendo Graficos iniciais e Termo de Consentimento    | Doan Filho    |     |
-| 1.1    | 03/10/2023 |    | Doan Filho e Caio Lelis    |     |
+| 1.2    | 04/10/2023 |  Adição de imagens e elicitação de requisitos  | Doan Filho e Caio Lelis    |     |
