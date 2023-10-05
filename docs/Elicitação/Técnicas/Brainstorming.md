@@ -17,6 +17,7 @@
 | <span style = "color: blue"> Joel Soares </span>          | Usuário    |
 | <span style = "color: blue"> Guilherme Basilio </span>    | Usuário    |
 
+</center>
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Participantes. (Fonte: Miguel de Frias, 2023).</p>
 </div>

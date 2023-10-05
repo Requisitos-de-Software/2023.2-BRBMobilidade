@@ -17,17 +17,21 @@ Para a elicitação, foi passado previamente préviamente uma série de tarefas 
 
 ## **Requisitos Elicitados**
 
-Tabela 1: Padrão
+<center>
+
+Tabela 1: Padrão da tabela
 
 | Código | Significado |
-| :----: | :---------: |
-|  RFxx  | Requisito funcional n°xx |
-|  RNFxx | Requisito não funcional n°xx |
-|  OBSxx | Requisito elicitado por Observação n°xx |
+| :---: | :---: |
+| RFxx | Requisito funcional n°xx |
+| RNFxx | Requisito não funcional n°xx | 
+| OBSxx | Requisito elicitado por Observação n°xx |
 
-
+</center>
 
 ## **Funcionais** 
+
+<center>
 
 Tabela 2: Requisitos funcionais
 
@@ -44,9 +48,11 @@ Tabela 2: Requisitos funcionais
 | RF09   | Deve ser possível solicitar uma 2ª via do cartão desejado | OBS09 |     Sim      |
 | RF10   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS10 |     Sim      |
 
-
+</center>
 
 ## **Não funcionais**
+
+<center>
 
 Tabela 2: Requisitos não funcionais
 
@@ -58,6 +64,7 @@ Tabela 2: Requisitos não funcionais
 | RNF04  | Deve ser possível acompanhar a rota e o trajeto do ônibus num período de tempo e data selecionado | OBS14 |     Sim      |
 | RNF05  | Deve apresentar uma interface que facilita a prevenção de erros | OBS15 |     Sim      |
 
+</center>
 
 
 ## **Bibliografia**
