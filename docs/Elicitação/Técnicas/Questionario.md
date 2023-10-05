@@ -118,7 +118,7 @@ Avliação do usuário á cerca das funcionalidades propostas.
 
 ## **Requisitos Elicitados**
 
-#### Nas tabelas abaixo foram listados os requisitos funcionais e não funcionais que foram elicitados 
+ Nas tabelas abaixo foram listados os requisitos funcionais e não funcionais que foram elicitados 
 
 #### Legenda:
 - RFx: Requisito Funcional n°x  
