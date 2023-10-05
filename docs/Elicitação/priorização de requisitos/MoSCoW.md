@@ -85,3 +85,4 @@ Tabela 1 -Tabela de priorização MoSCoW
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
 | 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho e Caio Lelis    |  Caio Lelis   |
+| 1.1    | 04/10/2023 | Adicionando conteúdo          | Joel e Caio Lelis    |  Doan Filho   |
