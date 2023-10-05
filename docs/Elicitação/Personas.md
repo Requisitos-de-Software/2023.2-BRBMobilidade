@@ -36,7 +36,7 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 |    |    |
 | :----: | :---------------------: |
 |  Nome  |   Maria Dale   |
-|  Foto  |   <img src="/docs/Elicitação/assets/Persona1.png" style="width:20vw"/><p>Imagem:  persona 1 |
+|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/Persona1.png" width = 100px><p>Imagem:  persona 1 |
 | Descrição | Maria Dale, 26 anos, analista de marketing, moradora do Gama-DF |
 | Tipo| Persona primária |
 | Informações | Altamente dependente de transporte público. Ela valoriza a praticidade, eficiência e economia de tempo em seus deslocamentos diários. Preocupa-se com o meio ambiente e busca formas sustentáveis de transporte, como o transporte público |
@@ -50,7 +50,7 @@ Tabela 2: Primeira persona. (BARBOSA, Gabriel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Leonardo Moura  |
-|  Foto  |   <img src="/docs/Elicitação/assets/Persona2.png" style="width:20vw"/><p>Imagem:  persona 2|
+|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/Persona2.png" width = 100px"><p>Imagem:  persona 2|
 | Descrição | Leonardo moura, 18 anos, Estudante de ensino médio, morador da Asa norte - DF |
 | Tipo | Persona primária |
 | Informações | Leonardo é um jovem digitalmente nativo, muito familiarizado com tecnologia e aplicativos móveis. Como está prestes a ingressar na universidade, ele considera os custos e a eficiência no transporte como fatores importantes. |
@@ -65,7 +65,7 @@ Tabela 3: Segunda persona. (BARBOSA, Gabriel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Renato Abreu  |
-|  Foto  |   <img src="/docs/Elicitação/assets/Persona3.png" style="width:20vw"/><p>Imagem:  persona 3|
+|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/Persona3.png" width = 100px"><p>Imagem:  persona 3|
 | Descrição | Renato Abreu, 65 anos, Aposentado, morador da Asa sul - DF|
 | Tipo | Persona primária |
 | Informações | Renato vive sozinho em um bairro residencial tranquilo e busca mais comodidade e simplicidade em suas atividades diárias, incluindo deslocamentos pela cidade. Como a maioria dos idosos, ele se preocupa com a segurança durante seus deslocamentos |
@@ -80,7 +80,7 @@ Tabela 4: Terceira persona. (BARBOSA, Gabriel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Marina Silva  |
-|  Foto  |   <img src="/docs/Elicitação/assets/Persona4.png" style="width:20vw"/><p>Imagem:  persona 4|
+|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets/Persona4.png" width = 100px/><p>Imagem:  persona 4|
 | Descrição | Marina Silva, 38 anos, é afrodescendente, possui um diploma universitário em Recursos Humanos e é mãe de dois filhos adolescentes. Moradora de Taguatinga.|
 | Tipo | Persona primária |
 | Informações | Marina mora em um prédio em taguatinga com seus 2 filhos. Ela possui um smartphone moderno e tem acesso à internet em casa e no trabalho. Além disso, faz parte de grupos locais de pais e está ativa nas redes sociais. |
