@@ -33,47 +33,47 @@ Tabela 1 - Tabela com requisitos elicitados e suas prioridades.
 
 | Tipo   | Funcionalidade                                       | ID   | Prioridade |
 | :---:  | :--------------------------------------------------: | :---: | :----------: |
-| RF01   | Eu, como usuário, quero consultar o saldo e o extrato de uso do meu cartão de mobilidade. | IS01 |  |
-| RF02   | Eu, como usuário, quero acessar itinerários detalhados de ônibus para facilitar o planejamento das minhas viagens. | IS02 |  |
-| RF03   | Eu, como usuário, desejo realizar recargas de créditos no meu cartão de transporte de forma fácil. | IS03 |  |
-| RF04   | Eu, como usuário, gostaria de interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04 |  |
-| RF05   | Eu, como usuário, preciso de informações em tempo real sobre o status dos transportes públicos. | IS05 |  |
-| RF06   | Eu, como usuário, quero integrar funcionalidades de navegação e mapas para otimizar minhas rotas e encontrar facilmente paradas de ônibus. | IS06 |  |
-| RF07   | Eu, como usuário, quero ser capaz de cadastrar meus métodos de pagamento no aplicativo. | IS08 |  |
-| RF08   | Eu, como usuário, desejo personalizar a aparência da interface do usuário de acordo com minhas preferências. | IS09 |  |
-| RF09   | Eu, como usuário, preciso ser capaz de me cadastrar facilmente no aplicativo. | IS10 |  |
-| RF10   | Eu, como usuário, quero fazer login de forma rápida e segura no aplicativo. | IS11 |  |
-| RF11   | Eu, como usuário, concordo em fornecer minha localização para melhorar a experiência de uso. | IS12 |  |
-| RF01   | Eu, como usuário, quero verificar meu extrato sempre que precisar. | OBS01 |  |
-| RF02   | Eu, como usuário, quero visualizar informações sobre linhas e horários de ônibus. | OBS02 |  |
-| RF03   | Eu, como usuário, desejo recarregar meu saldo de maneira simples. | OBS03 |  |
-| RF04   | Eu, como usuário, quero salvar minhas rotas frequentes para facilitar o planejamento. | OBS04 |  |
-| RF05   | Eu, como usuário, gostaria de poder atualizar minhas informações de cadastro conforme necessário. | OBS05 |  |
-| RF06   | Eu, como usuário, desejo uma seção de comunicação direta para obter assistência rapidamente. | OBS06 |  |
-| RF07   | Eu, como usuário, gostaria de encontrar respostas para perguntas frequentes no aplicativo. | OBS07 |  |
-| RF08   | Eu, como usuário, quero acessar informações sobre o histórico das minhas atividades no app. | OBS08 |  |
-| RF09   | Eu, como usuário, quero solicitar uma segunda via do meu cartão quando necessário. | OBS09 |  |
-| RF10   | Eu, como usuário, gostaria de receber notificações sobre depósitos no meu cartão. | OBS10 |  |
-| RNF12  | Eu, como usuário, espero que o aplicativo seja compatível com sistemas Android e iOS. | IS13 |  |
-| RNF13  | Eu, como usuário, quero que a instalação e o uso do aplicativo sejam intuitivos e fáceis de entender. | IS14 |  |
-| RNF14  | Eu, como usuário, desejo uma interface de usuário amigável e intuitiva para facilitar minha navegação. | IS15 |  |
-| RNF15  | Eu, como usuário, quero receber feedback sobre o status das minhas consultas, recargas e outras interações importantes. | IS16 |  |
-| RNF16  | Eu, como usuário, espero que o aplicativo implemente medidas de segurança robustas para proteger minha privacidade. | IS17 |  |
-| RNF17  | Eu, como usuário, gostaria que o aplicativo fosse de código aberto e gratuito. | IS18 |  |
-| RF01   | Eu, como usuário, quero ver o saldo do meu cartão no aplicativo. | Q01 |  |
-| RF02   | Eu, como usuário, gostaria de acessar meu histórico de viagens no aplicativo. | Q02 |  |
-| RF03   | Eu, como usuário, quero a opção de bloquear meu cartão caso seja necessário. | Q03 |  |
-| RF04   | Eu, como usuário, quero a opção de desbloquear meu cartão quando precisar. | Q04 |  |
-| RF05   | Eu, como usuário, desejo visualizar as paradas de ônibus próximas a mim no aplicativo. | Q05 |  |
-| RF06   | Eu, como usuário, quero ver quantos passes ainda tenho disponíveis no meu cartão. | Q06 |  |
-| RF07   | Eu, como usuário, desejo pagar minhas viagens com cartão de crédito através do aplicativo. | Q07 |  |
-| RF08   | Eu, como usuário, quero receber previsões sobre o depósito de dinheiro no meu cartão. | Q08 |  |
-| RF09   | Eu, como usuário, desejo visualizar o histórico das viagens que fiz ao longo do uso do aplicativo. | Q09 |  |
-| RF10   | Eu, como usuário, quero receber notificações sobre depósitos no meu cartão no aplicativo. | Q10 |  |
-| RNF01  | Eu, como usuário, desejo que o aplicativo forneça segurança adequada para os dados que cadastrei. | Q11 |  |
-| RNF02  | Eu, como usuário, gostaria que o aplicativo rastreasse os ônibus em tempo real através do GPS. | Q12 |  |
-| RNF03  | Eu, como usuário, espero que o aplicativo seja otimizado para um desempenho suave. | Q12 |  |
-| RNF03  | Eu, como usuário, quero que o saldo do meu cartão seja atualizado imediatamente após recargas. | Q12 |  |
+| RF01   | Eu, como usuário, quero consultar o saldo e o extrato de uso do meu cartão de mobilidade. | IS01 | Must |
+| RF02   | Eu, como usuário, quero acessar itinerários detalhados de ônibus para facilitar o planejamento das minhas viagens. | IS02 | Must  |
+| RF03   | Eu, como usuário, desejo realizar recargas de créditos no meu cartão de transporte de forma fácil. | IS03 | Must |
+| RF04   | Eu, como usuário, gostaria de interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04 | Must |
+| RF05   | Eu, como usuário, preciso de informações em tempo real sobre o status dos transportes públicos. | IS05 |Must  |
+| RF06   | Eu, como usuário, quero integrar funcionalidades de navegação e mapas para otimizar minhas rotas e encontrar facilmente paradas de ônibus. | IS06 | Should |
+| RF07   | Eu, como usuário, quero ser capaz de cadastrar meus métodos de pagamento no aplicativo. | IS08 | Must |
+| RF08   | Eu, como usuário, desejo personalizar a aparência da interface do usuário de acordo com minhas preferências. | IS09 | Should |
+| RF09   | Eu, como usuário, preciso ser capaz de me cadastrar facilmente no aplicativo. | IS10 | Must |
+| RF10   | Eu, como usuário, quero fazer login de forma rápida e segura no aplicativo. | IS11 | Must |
+| RF11   | Eu, como usuário, concordo em fornecer minha localização para melhorar a experiência de uso. | IS12 | Must |
+| RF01   | Eu, como usuário, quero verificar meu extrato sempre que precisar. | OBS01 |  Must|
+| RF02   | Eu, como usuário, quero visualizar informações sobre linhas e horários de ônibus. | OBS02 | Must |
+| RF03   | Eu, como usuário, desejo recarregar meu saldo de maneira simples. | OBS03 | Must |
+| RF04   | Eu, como usuário, quero salvar minhas rotas frequentes para facilitar o planejamento. | OBS04 |Should  |
+| RF05   | Eu, como usuário, gostaria de poder atualizar minhas informações de cadastro conforme necessário. | OBS05 | Must |
+| RF06   | Eu, como usuário, desejo uma seção de comunicação direta para obter assistência rapidamente. | OBS06 | Should |
+| RF07   | Eu, como usuário, gostaria de encontrar respostas para perguntas frequentes no aplicativo. | OBS07 | Should |
+| RF08   | Eu, como usuário, quero acessar informações sobre o histórico das minhas atividades no app. | OBS08 | Could  |
+| RF09   | Eu, como usuário, quero solicitar uma segunda via do meu cartão quando necessário. | OBS09 | Must |
+| RF10   | Eu, como usuário, gostaria de receber notificações sobre depósitos no meu cartão. | OBS10 | Should |
+| RNF12  | Eu, como usuário, espero que o aplicativo seja compatível com sistemas Android e iOS. | IS13 | Must |
+| RNF13  | Eu, como usuário, quero que a instalação e o uso do aplicativo sejam intuitivos e fáceis de entender. | IS14 | Must |
+| RNF14  | Eu, como usuário, desejo uma interface de usuário amigável e intuitiva para facilitar minha navegação. | IS15 | Must |
+| RNF15  | Eu, como usuário, quero receber feedback sobre o status das minhas consultas, recargas e outras interações importantes. | IS16 | Should |
+| RNF16  | Eu, como usuário, espero que o aplicativo implemente medidas de segurança robustas para proteger minha privacidade. | IS17 | Must |
+| RNF17  | Eu, como usuário, gostaria que o aplicativo fosse de código aberto e gratuito. | IS18 | Could |
+| RF01   | Eu, como usuário, quero ver o saldo do meu cartão no aplicativo. | Q01 | Must |
+| RF02   | Eu, como usuário, gostaria de acessar meu histórico de viagens no aplicativo. | Q02 | Must |
+| RF03   | Eu, como usuário, quero a opção de bloquear meu cartão caso seja necessário. | Q03 | Must |
+| RF04   | Eu, como usuário, quero a opção de desbloquear meu cartão quando precisar. | Q04 | Must |
+| RF05   | Eu, como usuário, desejo visualizar as paradas de ônibus próximas a mim no aplicativo. | Q05 | Must |
+| RF06   | Eu, como usuário, quero ver quantos passes ainda tenho disponíveis no meu cartão. | Q06 | Must |
+| RF07   | Eu, como usuário, desejo pagar minhas viagens com cartão de crédito através do aplicativo. | Q07 |Must  |
+| RF08   | Eu, como usuário, quero receber previsões sobre o depósito de dinheiro no meu cartão. | Q08 | Could |
+| RF09   | Eu, como usuário, desejo visualizar o histórico das viagens que fiz ao longo do uso do aplicativo. | Q09 |Should  |
+| RF10   | Eu, como usuário, quero receber notificações sobre depósitos no meu cartão no aplicativo. | Q10 |Should  |
+| RNF01  | Eu, como usuário, desejo que o aplicativo forneça segurança adequada para os dados que cadastrei. | Q11 | Must |
+| RNF02  | Eu, como usuário, gostaria que o aplicativo rastreasse os ônibus em tempo real através do GPS. | Q12 |Must  |
+| RNF03  | Eu, como usuário, espero que o aplicativo seja otimizado para um desempenho suave. | Q12 | Could |
+| RNF03  | Eu, como usuário, quero que o saldo do meu cartão seja atualizado imediatamente após recargas. | Q12 | Should |
 
 Tabela 1 -Tabela de priorização MoSCoW
 
@@ -84,4 +84,4 @@ Tabela 1 -Tabela de priorização MoSCoW
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho     |     |
+| 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho e Caio Lelis    |  Caio Lelis   |
