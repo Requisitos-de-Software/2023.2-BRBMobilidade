@@ -3,7 +3,7 @@
 ## **Introdução**
 
 <p style="text-align: justify;">
-&emsp;&emsp;A Plataforma Lattes representa uma peça fundamental no cenário acadêmico, desempenhando um papel crucial na gestão e divulgação de informações acadêmicas. Para garantir o sucesso de seu desenvolvimento, a introspecção de requisitos de software surge como uma prática essencial. Neste documento, propomos uma análise abrangente que aborde os objetivos específicos do projeto, esclareça os requisitos funcionais e não-funcionais essenciais, considere possíveis restrições, avalie os riscos pertinentes e estabeleça um cronograma estruturado. Através dessa abordagem reflexiva, buscamos oferecer um guia sólido para o desenvolvimento eficiente da Plataforma Lattes.
+&emsp;&emsp;O aplicativo BRB-Mobilidade representa uma peça fundamental no cenário acadêmico, desempenhando um papel crucial na gestão e divulgação de informações acadêmicas. Para garantir o sucesso de seu desenvolvimento, a introspecção de requisitos de software surge como uma prática essencial. Neste documento, propomos uma análise abrangente que aborde os objetivos específicos do projeto, esclareça os requisitos funcionais e não-funcionais essenciais, considere possíveis restrições, avalie os riscos pertinentes e estabeleça um cronograma estruturado. Através dessa abordagem reflexiva, buscamos oferecer um guia sólido para o desenvolvimento eficiente da Plataforma Lattes.
 </p>
 
 ## **Metodologia**
