@@ -25,30 +25,33 @@ Tabela 1: Padrão
 ## **Funcionais** 
 
 Tabela 2: Requisitos funcionais
-| Código | Descrição | Tipo | Verificado |
-| :---: | :------------------------------: | :---: | :---: |
-| RF01 | Deve ser capaz de consultar o extrato | OBS01 | Sim |
-| RF02 | O aplicativo deve permitir a vizualição de linhas e horário |  OBS02  |  Sim  |
-| RF03 | Deve ser possível fazer a recarga do saldo | OBS03 | Sim |
-| RF04 | Deve ser possível salvar rotas | OBS04 | Sim  | 
-| RF05 | Deve ser possível alterar informações de cadastro  | OBS05 | Sim |
-| RF06 | O aplicativo deve fornecer uma seção de comunicação direta  | OBS06 | Sim |
-| RF07 | O aplicativo deve fornercer ajuda com perguntas frequentes  | OBS07 | Sim |
-| RF08 | Deve ser possível acessar informações sobre o histórico de atividades | OBS08 | Sim |
-| RF09 | Deve ser possível solicitar uma 2°via do cartão desejado | OBS09 | Sim |
-| RF10 | O aplicativo deve fornercer ajuda com perguntas frequentes  | OBS10 | Sim |
+| Tipo   | Funcionalidade                                       | ID   | Implementado |
+| :---:  | :--------------------------------------------------: | :---: | :----------: |
+| RF01   | Deve ser capaz de consultar o extrato               | OBS01 |     Sim      |
+| RF02   | O aplicativo deve permitir a visualização de linhas e horários | OBS02 |     Sim      |
+| RF03   | Deve ser possível fazer a recarga do saldo          | OBS03 |     Sim      |
+| RF04   | Deve ser possível salvar rotas                      | OBS04 |     Sim      |
+| RF05   | Deve ser possível alterar informações de cadastro   | OBS05 |     Sim      |
+| RF06   | O aplicativo deve fornecer uma seção de comunicação direta | OBS06 |     Sim      |
+| RF07   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS07 |     Sim      |
+| RF08   | Deve ser possível acessar informações sobre o histórico de atividades | OBS08 |     Sim      |
+| RF09   | Deve ser possível solicitar uma 2ª via do cartão desejado | OBS09 |     Sim      |
+| RF10   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS10 |     Sim      |
+
 
 
 ## **Não funcionais**
 
 Tabela 2: Requisitos não funcionais
-| Código | Descrição | Tipo | Verificado |
-| :---: | :------------------------------: | :---: | :---: |
-| RNF01 | O aplicativo deve fornecer ao usuário o feedback de suas ações | OBS11 | Sim |
-| RNF02 | Deve ser possível filtrar o extrato ao longo do tempo | OBS12 | Sim |
-| RNF03 | Deve ser possível fazer solicitações triviais com 3 cliques | OBS13 | Sim |
-| RNF04 | Deve ser possível acompanhar a rota e o trajeto do ônibus num perído de tempo e data selecionado | OBS14 | Sim
-| RNF05 | Deve apresentar uma interface que facilita a prevenção de erros | OBS15 | Sim |
+
+| Tipo | Funcionalidade                                           | Id  | Implementado |
+| :---:  | :--------------------------------------------------: | :---: | :----------: |
+| RNF01  | O aplicativo deve fornecer ao usuário o feedback de suas ações | OBS11 |     Sim      |
+| RNF02  | Deve ser possível filtrar o extrato ao longo do tempo | OBS12 |     Sim      |
+| RNF03  | Deve ser possível fazer solicitações triviais com 3 cliques | OBS13 |     Sim      |
+| RNF04  | Deve ser possível acompanhar a rota e o trajeto do ônibus num período de tempo e data selecionado | OBS14 |     Sim      |
+| RNF05  | Deve apresentar uma interface que facilita a prevenção de erros | OBS15 |     Sim      |
+
 
 
 ## **Bibliografia**

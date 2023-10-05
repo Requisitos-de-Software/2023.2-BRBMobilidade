@@ -18,25 +18,38 @@ RNF: Requisitos Não-Funcionais nºx - Refere-se a atributos que o software deve
 
 ISx: Requisito nºx elicitado pela introspecção.
 
-| Identificação | Descrição | Categoria |
-| :-: | - | :-: | 
-| IS01 | Consultar saldo e extrato de uso do cartão de mobilidade. | RF | 
-| IS02 | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. | RF | 
-| IS03 | Realizar recargas de créditos no cartão. | RF | 
-| IS04 | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | RF | 
-| IS05 | Suportar informações em tempo real sobr o status dos transportes públicos. | RF | 
-| IS06 | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | RF | 
-| IS08 | O aplicativo permite cadastrar métodos de pagamento. | RF |
-| IS09 | Deve ser possível personalizar a aparência da interface do usuário. | RF |
-| IS10 | O usuário deve ser capaz de realizar cadastro | RF |
-| IS11 | O usuário deve ser capaz de realizar login | RF |
-| IS12 | O usuário deve fornecer sua localização | RF |
-| IS13 | Garantir compatibilidade com sistemas opracionais Android e iOS. | RNF |
-| IS14 | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. | RNF |
-| IS15 | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | RNF |
-| IS16 | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. | RNF |
-| IS17 | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | RNF |
-| IS18 | Deve ser de código aberto e gratuito. | RNF |
+
+<p style="text-align: center;">
+Tabela 1: Requisitos funcionais.
+</p>
+
+
+| Tipo   | Funcionalidade                                       | ID   | Implementado |
+| :---:  | :--------------------------------------------------: | :---: | :----------: |
+| RF01   | Consultar saldo e extrato de uso do cartão de mobilidade. | IS01 | Sim |
+| RF02   | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. | IS02 | Sim |
+| RF03   | Realizar recargas de créditos no cartão. | IS03 | Sim |
+| RF04   | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04 |              |
+| RF05   | Suportar informações em tempo real sobre o status dos transportes públicos. | IS05 |              |
+| RF06   | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | IS06 |              |
+| RF07   | O aplicativo deve permitir cadastrar métodos de pagamento. | IS08 |              |
+| RF08   | Deve ser possível personalizar a aparência da interface do usuário. | IS09 |              |
+| RF09   | O usuário deve ser capaz de realizar cadastro | IS10 |              |
+| RF10   | O usuário deve ser capaz de realizar login | IS11 |              |
+| RF11   | O usuário deve fornecer sua localização | IS12 |              |
+
+<p style="text-align: center;">
+Tabela 2: Requisitos não funcionais.
+</p>
+
+| Tipo   | Funcionalidade                                                                                           | ID   | Implementado |
+|--------|----------------------------------------------------------------------------------------------------------|------|--------------|
+| RNF12  | Garantir compatibilidade com sistemas operacionais Android e iOS.                                       | IS13 |              |
+| RNF13  | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão.                            | IS14 |              |
+| RNF14  | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação.                    | IS15 |              |
+| RNF15  | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes.        | IS16 |              |
+| RNF16  | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 |              |
+| RNF17  | Deve ser de código aberto e gratuito.                                                                  | IS18 |              |
 
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Tabela dos Requisitos Elicitados. (Fonte: Miguel de Frias e Guilherme Basilio, 2023).</p>
