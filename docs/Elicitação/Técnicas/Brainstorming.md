@@ -20,7 +20,7 @@
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Participantes. (Fonte: Miguel de Frias, 2023).</p>
 </div>
-
+</center>
 
 ## **Tabela de Requisitos**
 
