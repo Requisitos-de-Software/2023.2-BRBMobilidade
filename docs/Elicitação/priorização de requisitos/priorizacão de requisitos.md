@@ -20,7 +20,6 @@ A satisfação do usuário desempenha um papel crítico na aceitação e adoçã
 <div style="text-align: center; font-size: 20px;">
     <ul style="list-style-position: inside;">
         <li>MoSCoW</li>
-        <li>In or Out</li>
         <li>Three Level Scale</li>
     </ul>
 </div>
