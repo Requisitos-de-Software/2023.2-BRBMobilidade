@@ -2,12 +2,15 @@
 
 ## **Introdução**
 
+<p style="text-align: justify;">
 A técnica de elicitação de requisitos por observação consiste em assistir o usuário interagir com o sistema. Através dessa observação, o grupo pode identificar necessidades, lacunas, fluxos de trabalho e possíveis melhorias no sistema, o que contribui para uma definição mais precisa e completa dos requisitos do software. Após coletar informações sobre os requisitos do aplicativo [BRB-Mobilidade](https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/blob/main/docs/Planejamento/aplicativo-selecionado.md), o observador deve organizar e rotular as mesmas.
-
+</p>
 
 ## **Processo de Observação**
 
+<p style="text-align: justify;">
 Para a elicitação, foi passado previamente préviamente uma série de tarefas para o usuário que consistiam em acessar todos as opções do menu geral e todas as opções do cartão estudantil, de acordo com os requisitos funcionais e não funcionais. Durante a observação passiva, o observador não pode interagir com o usuário a medida que observa sua rotina.
+</p>
 
 **Vídeo**: [Link para observação](https://youtu.be/qadc8xRSXeA)
 

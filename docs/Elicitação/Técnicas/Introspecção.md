@@ -2,15 +2,22 @@
 
 ## **Introdução**
 
+<p style="text-align: justify;">
 &emsp;&emsp;A Plataforma Lattes representa uma peça fundamental no cenário acadêmico, desempenhando um papel crucial na gestão e divulgação de informações acadêmicas. Para garantir o sucesso de seu desenvolvimento, a introspecção de requisitos de software surge como uma prática essencial. Neste documento, propomos uma análise abrangente que aborde os objetivos específicos do projeto, esclareça os requisitos funcionais e não-funcionais essenciais, considere possíveis restrições, avalie os riscos pertinentes e estabeleça um cronograma estruturado. Através dessa abordagem reflexiva, buscamos oferecer um guia sólido para o desenvolvimento eficiente da Plataforma Lattes.
+</p>
 
 ## **Metodologia**
 
+<p style="text-align: justify;">
 &emsp;&emsp;A introspecção foi feita individualmente pelos integrantes *Guilherme Basilio* e *Miguel de Frias*. Após cada membro do grupo ter realizado a análise individual e a introspecção de requisitos para a Plataforma, os resultados foram consolidados em uma tabela, contemplando os Requisitos Funcionais e os Requisitos Não-Funcionais. Concluída essa etapa, procedemos a uma revisão do aplicativo escolhido pelo grupo, verificando se os requisitos elicitados durante o processo estavam ou não incorporados no sistema. Esse exercício de avaliação permitiu uma análise abrangente da adequação do aplicativo em relação às necessidades identificadas, fornecendo insights valiosos para o desenvolvimento contínuo da Plataforma Lattes.
+</p>
 
 ## **Tabela de Requisitos**
 
+<p style="text-align: justify;">
 &emsp;&emsp;A tabela abaixo apresenta os requisitos de software identificados durante a introspecção do projeto BRB Mobilidade. Cada requisito recebeu uma identificação específica no formato 'INT' seguido por um número, e foi detalhadamente descrito. Além disso, cada requisito foi categorizado como um dos seguintes:
+</p>
+
 
 RF: Requisitos Funcionais nºx - Refere-se ao comportamento ou funcionalidade que o software deve exibir para atender às necessidades dos usuários.
 
