@@ -29,28 +29,59 @@ Tabela 1 - Tabela com requisitos elicitados e suas prioridades.
 - INT : Introspecção
 - QTR : Questionário
 - OBS : Observação 
+- Q  : Questionário
 
-| requisito | funcionalidade | prioridade |
-|----------|----------|----------|
-| Linha 1  | Linha 1  | Linha 1  |
-| Linha 2  | Linha 2  | Linha 2  |
-| Linha 3  | Linha 3  | Linha 3  |
-| Linha 4  | Linha 4  | Linha 4  |
-| Linha 5  | Linha 5  | Linha 5  |
-| Linha 6  | Linha 6  | Linha 6  |
-| Linha 7  | Linha 7  | Linha 7  |
-| Linha 8  | Linha 8  | Linha 8  |
-| Linha 9  | Linha 9  | Linha 9  |
-| Linha 10 | Linha 10 | Linha 10 |
-| Linha 11 | Linha 11 | Linha 11 |
-| Linha 12 | Linha 12 | Linha 12 |
-| Linha 13 | Linha 13 | Linha 13 |
-| Linha 14 | Linha 14 | Linha 14 |
-| Linha 15 | Linha 15 | Linha 15 |
-| Linha 16 | Linha 16 | Linha 16 |
-| Linha 17 | Linha 17 | Linha 17 |
-| Linha 18 | Linha 18 | Linha 18 |
-| Linha 19 | Linha 19 | Linha 19 |
-| Linha 20 | Linha 20 | Linha 20 |
+| Tipo   | Funcionalidade                                       | ID   | Prioridade |
+| :---:  | :--------------------------------------------------: | :---: | :----------: |
+| RF01   | Eu, como usuário, quero consultar o saldo e o extrato de uso do meu cartão de mobilidade. | IS01 |  |
+| RF02   | Eu, como usuário, quero acessar itinerários detalhados de ônibus para facilitar o planejamento das minhas viagens. | IS02 |  |
+| RF03   | Eu, como usuário, desejo realizar recargas de créditos no meu cartão de transporte de forma fácil. | IS03 |  |
+| RF04   | Eu, como usuário, gostaria de interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04 |  |
+| RF05   | Eu, como usuário, preciso de informações em tempo real sobre o status dos transportes públicos. | IS05 |  |
+| RF06   | Eu, como usuário, quero integrar funcionalidades de navegação e mapas para otimizar minhas rotas e encontrar facilmente paradas de ônibus. | IS06 |  |
+| RF07   | Eu, como usuário, quero ser capaz de cadastrar meus métodos de pagamento no aplicativo. | IS08 |  |
+| RF08   | Eu, como usuário, desejo personalizar a aparência da interface do usuário de acordo com minhas preferências. | IS09 |  |
+| RF09   | Eu, como usuário, preciso ser capaz de me cadastrar facilmente no aplicativo. | IS10 |  |
+| RF10   | Eu, como usuário, quero fazer login de forma rápida e segura no aplicativo. | IS11 |  |
+| RF11   | Eu, como usuário, concordo em fornecer minha localização para melhorar a experiência de uso. | IS12 |  |
+| RF01   | Eu, como usuário, quero verificar meu extrato sempre que precisar. | OBS01 |  |
+| RF02   | Eu, como usuário, quero visualizar informações sobre linhas e horários de ônibus. | OBS02 |  |
+| RF03   | Eu, como usuário, desejo recarregar meu saldo de maneira simples. | OBS03 |  |
+| RF04   | Eu, como usuário, quero salvar minhas rotas frequentes para facilitar o planejamento. | OBS04 |  |
+| RF05   | Eu, como usuário, gostaria de poder atualizar minhas informações de cadastro conforme necessário. | OBS05 |  |
+| RF06   | Eu, como usuário, desejo uma seção de comunicação direta para obter assistência rapidamente. | OBS06 |  |
+| RF07   | Eu, como usuário, gostaria de encontrar respostas para perguntas frequentes no aplicativo. | OBS07 |  |
+| RF08   | Eu, como usuário, quero acessar informações sobre o histórico das minhas atividades no app. | OBS08 |  |
+| RF09   | Eu, como usuário, quero solicitar uma segunda via do meu cartão quando necessário. | OBS09 |  |
+| RF10   | Eu, como usuário, gostaria de receber notificações sobre depósitos no meu cartão. | OBS10 |  |
+| RNF12  | Eu, como usuário, espero que o aplicativo seja compatível com sistemas Android e iOS. | IS13 |  |
+| RNF13  | Eu, como usuário, quero que a instalação e o uso do aplicativo sejam intuitivos e fáceis de entender. | IS14 |  |
+| RNF14  | Eu, como usuário, desejo uma interface de usuário amigável e intuitiva para facilitar minha navegação. | IS15 |  |
+| RNF15  | Eu, como usuário, quero receber feedback sobre o status das minhas consultas, recargas e outras interações importantes. | IS16 |  |
+| RNF16  | Eu, como usuário, espero que o aplicativo implemente medidas de segurança robustas para proteger minha privacidade. | IS17 |  |
+| RNF17  | Eu, como usuário, gostaria que o aplicativo fosse de código aberto e gratuito. | IS18 |  |
+| RF01   | Eu, como usuário, quero ver o saldo do meu cartão no aplicativo. | Q01 |  |
+| RF02   | Eu, como usuário, gostaria de acessar meu histórico de viagens no aplicativo. | Q02 |  |
+| RF03   | Eu, como usuário, quero a opção de bloquear meu cartão caso seja necessário. | Q03 |  |
+| RF04   | Eu, como usuário, quero a opção de desbloquear meu cartão quando precisar. | Q04 |  |
+| RF05   | Eu, como usuário, desejo visualizar as paradas de ônibus próximas a mim no aplicativo. | Q05 |  |
+| RF06   | Eu, como usuário, quero ver quantos passes ainda tenho disponíveis no meu cartão. | Q06 |  |
+| RF07   | Eu, como usuário, desejo pagar minhas viagens com cartão de crédito através do aplicativo. | Q07 |  |
+| RF08   | Eu, como usuário, quero receber previsões sobre o depósito de dinheiro no meu cartão. | Q08 |  |
+| RF09   | Eu, como usuário, desejo visualizar o histórico das viagens que fiz ao longo do uso do aplicativo. | Q09 |  |
+| RF10   | Eu, como usuário, quero receber notificações sobre depósitos no meu cartão no aplicativo. | Q10 |  |
+| RNF01  | Eu, como usuário, desejo que o aplicativo forneça segurança adequada para os dados que cadastrei. | Q11 |  |
+| RNF02  | Eu, como usuário, gostaria que o aplicativo rastreasse os ônibus em tempo real através do GPS. | Q12 |  |
+| RNF03  | Eu, como usuário, espero que o aplicativo seja otimizado para um desempenho suave. | Q12 |  |
+| RNF03  | Eu, como usuário, quero que o saldo do meu cartão seja atualizado imediatamente após recargas. | Q12 |  |
 
 Tabela 1 -Tabela de priorização MoSCoW
+
+## **Bibliografia**
+> [1] "Aprender 3", Disponivel em: [link](https://aprender3.unb.br/course/view.php?id=19953), acesso em 04 de Outubro de 2023
+
+## **Histórico de versões** 
+
+| Versão | Data       | Descrição            | Autor          | Revisor        |
+|--------|------------|----------------------|----------------|--------------- |
+| 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho     |     |
