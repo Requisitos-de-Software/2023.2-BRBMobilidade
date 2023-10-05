@@ -23,7 +23,6 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 - OBS : Requisitos de Observação
 - QTN : Requisitos Questionário
 - INT : Requisitos Introspecção
-- BRAN: Requisitos Brainstorm
 
 
 | Tipo   | Funcionalidade                                       | ID   | Implementado | Prioridade |
