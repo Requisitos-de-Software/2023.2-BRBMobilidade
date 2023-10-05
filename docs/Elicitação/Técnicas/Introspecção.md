@@ -3,7 +3,7 @@
 ## **Introdução**
 
 <p style="text-align: justify;">
-&emsp;&emsp;O BRB Mobilidade representa uma peça fundamental na mobilidade urbana, desempenhando um papel crucial np transporte do Distrito Federal. Para garantir o sucesso de seu desenvolvimento, a introspecção de requisitos de software surge como uma prática essencial. Neste documento, propomos uma análise abrangente que aborde os objetivos específicos do projeto, esclareça os requisitos funcionais e não-funcionais essenciais, considere possíveis restrições, avalie os riscos pertinentes e estabeleça um cronograma estruturado. Através dessa abordagem reflexiva, buscamos oferecer um guia sólido para o desenvolvimento eficiente do BRB Mobilidade.
+&emsp;&emsp;O BRB Mobilidade representa uma peça fundamental na mobilidade urbana, desempenhando um papel crucial no transporte do Distrito Federal. Para garantir o sucesso de seu desenvolvimento, a introspecção de requisitos de software surge como uma prática essencial. Neste documento, propomos uma análise abrangente que aborde os objetivos específicos do projeto, esclareça os requisitos funcionais e não-funcionais essenciais, considere possíveis restrições, avalie os riscos pertinentes e estabeleça um cronograma estruturado. Através dessa abordagem reflexiva, buscamos oferecer um guia sólido para o desenvolvimento eficiente do BRB Mobilidade.
 </p>
 
 ## **Metodologia**
@@ -58,15 +58,11 @@ Tabela 2: Requisitos não funcionais.
 | RNF16  | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 |              |
 | RNF17  | Deve ser de código aberto e gratuito.                                                                  | IS18 |              |
 
-<div style="text-align: center">
-    <p> <b>Tabela 1</b>: Tabela dos Requisitos Elicitados. (Fonte: Miguel de Frias e Guilherme Basilio, 2023).</p>
-</div>
-
 ## **Bibliografia**
 
->SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
+>[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
 
->1library. Engenharia de Requisitos. Disponívem em: https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq. Acesso em: 03 de outubro 2023.
+>[2] 1library. Engenharia de Requisitos. Disponívem em: https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq. Acesso em: 03 de outubro 2023.
 
 
 ## **Histórico de Versões**

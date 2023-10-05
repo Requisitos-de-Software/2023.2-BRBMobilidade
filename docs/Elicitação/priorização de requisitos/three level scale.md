@@ -69,6 +69,10 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RNF03  | O aplicativo deve ser otimizado | Q12 | Sim | Alta |
 | RNF03  | O aplicativo deve ter atualização imediata de saldo | Q12 | Não | Alta |
 
+<div style="text-align: center">
+    <p> <b>Tabela 1</b>: Tabela dos Requisitos Priorizados.</p>
+</div>
+
 ## Link do vídeo com o usuário Pedro Vitor:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a4opWvuXpu8?si=xWJMdyssCwrtO3-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -75,7 +75,9 @@ Tabela 1 - Tabela com requisitos elicitados e suas prioridades.
 | RNF03  | Eu, como usuário, espero que o aplicativo seja otimizado para um desempenho suave. | Q12 | Could |
 | RNF03  | Eu, como usuário, quero que o saldo do meu cartão seja atualizado imediatamente após recargas. | Q12 | Should |
 
-Tabela 1 -Tabela de priorização MoSCoW
+<div style="text-align: center">
+    <p> <b>Tabela 1</b>: Tabela dos Requisitos Priorizados.</p>
+</div>
 
 ## **Bibliografia**
 > [1] "Aprender 3", Disponivel em: [link](https://aprender3.unb.br/course/view.php?id=19953), acesso em 04 de Outubro de 2023
