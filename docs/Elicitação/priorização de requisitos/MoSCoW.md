@@ -26,7 +26,9 @@ Nesse sentido, a ordem de importância das tarefas vai seguindo uma ordem decres
 
 Tabela 1 - Tabela com requisitos elicitados e suas prioridades.
 
-
+- INT : Introspecção
+- QTR : Questionário
+- OBS : Observação 
 
 | requisito | funcionalidade | prioridade |
 |----------|----------|----------|
