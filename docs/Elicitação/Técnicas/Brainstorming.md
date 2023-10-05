@@ -59,6 +59,11 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
     <p> <b>Tabela 1</b>: Tabela dos Requisitos Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
 </div>
 
+## **Acesso da reunião**
+<iframe width="560" height="315" src=https://www.youtube.com/watch?v=9KiT2ZjN6SM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 ## **Bibliografia**
 
 - SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
