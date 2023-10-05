@@ -25,6 +25,7 @@ Tabela 1: Padrão
 ## **Funcionais** 
 
 Tabela 2: Requisitos funcionais
+
 | Tipo   | Funcionalidade                                       | ID   | Implementado |
 | :---:  | :--------------------------------------------------: | :---: | :----------: |
 | RF01   | Deve ser capaz de consultar o extrato               | OBS01 |     Sim      |
