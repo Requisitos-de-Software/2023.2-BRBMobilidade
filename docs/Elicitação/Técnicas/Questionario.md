@@ -121,7 +121,7 @@ Dada algumas opções, o usuário pode sugerir algumas melhorias propostas no qu
 <br><br>
 </center>
 
-**Funcionalidades**
+### **Funcionalidades**
 
 Avaliação do usuário á cerca das funcionalidades propostas.
 
@@ -131,7 +131,7 @@ Avaliação do usuário á cerca das funcionalidades propostas.
 <br><br>
 </center>
 
-## **Perguntas abertas**
+### **Perguntas abertas**
 <center>
 <img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/assets%20/image%20(11).png" width = 700px>
 <p>Figura11: Pergunta 11, Perguntas Abertas</p>
