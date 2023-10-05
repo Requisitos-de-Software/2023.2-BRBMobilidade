@@ -3,7 +3,7 @@
 ## **Introdução**
 
 <p style="text-align: justify;">
-&emsp;&emsp;O BRB Mobilidade representa uma peça fundamental na mobilidade urbana, desempenhando um papel crucial np transporte do Distrito Federal. Para garantir o sucesso de seu desenvolvimento, a introspecção de requisitos de software surge como uma prática essencial. Neste documento, propomos uma análise abrangente que aborde os objetivos específicos do projeto, esclareça os requisitos funcionais e não-funcionais essenciais, considere possíveis restrições, avalie os riscos pertinentes e estabeleça um cronograma estruturado. Através dessa abordagem reflexiva, buscamos oferecer um guia sólido para o desenvolvimento eficiente do BRB Mobilidade.
+&emsp;&emsp;O BRB Mobilidade representa uma peça fundamental na mobilidade urbana, desempenhando um papel crucial no transporte do Distrito Federal. Para garantir o sucesso de seu desenvolvimento, a introspecção de requisitos de software surge como uma prática essencial. Neste documento, propomos uma análise abrangente que aborde os objetivos específicos do projeto, esclareça os requisitos funcionais e não-funcionais essenciais, considere possíveis restrições, avalie os riscos pertinentes e estabeleça um cronograma estruturado. Através dessa abordagem reflexiva, buscamos oferecer um guia sólido para o desenvolvimento eficiente do BRB Mobilidade.
 </p>
 
 ## **Metodologia**
