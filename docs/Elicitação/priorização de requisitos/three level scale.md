@@ -6,9 +6,9 @@ Com os requisitos elicitados, podemos fazer a técnica de priorização Three Le
 ## Metodologia
 Fazendo uma reunião com o usuário, temos aspectos previstos em cada requisito listado pelos metodos de elicitação feitos pelo grupo, levando em conta sua prioridade e por consequencia seu nivel de importancia para a aplicação. sendo elas: 
 
-Alta: Requisitos importantes e urgentes que deviam ser implementados o quanto antes
-Média: Requisitos importantes sem grau de urgencia que deviam ser implementados
-Baixa: Requisitos sem grau de importancia e urgencia que podem sua implementação pode ser postergada
+- Alta: Requisitos importantes e urgentes que deviam ser implementados o quanto antes
+- Média: Requisitos importantes sem grau de urgencia que deviam ser implementados
+- Baixa: Requisitos sem grau de importancia e urgencia que podem sua implementação pode ser postergada
 
 
 ## Usuário
@@ -26,44 +26,57 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 - BRAN: Requisitos Brainstorm
 
 
-| Tipo   | Descrição   | ID   | Prioridade |
-|--------|------------------|------|--------------|
-| RF01   | O aplicativo possui mecanismo de visualização do saldo   | Q01  |              |
-| RF02   | O aplicativo acessa o histórico de acessos    | Q02  |              |
-| RF03   | O aplicativo tem meios de mecanismo de bloqueio de cartões     | Q03  |              |
-| RF04   | O aplicativo tem meios de mecanismo de desbloqueio de cartões  | Q04  |            |
-| RF05   | O aplicativo concede acesso as paradas próximas        | Q05  |          |
-| RF06   | O aplicativo concede visualização a quantidade de passes    | Q06  |              |
-| RF07   | O aplicativo tem opção de pagamento via cartão de crédito| Q07  |              |
-| RF08   | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado          | Q08  |              |
-| RF09   | O aplicativo mostra o histórico de transportes pego pelo usuário ao longo do seu uso       | Q09  |              |
-| RF10   | O aplicativo deve fornecer notificações de depósito ao usuário     | Q10  |         |
-| RF10 | Deve ser capaz de consultar o extrato | OBS01 |  |
-| RF11 | O aplicativo deve permitir a vizualição de linhas e horário |  OBS02  |    |
-| RF12 | Deve ser possível fazer a recarga do saldo | OBS03 |  |
-| RF13 | Deve ser possível salvar rotas | OBS04 |   | 
-| RF14 | Deve ser possível alterar informações de cadastro  | OBS05 |  |
-| RF15 | O aplicativo deve fornecer uma seção de comunicação direta  | OBS06 |  |
-| RF16 | O aplicativo deve fornercer ajuda com perguntas frequentes  | OBS07 |  |
-| RF17 | Deve ser possível acessar informações sobre o histórico de atividades | OBS08 |  |
-| RF18 | Deve ser possível solicitar uma 2°via do cartão desejado | OBS09 |  |
-| RF19 | O aplicativo deve fornercer ajuda com perguntas frequentes  | OBS10 |  |
-| RF20 | Consultar saldo e extrato de uso do cartão de mobilidade. | INT01 | |
-| RF21 | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. |INT02  | 
-| RF22 | Realizar recargas de créditos no cartão. | INT03 | 
-| RF23 | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | INT04 | 
-| RF24 | Suportar informações em tempo real sobr o status dos transportes públicos. | INT05 | 
-| RF25 | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | INT06 | 
-| RF26 | O aplicativo permite cadastrar métodos de pagamento. | INT07 |
-| RF27 | Deve ser possível personalizar a aparência da interface do usuário. | INT08 |
-| RF28 | O usuário deve ser capaz de realizar cadastro | INT09 |
-| RF29 | O usuário deve ser capaz de realizar login | INT10 |
-| RF30 | O usuário deve fornecer sua localização | INT11 |
+| Tipo   | Funcionalidade                                       | ID   | Implementado | Prioridade |
+| :---:  | :--------------------------------------------------: | :---: | :----------: | :--------: |
+| RF01   | Consultar saldo e extrato de uso do cartão de mobilidade. | IS01 | Sim | Alta |
+| RF02   | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. | IS02 | Sim | Alta |
+| RF03   | Realizar recargas de créditos no cartão. | IS03 | Sim | Alta |
+| RF04   | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04 |  | Baixa |
+| RF05   | Suportar informações em tempo real sobre o status dos transportes públicos. | IS05 |  | Média |
+| RF06   | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | IS06 |  | Média |
+| RF07   | O aplicativo deve permitir cadastrar métodos de pagamento. | IS08 |  | Média |
+| RF08   | Deve ser possível personalizar a aparência da interface do usuário. | IS09 |  | Baixa |
+| RF09   | O usuário deve ser capaz de realizar cadastro | IS10 |  | Alta |
+| RF10   | O usuário deve ser capaz de realizar login | IS11 |  | Alta |
+| RF11   | O usuário deve fornecer sua localização | IS12 |  | Média |
+| RF01   | Deve ser capaz de consultar o extrato | OBS01 | Sim | Média |
+| RF02   | O aplicativo deve permitir a visualização de linhas e horários | OBS02 | Sim | Alta |
+| RF03   | Deve ser possível fazer a recarga do saldo | OBS03 | Sim | Alta |
+| RF04   | Deve ser possível salvar rotas | OBS04 | Sim | Baixa |
+| RF05   | Deve ser possível alterar informações de cadastro | OBS05 | Sim | Alta |
+| RF06   | O aplicativo deve fornecer uma seção de comunicação direta | OBS06 | Sim | Média |
+| RF07   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS07 | Sim | Média |
+| RF08   | Deve ser possível acessar informações sobre o histórico de atividades | OBS08 | Sim | Média |
+| RF09   | Deve ser possível solicitar uma 2ª via do cartão desejado | OBS09 | Sim | Média |
+| RF10   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS10 | Sim | Alta |
+| RNF12  | Garantir compatibilidade com sistemas operacionais Android e iOS. | IS13 |  | Alta |
+| RNF13  | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. | IS14 |  | Alta |
+| RNF14  | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | IS15 |  | Alta |
+| RNF15  | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. | IS16 |  | Alta |
+| RNF16  | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 |  | Alta |
+| RNF17  | Deve ser de código aberto e gratuito. | IS18 |  | Média |
+| RF01   | O aplicativo possui mecanismo de visualização do saldo | Q01 | Sim | Alta |
+| RF02   | O aplicativo acessa o histórico de acessos | Q02 | Sim | Baixa |
+| RF03   | O aplicativo tem meios de mecanismo de bloqueio de cartões | Q03 | Não | Média |
+| RF04   | O aplicativo tem meios de mecanismo de desbloqueio de cartões | Q04 | Não | Média |
+| RF05   | O aplicativo concede acesso às paradas próximas | Q05 | Não | Alta |
+| RF06   | O aplicativo concede visualização a quantidade de passes | Q06 | Não | Alta |
+| RF07   | O aplicativo tem opção de pagamento via cartão de crédito | Q07 | Não | Alta |
+| RF08   | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado | Q08 | Não | Média |
+| RF09   | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso | Q09 | Não | Baixa |
+| RF10   | O aplicativo deve fornecer notificações de depósito ao usuário | Q10 | Sim | Alta |
+| RNF01  | O aplicativo deve fornecer segurança ao usuário com dados cadastrados | Q11 | Sim | Alta |
+| RNF02  | O aplicativo deve rastrear os ônibus via GPS | Q12 | Sim | Média |
+| RNF03  | O aplicativo deve ser otimizado | Q12 | Sim | Alta |
+| RNF03  | O aplicativo deve ter atualização imediata de saldo | Q12 | Não | Alta |
 
+## Link do vídeo com o usuário Pedro Vitor:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4opWvuXpu8?si=xWJMdyssCwrtO3-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **Histórico de versões** 
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 04/10/2023 | Versão Inicial          | Doan Filho e Caio Lelis     |     |
+| 1.0    | 04/10/2023 | Versão Inicial          | Doan Filho e Caio Lelis     |    |
+| 1.1    | 04/10/2023 | Gravação three level scale | Doan Filho e Caio Lelis     |    |
