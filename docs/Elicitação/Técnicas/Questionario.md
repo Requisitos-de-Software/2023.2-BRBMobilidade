@@ -169,4 +169,4 @@ Tabela 2: Requisitos não funcionais.
 |--------|------------|----------------------|----------------|--------------- |
 | 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho     |     |
 | 1.1    | 03/10/2023 | Trazendo Graficos iniciais e Termo de Consentimento    | Doan Filho    |     |
-| 1.2    | 04/10/2023 |  Adição de imagens e elicitação de requisitos  | Doan Filho e Caio Lelis    |     |
+| 1.2    | 04/10/2023 |  Adição de imagens e elicitação de requisitos  | Doan Filho e Caio Lelis    | Caio Lelis |

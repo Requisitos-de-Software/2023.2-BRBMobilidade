@@ -34,4 +34,4 @@ A satisfação do usuário desempenha um papel crítico na aceitação e adoçã
 
 | Versão | Data       | Descrição            | Autor          | Revisor          |
 |--------|------------|----------------------|----------------|----------------  |
-| 1.0    | 04/10/2023 | priorização de requisitos   | Caio Lelis  |              |
+| 1.0    | 04/10/2023 | priorização de requisitos   | Caio Lelis  |     Doan Filho         |
