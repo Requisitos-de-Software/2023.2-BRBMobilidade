@@ -3,30 +3,31 @@
 
 Um Rich Picture (imagem rica, em tradução livre) é uma representação visual, muitas vezes desenhada à mão, que captura de forma abstrata e multifacetada um sistema complexo, situação ou problema. Geralmente utilizado em contextos de análise de sistemas, gerenciamento de projetos e resolução de problemas, um Rich Picture incorpora elementos gráficos, símbolos e anotações para mostrar as interações entre pessoas, processos, tecnologias e fatores ambientais. Ele ajuda a esclarecer a compreensão de um sistema complexo e serve como uma ferramenta de comunicação para envolver partes interessadas na análise e solução de problemas.
 
-## **Rich Picture do BRB Mobilidade**
+<br>
 
-Esse é o Rich Picture que representa os atores, armazenamento, fluxos, funcionalidades e limites do sistema do BRB Mobilidade
+### Diagrama
 
-![Rich Picture](img/RichPictureDiagrama.jpg)
+![Rich Picture](img/richPicture.png)
 
-
-
-
-## **Componentes do Rich Picture**
-
-Esses são os componentes mais representativos do nosso Rich Picture.
-
-![Descricao](img/RichPictureAtoresDescricao.jpg)
+<center>
+    <p> Figura 1: Rich Picture do BRB Mobilidade.Fonte: Caio Braga</p>
+</center>
+<br>
 
 
 
 
-
-## **Descrição de Rich Picture**
+### **Componentes do Rich Picture**
 
 Encontra-se acima uma breve explicação sobre os principais componentes que estruturam o Rich Picture, para facilitar no entendimento.
+<br><br>
+<center>
 
-![Componentes](img/RichPictureComponentes.jpg)
+![Descricao](img/componentesRichPicture.png)
+
+<p> Figura 1: Componentes do Rich Picture do BRB Mobilidade.Fonte: Caio Braga</p>
+</center>
+<br><br>
 
 
 
