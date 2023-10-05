@@ -15,7 +15,7 @@
 ## **Tabela de Requisitos**
 
 <p style="text-align: justify;">
-&emsp;&emsp;A tabela abaixo apresenta os requisitos de software identificados durante a introspecção do projeto BRB Mobilidade. Cada requisito recebeu uma identificação específica no formato 'INT' seguido por um número, e foi detalhadamente descrito. Além disso, cada requisito foi categorizado como um dos seguintes:
+&emsp;&emsp;A tabela abaixo apresenta os requisitos de software identificados durante a introspecção do projeto BRB Mobilidade. Cada requisito recebeu uma identificação específica no formato 'IS' seguido por um número, e foi detalhadamente descrito. Além disso, cada requisito foi categorizado como um dos seguintes:
 </p>
 
 
@@ -72,4 +72,4 @@ Tabela 2: Requisitos não funcionais.
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|:----------:|----------------------|----------------|--------------- |
-| `1.0`  | 01/10/2023 | Criando o artefato | [Miguel de Frias](https://github.com/migueldefrias), [Guilherme Basilio](https://github.com/GuilhermeBES) | [Doan Filho](https://github.com/FilhoDoan) |
+| `1.0`  | 01/10/2023 | Criando o artefato | Miguel de Frias, Guilherme Basilio | Doan Filho |
