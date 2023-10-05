@@ -10,13 +10,9 @@
 </p>
 
 
-<details>
-
-<summary>
 
 ## **Cronograma Geral**
 
-</summary>
 
 &emsp;&emsp;A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 
@@ -35,15 +31,10 @@
     <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-</details>
 
-<details>
-
-<summary>
 
 ## **Entrega 1**
 
-</summary>
 
 ### **Planejado**
 
@@ -89,16 +80,10 @@
     <p> <b>Tabela 3</b>: Tarefas realizadas na Entrega 1. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-</details>
 
-
-<details>
-
-<summary>
 
 ## **Entrega 2** 
 
-</summary>
 
 ### **Planejado**
 
@@ -147,16 +132,10 @@
     <p> <b>Tabela 5</b>: Tarefas realizadas na Entrega 2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-</details>
 
-
-<details>
-
-<summary>
 
 ## **Entrega 3**
 
-</summary>
 
 ### **Planejado**
 
@@ -177,18 +156,11 @@
     <p> <b>Tabela 6</b>: Tarefas planejadas para a Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### **Executado**
 
-</details>
-
-
-<details>
-
-<summary>
 
 ## **Entrega 4**
 
-</summary>
+
 
 ### **Planejado**
 
@@ -208,18 +180,10 @@
     <p> <b>Tabela 8</b>: Tarefas planejadas para a Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### **Executado**
 
-</details>
-
-
-<details>
-
-<summary>
 
 ## **Entrega 5.1**
 
-</summary>
 
 ### **Planejado**
 
@@ -239,18 +203,10 @@
     <p> <b>Tabela 10</b>: Tarefas planejadas para a Entrega 5.1. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### **Executado**
 
-</details>
-
-
-<details>
-
-<summary>
 
 ## **Entrega 6**
 
-</summary>
 
 ### **Planejado**
 
@@ -269,18 +225,11 @@
     <p> <b>Tabela 12</b>: Tarefas planejadas para a Entrega 6. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### **Executado**
-
-</details>
 
 
-<details>
-
-<summary>
 
 ## **Entrega 5.2**
 
-</summary>
 
 ### **Planejado**
 
@@ -300,18 +249,10 @@
     <p> <b>Tabela 14</b>: Tarefas planejadas para a Entrega 5.2. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### **Executado**
 
-</details>
-
-
-<details>
-
-<summary>
 
 ## **Entrega 7/Final**
 
-</summary>
 
 ### **Planejado**
 
@@ -329,9 +270,8 @@
     <p> <b>Tabela 16</b>: Tarefas planejadas para a Entrega 7. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
-### **Executado**
 
-</details>
+
 
 ## **Bibliografia**
 
