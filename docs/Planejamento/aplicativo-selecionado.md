@@ -2,7 +2,7 @@
 
 ## **BRB Mobilidade**
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/arruma-appSelecionado/docs/Planejamento/img/BRB-mobilidade.png" style="width:20vw"/>
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Planejamento/img/BRB-mobilidade.png" style="width:20vw"/>
     <p> Figura 1: Imagem BRB Mobilidade . Fonte: <a href="https://mobilidade.brb.com.br/passelivre/pages/index.xhtml">BRB Mobilidade</a></p> 
 </div>
 <p>
@@ -30,5 +30,4 @@ Nossa decisão foi tomada com o apoio de todos os membros do grupo. Cada membro 
 ### **Histórico de Versões**
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.0    | 23/09/2023 | Reconstruindo page app selecionado|  [Caio Lelis](https://github.com/caio-lelis) |               |
----
+| 1.0    | 23/09/2023 | Reconstruindo page app selecionado|  Caio Lelis |    Doan Filho           |
