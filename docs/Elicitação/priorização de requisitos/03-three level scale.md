@@ -23,7 +23,6 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 - OBS : Requisitos de Observação
 - QTN : Requisitos Questionário
 - INT : Requisitos Introspecção
-- BRAN: Requisitos Brainstorm
 
 
 | Tipo   | Funcionalidade                                       | ID   | Implementado | Prioridade |
@@ -69,6 +68,10 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RNF02  | O aplicativo deve rastrear os ônibus via GPS | Q12 | Sim | Média |
 | RNF03  | O aplicativo deve ser otimizado | Q12 | Sim | Alta |
 | RNF03  | O aplicativo deve ter atualização imediata de saldo | Q12 | Não | Alta |
+
+<div style="text-align: center">
+    <p> <b>Tabela 1</b>: Tabela dos Requisitos Priorizados.</p>
+</div>
 
 ## Link do vídeo com o usuário Pedro Vitor:
 

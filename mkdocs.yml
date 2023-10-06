@@ -1,5 +1,10 @@
 site_name: BRB Mobilidade
+repo_url: https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade
+repo_name: 2023.2-BRBMobilidade
+
 theme:
+  icon:
+   repo: fontawesome/brands/git-alt
   logo: Planejamento/img/LogoBRBMOBILIDADE.png
   name: material
   features:

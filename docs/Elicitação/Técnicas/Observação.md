@@ -3,7 +3,7 @@
 ## **Introdução**
 
 <p style="text-align: justify;">
-A técnica de elicitação de requisitos por observação consiste em assistir o usuário interagir com o sistema. Através dessa observação, o grupo pode identificar necessidades, lacunas, fluxos de trabalho e possíveis melhorias no sistema, o que contribui para uma definição mais precisa e completa dos requisitos do software. Após coletar informações sobre os requisitos do aplicativo [BRB-Mobilidade](https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/blob/main/docs/Planejamento/aplicativo-selecionado.md), o observador deve organizar e rotular as mesmas.
+A técnica de elicitação de requisitos por observação consiste em assistir o usuário interagir com o sistema. Através dessa observação, o grupo pode identificar necessidades, lacunas, fluxos de trabalho e possíveis melhorias no sistema, o que contribui para uma definição mais precisa e completa dos requisitos do software. Após coletar informações sobre os requisitos do aplicativo, o observador deve organizar e rotular as mesmas.
 </p>
 
 ## **Processo de Observação**
@@ -17,15 +17,21 @@ Para a elicitação, foi passado previamente préviamente uma série de tarefas 
 
 ## **Requisitos Elicitados**
 
-Tabela 1: Padrão
+<center>
+
+Tabela 1: Padrão da tabela
+
 | Código | Significado |
-| :--: | :--: |
+| :---: | :---: |
 | RFxx | Requisito funcional n°xx |
 | RNFxx | Requisito não funcional n°xx | 
 | OBSxx | Requisito elicitado por Observação n°xx |
 
+</center>
 
 ## **Funcionais** 
+
+<center>
 
 Tabela 2: Requisitos funcionais
 
@@ -42,9 +48,11 @@ Tabela 2: Requisitos funcionais
 | RF09   | Deve ser possível solicitar uma 2ª via do cartão desejado | OBS09 |     Sim      |
 | RF10   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS10 |     Sim      |
 
-
+</center>
 
 ## **Não funcionais**
+
+<center>
 
 Tabela 2: Requisitos não funcionais
 
@@ -56,11 +64,12 @@ Tabela 2: Requisitos não funcionais
 | RNF04  | Deve ser possível acompanhar a rota e o trajeto do ônibus num período de tempo e data selecionado | OBS14 |     Sim      |
 | RNF05  | Deve apresentar uma interface que facilita a prevenção de erros | OBS15 |     Sim      |
 
+</center>
 
 
 ## **Bibliografia**
 
-> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf> Acesso em 3 de outubro de 2023
+>SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. **UnB Gama**, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf> Acesso em 3 de outubro de 2023
 
 ## **Histórico de versões**
 
