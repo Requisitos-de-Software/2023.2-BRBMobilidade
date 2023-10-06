@@ -69,6 +69,6 @@ ISx: Requisito nºx elicitado pela introspecção.
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|:----------:|----------------------|----------------|--------------- |
-| `1.0`  | 01/10/2023 | Criando o artefato | Miguel de Frias, Guilherme Basilio | Doan Filho |
+| 1.0  | 01/10/2023 | Criando o artefato | Miguel de Frias, Guilherme Basilio | Doan Filho |
 
 

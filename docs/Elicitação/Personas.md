@@ -91,16 +91,16 @@ Tabela 5: Quarta persona. (SOARES, Joel 2023)
 
 ## **Bibliografia**
 
-> [1] This Person Doest Not Exist. Acesso em: 04/10/2023. Disponível em: https://this-person-does-not-exist.com/en
+- This Person Doest Not Exist. Acesso em: 04/10/2023. Disponível em: https://this-person-does-not-exist.com/en
 
->[2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
->[3]About Face 3: The Essentials of Interaction Design, Third Edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692763/mod_resource/content/1/About_Face_3__The_Essentials_of_Interaction_Design.pdf. Acessado em 4 de outro de 2023
+- About Face 3: The Essentials of Interaction Design, Third Edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692763/mod_resource/content/1/About_Face_3__The_Essentials_of_Interaction_Design.pdf. Acessado em 4 de outro de 2023
 
->[4] Personas. Acesso em: 04/10/2023. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html
+- Personas. Acesso em: 04/10/2023. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html
 
 ## **Histórico de versão**
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 04/10/2023 | Criação do documento | Gabriel Barbosa | 04/10/2023 | Joel Soares |
+| 1.0 | 04/10/2023 | Criação do documento | Gabriel Barbosa | 04/10/2023 | Joel Soares |

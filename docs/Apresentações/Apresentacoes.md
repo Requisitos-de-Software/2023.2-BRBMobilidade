@@ -19,4 +19,4 @@ que vai de 25/08/23 a 23/12/23, contendo o link dos vídeos apresentados
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
 | 1.1    | 20/09/2023 | Adicionando vídeo primeira apresentação|  Doan Filho  | Caio Braga |
-|1.2     | 04/10/2023 |  Adicionando vídeo segunda apresentação | Doan Filho e Caio Lelis |Caio Braga|
+| 1.2     | 04/10/2023 |  Adicionando vídeo segunda apresentação | Doan Filho e Caio Lelis |Caio Braga|

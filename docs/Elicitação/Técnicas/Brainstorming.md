@@ -78,12 +78,13 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 
 ## **Bibliografia**
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
-[2] 1library. Engenharia de Requisitos. Disponívem em: <<https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq.>> Acesso em: 03 de outubro 2023.
+- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
+
+- [2] 1library. Engenharia de Requisitos. Disponívem em: <<https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq.>> Acesso em: 03 de outubro 2023.
 
 
 ## **Histórico de Versões**
 
 | Versão | Data       | Descrição            | Autor          | Revisor        |
 |--------|:----------:|----------------------|----------------|--------------- |
-| `1.0`  | 03/10/2023 | Criando o artefato | Miguel de Frias, Guilherme Basilio e Joel Soares | Miguel de Frias  |
+| 1.0  | 03/10/2023 | Criando o artefato | Miguel de Frias, Guilherme Basilio e Joel Soares | Miguel de Frias  |
