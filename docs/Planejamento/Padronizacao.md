@@ -64,7 +64,7 @@ Aqui temos as tabelas usadas para listar os requisitos elicitados usando as téc
 O cronograma traz detalhadamente todo o planejamento e execução do grupo
 
 
-## **Estrutura do projetos: nome do arquivo, estrutura.**
+### **Estrutura do projetos: nome do arquivo, estrutura.**
 Aqui temos a estruturação do arquivo que iremos trabalhar:
 
 Estrutura:
@@ -72,36 +72,50 @@ Estrutura:
 - Cada pasta representa uma parte da entrega da disciplina
 - pasta "img"-> guarda imagens referentes as entregas
 
-
-
-
-## **Guias Github**
+---
+### **Guias Github**
 
 Aqui teremos alguns guias e padronizações da nossa ferramenta de versionamento Github, trazendo versões da documentação para a plataforma, assim todos podem contribuir de maneira rápida e correta. 
 
-- Issues: estrutura. 
-- Pull Request: estrutura, quando fazer, como fazer. 
-- Branch's: descolamento, criação, relacionamento com issues, importância.
-- Padronização de commit: estrutura, padrões, mensagem. 
-- Comandos Especiais: pull --no-rebase, merge. 
+---
+
+### **Issues:estrutura**
+Issues são feitas para designar tarefas feitas em reuniões para o github, servindo de guia para a resolução de tarefas e questões 
+
+Estrutura:
+#### Descrição 
+- Atributos do projeto
+
+#### Prazo 
+- Entrega : dd/mm
+- Revisão : dd/mm 
+
+---
+### **Pull Request: estrutura, quando fazer, como fazer.** 
+As pull request servem para solicitar a junção da branch criada com a principal,também usado para mecanismo de revisão de código pelo revisar. Sendo feito pelo revisor logo após a suposta revisão 
+
+Estrutura:
+#### **Descrição**
+- branch do pull request, autor e revisor
+
+---
+
+### **Padronização de commit: estrutura, padrões, mensagem.**
+A padronização de commit é importante para a identificação de commit's feitos durante o processo no projeto
+
+Estrutura: git commit -m "docs: Mensagem"
+
+--- 
 
 ### **Markdown e Html**
-
 Aqui teremos guias para o uso das linguagens de marcação
 
-- Markdown: guia, principais conceitos. 
-- Html: tags mais usadas. 
+---
 
+### **Markdown: guia, principais conceitos.** 
+Markdown é a linguagem de marcação mais usada no documento
 
-
-
-
-
-
-
-
-
-
+[Guia markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
 
 ## Referencias Bibliograficas 
