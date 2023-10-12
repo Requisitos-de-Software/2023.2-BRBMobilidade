@@ -85,6 +85,6 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 
 ## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|:----------:|----------------------|----------------|--------------- |
-| 1.0  | 03/10/2023 | Criando o artefato | Miguel de Frias, Guilherme Basilio e Joel Soares | Miguel de Frias  |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criando o artefato |  Miguel de Frias, Guilherme Basilio e Joel Soares  |  03/10/2023  | Miguel de Frias | 04/10/2023 |
