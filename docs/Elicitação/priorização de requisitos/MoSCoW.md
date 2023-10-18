@@ -1,5 +1,6 @@
-# Moscow
-# O que é a técnica MoSCoW?
+# **Moscow**
+
+## **O que é a técnica MoSCoW?**
 
 <p style="text-align: justify;">
 O método MoSCoW é uma técnica de priorização usada na gestão como um todo, análise de negócios, gestão de projetos e desenvolvimento de softwares com o intuito de encontrar um entendimento em comum entre as partes interessadas sobre a importância que elas atribuem a cada requisito.
@@ -84,7 +85,7 @@ Tabela 1 - Tabela com requisitos elicitados e suas prioridades.
 
 ## **Histórico de versões** 
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho e Caio Lelis    |  Caio Lelis   |
-| 1.1    | 04/10/2023 | Adicionando conteúdo          | Joel e Caio Lelis    |  Doan Filho   |
+| Versão | Data       | Descrição            | Autor          | Revisor        | Data de revisão |
+|--------|------------|----------------------|----------------|--------------- |--------------- |
+| 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho e Caio Lelis    |  Caio Lelis   |  |
+| 1.1    | 04/10/2023 | Adicionando conteúdo          | Joel e Caio Lelis    |  Doan Filho   |  |
