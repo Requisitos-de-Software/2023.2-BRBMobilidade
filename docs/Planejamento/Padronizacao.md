@@ -17,7 +17,21 @@ Os **subtitulos** são definidos para informar os tópicos do documento sendo de
 # **Nome do título**
 ## **Nome do Subtítulo**
 ---
+
+### Legendas de Figuras/Tabelas/Etc
+
+Colocar logo abaixo (saltando uma linha no markdown), a seguinte estrutura:
+
+<div style="text-align: center">
+    <p> <b> Tabela X ou Figura X </b> : Descrição breve. (Fonte: Fulano de Tal, 2023).</p>
+</div>
+
+
+
+
+
 ### **Histórico de versão: estrutura, versionamento, autores, revisores e datas.**
+
 Trazendo informações sobre o versionamento do documento possuindo informações sobre: Versão, data que foi versionado, descrição, autor, revisor e data de revisao
 
 
@@ -55,7 +69,7 @@ Estrutura:
 Aqui temos as tabelas usadas para listar os requisitos elicitados usando as técnicas de elicitação
 
 | Tipo   | Funcionalidade   | ID   | Implementado |
-|--------|------------------|------|--------------|
+|--------|------------------|:----:|--------------|
 | Tipo de requisito | funcionalidade | Identificação da técnica usada  | se foi implementado |
 
 ---
@@ -118,7 +132,7 @@ Markdown é a linguagem de marcação mais usada no documento
 [Guia markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
 
-## Referencias Bibliograficas 
+## **Referencias Bibliograficas**
 
 >[1] Raphael Pires, **Qual a importância da padronização de documentos?**, Disponível em: <https://rockcontent.com/br/blog/padronizacao-de-documentos/>, Acesso em : 06 de Outubro de 2023.
 
@@ -127,6 +141,9 @@ Markdown é a linguagem de marcação mais usada no documento
 >[3] Even3, **Referência bibliográfica: como fazer e qual a sua importância**, Discponível em: <https://blog.even3.com.br/referencia-bibliografica-como-fazer-e-qual-a-sua-importancia/>, Acesso em : 07 de Outubro de 2023
 
 >[4] Daniela Diana, **Bibliografia**, Disponível em: <https://www.todamateria.com.br/bibliografia/>, Acesso em: 07 de Outrubro de 2023
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 06/10/2023 | Trazendo estrutura da página          | Doan Filho     | 
+
+## **Histórico de Versões**
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+| 1.0    | Trazendo estrutura da página  | Doan Filho | 06/10/2023 | Miguel de Frias | 17/10/2023 |
