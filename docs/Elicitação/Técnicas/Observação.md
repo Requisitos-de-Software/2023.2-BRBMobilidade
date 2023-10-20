@@ -73,7 +73,6 @@ Tabela 2: Requisitos não funcionais
 
 ## **Histórico de versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        | Data de revisão | 
-|--------|------------|----------------------|----------------|--------------- | --------------- |
-| 1.0 | 03/10/2023 | Criação do artefato  | Gabriel Barbosa |              |    Doan Filho              |
-
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criando observação | Gabriel Barbosa |   03/10/2023   |  Guilherme Basilio  |       04/10/2023      |

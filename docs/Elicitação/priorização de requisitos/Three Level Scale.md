@@ -79,7 +79,6 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 
 ## **Histórico de versões** 
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 04/10/2023 | Versão Inicial          | Doan Filho e Caio Lelis     |    |
-| 1.1    | 04/10/2023 | Gravação three level scale | Doan Filho e Caio Lelis     |    |
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criando Three Level  | Doan Filho e Caio Lelis  |   03/10/2023   |  Caio Braga  |       04/10/2023      |

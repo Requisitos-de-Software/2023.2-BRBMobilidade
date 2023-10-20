@@ -84,7 +84,6 @@ Tabela 1 - Tabela com requisitos elicitados e suas prioridades.
 
 ## **Histórico de versões** 
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho e Caio Lelis    |  Caio Lelis   |
-| 1.1    | 04/10/2023 | Adicionando conteúdo          | Joel e Caio Lelis    |  Doan Filho   |
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criando MosCow | Doan Filho e Caio Lelis |   03/10/2023   | Joel Soares  |       04/10/2023      |
