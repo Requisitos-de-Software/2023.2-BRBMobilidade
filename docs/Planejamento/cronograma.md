@@ -281,9 +281,10 @@
 
 ## **Histórico de Versões**
 
-| Versão | Data       |       Descrição      | Autor | Revisor |
-|:------:|:----------:|----------------------|-------|---------|
-| 1.0 | 18/09/2023 | Adicionando tópicos e estrutura base|  Doan Filho | Miguel de Frias |
-| 1.1 | 18/09/2023 | Planejamento Entrega 01|  Doan Filho e Miguel de Frias | Miguel de Frias, Doan Filho e Guilherme Basilio |
-| 1.2 | 25/09/2023 | Atualização do Cronograma | Miguel de Frias  | Doan Filho, Guilherme Basilio |
-| 2.0 | 03/10/2023 | Add Realizado entrega 1 e 2 | Miguel de Frias  | Doan Filho |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   |  Planejamento entrega 01                 | Doan Filho e Miguel Matos      | 18/09/2023        | Guilherme Baisilio  | 25/09/2023    |
+|  1.1   |  Adicionando entregas realizada 01                 |  Miguel Matos   | 25/09/2023      | Doan Filho | 28/09/2023 |
+|  1.2   |  Adicionando entregas planejadas  02 até 07                  |  Miguel Matos   | 27/09/2023      | Doan Filho  | 01/09/2023 |
+|  1.3   |  Adicionando entrega realizada 02  |  Miguel Matos   | 30/09/2023     | Doan Filho  | 01/10/2023 |
+|  2.0   |  Refatorando cronograma               |  Miguel Matos   | 04/10/2023      | Doan Filho  | 04/10/2023 |

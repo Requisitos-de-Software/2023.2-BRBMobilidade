@@ -34,7 +34,7 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 
 #### **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 14/09/2023 | Criação do documento e adição de ferramentas   | [Gabriel Barbosa](https://github.com/gabrie1barbosa)| [Caio Lelis](https://github.com/caio-lelis) |
-|1.1     | 19/09/2023 | Atualização de ferramentas e logos | [Caio Lelis](https://github.com/caio-lelis) | [Gabriel Barbosa](https://github.com/gabrie1barbosa)|
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criação do documento e adição de ferramentas | Gabriel Barbosa | 14/09/2023   | Caio Lelis      |17/09/2023|
+|  1.1   | Atualização de ferramentas e logos           | Caio Lelis      | 19/09/2023   | Gabriel Barbosa |21/09/2023|
