@@ -14,6 +14,10 @@
 ## **Cronograma Geral**
 
 
+
+<div style="text-align: center">
+    <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
+</div>
 &emsp;&emsp;A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 
 | Etapa | Descrição | Atividades | Entrega | Apresentação |
@@ -26,10 +30,6 @@
 |   6   | Pós-rastreabilidade | Gerência de desenvolvimento de software | 20/11 | 21/11 |
 |   5.2 | Análise de requisitos | Verificação e validação 2| 29/11 | 30/11|
 |   7   | Entrega do Projeto | Entrega final e apresentação do projeto| 06/12 |  |
-
-<div style="text-align: center">
-    <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
-</div>
 
 
 
