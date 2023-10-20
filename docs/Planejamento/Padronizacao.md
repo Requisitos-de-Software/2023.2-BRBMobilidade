@@ -18,7 +18,7 @@ Os **subtitulos** são definidos para informar os tópicos do documento sendo de
 ## **Nome do Subtítulo**
 ---
 
-### Legendas de Figuras/Tabelas/Etc
+### **Legendas de Figuras/Tabelas/Etc**
 
 Colocar logo abaixo (saltando uma linha no markdown), a seguinte estrutura:
 
@@ -26,9 +26,7 @@ Colocar logo abaixo (saltando uma linha no markdown), a seguinte estrutura:
     <p> <b> Tabela X ou Figura X </b> : Descrição breve. (Fonte: Fulano de Tal, 2023).</p>
 </div>
 
-
-
-
+---
 
 ### **Histórico de versão: estrutura, versionamento, autores, revisores e datas.**
 
@@ -76,6 +74,13 @@ Aqui temos as tabelas usadas para listar os requisitos elicitados usando as téc
 
 ### **Cronograma: tabelas**
 O cronograma traz detalhadamente todo o planejamento e execução do grupo
+
+
+| Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
+|--------|:--------------------------:|------------|:------------------:|--------|
+| tarefa | Início: dd/mm <br> Fim: dd/mm | pessoa01 | Início: dd/mm <br> Fim: dd/mm| pessoa02 |
+
+sendo o mesmo cronograma para o planejado e executado 
 
 
 ### **Estrutura do projetos: nome do arquivo, estrutura.**
