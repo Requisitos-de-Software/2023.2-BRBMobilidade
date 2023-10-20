@@ -27,5 +27,11 @@ Após uma votação entre os membros, ficou estabelecido que:
 | Versão | Data       | Descrição            | Autor | Revisor |
 |--------|------------|----------------------|-----------------------------------|--------------------------------------|
 | 1.0    | 11/09/2023 | Planejamento Heat Map       | [Caio Lelis](https://github.com/caio-lelis) | [Caio Braga](https://github.com/caioalvesbraga) |
-| 1.1    | 23/09/2023 | Planejamento Heat Map       | [Caio Lelis](https://github.com/caio-lelis) |
+| 1.1    | 23/09/2023 | Refatoração Planejamento Heat Map       | [Caio Lelis](https://github.com/caio-lelis) |
 | 1.2    | 23/09/2023 | Planejamento Heat Map       | [Caio Lelis](https://github.com/caio-lelis) |
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Planejamento Heat Map                 | Caio Lelis   | 11/09/2023   | Caio Braga   | 12/09/2023  |
+|  1.2   | Adição do Rich Picture                | Caio Braga   | 19/09/2023   | Doan Filho   | 20/09/2023  |
+|  1.3   | Adicionando nova versão rich picture  | Caio Braga   | 05/09/2023   | Doan Filho   | 05/09/2023  |
