@@ -1,9 +1,11 @@
-# Three Level Scale 
+# **Three Level Scale** 
 
-## Introdução
+## **Introdução**
+
 Com os requisitos elicitados, podemos fazer a técnica de priorização Three Level Scale que consiste em categorizar os requisitos em 3 status que aumentam de acordo com sua prioridade: alta, média, baixa.
 
-## Metodologia
+## **Metodologia**
+
 Fazendo uma reunião com o usuário, temos aspectos previstos em cada requisito listado pelos metodos de elicitação feitos pelo grupo, levando em conta sua prioridade e por consequencia seu nivel de importancia para a aplicação. sendo elas: 
 
 - Alta: Requisitos importantes e urgentes que deviam ser implementados o quanto antes
@@ -11,11 +13,11 @@ Fazendo uma reunião com o usuário, temos aspectos previstos em cada requisito 
 - Baixa: Requisitos sem grau de importancia e urgencia que podem sua implementação pode ser postergada
 
 
-## Usuário
+## **Usuário**
 
 O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnica de priorização com nosso grupo na data de 04/10/23, com o consentimento de uso de imagem [Termo de Consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EaOMpyry-npLg-Kh0Vrq0KgBRs-Yz9OoPlpqfDuAc-iuwA?e=hWkmJg).Foi realizado uma reunião entre o usuário e o mediador Caio Lelis onde o usuário categorizou os requisitos.
 
-## Requisitos priorizados
+## **Requisitos priorizados**
 
 
 - RF : Requisitos funcionais
@@ -73,7 +75,7 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
     <p> <b>Tabela 1</b>: Tabela dos Requisitos Priorizados.</p>
 </div>
 
-## Link do vídeo com o usuário Pedro Vitor:
+## **Link do vídeo com o usuário Pedro Vitor:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a4opWvuXpu8?si=xWJMdyssCwrtO3-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
