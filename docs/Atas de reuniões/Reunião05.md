@@ -35,9 +35,8 @@ Vimos como está o andamento do grupo em relação ao projeto, revisando e detal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VOF8mK9w_xs?si=WUuHMnIXqDoUxULM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Histórico de Versões
+## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 28/09/2023 | Versão inicial       | Doan Filho     | Joel Soares    |
- 
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão inicial | Doan Filho  |   28/09/2023   | Caio Lelis   | 29/09/2023 |

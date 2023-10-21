@@ -36,10 +36,8 @@ Nos encontramos com o monitor que nos detalhou os artefatos da segunda entrega. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WS4WVgQUKko?si=nMi0IMfWWIVqRKQV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-#### Histórico de Versões
+## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 25/09/2023 | Versão inicial       | Doan Filho    |  Joel Soares    |
-| 1.1    | 28/09/2023 | Revisado             | Doan Filho    |  Joel Soares    |
- 
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão inicial | Doan Filho  |   25/09/2023   | Joel Soares    |       28/09/2023      |

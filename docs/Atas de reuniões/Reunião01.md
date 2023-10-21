@@ -48,14 +48,10 @@ Discutimos sobre o projeto e suas tarefas definindo-as aos membros e por fim con
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vd3OOwGRwXA?si=Iw52fEDkrzrjy18Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Histórico de Versões
+## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 12/09/2023 | Versão inicial       | Doan Filho | Caio Lelis |
-| 1.1    | 14/09/2023 | Ajustes e adição de tópico       | Doan Filho | Caio Lelis|
-| 1.2    | 25/09/2023 | Inclusão do vídeo e ajustes|   Doan Filho   | Joel Soares | 
-| 2.0    | 25/09/2023 | Redefinição de tabelas e Adição de vídeo|  Doan Filho | Joel Soares |
-
----
-
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão inicial | Doan Filho  |   12/09/2023   | Caio Lelis   |       13/09/2023      |
+|  1.1   | Ajustes e adição de tópico | Doan Filho  |   14/09/2023   | Caio Lelis   |       15/09/2023      |
+|  1.2   | Redefinição de tabelas e adição de vídeo  | Doan Filho  |   25/09/2023   | Caio Lelis   | 26/09/2023 |

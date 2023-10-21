@@ -15,8 +15,8 @@ que vai de 25/08/23 a 23/12/23, contendo o link dos vídeos apresentados
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iipCuTyg4fk?si=WntKzZC8vvMgfZ0R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-| Versão | Data       | Descrição            | Autor | Revisor |
-|--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.1    | 20/09/2023 | Adicionando vídeo primeira apresentação|  Doan Filho  | Caio Braga |
-| 1.2     | 04/10/2023 |  Adicionando vídeo segunda apresentação | Doan Filho e Caio Lelis |Caio Braga|
+## **Histórico de versão**
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Adicionando vídeo primeira apresentação | Doan Filho  |   20/09/2023   | Caio Braga  | 20/09/2023 |
+|  1.0   | Adicionando vídeo primeira apresentação | Doan Filho  |   05/10/2023   | Caio Lelis | 05/1/2023 |
