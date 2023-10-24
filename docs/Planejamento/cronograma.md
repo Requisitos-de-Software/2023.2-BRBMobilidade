@@ -14,10 +14,6 @@
 ## **Cronograma Geral**
 
 
-
-<div style="text-align: center">
-    <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
-</div>
 &emsp;&emsp;A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
 
 | Etapa | Descrição | Atividades | Entrega | Apresentação |
@@ -30,7 +26,9 @@
 |   6   | Pós-rastreabilidade | Gerência de desenvolvimento de software | 20/11 | 21/11 |
 |   5.2 | Análise de requisitos | Verificação e validação 2| 29/11 | 30/11|
 |   7   | Entrega do Projeto | Entrega final e apresentação do projeto| 06/12 |  |
-
+<div style="text-align: center">
+    <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 
 ## **Entrega 1**
@@ -173,7 +171,7 @@
 | Cronograma Realizado | Início: 06/10 <br> Fim:   | Miguel de Frias |  Início: 21/10 <br> Fim: 25/10 | Doan Filho |
 | Correções da Entrega 2 | Início: 06/10 <br> Fim:  | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 12/10 <br> Fim: 21/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 <div style="text-align: center">
-    <p> <b>Tabela 6</b>: Tarefas planejadas para a Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
+    <p> <b>Tabela 6</b>: Tarefas realizadas para a Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -307,5 +305,5 @@
 | 1.0 | Adicionando tópicos e estrutura base|  Doan Filho |  18/09/2023 | Miguel de Frias |  18/09/2023 |
 | 1.1 | Planejamento Entrega 01|  Doan Filho e Miguel de Frias | 18/09/2023 | Miguel de Frias e Doan Filho |  18/09/2023 |
 | 1.2 | Atualização do Cronograma | Miguel de Frias | 25/09/2023 | Doan Filho |  25/09/2023 |
-| 2.0 | Add Realizado entrega 1 e 2 | Miguel de Frias | 03/10/2023 | Doan Filho | 04/10/2023 |
-| 3.0 | Add Realizado entrega 3| Miguel de Frias | 23/10/2023 | Doan Filho | |
+| 2.0 | Adição Realizado entrega 1 e 2 | Miguel de Frias | 03/10/2023 | Doan Filho | 04/10/2023 |
+| 3.0 | Adição Realizado entrega 3| Miguel de Frias | 23/10/2023 | Doan Filho | 25/10/2023 |
