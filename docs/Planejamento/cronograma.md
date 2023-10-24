@@ -161,15 +161,15 @@
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
-| Use Cases | Início: 06/10 <br> Fim:  | Gabriel Barbosa, Guilherme Basilio e Caio Braga | Início:  <br> Fim: 25/10 | Joel Soares |
-| Cenários | Início: 06/10 <br> Fim:  | Joel Soares e Miguel de Frias |  Início:  <br> Fim: 25/10 | Guilherme Basilio |
-| Léxico | Início: 06/10 <br> Fim:  | Doan Filho | Início:  <br> Fim: 25/10  | Caio Lelis |
-| Especificação suplementar | Início: 06/10 <br> Fim:  | Caio Lelis e Doan Filho|  Início:  <br> Fim: 25/10 | Gabriel Barbosa |
-| Atualizar Gitpage | Início: 06/10 <br> Fim:  | Caio Braga, Doan Filho e Caio Lelis | Início: 02/ <br> Fim: 25/10| Caio Braga |
-| Gravação da Apresentação | Início:  <br> Fim:  | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 23/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
-| Postagem da Apresentação| Início:  <br> Fim:  | Joel Soares | Início: 23/10 <br> Fim: 25/10 | Miguel de Frias |
-| Cronograma Realizado | Início: 06/10 <br> Fim:   | Miguel de Frias |  Início: 21/10 <br> Fim: 25/10 | Doan Filho |
-| Correções da Entrega 2 | Início: 06/10 <br> Fim:  | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 12/10 <br> Fim: 21/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
+| Use Cases | Início: 06/10 <br> Fim: 25/10 | Gabriel Barbosa, Guilherme Basilio e Caio Braga | Início: 25/10 <br> Fim: 25/10 | Joel Soares |
+| Cenários | Início: 06/10 <br> Fim: 25/10 | Joel Soares e Miguel de Frias |  Início: 25/10 <br> Fim: 25/10 | Guilherme Basilio |
+| Léxico | Início: 06/10 <br> Fim: 25/10 | Doan Filho | Início: 25/10 <br> Fim: 25/10  | Caio Lelis |
+| Especificação suplementar | Início: 06/10 <br> Fim: 25/10 | Caio Lelis e Doan Filho|  Início: 25/10  <br> Fim: 25/10 | Gabriel Barbosa |
+| Atualizar Gitpage | Início: 06/10 <br> Fim: 21/10 | Caio Braga, Doan Filho e Caio Lelis | Início: 21/10 <br> Fim: 25/10| Caio Braga |
+| Gravação da Apresentação | Início: 25/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 25/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
+| Postagem da Apresentação| Início: 25/10 <br> Fim: 25/10 | Joel Soares | Início: 25/10 <br> Fim: 25/10 | Miguel de Frias |
+| Cronograma Realizado | Início: 06/10 <br> Fim: 23/10  | Miguel de Frias |  Início: 23/10 <br> Fim: 25/10 | Doan Filho |
+| Correções da Entrega 2 | Início: 06/10 <br> Fim: 24/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 24/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 <div style="text-align: center">
     <p> <b>Tabela 6</b>: Tarefas realizadas para a Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
 </div>
