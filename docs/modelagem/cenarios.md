@@ -36,6 +36,19 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 <p> Tabela 2: Descrição do cenário 1: "realização de recarga" - (Fonte: SOARES, Joel).</p>
 </div>
 
+### **Cenário 2: Visualização de linhas e horários**
+
+| Elemento   | Descrição                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| Objetivo   | Visualização de linhas e horários no aplicativo BRB Mobilidade                                                                     |
+| Contexto   | Local: Em qualquer lugar, Tempo: durante o dia (de 4:00 até 22:00) <br> Pré-condição - Ter um celular <br> Pré-condição - Ter o aplicativo instalado <br> |
+| Recursos   | Smartphone, internet                                            |
+| Episódios  | Usuário deseja acompanhar o trajeto do seu ônibus; O usuário alcança seu celular; Entra no aplicativo BRB Mobilidades; Efetua o Login com suas credenciais; seleciona a opção linhas e horários; O usuário digita a linha ou o nome do destino; O usuario visualiza as linhas e horários; |
+| Exceção    |Smartphone descarregado; Perda de conexão com a internet; Não possuir cadastro no aplicativo|
+
+<div style="text-align: center">
+<p> Tabela 3: Descrição do cenário 2: "Visualização de linhas e horários" - (Fonte: BASILIO, Guilherme).</p>
+</div>
 
 
 ## **Bibliografia**
@@ -49,3 +62,4 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento de cenarios |   Joel Soares   |   22/10/2023   |  |       dd/mm/yyyy      |
+|  1.1   | Adição do cénario visualização de linhas |   Guilherme Basilio   |   24/10/2023   |  |       dd/mm/yyyy      |
