@@ -14,7 +14,7 @@
 ## **Cronograma Geral**
 
 
-&emsp;&emsp;A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
+&emsp;&emsp;A Tabela 1 mostra todas as Entregas planejadas, com suas respectivas datas previstas.
 
 | Etapa | Descrição | Atividades | Entrega | Apresentação |
 |:-----:|--------|-----------|:------------:|:---------:|
@@ -307,3 +307,4 @@
 | 1.2 | Atualização do Cronograma | Miguel de Frias | 25/09/2023 | Doan Filho |  25/09/2023 |
 | 2.0 | Adição Realizado entrega 1 e 2 | Miguel de Frias | 03/10/2023 | Doan Filho | 04/10/2023 |
 | 3.0 | Adição Realizado entrega 3| Miguel de Frias | 23/10/2023 | Doan Filho | 25/10/2023 |
+| 3.1 | Atualizando datas Realizado entrega 3 | Miguel de Frias | 23/10/2023 | Doan Filho | 25/10/2023 |
