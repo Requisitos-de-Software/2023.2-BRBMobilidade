@@ -33,7 +33,7 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 | Exceção    |Smartphone descarregado; Perda de conexão com a internet; Não possuir cadastro no aplicativo; Não possuir cartões vinculados; Não possuir saldo em sua conta bancária|
 
 <div style="text-align: center">
-<p> Tabela 2: Descrição do cenário 1: "realização de recarga" - (Fonte: SOARES, Joel).</p>
+<p> Tabela 2: Descrição do cenário 1: "Realização de recarga" - (Fonte: SOARES, Joel).</p>
 </div>
 
 ### **Cenário 2: Visualização de linhas e horários**
@@ -78,7 +78,7 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 | Exceção    |  É necessário que o usuário já tenha tido a 1ª via do cartão em algum momento; Celular sem suporte ao aplicativo; Celular sem bateria e internet |
 
 <div style="text-align: center">
-<p> Tabela 6: Descrição do cenário 5: "Solicitar 2ªvia do cartão" - (Fonte: BARBOSA, Gabriel).</p>
+<p> Tabela 5: Descrição do cenário 4: "Solicitar 2ªvia do cartão" - (Fonte: BARBOSA, Gabriel).</p>
 </div>
 
 ### **Cenário 5: Consultar pontos de recarga**
@@ -92,8 +92,24 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 | Exceção    |Smartphone descarregado; Perda de conexão com a internet; Não possuir cadastro no aplicativo; Não possuir cartão|
 
 <div style="text-align: center">
-<p> Tabela 5: Descrição do cenário 4: "Pontos de recarga" - (Fonte: FILHO, Doan).</p>
+<p> Tabela 6: Descrição do cenário 5: "Verificar pontos de recarga" - (Fonte: FILHO, Doan).</p>
 </div>
+
+### **Cenário 6: Consultar extrato de uso**
+
+| Elemento   | Descrição                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| Objetivo   | Permitir que o usuário consulte o consumo mensal do cartão de mobilidade|                                                                    |
+| Contexto   | <p>_Local_ : Tela inicial do aplicativo</p> <p>_Tempo_: Aproximadamente 20 segundos</p> <p>_Pré-condição_ : o usuário necessita estar logado</p>|
+| Recursos   | Acesso à internet<br>Aplicativo do BRB Mobilidade instalado no dispositivo<br>Cartão do BRB Mobilidade |                                           |
+| Episódios  | O usuário seleciona a opção de "Extrato de uso" na página inicial.<br>O usuário seleciona o mês desejado para realizar a consulta.<br>O aplicativo filtra os usos do usuário para o mês selecionado.<br>O aplicativo exibe uma lista de usos mensais do cartão do usuário.|
+| Exceção    |Erro de conexão com a internet.<br>Caso não haja nenhum uso do cartão registrado, o aplicativo deve exibir uma mensagem sinalizando que não há registros para o mês selecionado.|
+
+<div style="text-align: center">
+<p> Tabela 7: Descrição do cenário 6: "Consultar extrato de uso" - (Fonte: BRAGA, Caio).</p>
+</div>
+
+
 
 
 ## **Bibliografia**
