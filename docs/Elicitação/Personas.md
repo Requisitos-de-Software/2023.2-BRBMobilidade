@@ -101,6 +101,6 @@ Tabela 5: Quarta persona. (SOARES, Joel 2023)
 
 ## **Histórico de versão**
 
-| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 1.0 | 04/10/2023 | Criação do documento | Gabriel Barbosa | 04/10/2023 | Joel Soares |
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criação de Personas             | Gabriel Barbosa |   03/10/2023   |  Joel Soares  |       04/10/2023      |

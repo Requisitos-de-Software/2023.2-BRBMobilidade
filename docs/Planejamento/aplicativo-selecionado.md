@@ -28,6 +28,9 @@ Nossa decisão foi tomada com o apoio de todos os membros do grupo. Cada membro 
 > [1] BRB Mobilidade. Disponível em: https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&gl=US
 
 ### **Histórico de Versões**
-| Versão | Data       | Descrição            | Autor | Revisor |
-|--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.0    | 23/09/2023 | Reconstruindo page app selecionado|  Caio Lelis |    Doan Filho           |
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão inicial                      | Caio Lelis   | 17/09/2023   | Doan Filho  | 18/09/2023 |
+|  1.1   | Reconstruindo page app selecionado  | Caio Lelis   | 23/09/2023   | Doan Filho  | 25/09/2023 |
+

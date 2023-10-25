@@ -22,7 +22,9 @@ A equipe responsável pelo planejamento do projeto garante que foi lido e que se
 
 #### **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 18/09/2023 | Criação do documento e adição dos termos de uso   | [Joel Soares](https://github.com/JoelSRangel)|[Guilherme Basilio](https://github.com/GuilhermeBES)| 
-| 1.0    | 28/09/2023 | Refatoração dos termos de uso, adição das imagens   | [Joel Soares](https://github.com/JoelSRangel)|[Guilherme Basilio](https://github.com/GuilhermeBES)| 
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criação do documento e adição dos termos de uso  | Joel Soares    | 18/09/2023   | Guilherme basilio   | 19/09/2023     |
+|  1.1   | Refatoração dos termos de uso, adição de imagens | Joels Soares   | 28/09/2023   | Guilherme Basilio   | 29/09/2023     |
+
+

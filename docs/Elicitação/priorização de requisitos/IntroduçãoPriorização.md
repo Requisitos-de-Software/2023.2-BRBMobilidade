@@ -29,8 +29,9 @@ A satisfação do usuário desempenha um papel crítico na aceitação e adoçã
 > [1] Roger S. Pressman, "Engenharia de Software: Uma Abordagem Profissional". [Link para o livro](https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-software-8a-ed-pressman-compactado.pdf)
 
     
-#### Histórico de Versões
+## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor          |
-|--------|------------|----------------------|----------------|----------------  |
-| 1.0    | 04/10/2023 | priorização de requisitos   | Caio Lelis  |     Doan Filho         |
+
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Priorização de Requisitos| Caio Lelis |   03/10/2023   |  Doan Filho  |       04/10/2023      |

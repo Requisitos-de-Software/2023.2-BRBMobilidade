@@ -24,8 +24,7 @@ Após uma votação entre os membros, ficou estabelecido que:
 
 ### **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor | Revisor |
-|--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.0    | 11/09/2023 | Planejamento Heat Map       | [Caio Lelis](https://github.com/caio-lelis) | [Caio Braga](https://github.com/caioalvesbraga) |
-| 1.1    | 23/09/2023 | Planejamento Heat Map       | [Caio Lelis](https://github.com/caio-lelis) |
-| 1.2    | 23/09/2023 | Planejamento Heat Map       | [Caio Lelis](https://github.com/caio-lelis) |
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Planejamento Heat Map                 | Caio Lelis   | 11/09/2023   | Caio Braga   | 12/09/2023  |
+|  1.1   | Refatoração HeatMap                   | Caio Braga   | 19/09/2023   | Doan Filho   | 25/09/2023  |

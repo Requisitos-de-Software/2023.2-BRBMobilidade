@@ -45,9 +45,8 @@ Vimos sobre como vai ser a dinâmica da segunda entrega e marcamos uma reunião 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftTU7rF3HNQ?si=n4aC8FPyoV3UtMmq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Histórico de Versões
+## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|----------------|
-| 1.0    | 25/09/2023 | Versão inicial        | Doan Filho    | Joel Soares    |
- 
+ | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão inicial | Doan Filho  |   25/09/2023   | Joel Soares    |       26/09/2023      |

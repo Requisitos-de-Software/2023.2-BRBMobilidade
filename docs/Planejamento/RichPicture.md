@@ -30,8 +30,10 @@ Encontra-se acima uma breve explicação sobre os principais componentes que est
 <br><br>
 
 
+### **Histórico de versão**
 
-
-| Versão | Data       | Descrição            | Autor | Revisor |
-|--------|------------|----------------------|-----------------------------------|--------------------------------------|
-| 1.0    | 19/09/2023 | Adição do Rich Picture     |  [Caio Braga](https://github.com/caioalvesbraga) |[Doan Filho](https://github.com/FilhoDoan)|
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.1   | Versão inicial                        | Caio Lelis   | 10/09/2023   | Doan Filho   | 12/09/2023  |
+|  1.2   | Adição do Rich Picture                | Caio Braga   | 19/09/2023   | Doan Filho   | 20/09/2023  |
+|  1.3   | Adicionando nova versão rich picture  | Caio Braga   | 05/09/2023   | Doan Filho   | 05/09/2023  |

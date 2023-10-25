@@ -216,8 +216,7 @@ Tabela 2: Requisitos não funcionais.
 
 ## **Histórico de versões** 
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 03/10/2023 | Trazendo estrutura da página          | Doan Filho     |     |
-| 1.1    | 03/10/2023 | Trazendo Graficos iniciais e Termo de Consentimento    | Doan Filho    |     |
-| 1.2    | 04/10/2023 | Adição de imagens e elicitação de requisitos  | Doan Filho e Caio Lelis    | Caio Lelis |
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criando questionário | Doan Filho |   03/10/2023   |  Caio Braga  |       04/10/2023      |
+|  1.1   | Adição de imagens e elicitação de requisitos e ajustes | Doan Filho  |   04/10/2023   |  Caio Lelis | 04/10/2023 |

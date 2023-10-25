@@ -49,9 +49,8 @@ Discutimos sobre artefatos a serem refatorados depois da primeira entrega que oc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_7jC28TWFs?si=Dw8gHJaggzHfFNys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Histórico de Versões
+## **Histórico de Versões**
 
-| Versão | Data       | Descrição            | Autor          | Revisor        |
-|--------|------------|----------------------|----------------|--------------- |
-| 1.0    | 25/09/2023 | Versão inicial       | Doan Filho     | Joel Soares  |
- 
+ | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Versão inicial | Doan Filho  |   25/09/2023   | Joel Soares    |       26/09/2023      |

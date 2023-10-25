@@ -300,8 +300,6 @@
 
 ## **Histórico de Versões**
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0 | Adicionando tópicos e estrutura base|  Doan Filho |  18/09/2023 | Miguel de Frias |  18/09/2023 |
 | 1.1 | Planejamento Entrega 01|  Doan Filho e Miguel de Frias | 18/09/2023 | Miguel de Frias e Doan Filho |  18/09/2023 |
 | 1.2 | Atualização do Cronograma | Miguel de Frias | 25/09/2023 | Doan Filho |  25/09/2023 |
