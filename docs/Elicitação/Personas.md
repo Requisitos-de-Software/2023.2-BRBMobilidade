@@ -12,6 +12,10 @@ Os benefícios das Personas são diversos. Elas ajudam a concentrar as decisões
 
 Após adquirir e organizar informações na fase de [elicitação de requisitos](https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/tree/main/docs/Elicita%C3%A7%C3%A3o) e coleta de dados, são criadas personas fictícias, porém representativas. Cada persona é uma personificação dos dados e das características dos usuários daquele contexto. As personas são detalhadas com informações demográficas, comportamentais, metas, desafios e outras características relevantes. Esses detalhes humanizam a persona, tornando-a mais real e fácil de entender.
 
+De acordo com Courage e Baxter (2005), ao criar personas, é essencial ser criterioso na escolha do número de personas a serem desenvolvidas. Eles destacam a importância de que as personas sejam facilmente memoráveis, o que pode ser alcançado por meio da restrição do elenco de personas. Se houver um grande número de personas que representem diferentes grupos de usuários, há o risco de que elas se confundam na mente dos designers e desenvolvedores, diminuindo assim a eficácia dessa técnica. No entanto, é fundamental que o elenco de personas cubra os principais grupos de usuários, a fim de contribuir para o desenvolvimento de um produto que atenda a todas as necessidades. Optar por ter apenas uma persona pode resultar na exclusão de informações valiosas de usuários finais que não se encaixam no mesmo grupo. Portanto, é comum recomendar que o elenco de personas inclua três personas primárias (Courage & Baxter, 2005).
+
+Assim, para esse projeto, foram então seguidas as recomendações. Foram criadas três personas primárias mais uma anti-persona.
+
 
 
 ## **Perfil do usuário**
@@ -22,8 +26,11 @@ Definir o perfil de usuário é fundamental para criar personas eficazes durante
 | :-----:  | :-----: |
 | Idade  | Entre 15 e 65 anos |
 | Escolaridade | Médio incompleto até superior completo |
+| Atitudes |  prestadores de serviço |
 | Situação  | Acadêmicos, Trabalhadores |
-| Residência | Distrito Federal
+| Residência | Distrito Federal |
+| Tarefas primárias | Localização da linha de transporte regular, e utilização de cartões|
+| Perfil de Hardware | dispositivos Android e iOS |
 
 Tabela1: Perfil do usuário. (BARBOSA, Gabriel 2023)
 
@@ -81,11 +88,11 @@ Tabela 4: Terceira persona. (BARBOSA, Gabriel 2023)
 | :----: | :---------------------: |
 |  Nome  | Marina Silva  |
 |  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona4.png" width = 100px/><p>Imagem:  persona 4|
-| Descrição | Marina Silva, 38 anos, é afrodescendente, possui um diploma universitário em Recursos Humanos e é mãe de dois filhos adolescentes. Moradora de Taguatinga.|
-| Tipo | Persona primária |
-| Informações | Marina mora em um prédio em taguatinga com seus 2 filhos. Ela possui um smartphone moderno e tem acesso à internet em casa e no trabalho. Além disso, faz parte de grupos locais de pais e está ativa nas redes sociais. |
-| Habilidades | Possui habilidades tecnológicas moderadas. Ela é capaz de usar um smartphone e aplicativos como o BRB Mobilidade, o que indica que tem alguma familiaridade com dispositivos móveis e navegação na internet. |
-| Expectativas | Marina espera que o aplicativo BRB Mobilidade forneça informações de horários precisas e atualizadas, facilitando o planejamento de suas viagens diárias. |
+| Descrição | Marina Silva, 38 anos, é afrodescendente e é empresária. Moradora de Águas Claras.|
+| Tipo | Anti-persona |
+| Informações | Marina mora em um prédio em Águas Claras. Ela possui um automóvel próprio e vive em ótimas condições financeiras. |
+| Habilidades | Possui habilidades tecnológicas moderadas. Ela é capaz de usar um smartphone e aplicativos, evidenciando que tem alguma familiaridade com dispositivos móveis e navegação na internet. |
+| Expectativas | Marina não possui expectativas em relação ao BRB Mobilidades, pois, além de não se encaixar em nenhum requisito para receber um cartao de auxilio da empresa, ela também não possui necessidade de utilizar o transporte publico em nenhum momento de sua rotina. |
 
 Tabela 5: Quarta persona. (SOARES, Joel 2023)
 
@@ -104,3 +111,4 @@ Tabela 5: Quarta persona. (SOARES, Joel 2023)
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação de Personas             | Gabriel Barbosa |   03/10/2023   |  Joel Soares  |       04/10/2023      |
+|  2.0   | Refatoração do documento + motivo de quantidade de personas + anti-persona + perfil-de-usuario          | Joel Soares |   24/10/2023   |  ----  |       25/10/2023      |
