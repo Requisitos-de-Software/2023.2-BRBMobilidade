@@ -19,11 +19,47 @@ Sendo tabelados da seguinte forma.
 | Sinônimo       | Sinônimo| 
 | Classificação  |Tipo: Verbo/Objeto/Estado |
 
+## **Tabelas de Léxicos**
 
-  
+### **L01 - Acessar**
+
+| L01  |Descrição     | 
+|----------------|----------------|
+| Léxico         | [Acessar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/?h=acessar#processo-de-observacao)| 
+| Autor          | Joel Soares| 
+| Noção          |  O que o usuario precisa fazer para usar o aplicativo | 
+| Impacto        |Ter acesso as funcionalidades do aplicativo | 
+| Sinônimo       |  Utilizar| 
+| Classificação  |Verbo |
+
+<figcaption align="center">Tabela 2: Léxico 01 (Fonte: SOARES, Joel. 2023)</figcaption>
+
+### **L08 - Ajuda**
 
 
+| L08  |Descrição     | 
+|----------------|----------------|
+| Léxico         |[Ajuda](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/?h=ajuda#requisitos-priorizados) | 
+| Autor          | Joel Soares | 
+| Noção          |  O que o usuário pode acessar para obter assistência ou resolver problemas ao usar o aplicativo. | 
+| Impacto        |O usuário pode acessar conteúdos de ajuda ou consultar a base de conhecimento quando precisar de assistência ou encontrar problemas no sistema | 
+| Sinônimo       | Suporte| 
+| Classificação  |Objeto |
 
+<figcaption align="center">Tabela 9: Léxico 08 (Fonte: SOARES, Joel. 2023)</figcaption>
+
+### **L15 - Status**
+
+| L15  |Descrição     | 
+|----------------|----------------|
+| Léxico         | [Status](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/MoSCoW/?h=status#o-que-e-a-tecnica-moscow) | 
+| Autor          | Joel Soares | 
+| Noção          | O estado atual ou condição em tempo real de diversos aspectos, incluindo, transportes públicos, a aplicação e outros elementos, conforme desejado pelo usuário | 
+| Impacto        |O usuário pode monitorar informações em tempo real sobre vários aspectos, incluindo transporte, desempenho da aplicação e outros elementos, permitindo uma tomada de decisão informada. | 
+| Sinônimo       | Condição| 
+| Classificação  |Estado |
+
+<figcaption align="center">Tabela 16: Léxico 15 (Fonte: SOARES, Joel. 2023)</figcaption>
 
 
 # **Histórico de versão**
@@ -31,3 +67,4 @@ Sendo tabelados da seguinte forma.
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Começo do arquivo |  Doan Filho   |   25/10/2023   |  |         |
+|  1.1   | Adicionando Léxicos: Acessar, Ajuda e Status |  Joel Soares  |   25/10/2023   |  |         |
