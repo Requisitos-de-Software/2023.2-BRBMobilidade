@@ -116,8 +116,8 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 | Objetivo   | Permitir que o usuário cadastre métodos de pagamento |                                                                    |
 | Contexto   | Local: Tela de adicionar saldo no cartão, Tempo: durante o dia (de 4:00 até 24:00) <br> Pré-condição - Ter um celular <br> Pré-condição - Ter o aplicativo instalado <br> Pré-condição - Ter acesso à internet|
 | Recursos   | Smartphone, internet, cartão BRB mobilidade <p>_Pré-condição_ : o usuário necessita estar logado</p>|                                         |
-| Episódios  | O usuário dentro da opção de "Recarregar saldo",<br>  seleciona a opção de método de pagamento e em seguida de cadastro de método de pagamento.<br> O usuário também pode adicionar/remover métodos de pagamento <br> ao acessar o seu perfil e entrar na seção métodos de pagamento.
-| Exceção    |Erro de conexão com a internet.<br>Caso não haja nenhum uso do cartão registrado, o aplicativo deve exibir uma mensagem sinalizando que não há registros para o mês selecionado.|
+| Episódios  | O usuário dentro da opção de "Recarregar saldo",<br>  seleciona a opção método de pagamento e em seguida de cadastro de método de pagamento.<br> O usuário também pode adicionar/remover métodos de pagamento <br> ao acessar o seu perfil e entrar na seção métodos de pagamento.
+| Exceção    |Erro de conexão com a internet;<br>Não possuir cadastro no aplicativo|
 
 <div style="text-align: center">
 <p> Tabela 8: Descrição do cenário 7: "Cadastrar métodos de pagamento - (Fonte: de Frias, Miguel).</p>
