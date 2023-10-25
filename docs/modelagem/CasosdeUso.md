@@ -18,7 +18,7 @@ Para facilitar a compreensão do diagrama e metodologia, os principais elementos
 
 <p align="justify">A Figura 1 apresenta o elemento que representa o caso de uso.</p>
 
-<img src="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/blob/main/docs/modelagem/img/usecase-UC.png" width="100%">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/70-casos-de-uso/docs/modelagem/img/usecase-UC.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 1</b>: Elemento caso de uso (Fonte: autores, 2023). </p>
@@ -32,7 +32,7 @@ Legenda: Os casos de uso informam-nos sobre o funcionamento do sistema em difere
 
 <p align="justify">A Figura 2 apresenta o elemento que representa os atores.</p>
 
-<img src="" width="100%">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/70-casos-de-uso/docs/modelagem/img/actor-UC.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 2</b>: Elemento ator (Fonte: autores, 2023). </p>
@@ -46,7 +46,7 @@ Legenda: Um ator é o utilizador final. Pode ser qualquer pessoa, um humano, uma
 
 <p align="justify">A Figura 3 apresenta o elemento que representa um subsistema.</p>
 
-<img src="" width="100%">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/70-casos-de-uso/docs/modelagem/img/sistema-UC.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 3</b>: Elemento subsistema (Fonte: autores, 2023). </p>
@@ -60,10 +60,10 @@ Legenda: Usados para representar o sistema onde os fluxos ocorrerão (app BRB-Mo
 
 <p align="justify">A Figura 4 apresenta os relacionamentos entre elementos.</p>
 
-<img src="" width="100%">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/70-casos-de-uso/docs/modelagem/img/rel-UC.png" width="100%">
 
 <div align="center">
-<p> <b>Figura 1</b>: Relacionamentos (Fonte: autores, 2023). </p>
+<p> <b>Figura 4</b>: Relacionamentos (Fonte: autores, 2023). </p>
 </div>
 
 Legenda: Eles mostram a relação entre os elementos do modelo. Mostra o comportamento entre os elementos do modelo 
