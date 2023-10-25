@@ -66,6 +66,24 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 </div>
 
 
+### **Cenário 4: Consultar pontos de recarga**
+
+| Elemento   | Descrição                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------- |
+|Titulo|Acessar pontos de recargas fisicos |
+| Objetivo   | Acessar pontos de recarga fisicos do cartão|                                                                    |
+| Contexto   | Local: Faculdade Tempo: durante o dia e noite  (de 05:30 a 23:30 ) <br> Pré-condição - Ter um celular <br> Pré-condição - Ter o aplicativo instalado <br> Pré-condição - Ter um cartão BRB Mobilidade|
+| Recursos   | Smartphone, internet, cartão BRB mobilidade |                                           |
+| Episódios  | Estudante ou usuário está usando seu cartão e deseja carrega-lo em algum local fisico pois só possui dinheiro em mãos<br> Estudante pega o celular <br>Estudante abre o aplicativo<br>Estudante faz login<br>Estudante clica em menu<br>Estudante clica em pontes de recarga<br>Estudante acessa algum local próximo|
+| Exceção    |Smartphone descarregado; Perda de conexão com a internet; Não possuir cadastro no aplicativo; Não possuir cartão|
+
+<div style="text-align: center">
+<p> Tabela 5: Descrição do cenário 4: "Pontos de recarga" - (Fonte: FILHO, Doan).</p>
+</div>
+
+
+
+
 ## **Bibliografia**
 
 [1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
@@ -79,3 +97,4 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 |  1.0   | Criação do documento de cenarios |   Joel Soares   |   22/10/2023   |  |       dd/mm/yyyy      |
 |  1.1   | Adição do cénario visualização de linhas |   Guilherme Basilio   |   24/10/2023   |  |       dd/mm/yyyy      |
 |  1.2   | Adição do cénario visualização de saldo disponível |   Caio Lelis   |   24/10/2023   |  |       dd/mm/yyyy      |
+|  1.3   | Adição do cenário de pontos de recarga |   Doan Filho  |   24/10/2023   |  |       dd/mm/yyyy      |
