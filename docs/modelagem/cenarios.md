@@ -65,6 +65,19 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 <p> Tabela 4: Descrição do cenário 3: "Visualização de saldo" - (Fonte: LELIS, Caio).</p>
 </div>
 
+### **Cenário 4: Solicitar 2ªvia do cartão**
+
+| Elemento   | Descrição                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| Objetivo   | Deseja emitir a segunda via do cartão estudantil através do app                                                                    |
+| Contexto   | Local – Selecionar o serviço de segunda via através da interface de acompanhamento do cadastro e cartão <br> Pré-condição - Ter um celular com acesso a internet <br> Pré-condição - Ter o aplicativo instalado <br> Pré-condição - Ter um cartão cadastrado |
+| Recursos   | Smartphone, Internet   |
+| Episódios  | O usuário entra o aplicativo; <br>  O usuário escolhe acompanhar o seu cartão; <br>  O usuário seleciona a opção de pedir segunda via do cartão |
+| Exceção    |  É necessário que o usuário já tenha tido a 1ª via do cartão em algum momento; Celular sem suporte ao aplicativo; Celular sem bateria e internet |
+
+<div style="text-align: center">
+<p> Tabela 5: Descrição do cenário 4: "Solicitar 2ªvia do cartão" - (Fonte: BARBOSA, Gabriel).</p>
+</div>
 
 ## **Bibliografia**
 
@@ -79,3 +92,4 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 |  1.0   | Criação do documento de cenarios |   Joel Soares   |   22/10/2023   |  |       dd/mm/yyyy      |
 |  1.1   | Adição do cénario visualização de linhas |   Guilherme Basilio   |   24/10/2023   |  |       dd/mm/yyyy      |
 |  1.2   | Adição do cénario visualização de saldo disponível |   Caio Lelis   |   24/10/2023   |  |       dd/mm/yyyy      |
+| 1.2   | Adição do cenário solicitar 2ªvia |  Gabriel Barbosa |  24/10/2023 |     |    dd/mm/yyyy   |
