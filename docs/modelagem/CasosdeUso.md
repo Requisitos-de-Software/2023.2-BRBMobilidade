@@ -6,11 +6,75 @@ Um caso de uso descreve uma série de passos realizados pelo sistema, resultando
 
 ## **Metodologia**
 
-Para desenvolver os casos de uso, foram examinados e analisados os documentos que coletam os requisitos, e personas foram usadas para garantir e confirmar a validade dos casos de uso. Com base nesses dados, os casos de uso foram criados usando a ferramenta Lucidchart.
+Para desenvolver o documento, foram examinados e analisados os artefatos que coletam os requisitos, e personas foram usadas para garantir e confirmar sua validade. Na elaboração do diagrama de casos de uso UML, foi utilizada a ferramenta [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). 
+
+
+### **Elementos e Notação**
+Para facilitar a compreensão do diagrama e metodologia, os principais elementos são descritos abaixo.
+
+#### **Casos de uso**
+
+<div style="text-align:justify">
+
+<p align="justify">A Figura 1 apresenta o elemento que representa o caso de uso.</p>
+
+<img src="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/blob/main/docs/modelagem/img/usecase-UC.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 1</b>: Elemento caso de uso (Fonte: autores, 2023). </p>
+</div>
+
+Legenda: Os casos de uso informam-nos sobre o funcionamento do sistema em diferentes casos. Estes casos de uso são feitos tendo em conta o que um utilizador pretende do sistema. 
+
+#### **Atores**
+
+<div style="text-align:justify">
+
+<p align="justify">A Figura 2 apresenta o elemento que representa os atores.</p>
+
+<img src="" width="100%">
+
+<div align="center">
+<p> <b>Figura 2</b>: Elemento ator (Fonte: autores, 2023). </p>
+</div>
+
+Legenda: Um ator é o utilizador final. Pode ser qualquer pessoa, um humano, uma organização, uma máquina ou qualquer outra coisa. Os atores são colocados com diferentes casos no diagrama para ilustrar como o usuário irá interagir com o sistema. 
+
+#### **Subsistemas**
+
+<div style="text-align:justify">
+
+<p align="justify">A Figura 3 apresenta o elemento que representa um subsistema.</p>
+
+<img src="" width="100%">
+
+<div align="center">
+<p> <b>Figura 3</b>: Elemento subsistema (Fonte: autores, 2023). </p>
+</div>
+
+Legenda: Usados para representar o sistema onde os fluxos ocorrerão (app BRB-Mobilidade, no caso).
+
+#### **Relacionamentos**
+
+<div style="text-align:justify">
+
+<p align="justify">A Figura 4 apresenta os relacionamentos entre elementos.</p>
+
+<img src="" width="100%">
+
+<div align="center">
+<p> <b>Figura 1</b>: Relacionamentos (Fonte: autores, 2023). </p>
+</div>
+
+Legenda: Eles mostram a relação entre os elementos do modelo. Mostra o comportamento entre os elementos do modelo 
+
+## **Diagrama**
+
+Espaço para diagrama
 
 Legenda:
 
-- UC -> Caso de Uso
+ UC -> Caso de Uso
 
 Modelo de tabela de Caso de Uso:
 
@@ -92,9 +156,38 @@ Tabela 1 – UC01
 
 <font size="2"><p style="text-align: center"><b>Tabela 4: Visualizar linhas e horários (Fonte: <a href="https://github.com/GuilhermeBES">Guilherme Basilio)</a></b></p></font>
 
-### **UC04 - Visualizar saldo**
 
-### **UC05 - Vizualizar extrato de uso do cartão**
+### **UC04 - Acompanhar cadastro/cartão**
+
+|**UC04**|**Acompanhar cadastro de cartão específico**|
+| :----------: |:-----------|
+|Autor|Gabriel Barbosa|
+|Descrição| Acompanhar cadastro de um cartão específico |
+|Atores|> Usuário <br> > BRB Mobilidade|
+|Pré Condições|> Ter feito o login no sitema <br> Ter cadastro em cartão específico |
+|Fluxo Principal|> Usuário acessa o BRB Mobilidade <br> > Usuário clica no botão "Estudantil" (Um dos cartões específicos)<br> Faz login com o CPF <br> Acessa a página de acompanhamento de cadastro |
+|Fluxo Alternativo|> Não possui fluxo alternativo |
+|Fluxo de Exceção|**Fluxo de Exceção 1 - Você não possui cartão cadastrado** <br> > Usuário acessa o BRB Mobilidade <br> > Usuário clica no botão "Estudantil" (Um dos cartões específicos)<br> Não possui cadastro |
+|Pós Condições| Usuário verá a o menu de opções que se pode fazer com o cartão específico |
+|Rastreabilidade| IS10, OBS05, OBS08, OBS09 |
+
+<font size="2"><p style="text-align: center"><b>Tabela 5: Acompanhar cadastro/cartão (Fonte: <a href="https://github.com/gabrie1barbosa">Gabriel Barbosa)</a></b></p></font>
+
+### **UC05 - Vizualizar extrato de uso**
+
+|**UC05**|**Vizualizar extrato de uso do cartão**|
+| :----------: |:-----------|
+|Autor|Gabriel Barbosa|
+|Descrição| Vizualizar extrato de uso do cartão durante um período de tempo |
+|Atores|> Usuário <br> > BRB Mobilidade|
+|Pré Condições|> Ter feito o login no sitema |
+|Fluxo Principal|> Usuário acessa o BRB Mobilidade <br> > Usuário clica no botão "Extrato de uso" <br> > Usuário seleciona o período exato de uso <br> > Usuário  visualiza extrato |
+|Fluxo Alternativo|> Não possui fluxo alternativo |
+|Fluxo de Exceção| --- |
+|Pós Condições| Usuário verá o extrato de uso durante um determinado perído de tempo |
+|Rastreabilidade| IS01, OBS01 |
+
+<font size="2"><p style="text-align: center"><b>Tabela 6: Visualizar extrato de uso (Fonte: <a href="https://github.com/gabrie1barbosa">Gabriel Barbosa)</a></b></p></font>
 
 ## **Bibliografia**
 
@@ -104,9 +197,13 @@ Tabela 1 – UC01
 
 >[3]UML Use Case Diagrams. UML Diagrams. Disponível em:  https://www.uml-diagrams.org/use-case-diagrams.html. Acesso em: 24/10/2023.
 
+>[4]Diagramas de Caso de Uso. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml. Acesso em: 25/10/2023
+
+
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento de Casos de uso |  Guilherme Basilio  |   24/10/2023   | Joel Soares |       dd/mm/yyyy      |
 |  1.1   | Adição da metodologia e Modelo de tabela |  Guilherme Basilio  |   24/10/2023   | Joel Soares |       dd/mm/yyyy      |
+|  1.2   | Atualização metodologia e casos de uso |  Gabriel Barbosa  |   24/10/2023   | Joel Soares |       dd/mm/yyyy      |
