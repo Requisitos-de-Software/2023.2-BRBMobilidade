@@ -14,11 +14,7 @@
 ## **Cronograma Geral**
 
 
-
-<div style="text-align: center">
-    <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
-</div>
-&emsp;&emsp;A Tabela 1 mostra todas as Entregas com suas respectivas datas previstas.
+&emsp;&emsp;A Tabela 1 mostra todas as Entregas planejadas, com suas respectivas datas previstas.
 
 | Etapa | Descrição | Atividades | Entrega | Apresentação |
 |:-----:|--------|-----------|:------------:|:---------:|
@@ -30,7 +26,9 @@
 |   6   | Pós-rastreabilidade | Gerência de desenvolvimento de software | 20/11 | 21/11 |
 |   5.2 | Análise de requisitos | Verificação e validação 2| 29/11 | 30/11|
 |   7   | Entrega do Projeto | Entrega final e apresentação do projeto| 06/12 |  |
-
+<div style="text-align: center">
+    <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 
 ## **Entrega 1**
@@ -70,7 +68,7 @@
 | Ferramentas do projeto| Início: 05/09 <br> Fim: 18/09 |Caio Lelis, Gabriel Barbosa | Início: 18/09 <br> Fim: 19/09 | Caio Lelis |
 | Termos de Uso | Início: 05/09 <br> Fim: 18/09 | Guilherme Basilio, Joel Soares | Início: 18/09 <br> Fim: 19/09 | Guilherme Basilio |
 | Atas das reuniões | Início: 05/09 <br> Fim: 15/09 | Doan Filho | Início: 15/09 <br> Fim: 19/09 |Caio Lelis|
-| Rich picture | Início: 05/09 <br> Fim: 17/09  |Caio Braga | Início: 17/09 <br> Fim: 18/09 | Doan Filho |
+| Rich picture | Início: 05/09 <br> Fim: 17/09  | Caio Braga | Início: 17/09 <br> Fim: 18/09 | Doan Filho |
 | Cronograma Planejado | Início: 05/09 <br> Fim: 18/09 | Doan Filho e Miguel de Frias | Início: 18/09 <br> Fim: 20/09 | Miguel de Frias e Doan Filho |
 | Cronograma Realizado | Início: 05/09 <br> Fim: 18/09 | Doan Filho e Miguel de Frias | Início: 18/09 <br> Fim: 20/09 | Miguel de Frias e Doan Filho |
 | Gravação da Apresentação |  Início: 19/09 <br> Fim: 19/09  | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 19/09 <br> Fim: 19/09 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
@@ -99,7 +97,7 @@
 | In or Out | Início: 27/09 <br> Fim: 02/10 | Miguel de Frias, Caio Braga | Início: 02/10 <br> Fim: 04/10  | Caio Lelis |
 | Three Level Scale | Início: 27/09 <br> Fim: 02/10 | Caio Lelis, Doan Filho | Início: 02/10 <br> Fim: 04/10  | Gabriel Barbosa |
 | MoSCoW | Início: 27/09 <br> Fim: 02/10 | Joel Soares, Caio Lelis | Início: 02/10 <br> Fim: 04/10  | Doan Filho |
-| Atualizar Gitpage | Início: 27/09 <br> Fim: 02/09 | Caio Braga, Doan Filho e Caio Lelis | Início: 02/09 <br> Fim: 04/09| Caio Braga |
+| Atualizar Gitpage | Início: 27/09 <br> Fim: 02/10 | Caio Braga, Doan Filho e Caio Lelis | Início: 02/10 <br> Fim: 04/10| Caio Braga |
 | Gravação da Apresentação | Início: 03/10 <br> Fim: 03/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 03/10 <br> Fim: 03/10  | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação| Início: 03/10 <br> Fim: 03/10 | Joel Soares | Início: 03/10 <br> Fim: 03/10  | Miguel de Frias |
 | Cronograma Realizado | Início: 27/09 <br> Fim: 02/10  | Miguel de Frias | Início: 02/10 <br> Fim: 04/10  | Doan Filho |
@@ -116,13 +114,14 @@
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
 | Personas | Início: 27/09 <br> Fim: 03/10 | Joel Soares, Gabriel Barbosa | Início: 03/09 <br> Fim: 04/10 | Caio Lelis |
-| Brainstorming | Início: 27/09 <br> Fim: 03/10 | Miguel de Frias, Caio Braga | Início: 03/09 <br> Fim: 04/10 | Joel Soares |
+| Brainstorming | Início: 27/09 <br> Fim: 03/10 | Miguel de Frias, Guilherme Basilio e Joel Soares | Início: 03/09 <br> Fim: 04/10 | Joel Soares |
 | Questionário | Início: 27/09 <br> Fim: 03/10 | Caio Braga, Doan Filho | Início: 03/09 <br> Fim: 03/10 | Miguel de Frias |
 | Instropecção | Início: 27/09 <br> Fim: 03/10 | Miguel de Frias, Guilherme Basilio | Início: 03/09 <br> Fim: 04/10 | Doan Filho |
 | Observação | Início: 27/09 <br> Fim: 03/10 | Gabriel Barbosa | Início: 03/09 <br> Fim: 04/10 | Guilherme Basilio |
-| In or Out | Início: 27/09 <br> Fim: 03/10 | Miguel de Frias, Caio Braga | Início: 03/09 <br> Fim: 04/10 | Caio Lelis |
+| In or Out | Início: 27/09 <br> Fim: 03/10 | Miguel de Frias e Guilherme Basilio | Início: 03/09 <br> Fim: 04/10 | Caio Lelis |
 | Three Level Scale | Início: 27/09 <br> Fim: 03/10 | Caio Lelis, Doan Filho | Início: 03/09 <br> Fim: 04/10 | Gabriel Barbosa |
 | MoSCoW | Início: 27/09 <br> Fim: 03/10 | Joel Soares, Caio Lelis | Início: 03/09 <br> Fim: 04/10 | Doan Filho |
+| Atualizar Gitpage | Início: 27/09 <br> Fim: 03/10 | Caio Braga, Doan Filho e Caio Lelis | Início: 02/10 <br> Fim: 04/10| Caio Braga |
 | Gravação da Apresentação | Início: 04/10 <br> Fim: 04/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 04/10 <br> Fim: 04/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação | Início: 04/10 <br> Fim: 04/10 | Joel Soares | Início: 04/10 <br> Fim: 04/10 | Miguel de Frias |
 | Cronograma Realizado | Início: 27/09 <br> Fim: 03/10 | Miguel de Frias | Início: 03/09 <br> Fim: 04/10 | Doan Filho |
@@ -143,17 +142,36 @@
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
-| Use Cases  | Início: 06/10 <br> Fim: 21/10 | | Início: 21/10 <br> Fim: 25/10 |  |
-| Cenários | Início: 06/10 <br> Fim: 21/10 |  |  Início: 21/10 <br> Fim: 25/10 |  |
-| Léxico | Início: 06/10 <br> Fim: 21/10 |  | Início: 21/10 <br> Fim: 25/10 |  |
-| Especificação suplementar | Início: 06/10 <br> Fim: 21/10 | |  Início: 21/10 <br> Fim: 25/10 | |
-| Atualizar Gitpage | Início: 06/10 <br> Fim: 21/10 | Caio Braga, Doan Filho e Caio Lelis | Início: 02/09 <br> Fim: 04/09| Caio Braga |
+| Use Cases | Início: 06/10 <br> Fim: 21/10 | Gabriel Barbosa, Guilherme Basilio e Caio Braga | Início: 21/10 <br> Fim: 25/10 | Joel Soares |
+| Cenários | Início: 06/10 <br> Fim: 21/10 | Joel Soares e Miguel de Frias |  Início: 21/10 <br> Fim: 25/10 | Guilherme |
+| Léxico | Início: 06/10 <br> Fim: 21/10 | Doan Filho | Início: 21/10 <br> Fim: 25/10 | Caio Lelis |
+| Especificação suplementar | Início: 06/10 <br> Fim: 21/10 | Caio Lelis e Doan Filho|  Início: 21/10 <br> Fim: 25/10 | Gabriel Barbosa |
+| Atualizar Gitpage | Início: 06/10 <br> Fim: 21/10 | Caio Braga, Doan Filho e Caio Lelis | Início: 21/10 <br> Fim: 25/10| Caio Braga |
 | Gravação da Apresentação | Início: 23/10 <br> Fim: 23/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 23/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação| Início: 23/10 <br> Fim: 23/10 | Joel Soares | Início: 23/10 <br> Fim: 25/10 | Miguel de Frias |
 | Cronograma Realizado | Início: 06/10 <br> Fim: 21/10  | Miguel de Frias |  Início: 21/10 <br> Fim: 25/10 | Doan Filho |
 | Correções da Entrega 2 | Início: 06/10 <br> Fim: 12/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 12/10 <br> Fim: 21/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 <div style="text-align: center">
     <p> <b>Tabela 6</b>: Tarefas planejadas para a Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
+### **Executado**
+
+&emsp;&emsp;A tabela 7 mostra as atividades realizadas para a entrega 3 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
+|--------|:--------------------------:|------------|:------------------:|--------|
+| Use Cases | Início: 06/10 <br> Fim: 25/10 | Gabriel Barbosa, Guilherme Basilio e Caio Braga | Início: 25/10 <br> Fim: 25/10 | Joel Soares |
+| Cenários | Início: 06/10 <br> Fim: 25/10 | Joel Soares e Miguel de Frias |  Início: 25/10 <br> Fim: 25/10 | Guilherme Basilio |
+| Léxico | Início: 06/10 <br> Fim: 25/10 | Doan Filho | Início: 25/10 <br> Fim: 25/10  | Caio Lelis |
+| Especificação suplementar | Início: 06/10 <br> Fim: 25/10 | Caio Lelis e Doan Filho|  Início: 25/10  <br> Fim: 25/10 | Gabriel Barbosa |
+| Atualizar Gitpage | Início: 06/10 <br> Fim: 21/10 | Caio Braga, Doan Filho e Caio Lelis | Início: 21/10 <br> Fim: 25/10| Caio Braga |
+| Gravação da Apresentação | Início: 25/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 25/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
+| Postagem da Apresentação| Início: 25/10 <br> Fim: 25/10 | Joel Soares | Início: 25/10 <br> Fim: 25/10 | Miguel de Frias |
+| Cronograma Realizado | Início: 06/10 <br> Fim: 23/10  | Miguel de Frias |  Início: 23/10 <br> Fim: 25/10 | Doan Filho |
+| Correções da Entrega 2 | Início: 06/10 <br> Fim: 24/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 24/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
+<div style="text-align: center">
+    <p> <b>Tabela 6</b>: Tarefas realizadas para a Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
 
@@ -168,9 +186,9 @@
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
-| Histórias de usuário  | Início: 27/10 <br> Fim: 03/11 |  | Início: 03/11 <br> Fim: 05/11 |  |
-| NFR Framework | Início: 27/10 <br> Fim: 03/11 |  | Início: 03/11 <br> Fim: 05/11 |  |
-| Backlog | Início: 27/10 <br> Fim: 03/11 |  | Início: 03/11 <br> Fim: 05/11 |  |
+| Histórias de usuário  | Início: 27/10 <br> Fim: 03/11 | Caio Braga, Guilherme Basilio e Caio Lelis  | Início: 03/11 <br> Fim: 05/11 | Miguel de Frias |
+| NFR Framework | Início: 27/10 <br> Fim: 03/11 | Gabriel Barbosa e Doan Filho | Início: 03/11 <br> Fim: 05/11 | Caio Lelis|
+| Backlog | Início: 27/10 <br> Fim: 03/11 | Joel Soares e Miguel de Frias | Início: 03/11 <br> Fim: 05/11 | Doan Filho |
 | Atualizar Gitpage | Início: 27/10 <br> Fim: 03/11 | Caio Braga, Doan Filho e Caio Lelis | Início: 03/11 <br> Fim: 05/11 | Caio Braga |
 | Gravação da Apresentação | Início: 04/11 <br> Fim: 04/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 04/11 <br> Fim: 04/11 |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação| Início: 04/11 <br> Fim: 04/11 | Joel Soares | Início: 04/11 <br> Fim: 04/11 | Miguel de Frias |
@@ -179,6 +197,7 @@
 <div style="text-align: center">
     <p> <b>Tabela 8</b>: Tarefas planejadas para a Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
 </div>
+
 
 
 
@@ -191,8 +210,8 @@
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
-| Verificação de requisitos 1	| Início: 07/11 <br> Fim: 12/11 |  | Início: 12/11 <br> Fim: 13/11 |  |
-| Validação de requisitos 1 | Início: 07/11 <br> Fim: 12/11 |  | Início: 12/11 <br> Fim: 13/11 |  |
+| Verificação de requisitos 1	| Início: 07/11 <br> Fim: 12/11 | Caio Braga, Guilherme Basilio e Caio Lelis | Início: 12/11 <br> Fim: 13/11 | Joel Soares |
+| Validação de requisitos 1 | Início: 07/11 <br> Fim: 12/11 | Doan Filho, Gabriel Barbosa, Guilherme Basilio e Miguel de Frias | Início: 12/11 <br> Fim: 13/11 | Guilherme Basilio |
 | Atualizar Gitpage | Início: 07/11 <br> Fim: 12/11 | Caio Braga, Doan Filho e Caio Lelis | Início: 12/11 <br> Fim: 13/11 | Caio Braga |
 | Gravação da Apresentação | Início: 12/11 <br> Fim: 12/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 12/11 <br> Fim: 12/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação| Início: 12/11 <br> Fim: 12/11 | Joel Soares | Início: 12/11 <br> Fim: 12/11 | Miguel de Frias |
@@ -214,8 +233,8 @@
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
-| Forward From  | Início: 14/11 <br> Fim: 19/11 |  | Início: 19/11 <br> Fim: 20/11 |  |
-| Backward From | Início: 14/11 <br> Fim: 19/11 |  | Início: 19/11 <br> Fim: 20/11 |  |
+| Forward From  | Início: 14/11 <br> Fim: 19/11 | Caio Braga, Guilherme Basilio e Caio Lelis | Início: 19/11 <br> Fim: 20/11 | Miguel de Frias |
+| Backward From | Início: 14/11 <br> Fim: 19/11 | Doan Filho, Gabriel Barbosa, Guilherme Basilio e Miguel de Frias  | Início: 19/11 <br> Fim: 20/11 | Caio Braga |
 | Atualizar Gitpage | Início: 14/11 <br> Fim: 19/11 | Caio Braga, Doan Filho e Caio Lelis | Início: 19/11 <br> Fim: 20/11 | Caio Braga |
 | Gravação da Apresentação | Início: 19/11 <br> Fim: 19/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 19/11 <br> Fim: 19/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação| Início: 19/11 <br> Fim: 19/11 | Joel Soares | Início: 19/11 <br> Fim: 19/11 | Miguel de Frias |
@@ -237,8 +256,8 @@
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
-| Verificação de requisitos 2 | Início: 21/11 <br> Fim: 28/11 |  | Início: 28/11 <br> Fim: 29/11 |  |
-| Validação de requisitos 2 | Início: 21/11 <br> Fim: 28/11 |  | Início: 28/11 <br> Fim: 29/11 |  |
+| Verificação de requisitos 2 | Início: 21/11 <br> Fim: 28/11 | Caio Braga, Guilherme Basilio e Caio Lelis | Início: 28/11 <br> Fim: 29/11 | Gabriel Barbosa  |
+| Validação de requisitos 2 | Início: 21/11 <br> Fim: 28/11 | Doan Filho, Gabriel Barbosa, Guilherme Basilio e Miguel de Frias | Início: 28/11 <br> Fim: 29/11 | Caio Lelis |
 | Atualizar Gitpage | Início: 21/11 <br> Fim: 28/11 | Caio Braga, Doan Filho e Caio Lelis | Início: 28/11 <br> Fim: 29/11 | Caio Braga |
 | Gravação da Apresentação | Início: 28/11 <br> Fim: 28/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 28/11 <br> Fim: 28/11 |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação| Início: 28/11 <br> Fim: 28/11 | Joel Soares | Início: 28/11 <br> Fim: 28/11 | Miguel de Frias |
@@ -281,10 +300,9 @@
 
 ## **Histórico de Versões**
 
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   |  Planejamento entrega 01                 | Doan Filho e Miguel Matos      | 18/09/2023        | Guilherme Baisilio  | 25/09/2023    |
-|  1.1   |  Adicionando entregas realizada 01                 |  Miguel Matos   | 25/09/2023      | Doan Filho | 28/09/2023 |
-|  1.2   |  Adicionando entregas planejadas  02 até 07                  |  Miguel Matos   | 27/09/2023      | Doan Filho  | 01/09/2023 |
-|  1.3   |  Adicionando entrega realizada 02  |  Miguel Matos   | 30/09/2023     | Doan Filho  | 01/10/2023 |
-|  2.0   |  Refatorando cronograma               |  Miguel Matos   | 04/10/2023      | Doan Filho  | 04/10/2023 |
+| 1.0 | Adicionando tópicos e estrutura base|  Doan Filho |  18/09/2023 | Miguel de Frias |  18/09/2023 |
+| 1.1 | Planejamento Entrega 01|  Doan Filho e Miguel de Frias | 18/09/2023 | Miguel de Frias e Doan Filho |  18/09/2023 |
+| 1.2 | Atualização do Cronograma | Miguel de Frias | 25/09/2023 | Doan Filho |  25/09/2023 |
+| 2.0 | Adição Realizado entrega 1 e 2 | Miguel de Frias | 03/10/2023 | Doan Filho | 04/10/2023 |
+| 3.0 | Adição Realizado entrega 3| Miguel de Frias | 23/10/2023 | Doan Filho | 25/10/2023 |
+| 3.1 | Atualizando datas Realizado entrega 3 | Miguel de Frias | 23/10/2023 | Doan Filho | 25/10/2023 |
