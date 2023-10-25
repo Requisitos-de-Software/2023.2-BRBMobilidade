@@ -120,7 +120,7 @@ Tabela 02 - Tabela de significado dos ID's dos requisitos. (Fonte:LELIS,Caio)
 ## **Referências Bibliofgráficas**
 > [1] "Aprender 3", Disponivel em: [link](https://aprender3.unb.br/pluginfile.php/2692804/mod_resource/content/7/Lista%20de%20exerci%CC%81cios%20Modelagem%20de%20Requisitos%20-%20Modelagem%20de%20Requisitos-%20Use%20Case%20-%20Especificac%CC%A7a%CC%83o%20Suplementar.pdf), acesso em 24 de Outubro de 2023
 
-> [2] "Vídeo youtube professor Sidartha Carvalho", Disponível em: [link](https://www.youtube.com/watch?v=FLSqAFtJ-kg)
+> [2] "Vídeo youtube professor Sidartha Carvalho", Disponível em: [link](https://www.youtube.com/watch?v=FLSqAFtJ-kg), acesso em 24 de outubro de 2023
 
 
 ## **Bibliografia** 
