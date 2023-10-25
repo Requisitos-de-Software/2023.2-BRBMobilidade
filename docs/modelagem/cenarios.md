@@ -109,7 +109,19 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 <p> Tabela 7: Descrição do cenário 6: "Consultar extrato de uso" - (Fonte: BRAGA, Caio).</p>
 </div>
 
+### **Cenário 7: Cadastrar métodos de pagamento**
 
+| Elemento   | Descrição                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| Objetivo   | Permitir que o usuário cadastre métodos de pagamento |                                                                    |
+| Contexto   | Local: Tela de adicionar saldo no cartão, Tempo: durante o dia (de 4:00 até 24:00) <br> Pré-condição - Ter um celular <br> Pré-condição - Ter o aplicativo instalado <br> Pré-condição - Ter acesso à internet|
+| Recursos   | Smartphone, internet, cartão BRB mobilidade <p>_Pré-condição_ : o usuário necessita estar logado</p>|                                         |
+| Episódios  | O usuário dentro da opção de "Recarregar saldo",<br>  seleciona a opção de método de pagamento e em seguida de cadastro de método de pagamento.<br> O usuário também pode adicionar/remover métodos de pagamento <br> ao acessar o seu perfil e entrar na seção métodos de pagamento.
+| Exceção    |Erro de conexão com a internet.<br>Caso não haja nenhum uso do cartão registrado, o aplicativo deve exibir uma mensagem sinalizando que não há registros para o mês selecionado.|
+
+<div style="text-align: center">
+<p> Tabela 8: Descrição do cenário 7: "Cadastrar métodos de pagamento - (Fonte: de Frias, Miguel).</p>
+</div>
 
 
 ## **Bibliografia**
@@ -125,5 +137,6 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 |  1.0   | Criação do documento de cenarios |   Joel Soares   |   22/10/2023   |  |       dd/mm/yyyy      |
 |  1.1   | Adição do cénario visualização de linhas |   Guilherme Basilio   |   24/10/2023   |  |       dd/mm/yyyy      |
 |  1.2   | Adição do cénario visualização de saldo disponível |   Caio Lelis   |   24/10/2023   |  |       dd/mm/yyyy      |
-| 1.2   | Adição do cenário solicitar 2ªvia |  Gabriel Barbosa |  24/10/2023 |     |    dd/mm/yyyy   |
-|  1.3   | Adição do cenário de pontos de recarga |   Doan Filho  |   24/10/2023   |  |       dd/mm/yyyy      |
+| 1.3   | Adição do cenário solicitar 2ªvia |  Gabriel Barbosa |  24/10/2023 |     |    dd/mm/yyyy   |
+|  1.4  | Adição do cenário de pontos de recarga |   Doan Filho  |   24/10/2023   |  |       dd/mm/yyyy      |
+|  1.5  | Adição do cenário de cadastrar métodos de pagamento |   Miguel de Frias |   25/10/2023   |  |       dd/mm/yyyy      |
