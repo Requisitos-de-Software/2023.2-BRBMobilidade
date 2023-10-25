@@ -51,6 +51,21 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 </div>
 
 
+### **Cenário 3: Consultar saldo disponível**
+
+| Elemento   | Descrição                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| Objetivo   | Consultar saldo disponível no aplicativo BRB Mobilidade                                                                     |
+| Contexto   | Local: Tela do cartão no app, Tempo: durante o dia (de 4:00 até 24:00) <br> Pré-condição - Ter um celular <br> Pré-condição - Ter o aplicativo instalado <br> Pré-condição - Ter um cartão BRB Mobilidade|
+| Recursos   | Smartphone, internet, cartão BRB mobilidade                                            |
+| Episódios  | Usuário deseja visualizar saldo do cartão; O usuário alcança seu celular; Entra no aplicativo BRB Mobilidade; Efetua o Login com suas credenciais; seleciona a opção consultar saldo do cartão; O usuário seleciona o cartão desejado; O usuario visualiza seu saldo; |
+| Exceção    |Smartphone descarregado; Perda de conexão com a internet; Não possuir cadastro no aplicativo; Não possuir cartão|
+
+<div style="text-align: center">
+<p> Tabela 4: Descrição do cenário 3: "Visualização de saldo" - (Fonte: LELIS, Caio).</p>
+</div>
+
+
 ## **Bibliografia**
 
 [1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
@@ -63,3 +78,4 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento de cenarios |   Joel Soares   |   22/10/2023   |  |       dd/mm/yyyy      |
 |  1.1   | Adição do cénario visualização de linhas |   Guilherme Basilio   |   24/10/2023   |  |       dd/mm/yyyy      |
+|  1.2   | Adição do cénario visualização de saldo disponível |   Caio Lelis   |   24/10/2023   |  |       dd/mm/yyyy      |
