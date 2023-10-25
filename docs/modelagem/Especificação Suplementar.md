@@ -66,11 +66,11 @@ A **tabela 01** mostra os requisitos não funcionais elicitados, sua funcionalia
 
 ## Requisitos Especificados como + (Outros):
 
-#### OBS15 - Deve apresentar uma interface que facilita a prevenção de erros : 
+ **OBS15 - Deve apresentar uma interface que facilita a prevenção de erros :** 
 
 O requisito tem a especificação de ***Requisito de interface***.
 
-#### Q11: O aplicativo deve fornecer segurança ao usuário com dados cadastrados e Q12: O aplicativo deve rastrear os ônibus via GPS
+ **Q11: O aplicativo deve fornecer segurança ao usuário com dados cadastrados e Q12: O aplicativo deve rastrear os ônibus via GPS:**
 
 Se tratam de requisitos com a especificação ***Requisito de segurança***.
 
