@@ -2,11 +2,11 @@
 
 ## **Introdução**
 
-Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos [2]. Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos [2]. Portanto, é uma estratégia para elicitar a parte comportamental do software[1].
+&emsp;&emsp;Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos [2]. Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos [2]. Portanto, é uma estratégia para elicitar a parte comportamental do software[1].
 
 ## **Modelo de Cenário**
 
-Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente [2], tal modelo pode ser observado a seguir na Tabela 1.
+&emsp;&emsp;Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente [2], tal modelo pode ser observado a seguir na Tabela 1.
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -17,7 +17,7 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 | Exceção    | Tratamento para uma situação excepcional ou de erro                                          |
 
 <div style="text-align: center">
-<p> Tabela 1: Modelo texto estruturado para descrição de cenários (Fonte: [2], 2022).</p>
+<p> Tabela 1: Modelo texto estruturado para descrição de cenários (Fonte: [1], 2022).</p>
 </div>
 
 ## **Cenários identificados**
@@ -122,11 +122,14 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 </div>
 
  
-## **Referência Bibliografica**
+## **Referências Bibliográficas**
 
-[1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
+[1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 22 nov. 2023.
 
-[2] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 22 nov. 2023.
+## **Bibliografia**
+
+Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf>. Acesso em 25 out. 2023
+
 
 ## **Histórico de Versões**
 
