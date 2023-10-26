@@ -148,7 +148,45 @@ Classificação: Verbo
 | Sinônimo       | Saldo positivo | 
 | Classificação  |Estado |
 
+### **L02 - Personalizar**
 
+| L02             |Descrição     | 
+|----------------|----------------|
+| Léxico         | Personalizar | 
+| Autor          | Caio Lelis | 
+| Noção          | O que o usuário precisa fazer para personalizar sua interface    | 
+| Impacto        |Permite a adaptação da interface de acordo com as preferências do usuário | 
+| Sinônimo       | Customizar | 
+| Classificação  |Verbo |
+
+<figcaption align="center">Tabela 03: Léxico 02 (Fonte: LELIS, Caio. 2023)</figcaption>
+
+### **L09 - ChatBot**
+
+| L09            |Descrição     | 
+|----------------|----------------|
+| Léxico         | ChatBot | 
+| Autor          | Caio Lelis | 
+| Noção          | Conversa com o usuário de acordo com a disponibilidade dele      | 
+| Impacto        |Pode ser usado para esclarecer dúvidas e fornecer serviços relacionados ao transporte público | 
+| Sinônimo       | Robô de conversação| 
+| Classificação  |Objeto |
+
+
+<figcaption align="center">Tabela 04: Léxico 09 (Fonte: LELIS, Caio. 2023)</figcaption>
+
+### **L16 - Consulta**
+
+| L16             |Descrição     | 
+|----------------|----------------|
+| Léxico         | Consulta | 
+| Autor          | Caio Lelis | 
+| Noção          | Como o usuário pode consultar seu extrato?      | 
+| Impacto        |Permite a verificação do estado atual do seu extrato | 
+| Sinônimo       | Verifica | 
+| Classificação  |Estado |
+
+<figcaption align="center">Tabela 05: Léxico 16 (Fonte: LELIS, Caio. 2023)</figcaption>
 # **Histórico de versão**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
@@ -156,3 +194,4 @@ Classificação: Verbo
 |  1.0   | Começo do arquivo |  Doan Filho   |   24/10/2023   | Caio Braga  | 25/10/2023        |
 |  1.1   | Adicionando Léxicos: Acessar, Ajuda e Status |  Joel Soares  |   24/10/2023   |  |         |
 |  1.2   | Adicionando Léxicos: Visualizar, Cartão e Cartão com saldo |  Joel Soares  |   24/10/2023   |  |         |
+|  1.3   | Adicionando Léxicos:  Personalizar, ChatBot e Consulta |  Caio Lelis  |   24/10/2023   |  |         |
