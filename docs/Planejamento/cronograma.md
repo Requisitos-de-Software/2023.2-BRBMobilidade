@@ -161,14 +161,14 @@
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
-| Use Cases | Início: 06/10 <br> Fim: 25/10 | Gabriel Barbosa, Guilherme Basilio e Caio Braga | Início: 25/10 <br> Fim: 25/10 | Joel Soares |
+| Use Cases | Início: 06/10 <br> Fim: 25/10 | Gabriel Barbosa, Guilherme Basilio e Caio Braga| Início: 25/10 <br> Fim: 25/10 | Joel Soares |
 | Cenários | Início: 06/10 <br> Fim: 25/10 | Joel Soares e Miguel de Frias |  Início: 25/10 <br> Fim: 25/10 | Guilherme Basilio |
 | Léxico | Início: 06/10 <br> Fim: 25/10 | Doan Filho | Início: 25/10 <br> Fim: 25/10  | Caio Lelis |
-| Especificação suplementar | Início: 06/10 <br> Fim: 25/10 | Caio Lelis e Doan Filho|  Início: 25/10  <br> Fim: 25/10 | Gabriel Barbosa |
+| Especificação suplementar | Início: 06/10 <br> Fim: 25/10 | Caio Lelis e Gabriel Barbosa|  Início: 25/10  <br> Fim: 25/10 | Miguel de Frias |
 | Atualizar Gitpage | Início: 06/10 <br> Fim: 21/10 | Caio Braga, Doan Filho e Caio Lelis | Início: 21/10 <br> Fim: 25/10| Caio Braga |
 | Gravação da Apresentação | Início: 25/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 25/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação| Início: 25/10 <br> Fim: 25/10 | Joel Soares | Início: 25/10 <br> Fim: 25/10 | Miguel de Frias |
-| Cronograma Realizado | Início: 06/10 <br> Fim: 23/10  | Miguel de Frias |  Início: 23/10 <br> Fim: 25/10 | Doan Filho |
+| Cronograma Realizado | Início: 06/10 <br> Fim: 23/10  | Miguel de Frias |  Início: 23/10 <br> Fim: 25/10 | Guilherme Basilio |
 | Correções da Entrega 2 | Início: 06/10 <br> Fim: 24/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 24/10 <br> Fim: 25/10 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 <div style="text-align: center">
     <p> <b>Tabela 6</b>: Tarefas realizadas para a Entrega 3. (Fonte: Miguel de Frias, 2023).</p>
@@ -294,15 +294,17 @@
 
 ## **Bibliografia**
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 17 de setembro de 2023.
+ SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 17 de setembro de 2023.
 
-[2] Cronograma VLC. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/planejamento/cronograma.md>>. Acesso em 17 de setembro de 2023.
+ Cronograma VLC. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/planejamento/cronograma.md>>. Acesso em 17 de setembro de 2023.
 
 ## **Histórico de Versões**
 
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0 | Adicionando tópicos e estrutura base|  Doan Filho |  18/09/2023 | Miguel de Frias |  18/09/2023 |
 | 1.1 | Planejamento Entrega 01|  Doan Filho e Miguel de Frias | 18/09/2023 | Miguel de Frias e Doan Filho |  18/09/2023 |
 | 1.2 | Atualização do Cronograma | Miguel de Frias | 25/09/2023 | Doan Filho |  25/09/2023 |
 | 2.0 | Adição Realizado entrega 1 e 2 | Miguel de Frias | 03/10/2023 | Doan Filho | 04/10/2023 |
 | 3.0 | Adição Realizado entrega 3| Miguel de Frias | 23/10/2023 | Doan Filho | 25/10/2023 |
-| 3.1 | Atualizando datas Realizado entrega 3 | Miguel de Frias | 23/10/2023 | Doan Filho | 25/10/2023 |
+| 3.1 | Atualizando datas Realizado entrega 3 | Miguel de Frias | 23/10/2023 | Guilherme Basilio | 25/10/2023 |
