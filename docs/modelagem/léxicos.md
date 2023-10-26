@@ -170,8 +170,8 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 
 <figcaption align="center">Tabela 10: Léxico 10(Fonte: Filho, Doan. 2023)</figcaption>
 
-### <a id = "ChatBot">**L09 - ChatBot**</a>
-| L08            |Descrição     | 
+### <a id = "ChatBot">**L07 - ChatBot**</a>
+| L07            |Descrição     | 
 |----------------|----------------|
 | Léxico         | [ChatBot](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/?h=ajuda#requisitos-priorizados) | 
 | Autor          | Caio Lelis | 
@@ -215,7 +215,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 
 | LE3             |Descrição     | 
 |----------------|----------------|
-| Léxico         | Personalizar | 
+| Léxico         | Adptado | 
 | Autor          | Caio Lelis | 
 | Noção          | O que o <a href = "#Usuário">usuário</a> precisa fazer para personalizar sua <a href = "#Interface">interface</a> trazendo <a href = "#Adptar"> adptação </a>   | 
 | Impacto        |Permite a adaptação da <a href = "#Interface">interface</a> de acordo com as preferências do <a href = "#Usuário">usuário</a>| 
