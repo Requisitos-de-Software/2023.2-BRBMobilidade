@@ -28,6 +28,6 @@ Somos o Grupo 3 de Requisitos de Software. Este repositório centraliza nossos a
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial          | Caio Lelis          | 10/09/2023   | Caio Braga  | 18/09/2023  |
-|  1.1   | Redesenho da interface  | Caio da Interface   | 11/09/2023   | Doan Filho  | 12/09/2023  |
+|  1.1   | Redesenho da interface  | Caio Braga   | 11/09/2023   | Doan Filho  | 12/09/2023  |
 |  1.2   | Correções               | Caio Braga          | 21/09/2023   | Caio Lelis | 23/09/2023  |
 |  1.3   | Atualização HomePage    | Caio Braga          | 23/09/2023   | Doan Filho  | 25/09/2023  |
