@@ -2,11 +2,11 @@
 
 ## **Introdução**
 
-Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos [2]. Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos [2]. Portanto, é uma estratégia para elicitar a parte comportamental do software[1].
+&emsp;&emsp;Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos [2]. Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos [2]. Portanto, é uma estratégia para elicitar a parte comportamental do software[1].
 
 ## **Modelo de Cenário**
 
-Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente [2], tal modelo pode ser observado a seguir na Tabela 1.
+&emsp;&emsp;Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente [2], tal modelo pode ser observado a seguir na Tabela 1.
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -109,7 +109,7 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 <p> Tabela 7: Descrição do cenário 6: "Consultar extrato de uso" - (Fonte: BRAGA, Caio).</p>
 </div>
 
-### **Cenário 7: Cadastrar métodos de pagamento**
+### **Cenário 7: Cadastrar método de pagamento**
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -134,8 +134,8 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de cenarios |   Joel Soares   |   22/10/2023   |  |       dd/mm/yyyy      |
-|  1.1   | Adição do cénario visualização de linhas |   Guilherme Basilio   |   24/10/2023   |  |       dd/mm/yyyy      |
+|  1.0   | Criação do documento de cenarios |   Joel Soares   |   22/10/2023   | Miguel de Frias  |    24/10/2023   |
+|  1.1   | Adição do cénario visualização de linhas |   Guilherme Basilio   |   24/10/2023   | Miguel de Frias |  25/10/2023 |
 |  1.2   | Adição do cénario visualização de saldo disponível |   Caio Lelis   |   24/10/2023   |  |       dd/mm/yyyy      |
 | 1.3   | Adição do cenário solicitar 2ªvia |  Gabriel Barbosa |  24/10/2023 |     |    dd/mm/yyyy   |
 |  1.4  | Adição do cenário de pontos de recarga |   Doan Filho  |   24/10/2023   |  |       dd/mm/yyyy      |
