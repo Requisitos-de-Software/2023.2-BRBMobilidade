@@ -152,7 +152,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Autor          | Miguel de Frias | 
 | Noção          | O <a href = "#Transporte">transporte</a> que o <a href = "#Usuário">usuário</a> usa para se deslocar para sua instituição de ensino | 
 | Impacto        | Deslocamento do <a href = "#Usuário">usuário</a> usando o aplicativo| 
-| Sinônimo       | Tela| 
+| Sinônimo       | Ônibus | 
 | Classificação  |Objeto |
 
 <figcaption align="center">Tabela 9: Léxico 9(Fonte: de Frias, Miguel. 2023)</figcaption>
