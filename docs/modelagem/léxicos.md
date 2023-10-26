@@ -37,15 +37,15 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 
 ## **Léxicos de Verbo**
 
-###  **LV1 - Acessar** 
+### **LV1 - Acessar**
 
 | L01  |Descrição     | 
 |----------------|----------------|
 | Léxico         | [Acessar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/?h=acessar#processo-de-observacao)| 
 | Autor          | Joel Soares| 
-| Noção          | O que o <a href = "#Usuário" >usuário</a> usuario precisa fazer para usar o aplicativo | 
+| Noção          | O que o <a href = "### **LO3 Usuário**">usuário</a> usuario precisa fazer para usar o aplicativo | 
 | Impacto        |Ter acesso as funcionalidades do aplicativo | 
-| Sinônimo       | Utilizar| 
+| Sinônimo       |  Utilizar| 
 | Classificação  |Verbo |
 
 <figcaption align="center">Tabela 2: Léxico 01 (Fonte: SOARES, Joel. 2023)</figcaption>
@@ -55,7 +55,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 |----------------|----------------|
 | Léxico         | [Acessar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/?h=acessar#processo-de-observacao)| 
 | Autor          | Joel Soares| 
-| Noção          |  O que o <a href = "#Usuário" >usuário</a> precisa fazer para usar o aplicativo | 
+| Noção          |  O que o usuario precisa fazer para usar o aplicativo | 
 | Impacto        |Ter acesso as funcionalidades do aplicativo | 
 | Sinônimo       |  Utilizar| 
 | Classificação  |Verbo |
@@ -69,16 +69,29 @@ O usuário encontra os gastos dos meses escolhidos
 Dicionário: Consultar gastos, Verificar despesas, Analisar consumo
 Classificação: Verbo
 
+### **LV2 - Buscar**
+
+| L02  | Buscar | 
+|----------------|----------------|
+| Léxico         | [Acessar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/?h=acessar#processo-de-observacao)| 
+| Autor          | Guilherme Basilio | 
+| Noção          | O que o usuário precisa fazer para realizar uma busca no aplicativo | 
+| Impacto        | Ter acesso as funcionalidades do aplicativo | 
+| Sinônimo       | Pesquisar | 
+| Classificação  | Verbo |
+
+<figcaption align="center">Tabela 3: Léxico 02(Fonte: BASILIO, Guilherme. 2023)</figcaption>
+
 ### **LV3 - Visualizar**
 
 | LV3  |Descrição     | 
 |----------------|----------------|
 | Léxico         | [Visualizar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/)| 
 | Autor          | Doan Filho| 
-| Noção          | Quando um <a href = "#Usuário" >usuário</a> deseja saber seu saldo restante no aplicativo | 
-| Impacto        |O <a href = "#Usuário" >usuário</a> poderá visualizar o saldo restante | 
+| Noção          | Quando um usuário deseja saber seu saldo restante no aplicativo | 
+| Impacto        |O usuário poderá visualizar o saldo restante | 
 | Sinônimo       | Ver e Olhar| 
-| Classificação  |Verbo |
+| Classificação  | Verbo |
 <figcaption align="center">Tabela 4: Léxico 03(Fonte: FILHO, DOAN. 2023)</figcaption>
 
 
@@ -91,8 +104,8 @@ Classificação: Verbo
 |----------------|----------------|
 | Léxico         |[Ajuda](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/?h=ajuda#requisitos-priorizados) | 
 | Autor          | Joel Soares | 
-| Noção          |  O que o <a href = "#Usuário" >usuário</a> pode acessar para obter assistência ou resolver problemas ao usar o aplicativo. | 
-| Impacto        |O <a href = "#Usuário" >usuário</a> pode acessar conteúdos de ajuda ou consultar a base de conhecimento quando precisar de assistência ou encontrar problemas no sistema | 
+| Noção          |  O que o usuário pode acessar para obter assistência ou resolver problemas ao usar o aplicativo. | 
+| Impacto        |O usuário pode acessar conteúdos de ajuda ou consultar a base de conhecimento quando precisar de assistência ou encontrar problemas no sistema | 
 | Sinônimo       | Suporte| 
 | Classificação  |Objeto |
 
@@ -104,13 +117,12 @@ Classificação: Verbo
 | Léxico         |[Cartão](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/) | 
 | Autor          | Doan Filho | 
 | Noção          | O cartão é o objeto que media o uso do ônibus e do aplicativo | 
-| Impacto        |O <a href = "#Usuário" >usuário</a> tem acesso a um cartão onde é guardado seu saldo ou passes para o uso do transporte | 
+| Impacto        |O usuário tem acesso a um cartão onde é guardado seu saldo ou passes para o uso do transporte | 
 | Sinônimo       | Passe e ficha| 
 | Classificação  |Objeto |
 
 
-### <a id = "Usuário"> **LO3 Usuário**</a>
-
+### **LO3 Usuário**
 | L03  |Descrição     | 
 |----------------|----------------|
 | Léxico         |[Usuário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/?h=ajuda#requisitos-priorizados) | 
@@ -132,7 +144,7 @@ Classificação: Verbo
 | Léxico         | [Status](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/MoSCoW/?h=status#o-que-e-a-tecnica-moscow) | 
 | Autor          | Joel Soares | 
 | Noção          | O estado atual ou condição em tempo real de diversos aspectos, incluindo, transportes públicos, a aplicação e outros elementos, conforme desejado pelo usuário | 
-| Impacto        |O <a href = "#Usuário" >usuário</a> pode monitorar informações em tempo real sobre vários aspectos, incluindo transporte, desempenho da aplicação e outros elementos, permitindo uma tomada de decisão informada. | 
+| Impacto        |O usuário pode monitorar informações em tempo real sobre vários aspectos, incluindo transporte, desempenho da aplicação e outros elementos, permitindo uma tomada de decisão informada. | 
 | Sinônimo       | Condição| 
 | Classificação  |Estado |
 
@@ -144,7 +156,7 @@ Classificação: Verbo
 | Léxico         | [Cartão com saldo dísponivel](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/) | 
 | Autor          | Doan Filho | 
 | Noção          | Acessar o saldo disponivel para o uso do cartão | 
-| Impacto        |O <a href = "#Usuário" >usuário</a>  pode monitorar o quanto de saldo está diponível no cartão. | 
+| Impacto        |O usuário  pode monitorar o quanto de saldo está diponível no cartão. | 
 | Sinônimo       | Saldo positivo | 
 | Classificação  |Estado |
 
@@ -172,8 +184,33 @@ Classificação: Verbo
 | Sinônimo       | Robô de conversação| 
 | Classificação  |Objeto |
 
-
 <figcaption align="center">Tabela 04: Léxico 09 (Fonte: LELIS, Caio. 2023)</figcaption>
+
+### **L10 - Saldo**
+
+| L09            |Descrição     | 
+|----------------|----------------|
+| Léxico         | Saldo | 
+| Autor          | Guilherme Basilio | 
+| Noção          | O usuário visualiza o saldo do seu cartão  | 
+| Impacto        | O usuário  pode monitorar o saldo do cartão. | 
+| Sinônimo       | Contagens | 
+| Classificação  | Objeto |
+
+<figcaption align="center">Tabela 05: Léxico 10 (Fonte: BASILIO, Guilherme. 2023)</figcaption>
+
+### **L11 - Notificação**
+
+| L09            |Descrição     | 
+|----------------|----------------|
+| Léxico         | Notificação | 
+| Autor          | Guilherme Basilio | 
+| Noção          | O usuário recebe um aviso  | 
+| Impacto        | Uma notificação pode ser ativada ou desativada por um usuário | 
+| Sinônimo       | Comunicar | 
+| Classificação  | Objeto |
+
+<figcaption align="center">Tabela 06: Léxico 11 (Fonte: BASILIO, Guilherme. 2023)</figcaption>
 
 ### **L16 - Consulta**
 
@@ -195,3 +232,4 @@ Classificação: Verbo
 |  1.1   | Adicionando Léxicos: Acessar, Ajuda e Status |  Joel Soares  |   24/10/2023   |  |         |
 |  1.2   | Adicionando Léxicos: Visualizar, Cartão e Cartão com saldo |  Joel Soares  |   24/10/2023   |  |         |
 |  1.3   | Adicionando Léxicos:  Personalizar, ChatBot e Consulta |  Caio Lelis  |   24/10/2023   |  |         |
+|  1.4   | Adicionando Léxicos:  Buscar, Saldo e Notificação |  Guilherme Basilio  |   24/10/2023   |  |         |
