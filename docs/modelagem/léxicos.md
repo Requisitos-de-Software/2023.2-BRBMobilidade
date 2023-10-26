@@ -39,7 +39,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 
 ### <a id = "Acessar"> **LV1 Acessar** </a>
 
-| L01  |Descrição     | 
+| LV1  |Descrição     | 
 |----------------|----------------|
 | Léxico         | [Acessar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/?h=acessar#processo-de-observacao)| 
 | Autor          | Joel Soares| 
@@ -50,9 +50,22 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 
 <figcaption align="center">Tabela 1: Léxico 01 (Fonte: SOARES, Joel. 2023)</figcaption>
 
-### <a id ="Visualizar" > **LV2 Visualizar**</a>
+### <a id = "Busca">**LV2 Buscar**</a>
 
-| LV2  |Descrição     | 
+| LV2  | Descrição | 
+|----------------|----------------|
+| Léxico         | [Buscar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/?h=acessar#processo-de-observacao)| 
+| Autor          | Guilherme Basilio | 
+| Noção          | O que o <a = href "#Usuário">usuário</a> precisa fazer para realizar uma <a href = "#Busca">busca</a> no aplicativo | 
+| Impacto        | Ter <a href = "#Acessar">acesso</a> as funcionalidades do aplicativo | 
+| Sinônimo       | Pesquisar | 
+| Classificação  | Verbo |
+
+<figcaption align="center">Tabela 2: Léxico 02(Fonte: BASILIO, Guilherme. 2023)</figcaption>
+
+### <a href = "Visualizar">**LV3 Visualizar**</a>
+
+| LV3  |Descrição     | 
 |----------------|----------------|
 | Léxico         | [Visualizar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/)| 
 | Autor          | Doan Filho| 
@@ -60,12 +73,11 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Impacto        |O <a href = "#Usuário" >usuário</a> poderá <a href = "#Visualizar">visualizar</a> o <a href = "#Saldo">saldo</a> restante, poderá ver eos itinerários dos <a href = "#Transporte">ônibus</a> e etc | 
 | Sinônimo       | Ver e Olhar| 
 | Classificação  |Verbo |
+<figcaption align="center">Tabela 3: Léxico 03(Fonte: FILHO, DOAN. 2023)</figcaption>
 
-<figcaption align="center">Tabela 2: Léxico 02(Fonte: FILHO, DOAN. 2023)</figcaption>
+### <a id = "ExibirExtrato">**LV4 Exibir extrato de Uso**</a>
 
-### <a id = "ExibirExtrato">**LV3 Exibir extrato de Uso**</a>
-
-| LV3  |Descrição     | 
+| LV4  |Descrição     | 
 |----------------|----------------|
 | Léxico         | Exibir extrato de uso| 
 | Autor          | Caio Braga | 
@@ -74,7 +86,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       |Ver| 
 | Classificação  |Verbo |
 
-<figcaption align="center">Tabela 3: Léxico 03 (Fonte: BRAGA, CAIO. 2023)</figcaption>
+<figcaption align="center">Tabela 4: Léxico 04 (Fonte: BRAGA, CAIO. 2023)</figcaption>
 
 --- 
 ## **Léxicos de Objeto**
@@ -85,41 +97,30 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 |----------------|----------------|
 | Léxico         |[Suporte](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/?h=ajuda#requisitos-priorizados) | 
 | Autor          | Joel Soares | 
-| Noção          |  O que o <a href = "#Usuário" >usuário</a> pode <a href = "#Acessar">acessar</a> para obter assistência ou resolver problemas ao usar o aplicativo. | 
-| Impacto        |O <a href = "#Usuário" >usuário</a> pode <a href = "#Acessar">acessar</a> conteúdos deajuda ou consultar a base de conhecimento quando precisar de assistência ou encontrar problemas no sistema | 
-| Sinônimo       | Ajuda| 
+| Noção          |  O que o <a href = "#Usuário" >usuário</a> pode acessar para obter assistência ou resolver problemas ao usar o aplicativo. | 
+| Impacto        |O <a href = "#Usuário" >usuário</a> pode acessar conteúdos de ajuda ou consultar a base de conhecimento quando precisar de assistência ou encontrar problemas no sistema | 
+| Sinônimo       | Suporte| 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 4: Léxico 04(Fonte: SOARES, Joel. 2023)</figcaption>
-
-### <a href = "ChatBox">**L02 ChatBOX**</a>
-| L02            |Descrição     | 
-|----------------|----------------|
-| Léxico         | [ChatBot](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/)| 
-| Autor          | Caio Lelis | 
-| Noção          | Conversa com o <a href = "#Usuário">usuário</a> de acordo com a disponibilidade dele | 
-| Impacto        |Pode ser usado para esclarecer dúvidas e fornecer <a href ="#Suporte">ajuda</a> e serviços relacionados ao transporte público | 
-| Sinônimo       | Robô de conversação, assistente| 
-| Classificação  |Objeto |
-
-<figcaption align="center">Tabela 5: Léxico 05 (Fonte: LELIS, Caio. 2023)</figcaption>
+<figcaption align="center">Tabela 5: Léxico 05 (Fonte: SOARES, JOEL. 2023)</figcaption>
 
 
-### <a id = "Cartao">**LO3 Cartão**</a>
-| L03  |Descrição     | 
+### <a id = "Cartao">**LO2 Cartão**</a>
+
+| L02  |Descrição     | 
 |----------------|----------------|
 | Léxico         |[Cartão](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/) | 
 | Autor          | Doan Filho | 
-| Noção          | O cartão é o objeto que media o uso do ônibus e do aplicativo | 
-| Impacto        |O <a href = "#Usuário" >usuário</a> tem "#Acessar">acessar</a> a um cartão onde é guardado seu saldo ou passes para o uso do transporte | 
+| Noção          | O <a href = "#Cartao>cartão</a> é o objeto que media o uso do <a href = "#Transporte">ônibus</a> e do aplicativo | 
+| Impacto        |O <a href = "#Usuário" >usuário</a> tem acesso a um <a href = "#Cartao">cartão</a> onde é guardado seu <a href = "#Saldo">saldo</a> ou passes para o uso do <a href = "#Transporte">transporte</a> | 
 | Sinônimo       | Passe e ficha| 
 | Classificação  |Objeto |
 
 <figcaption align="center">Tabela 6: Léxico 06 (Fonte: FILHO, Doan. 2023)</figcaption>
 
-### <a id = "Usuário"> **LO4 Usuário**</a>
+### <a id = "Usuário"> **LO3 Usuário**</a>
 
-| L04  |Descrição     | 
+| L03  |Descrição     | 
 |----------------|----------------|
 | Léxico         |[Usuário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/?h=ajuda#requisitos-priorizados) | 
 | Autor          | Caio Braga | 
@@ -128,11 +129,11 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Estudante, usuário pagante| 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 7: Léxico 07 (Fonte: SOARES, Joel. 2023)</figcaption>
+<figcaption align="center">Tabela 7: Léxico 07 (Fonte: BRAGA, Caio. 2023)</figcaption>
 
-### <a id ="Interface">**L05 Interface**</a>
+### <a id ="Interface">**L04 Interface**</a>
 
- L03  |Descrição     | 
+ L04  |Descrição     | 
 |----------------|----------------|
 | Léxico         |[Interface](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/?h=ajuda#requisitos-priorizados) | 
 | Autor          | Miguel de Frias | 
@@ -143,10 +144,9 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 
 <figcaption align="center">Tabela 8: Léxico 8(Fonte: de Frias, Miguel. 2023)</figcaption>
 
+### <a id ="Transporte">**L05 Transporte**</a>
 
-### <a id ="Transporte">**L06 Transporte**</a>
-
- L03  |Descrição     | 
+ L05  |Descrição     | 
 |----------------|----------------|
 | Léxico         |[Transporte](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/?h=ajuda#requisitos-priorizados) | 
 | Autor          | Miguel de Frias | 
@@ -157,9 +157,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 
 <figcaption align="center">Tabela 9: Léxico 9(Fonte: de Frias, Miguel. 2023)</figcaption>
 
-
-
-### <a id ="Saldo">**L07 Saldo**</a>
+### <a id ="Saldo">**L06 Saldo**</a>
 
  L07  |Descrição     | 
 |----------------|----------------|
@@ -170,7 +168,20 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Dinheiro| 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 9: Léxico 9(Fonte: de Frias, Miguel. 2023)</figcaption>
+<figcaption align="center">Tabela 10: Léxico 10(Fonte: Filho, Doan. 2023)</figcaption>
+
+### <a id = "ChatBot">**L09 - ChatBot**</a>
+| L08            |Descrição     | 
+|----------------|----------------|
+| Léxico         | [ChatBot](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/?h=ajuda#requisitos-priorizados) | 
+| Autor          | Caio Lelis | 
+| Noção          | Conversa com o <a href = "#Usuário">usuário</a> de acordo com a disponibilidade dele      | 
+| Impacto        |Pode ser usado para esclarecer dúvidas e fornecer serviços relacionados ao <a href = "#Transporte">transporte</a> público | 
+| Sinônimo       | Robô de conversação| 
+| Classificação  |Objeto |
+
+
+<figcaption align="center">Tabela 11: Léxico 11 (Fonte: LELIS, Caio. 2023)</figcaption>
 
 ---
 ## **Léxicos de Estado**
@@ -181,37 +192,37 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 |----------------|----------------|
 | Léxico         | [Status](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/MoSCoW/?h=status#o-que-e-a-tecnica-moscow) | 
 | Autor          | Joel Soares | 
-| Noção          | O estado atual ou condição em tempo real de diversos aspectos, incluindo, transportes públicos, a aplicação e outros elementos, conforme desejado pelo<a  href = "#Usuário"> usuário</a> | 
-| Impacto        |O <a href = "#Usuário" >usuário</a> pode monitorar informações em tempo real sobre vários aspectos, incluindo transporte, desempenho da aplicação e outros elementos, permitindo uma tomada de decisão informada. | 
+| Noção          | O estado atual ou condição em tempo real de diversos aspectos, incluindo, <a href = "#Transporte">transportes</a> públicos, a aplicação e outros elementos, conforme desejado pelo <a href = "#Usuário">usuário</a> | 
+| Impacto        |O <a href = "#Usuário" >usuário</a> pode monitorar informações em tempo real sobre vários aspectos, incluindo <a href = "#Trasnporte">transporte</a>, desempenho da aplicação e outros elementos, permitindo uma tomada de decisão informada. | 
 | Sinônimo       | Condição| 
 | Classificação  |Estado |
 
-<figcaption align="center">Tabela 10: Léxico 10 (Fonte: SOARES, Joel. 2023)</figcaption>
+<figcaption align="center">Tabela 12: Léxico 12 (Fonte: SOARES, Joel. 2023)</figcaption>
 
 ### <a id = "SaldoDisponivel"> **LE2 Saldo disponível** </a>
 | LE2  |Descrição     | 
 |----------------|----------------|
 | Léxico         | [Cartão com saldo dísponivel](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/) | 
 | Autor          | Doan Filho | 
-| Noção          | <a href = "#Acessar">Acessar</a> o saldo disponivel para o uso do <a = "Cartao">cartão</a> | 
-| Impacto        |O <a href = "#Usuário" >usuário</a>  pode monitorar o quanto de saldo está diponível no <a = "Cartao">cartão</a>. | 
+| Noção          | Acessar o <a href = "#Saldo">saldo</a> disponivel para o uso do <a href = "#Cartao">cartão</a> | 
+| Impacto        |O <a href = "#Usuário" >usuário</a>  pode monitorar o quanto de <a href = "#Saldo">saldo</a> está diponível no <a href = "#Cartao">cartão</a>. | 
 | Sinônimo       | Saldo positivo | 
 | Classificação  |Estado |
 
-<figcaption align="center">Tabela 11: Léxico 11 (Fonte: SOARES, Joel. 2023)</figcaption>
+<figcaption align="center">Tabela 13: Léxico 13 (Fonte: FILHO, Doan. 2023)</figcaption>
 
 ### <a id = "Adptar"> **LE3 Adptado**</a>
 
-| L02             |Descrição     | 
+| LE3             |Descrição     | 
 |----------------|----------------|
 | Léxico         | Personalizar | 
 | Autor          | Caio Lelis | 
 | Noção          | O que o <a href = "#Usuário">usuário</a> precisa fazer para personalizar sua <a href = "#Interface">interface</a> trazendo <a href = "#Adptar"> adptação </a>   | 
 | Impacto        |Permite a adaptação da <a href = "#Interface">interface</a> de acordo com as preferências do <a href = "#Usuário">usuário</a>| 
 | Sinônimo       | Customizar | 
-| Classificação  |Estado|
+| Classificação  |Estado |
 
-<figcaption align="center">Tabela 12: Léxico 12 (Fonte: LELIS, Caio. 2023)</figcaption>
+<figcaption align="center">Tabela 13: Léxico 13 (Fonte: LELIS, Caio. 2023)</figcaption>
 
 
 ## **Histórico de versão**
@@ -219,5 +230,5 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Começo do arquivo |  Doan Filho   |   24/10/2023   | Caio Braga  | 25/10/2023        |
 |  1.1   | Adicionando Léxicos: Acessar, Ajuda e Status |  Joel Soares  |   24/10/2023   | Doan Filho | 25/10/2023        |
-|  1.2   | Adicionando Léxicos: Visualizar, Cartão e Cartão com saldo |  Joel Soares  |   24/10/2023   | Doan Filho   | 25/10/2023        |
-|  1.3   | Adicionando Léxicos:  Personalizar, ChatBot e Consulta |  Caio Lelis  |   24/10/2023   | Doan Filho  | 25/10/2023        |
+|  1.2   | Adicionando Léxicos: Visualizar, Cartão e Cartão com saldo |  Joel Soares  |   24/10/2023   | Doan Filho |         |
+|  1.3   | Adicionando Léxicos:  Personalizar, ChatBot e Consulta |  Caio Lelis  |   24/10/2023   | Doan Filho | 25/10/2023   |
