@@ -1,8 +1,8 @@
-# BRB Mobilidade
+# Págin inicial
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Planejamento/img/BRB-mobilidade.png" style="width:20vw"/>
-    <p> Figura 1: Imagem BRB Mobilidade . Fonte: <a href="https://mobilidade.brb.com.br/passelivre/pages/index.xhtml">BRB Mobilidade</a></p> 
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/0a8781aab3860cd3c5cedc169d7ce9ce704cab2f/docs/assets/logo.png" style="width:20vw"/>
+    <p> Figura 1: Imagem BRB Mobilidade . Fonte: <a href="https://mobilidade.brb.com.br/passelivre/">BRB Mobilidade</a></p> 
 </div>
 
 
@@ -28,6 +28,6 @@ Somos o Grupo 3 de Requisitos de Software. Este repositório centraliza nossos a
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão inicial          | Caio Lelis          | 10/09/2023   | Caio Braga  | 18/09/2023  |
-|  1.1   | Redesenho da interface  | Caio da Interface   | 11/09/2023   | Doan Filho  | 12/09/2023  |
+|  1.1   | Redesenho da interface  | Caio Braga   | 11/09/2023   | Doan Filho  | 12/09/2023  |
 |  1.2   | Correções               | Caio Braga          | 21/09/2023   | Caio Lelis | 23/09/2023  |
 |  1.3   | Atualização HomePage    | Caio Braga          | 23/09/2023   | Doan Filho  | 25/09/2023  |

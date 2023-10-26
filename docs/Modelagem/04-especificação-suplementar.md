@@ -15,7 +15,7 @@ O modelo **FURPS+** é uma ferramenta para a especificação de requisitos, send
 
 - **F** - **Funcionalidade (Functionality)**: Esta categoria aborda o cerne do sistema, referindo-se às funções e capacidades que o software deve disponibilizar. Os requisitos de funcionalidade definem o que o sistema deve realizar, incluindo tarefas, operações, recursos e comportamentos.
 <div style="text-align: center">
-<p> Os requisitos funcionais definidos como mais importantes, estão disponíveis no artefato "Casos de uso".</p>
+<p> Os requisitos funcionais definidos como mais importantes, estão disponíveis no artefato <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/">"Casos de uso"</a>.</p>
 </div>
 
 - **U** - **Usabilidade (Usability)**: A usabilidade concentra-se na experiência do usuário. Os requisitos de usabilidade englobam aspectos como facilidade de uso, design da interface, acessibilidade e qualquer elemento que influencie a experiência do usuário.
@@ -54,9 +54,9 @@ A **tabela 01** mostra os requisitos não funcionais elicitados, sua funcionalia
 | IS17 | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. |    R         |
 | IS18   | Deve ser de código aberto e gratuito. |     S       |
 | OBS11 | O aplicativo deve fornecer ao usuário o feedback de suas ações |      U      |
-| OBS12 | Deve ser possível filtrar o extrato ao longo do tempo |      S      |
-| OBS13 | Deve ser possível fazer solicitações triviais com 3 cliques |    S        |
-| OBS14 | Deve ser possível acompanhar a rota e o trajeto do ônibus num período de tempo e data selecionado |       S     |
+| OBS12 | Deve ser possível filtrar o extrato ao longo do tempo |      U      |
+| OBS13 | Deve ser possível fazer solicitações triviais com 3 cliques |    U        |
+| OBS14 | Deve ser possível acompanhar a rota e o trajeto do ônibus num período de tempo e data selecionado |       U     |
 | OBS15 | Deve apresentar uma interface que facilita a prevenção de erros |      +      |
 | Q11 | O aplicativo deve fornecer segurança ao usuário com dados cadastrados |        +    |
 | Q12 | O aplicativo deve rastrear os ônibus via GPS |      +      |
