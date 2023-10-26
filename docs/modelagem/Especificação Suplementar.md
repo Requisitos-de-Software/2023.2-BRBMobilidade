@@ -1,8 +1,11 @@
 # Especificação Suplementar
 
+## Introdução
+
 A **Especificação Suplementar**, na engenharia de software, é a prática que envolve a organização de requisitos de um sistema em grupos ou categorias específicas. Essa estruturação visa aprimorar o entendimento, a gestão e a priorização dos requisitos ao longo do ciclo de desenvolvimento de software.
 
 Para a especificação de requisitos, o Grupo 03 optou por adotar o modelo **FURPS+**.
+
 
 ## Modelo FURPS+: 
 
@@ -131,4 +134,4 @@ Tabela 02 - Tabela de significado dos ID's dos requisitos. (Fonte:LELIS,Caio)
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de especificação suplementar |   Caio Lelis   |   24/10/2023   |  |         |
+|  1.0   | Criação do documento de especificação suplementar |   Caio Lelis   |   24/10/2023   | Gabriel Barbosa |  25/10/2023    |
