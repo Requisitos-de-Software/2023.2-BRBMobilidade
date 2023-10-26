@@ -6,7 +6,7 @@
 
 ## **Modelo de Cenário**
 
-&emsp;&emsp;Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente, tal modelo pode ser observado a seguir na Tabela 1.
+&emsp;&emsp;Existem cinco formas para se descrever cenários. São elas: texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente, tal modelo pode ser observado a seguir na Tabela 1.
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -17,7 +17,7 @@
 | Exceção    | Tratamento para uma situação excepcional ou de erro                                          |
 
 <div style="text-align: center">
-<p> Tabela 1: Modelo texto estruturado para descrição de cenários (Fonte: [1], 2022).</p>
+<p> Tabela 1: Modelo texto estruturado para descrição de cenários (Fonte: LEITE, Julio, 2022 [1]).</p>
 </div>
 
 ## **Cenários identificados**
@@ -118,7 +118,7 @@
 | Exceção    |Erro de conexão com a internet;<br>Não possuir cadastro no aplicativo|
 
 <div style="text-align: center">
-<p> Tabela 8: Descrição do cenário 7: "Cadastrar métodos de pagamento - (Fonte: de Frias, Miguel).</p>
+<p> Tabela 8: Descrição do cenário 7: "Cadastrar métodos de pagamento - (Fonte: DE FRIAS, Miguel).</p>
 </div>
 
  
@@ -128,7 +128,7 @@
 
 ## **Bibliografia**
 
-Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf>. Acesso em 25 out. 2023
+>Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf>. Acesso em 25 out. 2023
 
 
 ## **Histórico de Versões**
