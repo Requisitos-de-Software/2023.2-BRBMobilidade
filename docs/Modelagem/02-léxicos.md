@@ -1,7 +1,7 @@
 # **Léxicos**
 
 ## **Introdução**
-É Léxicos são técnicas que descrevem símbolos de uma linguagem tendo como objetivo principal a identificação de palavras ou frases únicas no meio ao qual o software está inserido. 
+Léxicos são técnicas que descrevem símbolos de uma linguagem tendo como objetivo principal a identificação de palavras ou frases únicas no meio ao qual o software está inserido. 
 
 ## **Notações Léxicos e Descrição**
 
@@ -73,7 +73,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Impacto        |O <a href = "#Usuário" >usuário</a> poderá <a href = "#Visualizar">visualizar</a> o <a href = "#Saldo">saldo</a> restante, poderá ver eos itinerários dos <a href = "#Transporte">ônibus</a> e etc | 
 | Sinônimo       | Ver e Olhar| 
 | Classificação  |Verbo |
-<figcaption align="center">Tabela 3: Léxico 03(Fonte: FILHO, DOAN. 2023)</figcaption>
+<figcaption align="center">Tabela 3: Léxico 03(Fonte: FILHO, Doan. 2023)</figcaption>
 
 ### <a id = "ExibirExtrato">**LV4 Exibir extrato de Uso**</a>
 
@@ -86,7 +86,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       |Ver| 
 | Classificação  |Verbo |
 
-<figcaption align="center">Tabela 4: Léxico 04 (Fonte: BRAGA, CAIO. 2023)</figcaption>
+<figcaption align="center">Tabela 4: Léxico 04 (Fonte: BRAGA, Caio. 2023)</figcaption>
 
 --- 
 ## **Léxicos de Objeto**
@@ -102,7 +102,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Suporte| 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 5: Léxico 05 (Fonte: SOARES, JOEL. 2023)</figcaption>
+<figcaption align="center">Tabela 5: Léxico 05 (Fonte: SOARES, Joel. 2023)</figcaption>
 
 
 ### <a id = "Cartao">**LO2 Cartão**</a>

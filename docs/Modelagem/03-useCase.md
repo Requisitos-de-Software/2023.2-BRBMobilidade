@@ -15,7 +15,7 @@ Um diagrama de caso de uso é uma representação visual de casos de uso, atores
 | Sistema | Os sistemas são representados por retângulos. Eles contêm os casos de uso relacionados | <figure class="usecaseElement" style="width: 40%; display: flex;">![retangulo](../assets/sistema.png)</figure>
 | Relações | As relações são represetadas por linhas de associação (setas) que conectam atores aos casos de uso ou relações entre casos de uso. | <figure class="usecaseElement" style="width: 40%; display: flex;">![flechas](../assets/relacoes.png)</figure>
 
-<font size="2"><p style="text-align: center"><b>Tabela 1: Elementos do diagrama de casos de uso (Fonte: <a href="https://github.com/caioalvesbraga">Caio Braga)</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 1: Elementos do diagrama de casos de uso (Fonte: <a href="https://github.com/caioalvesbraga">BRAGA, Caio)</a></b></p></font>
 
 <br><br>
 
@@ -48,7 +48,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <img src="../assets/diagrama-caso-de-uso.png" class="usecaseElement">
 
-<font size="2"><p style="text-align: center"><b>Figura 1: Casos de uso do app BRB Mobilidade (Fonte: <a href="https://github.com/caioalvesbraga">Caio Braga)</b></a></font>
+<font size="2"><p style="text-align: center"><b>Figura 1: Casos de uso do app BRB Mobilidade (Fonte: <a href="https://github.com/caioalvesbraga">BRAGA, Caio)</b></a></font>
 
 
 ## **Casos de Uso & Especificação**
@@ -69,7 +69,7 @@ Modelo de tabela de Caso de Uso:
 |Pós Condições| Pos condições do UC|
 |Rastreabilidade| Rastreabilidade do UC|
 
-<font size="2"><p style="text-align: center"><b>Tabela 2: Modelo de tabela de Caso de Uso (Fonte: <a href="https://github.com/GuilhermeBES">Guilherme Basilio)</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 2: Modelo de tabela de Caso de Uso (Fonte: <a href="https://github.com/GuilhermeBES">BASILIO, Guilherme)</a></b></p></font>
 
 Explicação dos elementos:
 
@@ -101,7 +101,7 @@ Tabela 1 – UC01
 |Pós Condições|Usuário fica logado e pode realizar todas as ações|
 |Rastreabilidade|RF10, IS11|
 
-<font size="2"><p style="text-align: center"><b>Tabela 3: Fazer login (Fonte: <a href="https://github.com/GuilhermeBES">Guilherme Basilio)</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 3: Fazer login (Fonte: <a href="https://github.com/GuilhermeBES">BASILIO, Guilherme)</a></b></p></font>
 
 ### **UC02 - Realizar recarga**
 
@@ -117,7 +117,7 @@ Tabela 1 – UC01
 |Pós Condições| Usuário volta para a tela de inicio |
 |Rastreabilidade| OBS03, IS03, IS08 |
 
-<font size="2"><p style="text-align: center"><b>Tabela 4: Realizar recarga (Fonte: <a href="https://github.com/GuilhermeBES">Guilherme Basilio)</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 4: Realizar recarga (Fonte: <a href="https://github.com/GuilhermeBES">BASILIO, Guilherme)</a></b></p></font>
 
 ### **UC03 - Visualizar linhas e horários**
 
@@ -133,7 +133,7 @@ Tabela 1 – UC01
 |Pós Condições| Usuário irá ver o itinerário do ônibus desejado |
 |Rastreabilidade| IS02, IS05, OBS02, OBS04 |
 
-<font size="2"><p style="text-align: center"><b>Tabela 5: Visualizar linhas e horários (Fonte: <a href="https://github.com/GuilhermeBES">Guilherme Basilio)</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 5: Visualizar linhas e horários (Fonte: <a href="https://github.com/GuilhermeBES">BASILIO, Guilherme)</a></b></p></font>
 
 
 ### **UC04 - Acompanhar cadastro/cartão**
@@ -150,7 +150,7 @@ Tabela 1 – UC01
 |Pós Condições| Usuário verá a o menu de opções que se pode fazer com o cartão específico |
 |Rastreabilidade| IS10, OBS05, OBS08, OBS09 |
 
-<font size="2"><p style="text-align: center"><b>Tabela 6: Acompanhar cadastro/cartão (Fonte: <a href="https://github.com/gabrie1barbosa">Gabriel Barbosa)</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 6: Acompanhar cadastro/cartão (Fonte: <a href="https://github.com/gabrie1barbosa">BARBOSA, Gabriel)</a></b></p></font>
 
 ### **UC05 - Vizualizar extrato de uso**
 
@@ -167,7 +167,7 @@ Tabela 1 – UC01
 | Data de Criação | 25/10/2023 |
 |Rastreabilidade| IS01, OBS01 |
 
-<font size="2"><p style="text-align: center"><b>Tabela 7: Visualizar extrato de uso (Fonte: <a href="https://github.com/caioalvesbraga">Caio Braga)</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 7: Visualizar extrato de uso (Fonte: <a href="https://github.com/caioalvesbraga">BRAGA, Caio)</a></b></p></font>
 
 
 ## **Validação com o cliente**
