@@ -224,11 +224,15 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 
 <figcaption align="center">Tabela 13: Léxico 13 (Fonte: LELIS, Caio. 2023)</figcaption>
 
+## **Bibliografia**
+
+> [1] Slides, disponibilizados pelo professor da disciplina de Requisitos de Software da UnB, “Modelagem parte 1, Requisitos - Aula 10” - Milene Serrano e Maurício Serrano. Acesso em: 25 out. 2023.
+
 
 ## **Histórico de versão**
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Começo do arquivo |  Doan Filho   |   24/10/2023   | Caio Braga  | 25/10/2023        |
 |  1.1   | Adicionando Léxicos: Acessar, Ajuda e Status |  Joel Soares  |   24/10/2023   | Doan Filho | 25/10/2023        |
-|  1.2   | Adicionando Léxicos: Visualizar, Cartão e Cartão com saldo |  Joel Soares  |   24/10/2023   | Doan Filho |         |
+|  1.2   | Adicionando Léxicos: Visualizar, Cartão e Cartão com saldo |  Doan Filho  |   24/10/2023   | Joel Soares |   25/10/2023      |
 |  1.3   | Adicionando Léxicos:  Personalizar, ChatBot e Consulta |  Caio Lelis  |   24/10/2023   | Doan Filho | 25/10/2023   |
