@@ -19,6 +19,7 @@ A satisfação do usuário desempenha um papel crítico na aceitação e adoçã
 
 <div style="text-align: center; font-size: 20px;">
     <ul style="list-style-position: inside;">
+        <li>In-or-out</li>
         <li>MoSCoW</li>
         <li>Three Level Scale</li>
     </ul>
@@ -28,9 +29,9 @@ A satisfação do usuário desempenha um papel crítico na aceitação e adoçã
 ### Bibliografia
 > [1] Roger S. Pressman, "Engenharia de Software: Uma Abordagem Profissional". [Link para o livro](https://analisederequisitos.com.br/wp-content/uploads/2023/06/engenharia-de-software-8a-ed-pressman-compactado.pdf)
 
-    
 #### Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor          | Revisor          |
 |--------|------------|----------------------|----------------|----------------  |
 | 1.0    | 04/10/2023 | priorização de requisitos   | Caio Lelis  |     Doan Filho         |
+| 1.1    | 25/10/2023 | adição in-or-out   | Guilherme Basilio e Miguel de Frias  |   Guilherme Basilio e Miguel de Frias    |
