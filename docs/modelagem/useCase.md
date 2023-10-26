@@ -135,21 +135,21 @@ Tabela 1 – UC01
 <font size="2"><p style="text-align: center"><b>Tabela 5: Visualizar linhas e horários (Fonte: <a href="https://github.com/GuilhermeBES">Guilherme Basilio)</a></b></p></font>
 
 
-### **UC04 - Acompanhar cadastro/cartão**
+### **UC04 - Visualizar saldo**
 
-|**UC04**|**Acompanhar cadastro de cartão específico**|
+|**UC04**|**Visualizar saldo**|
 | :----------: |:-----------|
 |Autor|Gabriel Barbosa|
-|Descrição| Acompanhar cadastro de um cartão específico |
+|Descrição| Visualizar saldo disponível no cartão |
 |Atores|> Usuário <br> > BRB Mobilidade|
-|Pré Condições|> Ter feito o login no sitema <br> Ter cadastro em cartão específico |
-|Fluxo Principal|> Usuário acessa o BRB Mobilidade <br> > Usuário clica no botão "Estudantil" (Um dos cartões específicos)<br> Faz login com o CPF <br> Acessa a página de acompanhamento de cadastro |
+|Pré Condições|> Ter feito o login no sitema |
+|Fluxo Principal|> Usuário acessa o BRB Mobilidade <br> > Usuário visualiza saldo disponível no cartão |
 |Fluxo Alternativo|> Não possui fluxo alternativo |
-|Fluxo de Exceção|**Fluxo de Exceção 1 - Você não possui cartão cadastrado** <br> > Usuário acessa o BRB Mobilidade <br> > Usuário clica no botão "Estudantil" (Um dos cartões específicos)<br> Não possui cadastro |
-|Pós Condições| Usuário verá a o menu de opções que se pode fazer com o cartão específico |
-|Rastreabilidade| IS10, OBS05, OBS08, OBS09 |
+|Fluxo de Exceção|**Fluxo de Exceção 1 - Você não possui cartão cadastrado** <br> > Usuário acessa o BRB Mobilidade <br> > Usuário não tem acesso ao saldo <br> Não possui cadastro |
+|Pós Condições| Usuário verá a quantia de dinheiro disponível na sa conta|
+|Rastreabilidade| IS01, Q01 |
 
-<font size="2"><p style="text-align: center"><b>Tabela 6: Acompanhar cadastro/cartão (Fonte: <a href="https://github.com/gabrie1barbosa">Gabriel Barbosa)</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 5: Visualizar saldo na plataforma (Fonte: <a href="https://github.com/gabrie1barbosa">Gabriel Barbosa)</a></b></p></font>
 
 ### **UC05 - Vizualizar extrato de uso**
 
