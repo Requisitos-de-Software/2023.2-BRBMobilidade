@@ -1,8 +1,8 @@
-# BRB Mobilidade
+# Págin inicial
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Planejamento/img/BRB-mobilidade.png" style="width:20vw"/>
-    <p> Figura 1: Imagem BRB Mobilidade . Fonte: <a href="https://mobilidade.brb.com.br/passelivre/pages/index.xhtml">BRB Mobilidade</a></p> 
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/0a8781aab3860cd3c5cedc169d7ce9ce704cab2f/docs/assets/logo.png" style="width:20vw"/>
+    <p> Figura 1: Imagem BRB Mobilidade . Fonte: <a href="https://mobilidade.brb.com.br/passelivre/">BRB Mobilidade</a></p> 
 </div>
 
 
