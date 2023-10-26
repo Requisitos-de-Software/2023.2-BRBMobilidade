@@ -17,6 +17,8 @@ Um diagrama de caso de uso é uma representação visual de casos de uso, atores
 
 <font size="2"><p style="text-align: center"><b>Tabela 1: Elementos do diagrama de casos de uso (Fonte: <a href="https://github.com/caioalvesbraga">Caio Braga)</a></b></p></font>
 
+<br><br>
+
 É importante ressaltar que no contexto de diagramas de caso de uso, "extends" e "include" são tipos de relações que descrevem como os casos de uso interagem entre si em um sistema de software. Ambas as relações têm finalidades diferentes e são usadas para modelar diferentes tipos de comportamento no sistema.
 
 - Relação de "Include" (Inclusão):
@@ -36,7 +38,7 @@ Exemplo de "include": Considere um caso de uso principal "Realizar Pagamento". E
 
 Exemplo de "extend": Em um caso de uso "Reservar Quarto de Hotel", pode haver uma extensão para lidar com "Atualização de Reserva", que só ocorre se o cliente desejar modificar a reserva após a confirmação.
 
-
+<br>
 
 ## **Diagrama de Casos de Uso**
 
@@ -46,8 +48,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 <img src="../assets/diagrama-caso-de-uso.png" class="usecaseElement">
 
-<font size="2"><p style="text-align: center"><b>Figura 1: Casos de uso do app BRB Mobilidade (Fonte: <a href="https://github.com/caioalvesbraga">Caio Braga)</a>
-
+<font size="2"><p style="text-align: center"><b>Figura 1: Casos de uso do app BRB Mobilidade (Fonte: <a href="https://github.com/caioalvesbraga">Caio Braga)</b></a></font>
 
 
 ## **Casos de Uso & Especificação**
@@ -167,6 +168,12 @@ Tabela 1 – UC01
 |Rastreabilidade| IS01, OBS01 |
 
 <font size="2"><p style="text-align: center"><b>Tabela 7: Visualizar extrato de uso (Fonte: <a href="https://github.com/caioalvesbraga">Caio Braga)</a></b></p></font>
+
+
+## **Validação com o cliente**
+
+<p>O grupo realizou uma reunião de validação com o nosso cliente, que foi gravada e está disponível para acesso <a href="https://www.youtube.com/watch?v=RNz-dVVlj0M">aqui.</a><br><br>Durante a reunião foi abordado com o cliente se ele já conhecia os casos de uso oferecidos pelo aplicativo do BRB Mobilidade que estavam presentes no nosso diagrama, se o diagrama realmente reflete o uso real que ele teve com o sistema.</p>
+
 
 ## **Bibliografia**
 
