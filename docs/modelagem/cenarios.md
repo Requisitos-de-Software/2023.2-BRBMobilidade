@@ -2,11 +2,11 @@
 
 ## **Introdução**
 
-&emsp;&emsp;Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos [2]. Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos [2]. Portanto, é uma estratégia para elicitar a parte comportamental do software[1].
+Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos [2]. Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos [2]. Portanto, é uma estratégia para elicitar a parte comportamental do software[1].
 
 ## **Modelo de Cenário**
 
-&emsp;&emsp;Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente [2], tal modelo pode ser observado a seguir na Tabela 1.
+Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente [2], tal modelo pode ser observado a seguir na Tabela 1.
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -65,8 +65,6 @@
 <p> Tabela 4: Descrição do cenário 3: "Visualização de saldo" - (Fonte: LELIS, Caio).</p>
 </div>
 
-
-
 ### **Cenário 4: Solicitar 2ªvia do cartão**
 
 | Elemento   | Descrição                                                                                    |
@@ -113,7 +111,7 @@
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
-| Objetivo   | Permitir que o usuário cadastre métodos de pagamento |                                                                    |
+| Objetivo   | Permitir que o usuário cadastre método de pagamento |                                                                    |
 | Contexto   | Local: Tela de adicionar saldo no cartão, Tempo: durante o dia (de 4:00 até 24:00) <br> Pré-condição - Ter um celular <br> Pré-condição - Ter o aplicativo instalado <br> Pré-condição - Ter acesso à internet|
 | Recursos   | Smartphone, internet, cartão BRB mobilidade <p>_Pré-condição_ : o usuário necessita estar logado</p>|                                         |
 | Episódios  | O usuário dentro da opção de "Recarregar saldo",<br>  seleciona a opção método de pagamento e em seguida de cadastro de método de pagamento.<br> O usuário também pode adicionar/remover métodos de pagamento <br> ao acessar o seu perfil e entrar na seção métodos de pagamento.
@@ -123,8 +121,8 @@
 <p> Tabela 8: Descrição do cenário 7: "Cadastrar métodos de pagamento - (Fonte: de Frias, Miguel).</p>
 </div>
 
-
-## **Bibliografia**
+ 
+## **Referência Bibliografica**
 
 [1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
 
@@ -134,9 +132,11 @@
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de cenarios |   Joel Soares   |   22/10/2023   | Miguel de Frias  |    24/10/2023   |
-|  1.1   | Adição do cénario visualização de linhas |   Guilherme Basilio   |   24/10/2023   | Miguel de Frias |  25/10/2023 |
-|  1.2   | Adição do cénario visualização de saldo disponível |   Caio Lelis   |   24/10/2023   |  |       dd/mm/yyyy      |
-| 1.3   | Adição do cenário solicitar 2ªvia |  Gabriel Barbosa |  24/10/2023 |     |    dd/mm/yyyy   |
-|  1.4  | Adição do cenário de pontos de recarga |   Doan Filho  |   24/10/2023   |  |       dd/mm/yyyy      |
-|  1.5  | Adição do cenário de cadastrar métodos de pagamento |   Miguel de Frias |   25/10/2023   |  |       dd/mm/yyyy      |
+|  1.0   | Criação do documento de cenarios |   Joel Soares   |   22/10/2023   | Guilherme Basilio |  25/10/2023   |
+|  1.1   | Adição do cénario visualização de linhas |   Guilherme Basilio   |   24/10/2023   | Miguel de Frias |       25/10/2023    |
+|  1.2   | Adição do cénario visualização de saldo disponível |   Caio Lelis   |   24/10/2023   | Guilherme Basilio |   25/10/2023      |
+| 1.3   | Adição do cenário solicitar 2ªvia |  Gabriel Barbosa |  24/10/2023 |   Guilherme Basilio  |   25/10/2023   |
+|  1.4  | Adição do cenário de pontos de recarga |   Doan Filho  |   24/10/2023   | Guilherme Basilio |   25/10/2023  |
+|  1.5  | Adição do cenário extrato de uso |   Caio Braga |   25/10/2023   | Guilherme Basilio |       25/10/2023  |
+|  1.6  | Adição do cenário de cadastrar métodos de pagamento |   Miguel de Frias |   25/10/2023   | Guilherme Basilio |       25/10/2023      |
+
