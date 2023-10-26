@@ -62,6 +62,8 @@ A **tabela 01** mostra os requisitos não funcionais elicitados, sua funcionalia
 | Q12 | O aplicativo deve rastrear os ônibus via GPS |      +      |
 | Q12 | O aplicativo deve ser otimizado |       P     |
 | Q12 | O aplicativo deve ter atualização imediata de saldo |   U         |
+| ES01 | O aplicativo deve ter o tempo de resposta de menos de 3 segundos para todas as ações realizadas pelos usuários. |      P      |
+| ES02 | O aplicativo deve ser compatível com os sistemas operacionais Android e iOS. |      S      |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos categorizados com a ferramente FURPS+  - (Fonte: LELIS, Caio).</p>
