@@ -8,9 +8,14 @@
 Uma história do usuário é um artefato no desenvolvimento de software que descreve uma funcionalidade específica do ponto de vista do usuário final ou cliente. O propósito fundamental de uma história de usuário é detalhar como uma determinada tarefa ou funcionalidade pode proporcionar valor ao cliente ou usuário final do sistema. Ela oferece uma explicação estruturada e direcionada sobre o que o sistema deve fazer, focando nos resultados desejados pelo usuário e articulando as necessidades e expectativas em uma narrativa contextualizada. Essa abordagem visa garantir que o desenvolvimento de software atenda às exigências do cliente e esteja alinhado com as necessidades do usuário final, contribuindo para a entrega de valor significativo no produto final.
 </p>
 
+## **Vídeo de entrevista com o PO**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/os3wIH667go?si=cxZP-nOB0j5Y03WU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 ## Metodologia 
 
-Para a construção de nossas histórias de usuário foi construído um padrão a ser seguido por todas nossas histórias, a figura abaixo mostra o mesmo:
+Para a construção de nossas histórias de usuário fizemos uma entrevista com o PO Isaques Santos coletando as historias de usuário e  foi construído um padrão a ser seguido por todas nossas histórias, a figura abaixo mostra o mesmo:
 
 
 
