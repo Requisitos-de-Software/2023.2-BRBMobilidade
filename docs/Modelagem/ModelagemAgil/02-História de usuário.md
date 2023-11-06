@@ -624,7 +624,7 @@ Para a construção de nossas histórias de usuário foi construído um padrão 
 
 </center>
 
- ### US33 - Fornecer notificações de depósito ao usuário
+
 
 
 
