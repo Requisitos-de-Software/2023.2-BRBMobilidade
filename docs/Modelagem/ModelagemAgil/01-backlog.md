@@ -10,6 +10,8 @@ O caráter dinâmico do Backlog do Produto se destaca à medida que ele evolui e
 
 A metodologia adotada envolveu o uso do Microsoft Excel para organizar e agrupar os requisitos funcionais em categorias temáticas e épicos, após terem sido cuidadosamente analisados e validados. Posteriormente, os dados resultantes foram transferidos para o documento.
 
+Além disso, a rastreabilidade leva em consideração os requisitos elicitados no documento [Three Level Scale](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/) construído pelo grupo. 
+
 ### **Estrutura do Product Backlog**
 
 Para composição do Product Backlog foi feita a divisão em 3 partes:
@@ -47,7 +49,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="100%">BRB-Mobilidade</td>
         </tr>
         <tr>
-              <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="6">Transporte público</td>
+              <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="7">Transporte público</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Cartão de mobilidade</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-01</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
@@ -88,6 +90,13 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, desejo poder integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
         </tr>
+        <tr>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastrear os ônibus via GPS</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-08</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US22</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastrear os ônibus via GPS</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
+    </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Autenticação</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Cadastro e login</td>
@@ -162,14 +171,6 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero cadastrar métodos de pagamento</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
     </tr>
-    <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Outros</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Salvar rotas personalizadas</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US14</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero salvar rotas personalizadas</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
-    </tr>
     <!-- <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Compartilhamento de viagens com amigos e familiares</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-</td>
@@ -178,7 +179,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
 </tr> -->
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Segurança</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Segurança</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-05</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US16</td>
@@ -186,23 +187,6 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Notificações</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-31</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US17</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
-</tr>
-<tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Outros</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Solicitar uma 2ª via do cartão de mobilidade</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-20</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US19</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Solicitar uma 2ª via do cartão de mobilidade</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
-</tr>
-<tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Segurança</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-07</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US21</td>
@@ -210,23 +194,14 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Navegação e mapas</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastrear os ônibus via GPS</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-08</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US22</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastrear os ônibus via GPS</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
-</tr>
-<tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Desempenho</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Otimizar o aplicativo para uso eficiente</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-09</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US23</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Otimizar o aplicativo para uso eficiente</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3">Notificações</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-31</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US17</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="2">Notificação</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer notificações de atraso de ônibus</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">RF-05 e RNF-08</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">US26</td>
@@ -239,6 +214,29 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">US27</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer notificações de manutenção de ônibus</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Média</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Outros</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Solicitar uma 2ª via do cartão de mobilidade</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-20</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US19</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Solicitar uma 2ª via do cartão de mobilidade</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Salvar rotas personalizadas</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US14</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero salvar rotas personalizadas</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Desempenho</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Otimizar o aplicativo para uso eficiente</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-09</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US23</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Otimizar o aplicativo para uso eficiente</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
 <!-- <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer notificações de eventos e promoções</td>
