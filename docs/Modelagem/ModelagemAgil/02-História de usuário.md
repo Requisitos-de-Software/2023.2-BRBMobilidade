@@ -627,19 +627,4 @@ Para a construção de nossas histórias de usuário foi construído um padrão 
  ### US33 - Fornecer notificações de depósito ao usuário
 
 
-<center>
-
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US33                   | Fornecer notificações de depósito ao usuário                                                                                                                                                                      |
-| Descrição              | _Eu, como_ usuário, _desejo_ receber notificações instantâneas sobre depósitos em meu cartão de mobilidade _para_ estar sempre ciente dos fundos adicionados e planejar meu uso do transporte público de acordo._                  |
-| Critérios de Aceitação | - Os usuários devem poder optar por receber notificações de depósito em seu cartão de mobilidade. <br> - As notificações devem ser enviadas imediatamente após a confirmação do depósito. <br> - As notificações devem incluir o valor do depósito e a data/hora da transação. <br> - Os usuários devem poder configurar preferências de notificação, como som ou vibração. |
-| Prioridade             | Alta                                                                                                                                                                                                             |
-
-<div style="text-align: center">
-<p> Tabela 34: - História de Usuário Fornecer notificações de depósito ao usuário. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
 
