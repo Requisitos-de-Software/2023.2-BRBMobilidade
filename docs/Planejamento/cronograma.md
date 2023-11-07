@@ -186,9 +186,9 @@
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
-| Histórias de usuário  | Início: 27/10 <br> Fim: 03/11 | Caio Braga, Guilherme Basilio e Caio Lelis  | Início: 03/11 <br> Fim: 05/11 | Miguel de Frias |
-| NFR Framework | Início: 27/10 <br> Fim: 03/11 | Gabriel Barbosa e Doan Filho | Início: 03/11 <br> Fim: 05/11 | Caio Lelis|
-| Backlog | Início: 27/10 <br> Fim: 03/11 | Joel Soares e Miguel de Frias | Início: 03/11 <br> Fim: 05/11 | Doan Filho |
+| Histórias de usuário  | Início: 27/10 <br> Fim: 03/11 | Caio Lelis e Doan Filho | Início: 03/11 <br> Fim: 05/11 | Miguel de Frias |
+| NFR Framework | Início: 27/10 <br> Fim: 03/11 | Gabriel Barbosa, Caio Braga e Miguel de Frias | Início: 03/11 <br> Fim: 05/11 | Caio Lelis|
+| Backlog | Início: 27/10 <br> Fim: 03/11 | Joel Soares e GUilherme | Início: 03/11 <br> Fim: 05/11 | Doan Filho |
 | Atualizar Gitpage | Início: 27/10 <br> Fim: 03/11 | Caio Braga, Doan Filho e Caio Lelis | Início: 03/11 <br> Fim: 05/11 | Caio Braga |
 | Gravação da Apresentação | Início: 04/11 <br> Fim: 04/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 04/11 <br> Fim: 04/11 |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação| Início: 04/11 <br> Fim: 04/11 | Joel Soares | Início: 04/11 <br> Fim: 04/11 | Miguel de Frias |
@@ -197,6 +197,26 @@
 <div style="text-align: center">
     <p> <b>Tabela 8</b>: Tarefas planejadas para a Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
 </div>
+
+### **Executado**
+
+&emsp;&emsp;A tabela 9 mostra as atividades realizadas para a entrega 4 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
+|--------|:--------------------------:|------------|:------------------:|--------|
+| Histórias de usuário  | Início: 27/10 <br> Fim: 06/11 | Caio Lelis e Doan Filho | Início: 06/11 <br> Fim: 06/11 | Miguel de Frias |
+| NFR Framework | Início: 27/10 <br> Fim: 06/11 | Gabriel Barbosa, Caio Braga e Miguel de Frias | Início: 06/11 <br> Fim: 06/11 | Caio Lelis|
+| Backlog | Início: 27/10 <br> Fim: 06/11 | Joel Soares e GUilherme | Início: 06/11 <br> Fim: 06/11 | Doan Filho |
+| Atualizar Gitpage | Início: 27/10 <br> Fim: 05/11 | Caio Braga, Doan Filho e Caio Lelis | Início: 05/11 <br> Fim: 06/11 | Caio Braga |
+| Gravação da Apresentação | Início: 06/11 <br> Fim: 06/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 06/11 <br> Fim: 06/11 |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
+| Postagem da Apresentação| Início: 06/11 <br> Fim: 06/11 | Joel Soares | Início: 06/11 <br> Fim: 06/11 | Miguel de Frias |
+| Cronograma Realizado | Início: 27/10 <br> Fim: 06/11  | Miguel de Frias | Início: 06/11 <br> Fim: 06/11 | Doan Filho |
+| Correções da Entrega 3 | Início: 27/10 <br> Fim: 05/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias| Início: 05/11 <br> Fim: 06/11 |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
+
+<div style="text-align: center">
+    <p> <b>Tabela 9</b>: Tarefas realizadas para a Entrega 4. (Fonte: Miguel de Frias, 2023).</p>
+</div>
+
 
 
 
@@ -308,3 +328,4 @@
 | 2.0 | Adição Realizado entrega 1 e 2 | Miguel de Frias | 03/10/2023 | Doan Filho | 04/10/2023 |
 | 3.0 | Adição Realizado entrega 3| Miguel de Frias | 23/10/2023 | Doan Filho | 25/10/2023 |
 | 3.1 | Atualizando datas Realizado entrega 3 | Miguel de Frias | 23/10/2023 | Guilherme Basilio | 25/10/2023 |
+| 4.0 | Adição Realizado entrega 4| Miguel de Frias | 06/11/2023 | Doan Filho | 06/11/2023 |
