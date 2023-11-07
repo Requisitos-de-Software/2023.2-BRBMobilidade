@@ -69,7 +69,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
         </tr>
             <tr>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Recarga</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rarregar saldo no cartão</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Recarga de saldo no cartão</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-14</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US03</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero fazer recarga do saldo do cartão</td>
@@ -117,7 +117,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Consultas</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer a localização do usuário</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecimento da localização do usuário</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-11</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US09</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero fornecer localização</td>
@@ -131,7 +131,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
         </tr> -->
         <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Mostrar ao usuário a previsão de depósito de dinheiro</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Previsão de depósito de dinheiro</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-29</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US11</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero ver a previsão de depósito de dinheiro</td>
@@ -139,7 +139,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
     </tr>
     <tr>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Informações</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Visualizar linhas e horários de ônibus</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Visualização de linhas e horários de ônibus</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-13</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US12</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero visualizar as linhas e horários de ônibus</td>
@@ -155,21 +155,21 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
 </tr> 
     <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="5">Pagamento</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Garantir atualização imediata do saldo do cartão</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Garantia de atualização imediata do saldo do cartão</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-10</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US24</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Garantir atualização imediata do saldo do cartão</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">O sistema deverá garantir atualização imediata do saldo do cartão</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Possibilitar o pagamento via pix</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Possibilidade de pagamento via pix</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-07</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US25</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Possibilitar o pagamento via pix</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
 </tr>
     <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fazer recarga do saldo do cartão</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Recarga do saldo do cartão</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-14</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US13</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero fazer recarga do saldo do cartão</td>
@@ -183,7 +183,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
     </tr>
     <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Permitir cadastrar métodos de pagamento</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Permição de cadastro de métodos de pagamento</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-07</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US07</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero cadastrar métodos de pagamento</td>
@@ -198,21 +198,21 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
 </tr> -->
 <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Segurança</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Segurança aos dados cadastrados</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-05</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US16</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário, gostaria de ter garantido a segurança aos meus dados cadastrados</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Segurança aos dados cadastrados</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-07</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US21</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">O sistema deve fornecer segurança aos dados cadastrados</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3">Notificações</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Notificações</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-31</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US17</td>
@@ -229,15 +229,15 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
 </tr>
 <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Notificações</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Notificações de depósito ao usuário</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-31</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US19</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"> O sistema deve fornecer notificações de depósito ao usuário</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
 <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Segurança</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Segurança aos dados cadastrados</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US20</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">O sistema deve fornecer segurança aos dados cadastrados</td>
@@ -245,7 +245,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
 </tr>
 <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastreamento</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastrear os ônibus via GPS</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastreamento de ônibus via GPS</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US21</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero rastrear os ônibus via GPS</td>
@@ -276,10 +276,10 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
 </tr> --> 
 <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="2">Histórico</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Mostrar o histórico de transportes do usuário</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Histórico de transportes do usuário</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">RF-30</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">US30</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Mostrar o histórico de transportes do usuário</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Eu, como usuário, gostaria de ter acesso ao meu histórico de transporteso</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Baixa</td>
 </tr>
 <tr>
@@ -291,7 +291,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
 </tr>
 <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="5">Acessibilidade</td>
-    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer suporte para deficientes visuais</td>
+    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecimento de suporte para deficientes visuais</td>
     <td style="border-style=solid;border-width:1px;text-align:center;vertical-align=middle">RNF-11</td>
     <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle">US27</td>
     <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Possibilitar o pagamento via cartão de crédito</td>
@@ -321,7 +321,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
 </tr>
 
 <tr>
-    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer ajuda com perguntas frequentes </td>
+    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecimento de ajuda com perguntas frequentes </td>
     <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle">RNF-11</td>
     <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle">US16</td>
     <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Eu, como usuário, desejo ter acesso a uma seção de perguntas frequentes dentro do aplicativo para encontrar respostas para dúvidas comuns sem a necessidade de entrar em contato com o suporte ao cliente</td>
