@@ -108,7 +108,7 @@ Estes requisitos servirão como base para o uso do framework NFR.
 <img src="../assets/LEG2.png" width= "700px">
 </div>
 <div align="center">
-Figura 6: Confiabilidade sem Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
+Figura 6: Confiabilidade sem Propagação - Fonte: CHUNG et al, 2000
 </div>
 
 
