@@ -15,8 +15,14 @@ que vai de 25/08/23 a 23/12/23, contendo o link dos vídeos apresentados
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iipCuTyg4fk?si=WntKzZC8vvMgfZ0R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## **Apresentação 03**
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TDZomwVlL84&feature=youtu.be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## **Histórico de versão**
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Adicionando vídeo primeira apresentação | Doan Filho  |   20/09/2023   | Caio Braga  | 20/09/2023 |
-|  1.0   | Adicionando vídeo primeira apresentação | Doan Filho  |   05/10/2023   | Caio Lelis | 05/1/2023 |
+|  2.0   | Adicionando vídeo primeira apresentação | Doan Filho  |   05/10/2023   | Caio Lelis | 05/1/2023 |
+|  3.0   | Adicionando vídeo da terceira apresentação | Joel Soares  |   07/11/2023   | Doan Filho | 07/11/2023 |
