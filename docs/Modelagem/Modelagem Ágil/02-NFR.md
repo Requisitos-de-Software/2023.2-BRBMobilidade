@@ -2,8 +2,6 @@
 
 De acordo com Chung et al<a id="anchor_1" href="#REF1"><sup>1</sup></a>, o NFR Framework auxilia os desenvolvedores na abordagem dos requisitos não funcionais, permitindo sua expressão explícita, tratamento sistemático e utilização como diretrizes para conduzir o processo de desenvolvimento de forma racional. O NFR Framework emprega requisitos não funcionais (RNFs) para orientar o processo de design geral, dando prioridade aos requisitos não funcionais. Seu principal propósito é fornecer uma estrutura de representação para armazenar o design e a lógica por trás do desenvolvimento de requisitos.
 
-## **Metodologia**
-
 ### **O que é um softgoal?**
 
 Os softgoals consistem em objetivos que não possuem uma definição clara nem prcisão nos critérios de satisfação. Eles são utilizados para representar os requisitos não funcionais e podem apresentar uma inter-relação, expressando como um softgoal influencia em outro<a id="anchor_2" href="#REF2"><sup>2</sup></a>.
