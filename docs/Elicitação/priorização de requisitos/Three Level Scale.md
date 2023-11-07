@@ -40,36 +40,37 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RF09   | O usuário deve ser capaz de realizar cadastro | IS10 |  | Alta |
 | RF10   | O usuário deve ser capaz de realizar login | IS11 |  | Alta |
 | RF11   | O usuário deve fornecer sua localização | IS12 |  | Média |
-| RF01   | Deve ser capaz de consultar o extrato | OBS01 | Sim | Média |
-| RF02   | O aplicativo deve permitir a visualização de linhas e horários | OBS02 | Sim | Alta |
-| RF03   | Deve ser possível fazer a recarga do saldo | OBS03 | Sim | Alta |
-| RF04   | Deve ser possível salvar rotas | OBS04 | Sim | Baixa |
-| RF05   | Deve ser possível alterar informações de cadastro | OBS05 | Sim | Alta |
-| RF06   | O aplicativo deve fornecer uma seção de comunicação direta | OBS06 | Sim | Média |
-| RF07   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS07 | Sim | Média |
-| RF08   | Deve ser possível acessar informações sobre o histórico de atividades | OBS08 | Sim | Média |
-| RF09   | Deve ser possível solicitar uma 2ª via do cartão desejado | OBS09 | Sim | Média |
-| RF10   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS10 | Sim | Alta |
-| RNF12  | Garantir compatibilidade com sistemas operacionais Android e iOS. | IS13 |  | Alta |
-| RNF13  | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. | IS14 |  | Alta |
-| RNF14  | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | IS15 |  | Alta |
-| RNF15  | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. | IS16 |  | Alta |
-| RNF16  | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 |  | Alta |
-| RNF17  | Deve ser de código aberto e gratuito. | IS18 |  | Média |
-| RF01   | O aplicativo possui mecanismo de visualização do saldo | Q01 | Sim | Alta |
-| RF02   | O aplicativo acessa o histórico de acessos | Q02 | Sim | Baixa |
-| RF03   | O aplicativo tem meios de mecanismo de bloqueio de cartões | Q03 | Não | Média |
-| RF04   | O aplicativo tem meios de mecanismo de desbloqueio de cartões | Q04 | Não | Média |
-| RF05   | O aplicativo concede acesso às paradas próximas | Q05 | Não | Alta |
-| RF06   | O aplicativo concede visualização a quantidade de passes | Q06 | Não | Alta |
-| RF07   | O aplicativo tem opção de pagamento via cartão de crédito | Q07 | Não | Alta |
-| RF08   | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado | Q08 | Não | Média |
-| RF09   | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso | Q09 | Não | Baixa |
-| RF10   | O aplicativo deve fornecer notificações de depósito ao usuário | Q10 | Sim | Alta |
-| RNF01  | O aplicativo deve fornecer segurança ao usuário com dados cadastrados | Q11 | Sim | Alta |
-| RNF02  | O aplicativo deve rastrear os ônibus via GPS | Q12 | Sim | Média |
-| RNF03  | O aplicativo deve ser otimizado | Q12 | Sim | Alta |
-| RNF03  | O aplicativo deve ter atualização imediata de saldo | Q12 | Não | Alta |
+| RF12   | Deve ser capaz de consultar o extrato | OBS01 | Sim | Média |
+| RF13   | O aplicativo deve permitir a visualização de linhas e horários | OBS02 | Sim | Alta |
+| RF14   | Deve ser possível fazer a recarga do saldo | OBS03 | Sim | Alta |
+| RF15   | Deve ser possível salvar rotas | OBS04 | Sim | Baixa |
+| RF16   | Deve ser possível alterar informações de cadastro | OBS05 | Sim | Alta |
+| RF17   | O aplicativo deve fornecer uma seção de comunicação direta | OBS06 | Sim | Média |
+| RF18   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS07 | Sim | Média |
+| RF19   | Deve ser possível acessar informações sobre o histórico de atividades | OBS08 | Sim | Média |
+| RF20   | Deve ser possível solicitar uma 2ª via do cartão desejado | OBS09 | Sim | Média |
+| RF21   | O aplicativo deve fornecer ajuda com perguntas frequentes | OBS10 | Sim | Alta |
+| RNF01  | Garantir compatibilidade com sistemas operacionais Android e iOS. | IS13 | Sim | Alta |
+| RNF02  | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão | IS14 | Sim | Alta |
+| RNF03  | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | IS15 | Sim | Alta |
+| RNF04  | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. | IS16 | Sim | Alta |
+| RNF05  | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 |  | Alta |
+| RNF06  | Deve ser de código aberto e gratuito. | IS18 |  | Média |
+| RF22  | O aplicativo possui mecanismo de visualização do saldo | Q01 | Sim | Alta |
+| RF23  | O aplicativo acessa o histórico de acessos | Q02 | Sim | Baixa |
+| RF24   | O aplicativo tem meios de mecanismo de bloqueio de cartões | Q03 | Não | Média |
+| RF25   | O aplicativo tem meios de mecanismo de desbloqueio de cartões | Q04 | Não | Média |
+| RF26   | O aplicativo concede acesso às paradas próximas | Q05 | Não | Alta |
+| RF27   | O aplicativo concede visualização a quantidade de passes | Q06 | Não | Alta |
+| RF28   | O aplicativo tem opção de pagamento via cartão de crédito | Q07 | Não | Alta |
+| RF29   | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado | Q08 | Não | Média |
+| RF30   | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso | Q09 | Não | Baixa |
+| RF31   | O aplicativo deve fornecer notificações de depósito ao usuário | Q10 | Sim | Alta |
+| RNF07  | O aplicativo deve fornecer segurança ao usuário com dados cadastrados | Q11 | Sim | Alta |
+| RNF08  | O aplicativo deve rastrear os ônibus via GPS | Q12 | Sim | Média |
+| RNF09  | O aplicativo deve ser otimizado | Q12 | Sim | Alta |
+| RNF10  | O aplicativo deve ter atualização imediata de saldo | Q12 | Não | Alta |
+| RNF11  | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas | Q12 |  | Alta |
 
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Tabela dos Requisitos Priorizados.</p>
@@ -84,3 +85,4 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criando Three Level  | Doan Filho e Caio Lelis  |   03/10/2023   |  Caio Braga  |       04/10/2023      |
+|  1.1   | Adicionando requisito sobre acessibilidade  | Joel Soares  |   06/11/2023   |   |       --/--/----      |
