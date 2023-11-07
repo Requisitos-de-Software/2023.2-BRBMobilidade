@@ -24,6 +24,10 @@ Existem três categorias de softgoals conhecidas como: Softgoals NFR, Softgoals 
 
 **Softgoals de Afirmação:**  permitem que as características do domínio, como prioridades e carga de trabalho, sejam consideradas e adequadamente incorporadas ao processo de tomada de decisão. Eles servem como justificativas para apoiar ou contestar a forma como os softgoals são priorizados, refinados e os componentes são selecionados. Os softgoals de afirmação oferecem razões para as decisões de desenvolvimento, tornando mais fácil a revisão, a justificação e a modificação do sistema, bem como a melhoria da rastreabilidade (CHUNG et al., 2000).
 
+### **Propagação de impactos**
+
+
+
 ### **Softgoal Interdependency Graph (SIG)**
 
 O NFR framework envolve a criação de um diagrama chamado "Softgoal Interdependency Graph (SIG)" para registrar as interdependências entre softgoals. Esse gráfico contém informações sobre as decisões de desenvolvimento, incluindo Requisitos Não-Funcionais, alternativas e justificativas. Ele permite verificar se os requisitos de alto nível estão sendo atendidos por meio de um procedimento de avaliação.
@@ -66,8 +70,9 @@ O NFR Framework foi usado nesta documentação para apresentar os requisitos nã
 Conclui-se, portanto, que os requisitos do projeto buscam abranger os softgoals subsequentes:
 
 - Confiabilidade
-- Desempenho
-- Suportabilidade
+- Disponibilidade
+- Performance
+- Portabilidade
 - Usabilidade
 
 
