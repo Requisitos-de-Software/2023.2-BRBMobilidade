@@ -1,3 +1,5 @@
+# **NFR Framework**
+
 ## **Introdução**
 
 De acordo com Chung et al<a id="anchor_1" href="#REF1"><sup>1</sup></a>, o NFR Framework auxilia os desenvolvedores na abordagem dos requisitos não funcionais, permitindo sua expressão explícita, tratamento sistemático e utilização como diretrizes para conduzir o processo de desenvolvimento de forma racional. O NFR Framework emprega requisitos não funcionais (RNFs) para orientar o processo de design geral, dando prioridade aos requisitos não funcionais. Seu principal propósito é fornecer uma estrutura de representação para armazenar o design e a lógica por trás do desenvolvimento de requisitos.
@@ -11,7 +13,7 @@ Os softgoals consistem em objetivos que não possuem uma definição clara nem p
 Existem três categorias de softgoals conhecidas como: Softgoals NFR, Softgoals de Operacionalização e Softgoals de Afirmação. Cada uma delas é explicada a seguir:
 <br><br>
 <center>
-<img src="../assets/tiposSoftgoals.png">
+<img src="../assets/tiposSoftgoals.png" width= "700px">
 </center>
 <font size="3"><b><p style="text-align: center">Figura 1: Tipos de Softgoals (Fonte: CHUNG et al, 2000)</b></font>
 <br><br>
@@ -22,18 +24,6 @@ Existem três categorias de softgoals conhecidas como: Softgoals NFR, Softgoals 
 
 **Softgoals de Afirmação:**  permitem que as características do domínio, como prioridades e carga de trabalho, sejam consideradas e adequadamente incorporadas ao processo de tomada de decisão. Eles servem como justificativas para apoiar ou contestar a forma como os softgoals são priorizados, refinados e os componentes são selecionados. Os softgoals de afirmação oferecem razões para as decisões de desenvolvimento, tornando mais fácil a revisão, a justificação e a modificação do sistema, bem como a melhoria da rastreabilidade (CHUNG et al., 2000).
 
-### **Propagação de impactos**
-
-A avaliação determina o grau de atendimento dos requisitos não funcionais, utilizando etiquetas como "satisfeito", "parcialmente satisfeito", "parcialmente não atendido", "não atendido", "conflitante" ou "indeterminado". A Figura 2, do artigo de Silva<a id="anchor_1" href="#REF1"><sup>1<sup></a>, exemplifica essas etiquetas e serve como guia para os requisitos não funcionais apresentados no documento.
-
-<br><br>
-<center>
-<img src="../assets/nft-impactos.png">
-</center>
-<font size="3"><b><p style="text-align: center">Figura 2: Propagação de impactos (Fonte: CHUNG et al, 2000)</b></font>
-<br><br>
-
-
 ### **Softgoal Interdependency Graph (SIG)**
 
 O NFR framework envolve a criação de um diagrama chamado "Softgoal Interdependency Graph (SIG)" para registrar as interdependências entre softgoals. Esse gráfico contém informações sobre as decisões de desenvolvimento, incluindo Requisitos Não-Funcionais, alternativas e justificativas. Ele permite verificar se os requisitos de alto nível estão sendo atendidos por meio de um procedimento de avaliação.
@@ -41,20 +31,14 @@ O NFR framework envolve a criação de um diagrama chamado "Softgoal Interdepend
 ### **Interdependências**
 
 <center>
-<img src="../assets/decomposicao.png">
+<img src="../assets/decomposicao.png" width= "700px">
 </center>
-<font size="3"><b><p style="text-align: center">Figura 3: Decomposição de Softgoals (Fonte: CHUNG et al, 2000)</b></font>
+<font size="3"><b><p style="text-align: center">Figura 2: Decomposição de Softgoals (Fonte: CHUNG et al, 2000)</b></font>
 <br><br>
 
 As interdependências estabelecem as relações entre os softgoals. São dividas em:
 
-**Refinamentos:** no NFR framework, os refinamentos são usados para estabelecer relações entre softgoals, sendo de quatro tipos: **decomposição NFR, operacionalização**, **afirmação** e **priorização**. Abaixo um breve resumo sobre cada um:
-
-- Decomposição de Softgoal NFR: Essa técnica que permite uma melhor organização e compreensão dos softgoals NFR.
-- Decomposição de Operacionalização: Essa técnica possibilita a definição de uma solução geral e a criação de casos mais especificos.
-- Decomposição de Afirmação (Claims): Essa técnica permite reafirmar ou negar as justificativas específicas do projeto.
-- Priorização: Essa é um tipo especial de separação, na qual um softgoal é refinado em outro softgoal com o mesmo tipo e tópicos, mas com uma prioridade associada.
-
+**Refinamentos:** no NFR framework, os refinamentos são usados para estabelecer relações entre softgoals, sendo de quatro tipos: **decomposição NFR, operacionalização**, **afirmação** e **priorização**. A **decomposição** divide softgoals principais em mais específicos, a **operacionalização** define técnicas para atingir requisitos não funcionais, a **afirmação** apoia ou nega justificativas específicas do projeto e a **priorização** refina um softgoal em outro de mesmo tipo e tópico, poŕem com uma prioridade associada. Esses refinamentos ajudam a estruturar e analisar requisitos não funcionais em projetos.
 
 **Contribuições**: os softgoals passam por refinamentos durante o projeto, onde softgoals descendentes podem influenciar os ascendentes de várias maneiras, como positiva, negativa ou parcialmente. Isso significa que a satisfação de um softgoal não é necessariamente absoluta, mas dentro de limites aceitáveis. Esse refinamento são especificações dos softgoals e são contribuições e existem dez tipos. Esses são:
 
@@ -72,7 +56,7 @@ As interdependências estabelecem as relações entre os softgoals. São dividas
 | *EQUAL* | Ambos compartilham o mesmo label| =| 
 
 <div align="center">
-Tabela 1: Contribuições - Fonte: BARBOSA, Gabriel
+Tabela 1: Refinamento, Fonte: BARBOSA. Gabriel
 </div>
 
 ## **Requisitos não-funcionais** 
@@ -117,28 +101,12 @@ Após analisar os requisitos elicitados, épossível perceber que os requisitos 
 
 Estes requisitos servirão como base para o uso do framework NFR.
 
-## **Legenda**
-### **Softgoals**
-<div align="center">
-<img src="../assets/LEG1.png">
-</div>
-<div align="center">
-Figura 4: Legenda - Fonte: BRAGA, Caio. DE FRIAS, Miguel
-</div>
- 
-### **Rótulos**
-<div align="center">
-<img src="../assets/LEG2.png">
-</div>
-<div align="center">
-Figura 5: Legenda - Fonte: CHUNG et al, 2000
-</div>
 
 ## **Confiabilidade**
 
 ### **Sem Propagação**
 <div align="center">
-<img src="../assets/Conf.png">
+<img src="../assets/Conf1.png" width= "700px">
 </div>
 <div align="center">
 Figura 6: Confiabilidade sem Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
@@ -147,10 +115,10 @@ Figura 6: Confiabilidade sem Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
 ### **Com Propagação**
 
 <div align="center">
-<img src="../assets/Conf2.png">
+<img src="../assets/Conf2.png" width= "700px">
 </div>
 <div align="center">
-Figura 7: Confiabilidade com Propagação - Fonte: 
+Figura 7: Confiabilidade com Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
 </div>
 
 ### **Cartão de Especificação**
@@ -164,15 +132,15 @@ Figura 7: Confiabilidade com Propagação - Fonte:
 | Conflito              | Nenhum |
 | Historia              |  06 de nov. 2023 |
 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/caioalvesbaga">Caio Braga</a>, 2023</p></font>
+<div align="center">
+Tabela 3: Cartão de especificação "Confiabilidade" - Fonte: BRAGA, Caio. DE FRIAS, Miguel
 </div>
 
 ## **Performance**
 
 ### **Sem Propagação**
 <div align="center">
-<img src="../assets/Perf1.png">
+<img src="../assets/Perf1.png" width= "700px">
 </div>
 <div align="center">
 Figura 8: Performance sem Propagação - Fonte: BARBOSA, Gabriel
@@ -181,7 +149,7 @@ Figura 8: Performance sem Propagação - Fonte: BARBOSA, Gabriel
 ### **Com Propagação**
 
 <div align="center">
-<img src="../assets/Perf2.png">
+<img src="../assets/Perf2.png" width= "700px">
 </div>
 <div align="center">
 Figura 9: Performance com Propagação - Fonte: BARBOSA, Gabriel
@@ -197,11 +165,15 @@ Figura 9: Performance com Propagação - Fonte: BARBOSA, Gabriel
 | Prioridade            | Alta prioridade |
 | Conflito              | Nenhum |
 
+<div align="center">
+Tabela 4: Cartão de especificação "Performance" - BARBOSA, Gabriel
+</div>
+
 ## **Portabilidade**
 
 ### **Sem Propagação**
 <div align="center">
-<img src="../assets/Port1.png">
+<img src="../assets/Port1.png" width= "700px">
 </div>
 <div align="center">
 Figura 10: Portabilidade sem Propagação - Fonte: BRAGA, Caio
@@ -210,14 +182,14 @@ Figura 10: Portabilidade sem Propagação - Fonte: BRAGA, Caio
 ### **Com Propagação**
 
 <div align="center">
-<img src="../assets/Port2.png">
+<img src="../assets/Port2.png" width= "700px">
 </div>
 <div align="center">
 Figura 11: Portabilidade com Propagação - Fonte: BRAGA, Caio
 </div>
 
 ### **Cartão de Especificação**
-| Classificação         | Confiabilidade | 
+| Classificação         | Portabilidade | 
 | ----------------------|--|
 | Descrição             | Este softgoal refere-se à capacidade de executar ou mover o sistema de um ambiente ou plataforma para outro sem a necessidade de grandes modificações. Isso permite que o software seja utilizado em diferentes dispositivos ou sistemas operacionais, facilitando a adaptação e reutilização.  |
 | Justificativa         | A portabilidade é fundamental para a experiência dos usuários, uma vez que o aplicativo será utilizados nos mais diversos dispositivos |
@@ -226,12 +198,17 @@ Figura 11: Portabilidade com Propagação - Fonte: BRAGA, Caio
 | Prioridade            | Alta prioridade |
 | Conflito              | Nenhum |
 
+<div align="center">
+Tabela 5: Cartão de especificação "Portabilidade" - BRAGA,  Caio
+</div>
+
+
 
 ## **Usabilidade**
 
 ### **Sem Propagação**
 <div align="center">
-<img src="../assets/Usab1.png">
+<img src="../assets/Usab1.jpg" width= "700px">
 </div>
 <div align="center">
 Figura 12: Usabilidade sem Propagação - Fonte: DE FRIAS, Miguel
@@ -240,7 +217,7 @@ Figura 12: Usabilidade sem Propagação - Fonte: DE FRIAS, Miguel
 ### **Com Propagação**
 
 <div align="center">
-<img src="../assets/Usab2.png">
+<img src="../assets/Usab2.jpg" width= "700px">
 </div>
 <div align="center">
 Figura 13: Usabilidade com Propagação - Fonte: DE FRIAS, Miguel
@@ -256,6 +233,10 @@ Figura 13: Usabilidade com Propagação - Fonte: DE FRIAS, Miguel
 | Prioridade            | Alta prioridade |
 | Conflito              | Nenhum |
 
+<div align="center">
+Tabela 6: Cartão de especificação "Usabilidade" - DE FRIAS, Miguel
+</div>
+
 
 ## **Bibliografia**
 > PAIM, F. R. S., CASTRO, J. F. B. Enhancing Data Warehouse Design with the NFR Framework. Centro de Informática UFPE, Recife, 2019. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/paim.pdf. Acesso em: 06/11/2023
@@ -267,6 +248,8 @@ Figura 13: Usabilidade com Propagação - Fonte: DE FRIAS, Miguel
 ><a id="REF2" href="#anchor_2">[2]</a> SILVA, R. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Tese (Mestrado em Engenharia de Software) - Centro de Informática, Universidade Federal de Pernambuco. Recife, p. 155. 2019. Acesso em: 03 de novembro de 2023
 
 > <a id="REF2" href="#anchor_3">[3]</a>SOMMERVILLE, Ian. Engenharia de Software. 9ª edição. São Paulo: Pearson, 2011. Acesso em 05 de novembro de 2023
+
+
 
 ## **Histórico de Versões**
 
