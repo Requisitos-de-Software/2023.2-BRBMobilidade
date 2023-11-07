@@ -32,6 +32,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
 <font size="2"><p style="text-align: center"><b>Tabela 1: Modelo de tabela do Backlog (Fonte: <a href="https://github.com/GuilhermeBES">BASILIO, Guilherme)</a></b></p></font>
 
 ## **Product Backlog**
+
 <table>
     <thead>
         <tr style="background-color: #0055B7; color: white;">
@@ -49,7 +50,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="100%">BRB-Mobilidade</td>
         </tr>
         <tr>
-              <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="7">Transporte público</td>
+              <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Consulta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Cartão de mobilidade</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-01</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
@@ -57,230 +58,216 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
         </tr>
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Cartão de mobilidade</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Itinerário detalhado de ônibus</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-02</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US02</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, desejo acessar itinerários detalhados de ônibus</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, desejo consultar itinerários detalhados de ônibus</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
         </tr>
+            <tr>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Recarga</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rarregar saldo no cartão</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-14</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US03</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero fazer recarga do saldo do cartão</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
+    </tr>
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário regular, desejo realizar recargas de créditos no cartão</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
-        </tr>
-        <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Cartão de mobilidade</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Suporte</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Chatbot</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-04</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, desejo interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Media</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Baixa</td>
         </tr>
         <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Estabilidade</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Informações em tempo real</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-05</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US05</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário regular, desejo suportar informações em tempo real sobre o status dos transportes públicos</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
-        </tr>
-        <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Navegação e mapas</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-06</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US06</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, desejo poder integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
         </tr>
-        <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastrear os ônibus via GPS</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-08</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US22</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastrear os ônibus via GPS</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
-    </tr>
-        <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Autenticação</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Cadastro e login</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-09 e RF-10</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US08</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero realizar cadastro</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Baixa</td>
-        </tr>
-        <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Consultas</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer a localização do usuário</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US09</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero fornecer localização</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Baixa</td>
-        </tr>
-        <!-- <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Consultar extrato do cartão de mobilidade</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US10</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero consultar extrato do cartão de mobilidade</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
-        </tr> -->
-        <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Mostrar ao usuário a previsão de depósito de dinheiro</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-29</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US11</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero ver a previsão de depósito de dinheiro</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
-    </tr>
-    <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Informações</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Visualizar linhas e horários de ônibus</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-13</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US12</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero visualizar as linhas e horários de ônibus</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
-    </tr>
-    <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="5">Pagamento</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Garantir atualização imediata do saldo do cartão</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-10</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US24</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Garantir atualização imediata do saldo do cartão</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
-</tr>
-<tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Possibilitar o pagamento via pix</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-07</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US25</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Possibilitar o pagamento via pix</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
-</tr>
-    <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fazer recarga do saldo do cartão</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-14</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US13</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero fazer recarga do saldo do cartão</td>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
-    </tr>
-    <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Possibilitar o pagamento via cartão de crédito</td>
+            <tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Integração</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Navegação e Mapas</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-28</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US20</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Possibilitar o pagamento via cartão de crédito</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US06</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Integrar funcionalidades de navegação e mapas</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
     </tr>
     <tr>
-        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Permitir cadastrar métodos de pagamento</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Pagamento</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Métodos de pagamento</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-07</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US07</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero cadastrar métodos de pagamento</td>
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
     </tr>
-    <!-- <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Compartilhamento de viagens com amigos e familiares</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US15</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero compartilhar viagens com amigos e familiares</td>
+        <tr>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Interface</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Personalizar aparência</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-07</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US08</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">O aplicativo deve oferecer opções de personalizar aparência da interface</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Baixa</td>
+    </tr>
+         <tr>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Cadastro</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Cadastrar conta</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-09 e RF-10</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US09</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero realizar cadastro</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
+    </tr>
+     <tr>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">login</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-09 e RF-10</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US10</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero realizar cadastro</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
+    </tr>
+    <tr>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">localização do usuário</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF-07</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer a localização do usuário</td>
+        <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
+    </tr>
+    <tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Consulta</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Extrato do cartão mobilidade</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-13</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US12</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero visualizar o extrato do cartão mobilidade</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
-</tr> -->
+    </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Segurança</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-05</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US16</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário, gostaria de ter garantido a segurança aos meus dados cadastrados</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Vizualizar</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Linhas e horários de ônibus</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-13</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US13</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero visualizar as linhas e horários de ônibus</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
-</tr>
+    </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-07</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US21</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
-</tr>
-<tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3">Notificações</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-31</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US17</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
-</tr>
-<tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer notificações de atraso de ônibus</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">RF-05 e RNF-08</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">US26</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer notificações de atraso de ônibus</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Média</td>
-</tr>
-<tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer notificações de manutenção de ônibus</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">RF-05</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">US27</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer notificações de manutenção de ônibus</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Média</td>
-</tr>
-<tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="2">Outros</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Solicitar uma 2ª via do cartão de mobilidade</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-20</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US19</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Solicitar uma 2ª via do cartão de mobilidade</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
-</tr>
-<tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Salvar rotas personalizadas</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Salvar</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rotas personalizadas</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US14</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero salvar rotas personalizadas</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Baixa</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Comunicação</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Seção de comunicação direta</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US15</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero uma seção de comunicação direta </td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">FAQ</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">perguntas frequentes</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US16</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero ajuda com perguntas frequentes</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Acesso</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">informações sobre o histórico de atividades</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-31</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US17</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer informações sobre o histórico de atividades</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Outros</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Solicitar uma 2ª via do cartão de mobilidade</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-20</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US18</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Solicitar uma 2ª via do cartão de mobilidade</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Notificações</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-31</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US19</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Segurança</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer segurança aos dados cadastrados</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US20</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">O sistema deve fornecer segurança aos dados cadastrados</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastreamento</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastrear os ônibus via GPS</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US21</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero rastrear os ônibus via GPS</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
 </tr>
 <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Desempenho</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Otimizar o aplicativo para uso eficiente</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Otimização do aplicativo</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US22</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">O aplicativo deve ser otimizado para carregar rapidamente e ter tempos de resposta rápidos.</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
+</tr>
+<tr>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Cartão Mobilidade</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Atualização do saldo do cartão</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF-09</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US23</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Otimizar o aplicativo para uso eficiente</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
-<!-- <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer notificações de eventos e promoções</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">RF-</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">US28</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer notificações de eventos e promoções</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Média</td>
-</tr> --> 
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="2">Histórico</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Mostrar o histórico de transportes do usuário</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">RF-30</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">US30</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Mostrar o histórico de transportes do usuário</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Baixa</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Segurança</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Dados cadastrados</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">RF-30</td> 
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle">US25</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">O sistema deve fornecer segurança aos dados cadastrados</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="1">Alta</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Acesso a informações sobre o histórico de atividades</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-19</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US18</td>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Acesso a informações sobre o histórico de atividades</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastreamento</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Rastrear os ônibus via GPS</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-15</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US26</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como usuário regular, quero rastrear os ônibus via GPS</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Média</td>
 </tr>
 <tr>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align=middle" rowspan="3">Acessibilidade</td>
-    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer suporte para deficientes visuais</td>
+    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Pagamento via cartão de crédito</td>
     <td style="border-style=solid;border-width:1px;text-align:center;vertical-align=middle">RNF-11</td>
-    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle">US31</td>
-    <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer suporte para deficientes visuais</td>
+    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle">US27</td>
+    <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Possibilitar o pagamento via cartão de crédito</td>
     <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Alta</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer suporte para deficientes auditivos</td>
+    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Previsão de depósito de dinheiro</td>
     <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle">RNF-11</td>
-    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle">US32</td>
-    <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer suporte para deficientes auditivos</td>
-    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Alta</td>
+    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle">US28</td>
+    <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Mostrar ao usuário a previsão de depósito de dinheiro</td>
+    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Média</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer suporte para deficientes físicos</td>
+    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Histórico de transportes do usuários</td>
     <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle">RNF-11</td>
-    <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle">US33</td>
+    <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle">US29</td>
     <td style="border-style=solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Fornecer suporte para deficientes físicos</td>
-    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Alta</td>
+    <td style="border-style:solid;border-width=1px;text-align:center;vertical-align=middle" rowspan="1">Baixa</td>
 </tr>
     </tbody>
 </table>
