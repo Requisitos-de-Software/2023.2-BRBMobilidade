@@ -8,7 +8,7 @@ O caráter dinâmico do Backlog do Produto se destaca à medida que ele evolui e
 
 
 ## **Metodologia**
-Fizemos uma entrevista com o PO Isaque Santos, trazendo os artefatos validados e trazendo as historias de usuário. 
+Fizemos uma entrevista com o PO Isaque Santos, aonde ele aceitou o [Termo de Consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EaOMpyry-npLg-Kh0Vrq0KgBRs-Yz9OoPlpqfDuAc-iuwA?e=F5VC90) trazendo os artefatos validados e trazendo as historias de usuário. 
 Além disso, a rastreabilidade leva em consideração os requisitos elicitados no documento [Three Level Scale](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/) construído pelo grupo. 
 
 ### **Estrutura do Product Backlog**
