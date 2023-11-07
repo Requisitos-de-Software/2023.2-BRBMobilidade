@@ -26,6 +26,14 @@ Existem três categorias de softgoals conhecidas como: Softgoals NFR, Softgoals 
 
 ### **Propagação de impactos**
 
+A avaliação determina o grau de atendimento dos requisitos não funcionais, utilizando etiquetas como "satisfeito", "parcialmente satisfeito", "parcialmente não atendido", "não atendido", "conflitante" ou "indeterminado". A Figura 2, do artigo de Silva<a id="anchor_1" href="#REF1"><sup>1<sup></a>, exemplifica essas etiquetas e serve como guia para os requisitos não funcionais apresentados no documento.
+
+<br><br>
+<center>
+<img src="../assets/nft-impactos.png">
+</center>
+<font size="3"><b><p style="text-align: center">Figura 2: Propagação de impactos (Fonte: CHUNG et al, 2000)</b></font>
+<br><br>
 
 
 ### **Softgoal Interdependency Graph (SIG)**
@@ -37,7 +45,7 @@ O NFR framework envolve a criação de um diagrama chamado "Softgoal Interdepend
 <center>
 <img src="../assets/decomposicao.png">
 </center>
-<font size="3"><b><p style="text-align: center">Figura 2: Decomposição de Softgoals (Fonte: CHUNG et al, 2000)</b></font>
+<font size="3"><b><p style="text-align: center">Figura 3: Decomposição de Softgoals (Fonte: CHUNG et al, 2000)</b></font>
 <br><br>
 
 As interdependências estabelecem as relações entre os softgoals. São dividas em:
@@ -73,9 +81,6 @@ Conclui-se, portanto, que os requisitos do projeto buscam abranger os softgoals 
 - Performance
 - Portabilidade
 - Usabilidade
-
-
-## **Cartões de Especificação**
 
 
 ## **Conclusão**
