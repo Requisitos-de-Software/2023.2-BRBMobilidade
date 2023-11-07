@@ -1,7 +1,7 @@
-# Histórias de Usuário
+# **Histórias de Usuário**
 
 
-## Introdução
+## **Introdução**
 
 
 <p style="text-align: justify;">
@@ -13,7 +13,7 @@ Uma história do usuário é um artefato no desenvolvimento de software que desc
 
 
 
-## Metodologia 
+## **Metodologia** 
 
 Para a construção de nossas histórias de usuário fizemos uma entrevista com o PO Isaques Santos coletando as historias de usuário e  foi construído um padrão a ser seguido por todas nossas histórias, a figura abaixo mostra o mesmo:
 
@@ -35,12 +35,8 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-<div style="text-align: center;">
-  <h1 style="text-align: center;">Histórias de Usuário</h1>
-</div>
 
-
-### US01 - Consultar saldo e extrato de uso do cartão de mobilidade
+### **US01 - Consultar saldo e extrato de uso do cartão de mobilidade**
 
 <center>
 
@@ -60,7 +56,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </center>
 
 
-### US02 - Acessar itinerários detalhados de ônibus
+### **US02 - Acessar itinerários detalhados de ônibus**
 
 <center>
 
@@ -78,7 +74,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </center>
 
 
-### US03 - Realizar recargas de créditos no cartão
+### **US03 - Realizar recargas de créditos no cartão**
 
 <center>
 
@@ -94,7 +90,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </div>
 </center>
 
-### US04 - Interagir com um chatbot para esclarecer dúvidas
+### **US04 - Interagir com um chatbot para esclarecer dúvidas**
 
 <center>
 
@@ -113,7 +109,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 
 
-### US05 - Suportar informações em tempo real sobre o status dos transportes públicos
+### **US05 - Suportar informações em tempo real sobre o status dos transportes públicos**
 
 <center>
 
@@ -130,7 +126,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US06 - Integrar funcionalidades de navegação e mapas
+### **US06 - Integrar funcionalidades de navegação e mapas**
 
 <center>
 
@@ -149,7 +145,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </center>
 
 
-### US07 - Permitir cadastrar métodos de pagamento
+### **US07 - Permitir cadastrar métodos de pagamento**
 
 <center>
 
@@ -167,7 +163,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US08 - Possibilidade de personalizar a aparência da interface do usuário
+### **US08 - Possibilidade de personalizar a aparência da interface do usuário**
 
 <center>
 
@@ -184,7 +180,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US09 - Capacidade de realizar cadastro
+### **US09 - Capacidade de realizar cadastro**
 
 <center>
 
@@ -203,7 +199,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </center>
 
 
-### US10 - Capacidade de realizar login
+### **US10 - Capacidade de realizar login**
 
 <center>
 
@@ -221,7 +217,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US11 - Fornecer a localização do usuário
+### **US11 - Fornecer a localização do usuário**
 
 <center>
 
@@ -240,7 +236,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US12 - Consultar extrato do cartão de mobilidade
+### **US12 - Consultar extrato do cartão de mobilidade**
 
 
 <center>
@@ -261,7 +257,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US13 - Visualizar linhas e horários de ônibus
+### **US13 - Visualizar linhas e horários de ônibus**
 
 <center>
 
@@ -278,7 +274,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US14 - Salvar rotas personalizadas
+### **US14 - Salvar rotas personalizadas**
 
 <center>
 
@@ -296,7 +292,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US15 - Fornecer seção de comunicação direta
+### **US15 - Fornecer seção de comunicação direta**
 
 <center>
 
@@ -315,7 +311,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US16 - Fornecer ajuda com perguntas frequentes
+### **US16 - Fornecer ajuda com perguntas frequentes**
 
 <center>
 
@@ -333,7 +329,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US17 - Acesso a informações sobre o histórico de atividades
+### **US17 - Acesso a informações sobre o histórico de atividades**
 
 <center>
 
@@ -351,7 +347,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US18 - Solicitar uma 2ª via do cartão de mobilidade
+### **US18 - Solicitar uma 2ª via do cartão de mobilidade**
 
 <center>
 
@@ -369,7 +365,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </center>
 
 
-### US19 - Fornecer notificações de depósito ao usuário
+### **US19 - Fornecer notificações de depósito ao usuário**
 
 <center>
 
@@ -389,7 +385,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </center>
 
 
-### US20 - Fornecer segurança aos dados cadastrados
+### **US20 - Fornecer segurança aos dados cadastrados**
 
 <center>
 
@@ -406,7 +402,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US21 - Rastrear os ônibus via GPS
+### **US21 - Rastrear os ônibus via GPS**
 
 
 <center>
@@ -425,7 +421,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US22 - Otimizar o aplicativo para uso eficiente
+### **US22 - Otimizar o aplicativo para uso eficiente**
 
 
 <center>
@@ -444,7 +440,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US23 - Garantir atualização imediata do saldo do cartão
+### **US23 - Garantir atualização imediata do saldo do cartão**
 
 <center>
 
@@ -463,7 +459,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </center>
 
 
-### US24 - Possibilitar o pagamento via cartão de crédito
+### **US24 - Possibilitar o pagamento via cartão de crédito**
 
 <center>
 
@@ -479,7 +475,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </div>
 
 
-### US25 - Fornecer segurança aos dados cadastrados
+### **US25 - Fornecer segurança aos dados cadastrados**
 
 <center>
 
@@ -498,7 +494,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US26 - Rastrear os ônibus via GPS
+### **US26 - Rastrear os ônibus via GPS**
 
 <center>
 
@@ -517,7 +513,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 </center>
 
 
-### US27 - Possibilitar o pagamento via cartão de crédito
+### **US27 - Possibilitar o pagamento via cartão de crédito**
 
 
 <center>
@@ -536,7 +532,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US28 - Mostrar ao usuário a previsão de depósito de dinheiro
+### **US28 - Mostrar ao usuário a previsão de depósito de dinheiro**
 
 
 <center>
@@ -556,7 +552,7 @@ Para a construção de nossas histórias de usuário fizemos uma entrevista com 
 
 </center>
 
-### US29 - Mostrar o histórico de transportes do usuário
+### **US29 - Mostrar o histórico de transportes do usuário**
 
 <center>
 

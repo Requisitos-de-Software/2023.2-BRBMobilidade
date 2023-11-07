@@ -57,6 +57,9 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 Modelo de tabela de Caso de Uso:
 
+<center>
+
+
 |**UC0X**|Titulo do UC|
 | :----------: |:-----------|
 |Autores|Autores do UC|
@@ -70,6 +73,8 @@ Modelo de tabela de Caso de Uso:
 |Rastreabilidade| Rastreabilidade do UC|
 
 <font size="2"><p style="text-align: center"><b>Tabela 2: Modelo de tabela de Caso de Uso (Fonte: <a href="https://github.com/GuilhermeBES">BASILIO, Guilherme)</a></b></p></font>
+
+</center>
 
 Explicação dos elementos:
 
@@ -87,6 +92,8 @@ Explicação dos elementos:
 
  A especificação de cada caso de uso pode ser observado a seguir na Figura 1.
 
+ <center>
+
 Tabela 1 – UC01
 
 |**UC01**|**Fazer Login**|
@@ -103,7 +110,11 @@ Tabela 1 – UC01
 
 <font size="2"><p style="text-align: center"><b>Tabela 3: Fazer login (Fonte: <a href="https://github.com/GuilhermeBES">BASILIO, Guilherme)</a></b></p></font>
 
+</center>
+
 ### **UC02 - Realizar recarga**
+
+<center>
 
 |**UC02**|**Realizar recarga**|
 | :----------: |:-----------|
@@ -119,7 +130,11 @@ Tabela 1 – UC01
 
 <font size="2"><p style="text-align: center"><b>Tabela 4: Realizar recarga (Fonte: <a href="https://github.com/GuilhermeBES">BASILIO, Guilherme)</a></b></p></font>
 
+</center>
+
 ### **UC03 - Visualizar linhas e horários**
+
+<center>
 
 |**UC03**|**Visualizar linhas e horários**|
 | :----------: |:-----------|
@@ -135,8 +150,11 @@ Tabela 1 – UC01
 
 <font size="2"><p style="text-align: center"><b>Tabela 5: Visualizar linhas e horários (Fonte: <a href="https://github.com/GuilhermeBES">BASILIO, Guilherme)</a></b></p></font>
 
+</center>
 
 ### **UC04 - Acompanhar cadastro/cartão**
+
+<center>
 
 |**UC04**|**Acompanhar cadastro de cartão específico**|
 | :----------: |:-----------|
@@ -152,7 +170,11 @@ Tabela 1 – UC01
 
 <font size="2"><p style="text-align: center"><b>Tabela 6: Acompanhar cadastro/cartão (Fonte: <a href="https://github.com/gabrie1barbosa">BARBOSA, Gabriel)</a></b></p></font>
 
+</center>
+
 ### **UC05 - Vizualizar extrato de uso**
+
+<center>
 
 | UC02 | Informações |
 | ----- | ---------- |
@@ -169,10 +191,11 @@ Tabela 1 – UC01
 
 <font size="2"><p style="text-align: center"><b>Tabela 7: Visualizar extrato de uso (Fonte: <a href="https://github.com/caioalvesbraga">BRAGA, Caio)</a></b></p></font>
 
+</center>
 
 ## **Validação com o cliente**
 
-<p>O grupo realizou uma reunião de validação com o nosso cliente, que foi gravada e está disponível para acesso <a href="https://www.youtube.com/watch?v=RNz-dVVlj0M">aqui.</a><br><br>Durante a reunião foi abordado com o cliente se ele já conhecia os casos de uso oferecidos pelo aplicativo do BRB Mobilidade que estavam presentes no nosso diagrama, se o diagrama realmente reflete o uso real que ele teve com o sistema.</p>
+<p>O grupo realizou uma reunião de validação com o nosso cliente, que foi gravada e está disponível para acesso <a href="https://www.youtube.com/watch?v=RNz-dVVlj0M">aqui.</a><br><br>Durante a reunião foi apresentado ao nosso cliente o nosso artefato de Casos de  Uso da aplicação, repassando cada tópico elaborado na documentação. Ao longo da videochamada foi abordado com o cliente se ele já conhecia os casos de uso oferecidos pelo aplicativo do BRB Mobilidade que estavam presentes no nosso diagrama, se o diagrama realmente reflete o uso real que ele teve com o sistema.</p>
 
 
 ## **Bibliografia**
@@ -197,5 +220,5 @@ Tabela 1 – UC01
 |  1.0   | Criação do documento de Casos de uso |  Guilherme Basilio  |   24/10/2023   | Joel Soares |       25/10/2023      |
 |  1.1   | Adição da metodologia e Modelo de tabela |  Guilherme Basilio  |   24/10/2023   | Joel Soares |       25/10/2023      |
 |  1.2   | Atualização metodologia e casos de uso |  Gabriel Barbosa  |   24/10/2023   | Joel Soares |       25/10/2023      |
-|  1.2   | Adição de diagrama e correções pontuais |  Caio Braga  |   24/10/2023   | Joel Soares |       25/10/2023      |
+|  1.3   | Adição de diagrama e correções pontuais |  Caio Braga  |   24/10/2023   | Joel Soares |       25/10/2023      |
 
