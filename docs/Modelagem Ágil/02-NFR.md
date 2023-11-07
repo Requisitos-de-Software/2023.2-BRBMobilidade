@@ -65,17 +65,19 @@ O NFR Framework foi usado nesta documentação para apresentar os requisitos nã
 
 Conclui-se, portanto, que os requisitos do projeto buscam abranger os softgoals subsequentes:
 
+- Confiabilidade
 - Desempenho
-- Funcionalidade
 - Suportabilidade
-- Usabilidade 
+- Usabilidade
+
 
 ## **Cartões de Especificação**
 
 
 ## **Conclusão**
 
-
+## **Bibliografia**
+> PAIM, F. R. S., CASTRO, J. F. B. Enhancing Data Warehouse Design with the NFR Framework. Centro de Informática UFPE, Recife, 2019. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/paim.pdf. Acesso em: 06/11/2023
 
 ## **Referência Bibliográfica**
 
