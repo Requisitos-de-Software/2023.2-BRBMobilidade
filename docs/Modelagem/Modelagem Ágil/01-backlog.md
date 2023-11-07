@@ -6,10 +6,13 @@ O Backlog do Produto é um componente central da metodologia ágil, sendo uma li
 
 O caráter dinâmico do Backlog do Produto se destaca à medida que ele evolui e se adapta em resposta a mudanças nos requisitos e na visão do produto. Essa adaptabilidade é fundamental para assegurar que o produto permaneça alinhado com as necessidades em constante evolução dos usuários e do mercado, garantindo que continue a ser relevante e eficaz.
 
+
+## **Vídeo de entrevista com o PO**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/os3wIH667go?si=cxZP-nOB0j5Y03WU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## **Metodologia**
-
-A metodologia adotada envolveu o uso do Microsoft Excel para organizar e agrupar os requisitos funcionais em categorias temáticas e épicos, após terem sido cuidadosamente analisados e validados. Posteriormente, os dados resultantes foram transferidos para o documento.
-
+Fizemos uma entrevista com o PO Isaque Santos, trazendo os artefatos validados e trazendo as historias de usuário 
 Além disso, a rastreabilidade leva em consideração os requisitos elicitados no documento [Three Level Scale](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/) construído pelo grupo. 
 
 ### **Estrutura do Product Backlog**
