@@ -570,6 +570,21 @@ Para a construção de nossas histórias de usuário foi construído um padrão 
 </center>
 
 
+## **Referências Bibliográficas**
 
+>[1] Capítulo 03 Desenvolvimento Ágil: Engenharia de Software Pressman Disponível em: <https://aprender3.unb.br/pluginfile.php/2692825/mod_resource/content/3/Engenharia_de_Software_Uma_Abordagem_Pro.pdf>. Acesso em: 05 nov. 2023.
+
+## **Bibliografia**
+
+>Vídeo professor Diogo Becker - Guia definitivo para Histórias de Usuário. Disponível em: <https://youtu.be/pLJ3LxR292w?si=seamXCUIjA9qk0G3>. Acesso em 04 nov. 2023
+
+
+## **Histórico de Versões**
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criação do documento de história de usuários |  Caio Lelis e Doan   |   04/11/2023   | |     |
+|  1.1   | Adição de histórias de usuário |  Caio Lelis e Doan   |   04/11/2023   | |     |
+|  1.2   | Atualização de histórias de usuário |  Caio Lelis e Doan   |   04/11/2023   | |     |
 
 
