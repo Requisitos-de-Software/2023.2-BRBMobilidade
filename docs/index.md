@@ -1,4 +1,4 @@
-# Págin inicial
+# Página inicial
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/0a8781aab3860cd3c5cedc169d7ce9ce704cab2f/docs/assets/logo.png" style="width:20vw"/>
