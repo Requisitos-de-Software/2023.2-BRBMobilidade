@@ -212,7 +212,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Alta</td>
 </tr>
 <tr>
-    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="3">Notificações</td>
+    <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Notificações</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Fornecer notificações de depósito ao usuário</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF-31</td>
     <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US17</td>
