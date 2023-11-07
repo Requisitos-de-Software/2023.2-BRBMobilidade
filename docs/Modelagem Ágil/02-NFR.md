@@ -69,7 +69,6 @@ O NFR Framework foi usado nesta documentação para apresentar os requisitos nã
 
 Conclui-se, portanto, que os requisitos do projeto buscam abranger os softgoals subsequentes:
 
-- Confiabilidade
 - Disponibilidade
 - Performance
 - Portabilidade
