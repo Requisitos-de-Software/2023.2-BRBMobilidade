@@ -102,6 +102,17 @@ Após analisar os requisitos elicitados, épossível perceber que os requisitos 
 Estes requisitos servirão como base para o uso do framework NFR.
 
 
+## **Legenda**
+### **Rótulos**
+<div align="center">
+<img src="../assets/LEG2.png" width= "700px">
+</div>
+<div align="center">
+Figura 6: Confiabilidade sem Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
+</div>
+
+
+
 ## **Confiabilidade**
 
 ### **Sem Propagação**
@@ -109,7 +120,7 @@ Estes requisitos servirão como base para o uso do framework NFR.
 <img src="../assets/Conf1.png" width= "700px">
 </div>
 <div align="center">
-Figura 6: Confiabilidade sem Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
+Figura 7: Confiabilidade sem Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
 </div>
 
 ### **Com Propagação**
@@ -118,7 +129,7 @@ Figura 6: Confiabilidade sem Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
 <img src="../assets/Conf2.png" width= "700px">
 </div>
 <div align="center">
-Figura 7: Confiabilidade com Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
+Figura 8: Confiabilidade com Propagação - Fonte: BRAGA, Caio. DE FRIAS, Miguel
 </div>
 
 ### **Cartão de Especificação**
@@ -143,7 +154,7 @@ Tabela 3: Cartão de especificação "Confiabilidade" - Fonte: BRAGA, Caio. DE F
 <img src="../assets/Perf1.png" width= "700px">
 </div>
 <div align="center">
-Figura 8: Performance sem Propagação - Fonte: BARBOSA, Gabriel
+Figura 9: Performance sem Propagação - Fonte: BARBOSA, Gabriel
 </div>
 
 ### **Com Propagação**
@@ -152,7 +163,7 @@ Figura 8: Performance sem Propagação - Fonte: BARBOSA, Gabriel
 <img src="../assets/Perf2.png" width= "700px">
 </div>
 <div align="center">
-Figura 9: Performance com Propagação - Fonte: BARBOSA, Gabriel
+Figura 10: Performance com Propagação - Fonte: BARBOSA, Gabriel
 </div>
 
 ### **Cartão de Especificação**
@@ -176,7 +187,7 @@ Tabela 4: Cartão de especificação "Performance" - BARBOSA, Gabriel
 <img src="../assets/Port1.png" width= "700px">
 </div>
 <div align="center">
-Figura 10: Portabilidade sem Propagação - Fonte: BRAGA, Caio
+Figura 11: Portabilidade sem Propagação - Fonte: BRAGA, Caio
 </div>
 
 ### **Com Propagação**
@@ -185,7 +196,7 @@ Figura 10: Portabilidade sem Propagação - Fonte: BRAGA, Caio
 <img src="../assets/Port2.png" width= "700px">
 </div>
 <div align="center">
-Figura 11: Portabilidade com Propagação - Fonte: BRAGA, Caio
+Figura 12: Portabilidade com Propagação - Fonte: BRAGA, Caio
 </div>
 
 ### **Cartão de Especificação**
@@ -211,7 +222,7 @@ Tabela 5: Cartão de especificação "Portabilidade" - BRAGA,  Caio
 <img src="../assets/Usab1.jpg" width= "700px">
 </div>
 <div align="center">
-Figura 12: Usabilidade sem Propagação - Fonte: DE FRIAS, Miguel
+Figura 13: Usabilidade sem Propagação - Fonte: DE FRIAS, Miguel
 </div>
 
 ### **Com Propagação**
@@ -220,7 +231,7 @@ Figura 12: Usabilidade sem Propagação - Fonte: DE FRIAS, Miguel
 <img src="../assets/Usab2.jpg" width= "700px">
 </div>
 <div align="center">
-Figura 13: Usabilidade com Propagação - Fonte: DE FRIAS, Miguel
+Figura 14: Usabilidade com Propagação - Fonte: DE FRIAS, Miguel
 </div>
 
 ### **Cartão de Especificação**
