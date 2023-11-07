@@ -8,15 +8,19 @@ theme:
   logo: Planejamento/img/LogoBRBMOBILIDADE.png
   name: material
   features:
+    - navigation.instant
+    - navigation.tracking
     - navigation.tabs
-    - navigation.sections
-    - toc.integrate
+    - navigation.tabs.sticky
     - navigation.top
+    - navigation.footer
+    - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+
   language: pt
   palette:
     - scheme: default
