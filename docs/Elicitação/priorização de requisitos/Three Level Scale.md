@@ -70,6 +70,7 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RNF08  | O aplicativo deve rastrear os ônibus via GPS | Q12 | Sim | Média |
 | RNF09  | O aplicativo deve ser otimizado | Q12 | Sim | Alta |
 | RNF10  | O aplicativo deve ter atualização imediata de saldo | Q12 | Não | Alta |
+| RNF11  | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas | Q12 |  | Alta |
 
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Tabela dos Requisitos Priorizados.</p>
@@ -84,3 +85,4 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criando Three Level  | Doan Filho e Caio Lelis  |   03/10/2023   |  Caio Braga  |       04/10/2023      |
+|  1.1   | Adicionando requisito sobre acessibilidade  | Joel Soares  |   06/11/2023   |   |       --/--/----      |
