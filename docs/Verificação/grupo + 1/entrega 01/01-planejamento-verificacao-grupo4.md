@@ -21,7 +21,7 @@ O objetivo deste documento é avaliar a qualidade dos artefatos desenvolvidos pe
 
 ## **Checklist de verificação**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROYrmtTlS-IYh-TUQZ0wwyLDcxbvM66rIyQSg4oH3qLrqSa14vmJy8GrNNfS1e9m11QZJ1BAj_BPC1/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="190%" height="900" frameborder="0" scrolling="yes"></iframe> 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROYrmtTlS-IYh-TUQZ0wwyLDcxbvM66rIyQSg4oH3qLrqSa14vmJy8GrNNfS1e9m11QZJ1BAj_BPC1/pubhtml?widget=true&amp;headers=false"width="100%" height="900" frameborder="0" scrolling="yes"></iframe>
 
 Planilha 01: Checklist de Verificação - Grupo 4. (Fonte: autores) .
 
