@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Este documento se trata da verificação do artefato [Metodologia](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/Metodologia/) produzido pelos membros do [Grupo 04](https://requisitos-de-software.github.io/2023.2-e-Titulo/).
+Este documento se trata da verificação do artefato [Metodologia](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/metodologia/) produzido pelos membros do [Grupo 04](https://requisitos-de-software.github.io/2023.2-e-Titulo/).
 ## Itens Gerais:
 
 
@@ -25,3 +25,21 @@ Para uma melhor visualização:
 - [Checklist Itens Gerais](https://docs.google.com/spreadsheets/d/e/2PACX-1vT3yXIyn714hmjDKMrJPLywdR4xKLOuayAAja0oPs3OaaRScwNyiK1CN_9RlbZ7LuXSBYz23FvKLmz3/pubhtml?gid=107300813&single=true)
 
 - [Checklist Itens Específicos](https://docs.google.com/spreadsheets/d/e/2PACX-1vT3yXIyn714hmjDKMrJPLywdR4xKLOuayAAja0oPs3OaaRScwNyiK1CN_9RlbZ7LuXSBYz23FvKLmz3/pubhtml?gid=1140424070&single=true)
+
+
+## Sugestão de melhoria
+
+## Gravação 
+<iframe src="Link do vídeo"></iframe>
+
+## Bibliografia
+
+
+## Referência Bibliográfica
+
+
+## Histórico de Versões
+
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Adicionando conteúdo          | Caio Lelis          | 12/11/2023   |              |                       |
