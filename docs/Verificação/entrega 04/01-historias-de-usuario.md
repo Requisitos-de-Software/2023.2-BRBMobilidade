@@ -20,7 +20,7 @@ Nesta etapa, os resultados da avaliação serão apresentados de forma organizad
 
 ### **Checklist geral**
 
-<iframe src="https://docs.google.com/spreadsheets/d/163x3BfExoC94eoxnpQk5ot4hjsZjlkZdcaU8ZCDSiTc/edit#gid=1954530529"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1-y6bqYaCPOHDzYoQeLrXr5nR0IKIyPkmR66BlrjqenI/edit#gid=1954530529"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 <div align="center">
 <p> <b>Planilha 01</b>: Checklist geral - Grupo 4. (Fonte: BASILIO, Guilherme). </p>
@@ -28,26 +28,27 @@ Nesta etapa, os resultados da avaliação serão apresentados de forma organizad
 
 ### **Checklist específico**
 
-<iframe src="https://docs.google.com/spreadsheets/d/163x3BfExoC94eoxnpQk5ot4hjsZjlkZdcaU8ZCDSiTc/edit#gid=646611060"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1-y6bqYaCPOHDzYoQeLrXr5nR0IKIyPkmR66BlrjqenI/edit#gid=646611060"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 <div align="center">
-<p> <b>Planilha 02</b>: Checklist específico - Grupo 4. (Fonte: BASILIO, Guilherme). </p>
+<p> <b>Planilha 01</b>: Checklist específico - Grupo 4. (Fonte: BASILIO, Guilherme). </p>
 </div>
 
 ## **Problemas encontrados**
 
 Nesta seção, serão apresentados os problemas encontrados durante a verificação do artefato "[Histórias de Usuário](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/modelagem/agil/historiasdeusuario/)".
 
-### **Checklist geral**
+### Checklist geral
 
+- A unica observação quanto ao Checklist Geral é a falta da data de revisão do artefato. Porém isso é só um pequeno erro, de resto documento está muito bem padronizado e estruturado.
 
+### Checklist Específico
 
-### **Checklist Específico**
-
-
+- No Checklist Específico a única observação relevante é referente à indisponibilidade de acesso ao quadro Miro utilizado para conduzir a dinâmica de histórias de usuários, acho que devido à configuração de privacidade. Os títulos atribuídos às histórias demonstram clareza e autoexplicação, abordando de maneira precisa o "quem", "o que" e "por que". Destaca-se que todas as histórias de usuários foram elaboradas de forma a permitir testes adequados.
 
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Guilherme Basilio   |   12/11/2023   | Miguel de Frias |  12/11/2023    |
+|  1.1   | Adicionando problemas encontrados  |   Guilherme Basilio   |   12/11/2023   | Miguel de Frias |  12/11/2023    |
