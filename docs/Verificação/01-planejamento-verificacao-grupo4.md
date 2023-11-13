@@ -1,4 +1,4 @@
-# **Planejamento da Verificação da Etapa 3 do Grupo 4**
+# **Planejamento da Verificação do Grupo 4**
 
 ## **Introdução**
 
