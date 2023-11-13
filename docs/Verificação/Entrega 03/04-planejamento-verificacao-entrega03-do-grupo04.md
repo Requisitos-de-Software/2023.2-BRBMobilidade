@@ -14,9 +14,6 @@ Para realizar a verificação do artefato,iremos usar uma adaptação da técnic
 
 O objetivo deste documento é avaliar a qualidade dos artefatos desenvolvidos pelo [Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/), durante a etapa 3, para que após a avaliação os membros corrijam o que estiver errado para proporcionar a garantia de qualidade ao(s) usuário(s) relacionado(s) ao grupo. A avaliação será realizada de acordo com os requisitos estabelecidos na disciplina de Requisitos de Software e os padrões consagrados na literatura especializada.
 
-## **Check List de Verificação**
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlLmV86Cd7nasqEOiOls7kjaEHZWOUzIHWw_6jbs900kZAyTctn3ZAcRjdz98gup0YyQBdg-VaAMWW/pubhtml?gid=1976372669&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
-
 ## **Participantes**
 Os responséveis pela verificação são os participantes do aplicatico [BRB-Mobilidade](https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade), [Grupo 03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo), [Doan Filho](https://github.com/FilhoDoan) e [Miguel Matos](https://github.com/migueldefrias), que ficaram responsaveis pelo feito do artefato de verificação.   
 
@@ -27,6 +24,22 @@ As verificações seram feitas em documentos dinstintos sendo o resultado da ver
 - [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/)
 - [Cenários](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/)
 - [Lexícos](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/) 
+
+
+## **Check List de Verificação**
+
+### **Itens gerais**
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRosc4EhCubuK631zfmVzmzzqXcTlcza-m16-LLkAexbM2Nlods5Zdun204FAqC4yDGXfk8TSLPlul6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+
+### **Itens do Artefato**
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlLmV86Cd7nasqEOiOls7kjaEHZWOUzIHWw_6jbs900kZAyTctn3ZAcRjdz98gup0YyQBdg-VaAMWW/pubhtml?gid=1976372669&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+
+
+## **Problemas Encontrados**
+
+Nesta seção, serão apresentados os problemas encontrados durante a verificação do respectivo artefato da etapa 3.
 
 ## **Bibliografia**
 
