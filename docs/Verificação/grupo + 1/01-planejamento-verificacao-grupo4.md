@@ -45,4 +45,4 @@ Requisitos - E-Título. Disponível em: https://requisitos-de-software.github.io
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Guilherme Basilio   |   12/11/2023   | Caio Lelis |  12/11/2023    |
 |  1.1   | Adição de conteúdo  |   Caio Lelis   |   12/11/2023   |   Guilherme Basilio   |   12/11/2023   |
-|  1.2   | Adição de conteúdo  |   Caio Lelis   |   13/11/2023   |   Guilherme Basilio   |   12/11/2023   |
+|  1.2   | Adição de conteúdo  |   Caio Lelis   |   13/11/2023   |      |      |
