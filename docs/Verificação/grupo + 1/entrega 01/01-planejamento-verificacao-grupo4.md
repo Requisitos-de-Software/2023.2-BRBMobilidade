@@ -8,7 +8,7 @@ Nesse contexto, este documento realizará a verificação das entregas feitas pe
 
 ## **Metodologia**
 
-Para realizar a verificação do artefato,iremos usar a técnica de revisão estática dos artefatos a procura de problemas para que se forneça a garantia da qualidade, será elaborada um Checklist de verificação levando em consideração as exigências e materiais disponibilizados pelo professor em sala de aula. Essa Checklist de verificação será composta por algumas perguntas referentes à formatação, padronização e versionamento dos artefatos, seguidas de perguntas relacionadas ao conteúdo do artefato que será verificado.A planilha 01 apresenta todas as perguntas contempladas de todos os artefatos elaborados pelo [Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/)
+Para realizar a verificação do artefato,iremos usar uma adaptação da técnica de inspeção, aonde teremos um Checklist de verificação para cada etapa do projeto desenvolvida pelo [Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/), ressaltando que o grupo abdicará dos processos de retrabalho e de acompanhamento presentes no processo de inspeção,assim, será feita a inspeção para procurar possíveis erros e inconsistências nos artefatos para que posteriormente os membros do grupo possam corrigir.
 
 
 ## **Objetivo**
@@ -18,11 +18,22 @@ O objetivo deste documento é avaliar a qualidade dos artefatos desenvolvidos pe
 
 ## **Checklist de verificação**
 
+## **Itens gerais**
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRosc4EhCubuK631zfmVzmzzqXcTlcza-m16-LLkAexbM2Nlods5Zdun204FAqC4yDGXfk8TSLPlul6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+
+## **Itens específicos por etapa**
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROYrmtTlS-IYh-TUQZ0wwyLDcxbvM66rIyQSg4oH3qLrqSa14vmJy8GrNNfS1e9m11QZJ1BAj_BPC1/pubhtml?widget=true&amp;headers=false"width="100%" height="900" frameborder="0" scrolling="yes"></iframe>
 
 <div align="center">
 <p> <b>Planilha 01</b>: Checklist de Verificação - Grupo 4. (Fonte: autores). </p>
 </div>
+
+Acesso às checklists:
+
+
+- [Itens Gerais](https://docs.google.com/spreadsheets/d/e/2PACX-1vRosc4EhCubuK631zfmVzmzzqXcTlcza-m16-LLkAexbM2Nlods5Zdun204FAqC4yDGXfk8TSLPlul6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false)
+- [Itens específicos por etapa](https://docs.google.com/spreadsheets/d/e/2PACX-1vROYrmtTlS-IYh-TUQZ0wwyLDcxbvM66rIyQSg4oH3qLrqSa14vmJy8GrNNfS1e9m11QZJ1BAj_BPC1/pubhtml?widget=true&amp;headers=false)
 
 ## **Bibliografia**
 
@@ -34,3 +45,4 @@ Requisitos - E-Título. Disponível em: https://requisitos-de-software.github.io
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Guilherme Basilio   |   12/11/2023   | Caio Lelis |  12/11/2023    |
 |  1.1   | Adição de conteúdo  |   Caio Lelis   |   12/11/2023   |   Guilherme Basilio   |   12/11/2023   |
+|  1.2   | Adição de conteúdo  |   Caio Lelis   |   13/11/2023   |      |      |
