@@ -9,7 +9,7 @@ Este documento se trata da verificação do artefato [Escolha do Aplicativo](htt
 
 ## Objetivos
 
-O documento tem como objetivo central verificar a qualidade do artefato [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/aplicativoescolhido/) produzido pelo grupo 04, responsável pelo desenvolvimento da disciplina acerca do aplicativo E-Título. 
+O documento tem como objetivo central verificar a qualidade do artefato com o intuito de garantir que o mesmo atenda as exigências especificadas, para que após a avaliação os membros corrijam os erros para proporcionar a garantia de qualidade ao(s) usuário(s) relacionado(s) ao grupo. A avaliação será realizada de acordo com os requisitos estabelecidos na disciplina de Requisitos de Software e os padrões consagrados na literatura especializada.
 
 ## Metodologia
 
