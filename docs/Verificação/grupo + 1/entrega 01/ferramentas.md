@@ -30,7 +30,8 @@ Para uma melhor visualização:
 Com o intuito de otimizar o espaço na tabela, recomenda-se padronizar o tamanho das descrições das ferramentas. Ao manter as descrições em um formato uniforme e conciso, é possível garantir uma apresentação mais organizada e eficiente das informações. Dessa forma, a tabela permanecerá compacta e legível, ao mesmo tempo em que as descrições oferecerão detalhes essenciais sobre as ferramentas utilizadas, facilitando a compreensão do leitor sem comprometer a clareza do documento.
 
 ## Gravação 
-<iframe src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bibliografia
 

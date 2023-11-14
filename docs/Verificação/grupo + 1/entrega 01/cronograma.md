@@ -31,7 +31,10 @@ Para uma melhor visualização:
 Com o propósito de facilitar a comparação entre o planejamento inicial e a execução efetiva, recomenda-se a inclusão do cronograma planejado e do cronograma executado no mesmo documento. Essa abordagem permitirá uma análise mais eficiente das discrepâncias entre as duas tabelas, possibilitando uma avaliação abrangente do progresso do projeto.
 
 ## Gravação 
-<iframe src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares"></iframe>
+## Gravação
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Bibliografia
 

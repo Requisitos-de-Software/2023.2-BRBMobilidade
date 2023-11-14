@@ -32,7 +32,8 @@ Para uma melhor visualização:
 Para aprimorar a compreensão do Rich Picture, sugere-se a adição de legendas explicativas para cada componente representado. Por exemplo, ao mencionar um "Ator", é importante fornecer uma breve descrição sobre quem é esse ator, identificando claramente o usuário do sistema ao qual se refere. Essa abordagem garantirá uma interpretação mais clara e precisa do diagrama, permitindo que os leitores compreendam facilmente os diferentes elementos e suas respectivas funções no contexto do sistema em questão.
 
 ## Gravação 
-<iframe src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bibliografia
 
