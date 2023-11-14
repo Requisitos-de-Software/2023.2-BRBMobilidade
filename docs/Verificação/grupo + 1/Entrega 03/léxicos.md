@@ -21,6 +21,7 @@ Os responséveis pela verificação são os participantes do aplicatico [BRB-Mob
 
 ### **Itens Gerais:**
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlLmV86Cd7nasqEOiOls7kjaEHZWOUzIHWw_6jbs900kZAyTctn3ZAcRjdz98gup0YyQBdg-VaAMWW/pubhtml?gid=1647285670&single=true"width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Check List geral de Léxicos(Fonte: FILHO, Doan .2023).</p>
@@ -28,6 +29,7 @@ Os responséveis pela verificação são os participantes do aplicatico [BRB-Mob
 
 ### **Itens específicos:**
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlLmV86Cd7nasqEOiOls7kjaEHZWOUzIHWw_6jbs900kZAyTctn3ZAcRjdz98gup0YyQBdg-VaAMWW/pubhtml?gid=1563881709&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400" frameborder="0"></iframe>
 
 
 <div style="text-align: center">
