@@ -43,7 +43,7 @@ Com o intuito de aprimorar a qualidade do documento, sugererimos a adição de i
 
 ## Gravação
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/zXQ33PgEtc4?si=NKAIptoc0OTObsdN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
