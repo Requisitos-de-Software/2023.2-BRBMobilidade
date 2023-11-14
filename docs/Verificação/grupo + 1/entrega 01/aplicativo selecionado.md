@@ -45,6 +45,8 @@ Com o intuito de aprimorar a qualidade do documento, sugererimos a adição de i
 
 <iframe width="560" height="315" src="https://youtu.be/zXQ33PgEtc4?si=NKAIptoc0OTObsdN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<a href="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares" target="_blank">Acesso à gravação</a>
+
 
 
 ## Bibliografia

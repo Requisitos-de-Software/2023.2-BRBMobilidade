@@ -44,6 +44,8 @@ Visando uma análise mais abrangente e realista do processo, é recomendável ad
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<a href="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares" target="_blank">Acesso à gravação</a>
+
 ## Bibliografia
 
 Requisitos - E-Título. Disponível em: <https://requisitos-de-software.github.io/2023.2-e-Titulo/>. Acesso em: 12 nov. 2023.
