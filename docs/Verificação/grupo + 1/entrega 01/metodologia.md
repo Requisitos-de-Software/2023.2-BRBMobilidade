@@ -46,7 +46,7 @@ Visando uma análise mais abrangente e realista do processo, é recomendável ad
 
 ## Bibliografia
 
-Requisitos - E-Título. Disponível em: <https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/>. Acesso em: 12 nov. 2023.
+Requisitos - E-Título. Disponível em: <https://requisitos-de-software.github.io/2023.2-e-Titulo/>. Acesso em: 12 nov. 2023.
 
 ## Histórico de Versões
 
