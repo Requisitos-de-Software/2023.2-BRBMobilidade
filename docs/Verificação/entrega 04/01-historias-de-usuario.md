@@ -20,7 +20,7 @@ Nesta etapa, os resultados da avaliação serão apresentados de forma organizad
 
 ### **Checklist geral**
 
-<iframe src="https://docs.google.com/spreadsheets/d/1-y6bqYaCPOHDzYoQeLrXr5nR0IKIyPkmR66BlrjqenI/edit#gid=1954530529"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzmsuD8FKAyYpO3iXztNQoFnGC_InANYOvl7Hkq-Tlz06jucl0JBwj5Z-mBRR61MglG8VwVY-dhqMU/pubhtml?gid=1954530529&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 <div align="center">
 <p> <b>Planilha 01</b>: Checklist geral - Grupo 4. (Fonte: BASILIO, Guilherme). </p>
@@ -28,7 +28,7 @@ Nesta etapa, os resultados da avaliação serão apresentados de forma organizad
 
 ### **Checklist específico**
 
-<iframe src="https://docs.google.com/spreadsheets/d/1-y6bqYaCPOHDzYoQeLrXr5nR0IKIyPkmR66BlrjqenI/edit#gid=646611060"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzmsuD8FKAyYpO3iXztNQoFnGC_InANYOvl7Hkq-Tlz06jucl0JBwj5Z-mBRR61MglG8VwVY-dhqMU/pubhtml?gid=646611060&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 <div align="center">
 <p> <b>Planilha 01</b>: Checklist específico - Grupo 4. (Fonte: BASILIO, Guilherme). </p>
