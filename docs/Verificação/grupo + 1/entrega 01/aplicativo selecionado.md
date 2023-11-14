@@ -6,10 +6,19 @@
 Este documento se trata da verificação do artefato [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/aplicativoescolhido/) produzido pelos membros do [Grupo 04](https://requisitos-de-software.github.io/2023.2-e-Titulo/).
 
 
- #  Desenvolvimento
 
-O documento será guiado conforme especificado no [Planejamento da verificação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/01-planejamento-verificacao-grupo4/), onde se tem as planilhas de checklist como ferramenta de Verificação do artefato em questão.
+## Objetivos
 
+O documento tem como objetivo central verificar a qualidade do artefato [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/aplicativoescolhido/) produzido pelo grupo 04, responsável pelo desenvolvimento da disciplina acerca do aplicativo E-Título. 
+
+## Metodologia
+
+O documento será guiado conforme especificado no [Planejamento da verificação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/01-planejamento-verificacao-grupo4/), onde por meio de checklists a inspeção será realizada para verificar se o artefato está condizente com o que foi proposto na disciplina de Requisitos de Software.
+
+
+## Participantes
+
+Os responséveis pela verificação são os participantes do aplicatico [BRB-Mobilidade](https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade), [Grupo 03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo), [Caio Lelis](https://github.com/caio-lelis) e [Joel Soares](https://github.com/JoelSRangel), que ficaram responsaveis pelo feito do artefato de verificação.   
 
 ## Planilha de Itens Gerais:
 
@@ -40,9 +49,7 @@ Com o intuito de aprimorar a qualidade do documento, sugererimos a adição de i
 
 ## Bibliografia
 
-
-## Referência Bibliográfica
-
+Requisitos - E-Título. Disponível em: <https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/>. Acesso em: 12 nov. 2023.
 
 ## Histórico de Versões
 
