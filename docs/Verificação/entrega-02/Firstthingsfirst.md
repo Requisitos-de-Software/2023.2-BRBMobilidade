@@ -31,7 +31,7 @@ Tabela 2 - Itens Específicos
 | :------:   | :----: | :-----: |
 |    **Pontos**    | **Sim/Não/Incompleto**  |    **1.0**    |
 | Foi feita gravação com usuário para a priorização? |    Sim   |     |
-| Há no documento a expecificação dos participantes e seus respectivos papéis?  |  Sim  |
+| Há no documento a especificação dos participantes e seus respectivos papéis?  |  Sim  |
 | A tabela possui as colunas de benefício, penalidade, valor, custo, risco e suas porcentagens? |   Sim  |       | 
 | Os requisitos estão ordenados em ordem de prioridade?  |   Não  |    |
 | A participação do cliente e/ou persona no processo de priorização?  | Sim | As personas foram utilizadas, mas seria melhor se fosse o cliente real. |
@@ -41,7 +41,7 @@ Fonte: BARBOSA, Gabriel. 2023
 
 ## **Sugestão de melhoria**
 
-
+Está bem feito e completo. Uma pequena mudança seria em ordenar os requisitos pela prioridade, para melhor compreensão da tabela.
 
 ## **Bibliografia**
 

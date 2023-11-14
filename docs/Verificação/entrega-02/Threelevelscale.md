@@ -42,7 +42,7 @@ Fonte: BARBOSA, Gabriel. 2023
 
 ## **Sugestão de melhoria**
 
-
+Algumas sugestões já estão na tabela acima. Em resumo, o documento está de acordo com o que foi solicitado.
 
 ## **Bibliografia**
 
