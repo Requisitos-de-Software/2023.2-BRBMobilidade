@@ -30,8 +30,10 @@ Para uma melhor visualização:
 
 ## Sugestão de melhoria
 
+Com o intuito de aprimorar a qualidade do documento, sugererimos a adição de informações complementares acerca do aplicativo escolhido. Tais informações podem abranger sua utilidade e modos de utilização.
+
 ## Gravação 
-<iframe src="Link do vídeo"></iframe>
+<iframe src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares"></iframe>
 
 ## Bibliografia
 
@@ -43,4 +45,4 @@ Para uma melhor visualização:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adicionando conteúdo          | Caio Lelis          | 12/11/2023   |              |                       |
+|  1.0   | Adicionando conteúdo          | Caio Lelis          | 12/11/2023   |  Joel Soares  |         13/11/2023          |

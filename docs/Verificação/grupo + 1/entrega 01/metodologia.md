@@ -29,8 +29,10 @@ Para uma melhor visualização:
 
 ## Sugestão de melhoria
 
+Visando uma análise mais abrangente e realista do processo, é recomendável adicionar uma seção que aborde os pontos fracos e possíveis desafios associados à metodologia Scrum. Identificar e reconhecer esses aspectos críticos é essencial para uma implementação bem-sucedida. Esta inclusão permitirá uma avaliação mais equilibrada, destacando áreas que podem exigir atenção especial, mitigação de riscos e estratégias de melhoria contínua ao longo do ciclo de desenvolvimento.
+
 ## Gravação 
-<iframe src="Link do vídeo"></iframe>
+<iframe src="https://www.youtube.com/watch?v=zXQ33PgEtc4&ab_channel=JoelSoares"></iframe>
 
 ## Bibliografia
 
@@ -42,4 +44,4 @@ Para uma melhor visualização:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adicionando conteúdo          | Caio Lelis          | 12/11/2023   |              |                       |
+|  1.0   | Adicionando conteúdo          | Caio Lelis          | 12/11/2023   |  Joel Soares  |         13/11/2023          |
