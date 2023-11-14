@@ -31,9 +31,9 @@ O objetivo deste documento é avaliar a qualidade dos artefatos desenvolvidos pe
 
 Acesso às checklists:
 
-
 - [Itens Gerais](https://docs.google.com/spreadsheets/d/e/2PACX-1vRosc4EhCubuK631zfmVzmzzqXcTlcza-m16-LLkAexbM2Nlods5Zdun204FAqC4yDGXfk8TSLPlul6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false)
 - [Itens específicos por etapa](https://docs.google.com/spreadsheets/d/e/2PACX-1vROYrmtTlS-IYh-TUQZ0wwyLDcxbvM66rIyQSg4oH3qLrqSa14vmJy8GrNNfS1e9m11QZJ1BAj_BPC1/pubhtml?widget=true&amp;headers=false)
+
 
 ## **Bibliografia**
 
