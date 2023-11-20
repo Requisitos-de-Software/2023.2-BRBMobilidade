@@ -206,9 +206,9 @@ Tabela 2: Requisitos não funcionais.
 |--------|-------------------|------|--------------|
 | RNF01   | O aplicativo deve fornecer segurança ao usuário com dados cadastrados        | Q11  |     sim         |
 | RNF02   | O aplicativo deve rastrear os ônibus via GPS           | Q12  |      sim        |
-| RNF03   | O aplicativo deve ser otimizado           | Q12  |      sim        |
-| RNF03   | O aplicativo deve ter atualização imediata de saldo         | Q12  |      não        |
-| RNF04   | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas         | Q13  |           |
+| RNF03   | O aplicativo deve ser otimizado           | Q13  |      sim        |
+| RNF03   | O aplicativo deve ter atualização imediata de saldo         | Q14  |      não        |
+| RNF04   | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas         | Q15  |           |
 </center>
 
 ## **Bibliografia**
