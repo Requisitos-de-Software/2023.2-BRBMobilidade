@@ -93,17 +93,17 @@ Os requisitos funcionais e não funcionais previamente [Elicitados](https://requ
 
 | ID | Descrição | Origem |
 |----|-----------|--------|
-| RNF01 | Garantir compatibilidade com sistemas operacionais Android e iOS. | |
-| RNF02 | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. | |
-| RNF03 | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | |
-| RNF04 | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. | |
-| RNF05 | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | |
-| RNF06 | Deve ser de código aberto e gratuito. | |
-| RNF07 | O aplicativo deve fornecer segurança ao usuário com dados cadastrados. | |
-| RNF08 | O aplicativo deve rastrear os ônibus via GPS. | |
-| RNF09 | O aplicativo deve ser otimizado. | |
-| RNF10 | O aplicativo deve ter atualização imediata de saldo. | |
-| RNF11 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | |
+| RNF01 | Garantir compatibilidade com sistemas operacionais Android e iOS. | [Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+| RNF02 | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. | [Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais)  |
+| RNF03 | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | [Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais)  |
+| RNF04 | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. | [Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais)  |
+| RNF05 | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | [Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais)  |
+| RNF06 | Deve ser de código aberto e gratuito. | [Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais)  |
+| RNF07 | O aplicativo deve fornecer segurança ao usuário com dados cadastrados. | [Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| RNF08 | O aplicativo deve rastrear os ônibus via GPS. | [Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| RNF09 | O aplicativo deve ser otimizado. | [Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| RNF10 | O aplicativo deve ter atualização imediata de saldo. | [Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| RNF11 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | [Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
 
 
 <div style="text-align: left">
