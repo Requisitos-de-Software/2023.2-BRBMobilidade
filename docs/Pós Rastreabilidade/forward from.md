@@ -483,3 +483,5 @@ Fonte: LELIS, Caio.
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Caio Braga   |   19/11/2023   | Doan Filho |  19/11/2023    |
+|  1.1   | Requisitos de 25 a 30  |   Doan FIlho   |   19/11/2023   | Caio Braga|  19/11/2023    |
+|  1.2   | Requisitos de 07 a 12  |   Doan FIlho   |   19/11/2023   | Caio Braga|  19/11/2023    |
