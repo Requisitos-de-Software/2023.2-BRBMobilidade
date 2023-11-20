@@ -29,6 +29,7 @@ A metodologia proposta para a criação da matriz de rastreabilidade [Forward fr
 
 | Tópico | Referência |
 |--------|------------|
+| Descrição | Descreve a funcionalidade do requisito |
 | Requisito Funcional | [RFXX]() |
 | História de Usuário | [USXX]() |
 | Épico | [ÉpicoXX]() |
