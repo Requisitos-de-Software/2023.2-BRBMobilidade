@@ -343,3 +343,4 @@ Fonte: LELIS, Caio.
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Caio Braga   |   19/11/2023   | Doan Filho |  19/11/2023    |
+|  1.1   | Adição de requisitos planejados |   Guilherme Basilio   |   19/11/2023   | Doan Filho |  19/11/2023    |
