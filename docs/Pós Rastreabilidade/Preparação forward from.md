@@ -33,6 +33,7 @@ A metodologia proposta para a criação da matriz de rastreabilidade [Forward fr
 
 | Tópico | Referência |
 |--------|------------|
+| Descrição | Descreve a funcionalidade do requisito |
 | Requisito Funcional | [RFXX]() |
 | História de Usuário | [USXX]() |
 | Épico | [ÉpicoXX]() |
@@ -40,7 +41,7 @@ A metodologia proposta para a criação da matriz de rastreabilidade [Forward fr
 | Léxico | [LéxicoXX]() |
 | Caso de Uso | [Caso de UsoXX]() |
 | Fonte de Elicitação | [Fonte de ElicitaçãoXX]() |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Demonstração | vídeo/foto |
 
 
 ## Modelo de Rastreabilidade Requisitos não funcionais
