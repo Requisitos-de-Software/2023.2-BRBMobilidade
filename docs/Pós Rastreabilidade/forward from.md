@@ -48,6 +48,109 @@ Fonte: LELIS, Caio.
 
 ## **Rastreabilidade**
 
+Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45
+
+
+### **Requisitos elicitados por Doan Filho**
+
+**Tabela 09- Requisito Funcional 07**
+
+| Tópico  | Referência |
+|---------|------------|
+|Descrição| O aplicativo deve permitir cadastrar métodos de pagamento.|
+| Requisito Funcional | [RF07](-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/https://requisitos)|
+| História de Usuário | [US07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico | [Pagamento](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/) |
+| Léxicos | [L06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/), [LE2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/) |
+| Caso de Uso | [UC02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/) |
+| Fonte de Elicitação | [BS07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/) |
+| Vídeo/Foto Demonstrativo | vídeo/foto |
+
+
+
+**Tabela 11 - Requisito Funcional 08**
+
+| Tópico | Referência | 
+|--------|------------|
+| Descrição | Deve ser possível personalizar a aparência da interface do usuário.|
+| Requisito Funcional | [RF08](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/) |
+| História de Usuário | [US10](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico | [Acessibilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [---]() |
+| Léxicos | [L04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#descricao), [LE3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#descricao) |
+| Caso de Uso | [---]() |
+| Fonte de Elicitação | [IS09](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/) |
+| Vídeo/Foto Demonstrativo | vídeo/foto |
+
+Fonte: FILHO, Doan.
+
+**Tabela 13 - Requisito Funcional 09**
+
+| Tópico | Referência | 
+|--------|------------|
+| Descrição | O usuário deve ser capaz de realizar cadastro. |
+| Requisito Funcional | [RF09](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
+| História de Usuário | [US08](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico |[Autenticação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog)|
+| Cenário |[---]()|
+| Léxicos | [L03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/)|
+| Caso de Uso | [---]()|
+| Fonte de Elicitação | [BS08]() |
+| Vídeo/Foto Demonstrativo | vídeo/foto |
+
+Fonte: FILHO, Doan.
+
+**Tabela 15 -  Requisito Funcional 10**
+
+| Tópico | Referência | 
+|--------|------------|
+| Descrição | O usuário deve ser capaz de realizar login.|
+| Requisito Funcional | [RF10](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
+| História de Usuário | [US08](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us01-consultar-saldo-e-extrato-de-uso-do-cartao-de-mobilidade) |
+| Épico |[Autenticação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/)|
+| Cenário | [---]()|
+| Léxicos | [LV1](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#Acessar), [LV3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#Acessar)|
+| Caso de Uso | [UC01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#casos-de-uso-especificacao)|
+| Fonte de Elicitação | [IS12](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais) |
+| Vídeo/Foto Demonstrativo | vídeo/foto |
+
+Fonte: FILHO, Doan.
+
+**Tabela 17 - Requisito Funcional 11**
+
+| Tópico | Referência | 
+|--------|------------|
+| Descrição |O usuário deve fornecer sua localização.|
+| Requisito Funcional | [RF11](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
+| História de Usuário | [US09](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico |[Consultas](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog)|
+| Cenário | [---]()|
+| Léxicos | [LV2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv2-buscar), [LV3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv2-buscar)|
+| Caso de Uso | [---]()|
+| Fonte de Elicitação | [BS10](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais) |
+| Vídeo/Foto Demonstrativo | vídeo/foto |
+
+Fonte: FILHO, Doan.
+
+**Tabela 19 - Requisito Funcional 12**
+
+| Tópico | Referência | 
+|--------|------------|
+| Descrição |Deve ser capaz de consultar o extrato.|
+| Requisito Funcional | [RF12](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabelas-de-requisitos)|
+| História de Usuário | [US01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#metodologia) |
+| Épico |[Consultas](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog)|
+| Cenário | [Cenário 06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-6-consultar-extrato-de-uso)|
+| Léxicos | [LV4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv4-exibir-extrato-de-uso), [LV3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar)|
+| Caso de Uso | [Uc05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso)|
+| Fonte de Elicitação | [BS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/) |
+| Vídeo/Foto Demonstrativo | vídeo/foto |
+
+Fonte: FILHO, Doan.
+
+
+### **Requisitos analisados pelo Caio Braga**
 Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45 representam a rastreabilidade dos requisitos funcionais e não funcionais: 
 
 <br>
