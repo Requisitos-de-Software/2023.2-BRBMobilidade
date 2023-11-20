@@ -43,6 +43,7 @@ A metodologia proposta para a criação da matriz de rastreabilidade [Forward fr
 
 | Tópico | Referência |
 |--------|------------|
+| Descrição | Descreve a necessidade do requisito |
 | Requisito Não Funcional | [RNFXX]() |
 | NFR | [NFRXX]() |
 | Especificação Suplementar | [Especificação SuplementarXX]() |
