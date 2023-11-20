@@ -578,7 +578,7 @@ Satisfaz RF04 (Interagir com um Chatbot): Este elo estabelece que a funcionalida
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Caio Lelis   |   19/11/2023   | Guilherme Basilio |  19/11/2023    |
-|  1.1   | Adição de tópicos  |   Guilherme Basilio   |   19/11/2023   |  |  19/11/2023    |
+|  1.1   | Adição de tópicos  |   Guilherme Basilio   |   19/11/2023   | Caio Lelis |  19/11/2023    |
 |  1.2   | Adição de elos dos requisitos funcionais  |   Guilherme Basilio   |   20/11/2023   |  |  20/11/2023    |
 |  1.3   | Adição de elos dos requisitos não funcionais  |   Guilherme Basilio   |   20/11/2023   |  |  20/11/2023    |
 
