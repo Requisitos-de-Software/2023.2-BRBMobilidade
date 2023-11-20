@@ -165,13 +165,88 @@ Fonte: BRAGA, Caio.
 
 <br>
 
+### **Requisitos responsáveis pela análise do integrante Guilherme Basilio:**
+
+
+<br>
+
+**Tabela 33: Requisito Não Funcional 01**
+
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Garantir compatibilidade com sistemas operacionais Android e iOS. |
+| Requisito Não Funcional  | [RNF01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+| NFR | [NFR Portabilidade](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao_2) |
+| Especificação Suplementar | [IS13](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
+Fonte: BASILIO, Guilherme.
+
+<br>
+
+**Tabela 34: Requisito Não Funcional 02**.
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. |
+| Requisito Não Funcional   | [RNF02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+| NFR | [NFR Usabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
+| Especificação Suplementar | [IS14](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
+Fonte: BASILIO, Guilherme.
+
+<br>
+
+**Tabela 35: Requisito Não Funcional 03**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. |
+| Requisito Não Funcional  | [RNF03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+| NFR | [NFR Usabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
+| Especificação Suplementar | [IS15](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
+Fonte: BASILIO, Guilherme.
+
+<br>
+
+**Tabela 36: Requisito Não Funcional 04**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. |
+|  Requisito Não Funcional  | [RNF04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+| NFR | [NFR Perfomance](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
+| Especificação Suplementar | [IS16](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
+Fonte: BASILIO, Guilherme.
+
+<br>
+
+**Tabela 37: Requisito Não Funcional 05**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. |
+|  Requisito Não Funcional  | [RNF05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+| NFR | [NFR Perfomance](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
+| Especificação Suplementar | [IS17](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
+Fonte: BASILIO, Guilherme.
+
+<br>
 
 ### **Requisitos responsáveis pela análise do integrante Caio Lelis:**
 
 
 <br>
 
-**Tabela 39: Requisito Não Funcional 06**
+**Tabela 38: Requisito Não Funcional 06**
 
 
 | Tópico | Referência |
@@ -186,7 +261,7 @@ Fonte: LELIS, Caio.
 
 <br>
 
-**Tabela 40: Requisito Não Funcional 07**.
+**Tabela 39: Requisito Não Funcional 07**.
 
 | Tópico | Referência |
 |--------|------------|
@@ -200,7 +275,7 @@ Fonte: LELIS, Caio.
 
 <br>
 
-**Tabela 41: Requisito Não Funcional 08**
+**Tabela 40: Requisito Não Funcional 08**
 
 | Tópico | Referência |
 |--------|------------|
@@ -214,7 +289,7 @@ Fonte: LELIS, Caio.
 
 <br>
 
-**Tabela 42: Requisito Não Funcional 09 (REPETIDO)**
+**Tabela 41: Requisito Não Funcional 09 (REPETIDO)**
 
 | Tópico | Referência |
 |--------|------------|
@@ -228,7 +303,7 @@ Fonte: LELIS, Caio.
 
 <br>
 
-**Tabela 43: Requisito Não Funcional 10**
+**Tabela 42: Requisito Não Funcional 10**
 
 | Tópico | Referência |
 |--------|------------|
@@ -243,7 +318,7 @@ Fonte: LELIS, Caio.
 <br>
 
 
-**Tabela 44: Requisito Não Funcional 11**
+**Tabela 43: Requisito Não Funcional 11**
 
 | Tópico | Referência |
 |--------|------------|
