@@ -559,7 +559,8 @@ Construímos nossas histórias de usuário com base no nosso [backlog](http://12
 | US30                   | Acesso ao histórico detalhado das atividades                                                                                                                                                                       |
 | Descrição              | _Eu, como_ usuário, _desejo_ acessar um histórico detalhado das minhas atividades no aplicativo, incluindo transações, viagens anteriores e outras interações _para_ melhorar minha compreensão do meu uso do aplicativo.           |
 | Critérios de Aceitação | - O usuário deve poder acessar uma lista completa de suas atividades passadas, incluindo transações, viagens anteriores e outras interações relevantes. <br> - O histórico deve ser fácil de navegar e pesquisar. <br> - As informações devem ser organizadas de forma clara e compreensível. |
-| Prioridade             | Alta                                                                                                                                                                                                             |
+| Prioridade             | Alta    |
+
 
 <div style="text-align: center">
 <p> Tabela 31: - História de Usuário Acesso ao histórico detalhado das atividades. </p>

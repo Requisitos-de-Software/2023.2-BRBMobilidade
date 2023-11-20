@@ -85,6 +85,8 @@ Antes de aplicar o framework NFR, é necessário contextualizar o leitor acerca 
 | RNF13  | O aplicativo deve rastrear os ônibus via GPS.| [Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/)|
 | RNF14  | O aplicativo deve ser otimizado.| [Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/)|
 | RNF15  | O aplicativo deve ter atualização imediata de saldo.| [Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/)|
+|RNF16 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas | [Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/)|
+|RNF17 | RNF06 - Deve ser de código aberto e gratuito.| [Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/)|
 
 <div align="center">
 Tabela 2: Contribuições - Fonte: BARBOSA, Gabriel. DE FRIAS, Miguel
@@ -171,7 +173,7 @@ Figura 10: Performance com Propagação - Fonte: BARBOSA, Gabriel
 | ----------------------|--|
 | Descrição             | Este softgoal se refere a quão bem o sistema executa suas tarefas. Isso depende do hardware, software, carga de trabalho e outros fatores. Medimos a performance usando métricas específicas, como velocidade e latência. Otimizar a performance é importante para melhorar a eficiência e a experiência do usuário.  |
 | Justificativa         | A performance é essencial para o devido funcionamento do aplicativo, uma vez que isso influencia diretamente na experiência do usuário  |
-| Origem do requisito   | RNF05, RNF14, RNF15|
+| Origem do requisito   | RNF05,RNF13, RNF14, RNF15|
 | Critério de aceitação | Nenhum |
 | Prioridade            | Alta prioridade |
 | Conflito              | Nenhum |
@@ -204,7 +206,7 @@ Figura 12: Portabilidade com Propagação - Fonte: BRAGA, Caio
 | ----------------------|--|
 | Descrição             | Este softgoal refere-se à capacidade de executar ou mover o sistema de um ambiente ou plataforma para outro sem a necessidade de grandes modificações. Isso permite que o software seja utilizado em diferentes dispositivos ou sistemas operacionais, facilitando a adaptação e reutilização.  |
 | Justificativa         | A portabilidade é fundamental para a experiência dos usuários, uma vez que o aplicativo será utilizados nos mais diversos dispositivos |
-| Origem do requisito   | RNF10|
+| Origem do requisito   | RNF10 e RNF17|
 | Critério de aceitação | Nenhum |
 | Prioridade            | Alta prioridade |
 | Conflito              | Nenhum |
@@ -239,7 +241,7 @@ Figura 14: Usabilidade com Propagação - Fonte: DE FRIAS, Miguel
 | ----------------------|--|
 | Descrição             | Este softgoal refere-se à facilidade com que os usuários podem interagir e utilizar o sistema de forma eficaz e satisfatória. Envolve elementos como a intuitividade da interface, a eficiência na realização de tarefas e a satisfação geral do usuário. É importante para garantir que os usuários tenham uma experiência positiva ao usar o sistema. |
 | Justificativa         | A usabilidade é fundamental para a experiência dos usuários, uma vez que o a interface ser intuitiva e de fácil aprendizado é muito importante para a aplicação |
-| Origem do requisito   | RNF01, RNF02, RNF05 E RNF09|
+| Origem do requisito   | RNF01, RNF02, RNF05,RNF09 e RNF16|
 | Critério de aceitação | Nenhum |
 | Prioridade            | Alta prioridade |
 | Conflito              | Nenhum |

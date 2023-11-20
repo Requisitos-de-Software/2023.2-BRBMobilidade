@@ -64,6 +64,7 @@ A **tabela 01** mostra os requisitos não funcionais elicitados, sua funcionalia
 | Q12 | O aplicativo deve ter atualização imediata de saldo |   U         |
 | ES01 | O aplicativo deve ter o tempo de resposta de menos de 3 segundos para todas as ações realizadas pelos usuários. |      P      |
 | ES02 | O aplicativo deve ser compatível com os sistemas operacionais Android e iOS. |      S      |
+| Q13 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas |      U      |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos categorizados com a ferramente FURPS+  - (Fonte: LELIS, Caio).</p>
