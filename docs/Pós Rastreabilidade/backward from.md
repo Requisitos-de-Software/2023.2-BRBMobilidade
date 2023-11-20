@@ -545,7 +545,7 @@ Satisfaz RF02 (Acessar Itinerários Detalhados de Ônibus): Este elo estabelece 
 
 ### **RNF09** - O aplicativo deve ser otimizado
 
-Origem: Q12
+Origem: Q13
 
 Elos:
 
@@ -555,7 +555,7 @@ Satisfaz RF04 (Interagir com um Chatbot): Este elo estabelece que a funcionalida
 
 ### **RNF10** - O aplicativo deve ter atualização imediata de saldo
 
-Origem: Q12
+Origem: Q14
 
 Elos:
 
@@ -565,7 +565,7 @@ Satisfaz RF03 (Realizar Recargas de Créditos no Cartão): Este elo estabelece q
 
 ### **RNF11** - O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas
 
-Origem: Q13
+Origem: Q15
 
 Elos:
 
