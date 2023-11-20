@@ -50,24 +50,24 @@ Fonte: LELIS, Caio.
 
 Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45 representam a rastreabilidade dos requisitos funcionais e não funcionais: 
 
-### Requisitos analisados pelo Caio Braga:
-
 <br>
 
-<center>
+### **Requisitos analisados pelo Caio Braga:**
+
+<br>
 
 **Tabela 27: Requisito Funcional 25**
 
 | Tópico | Referência |
 |--------|------------|
 | Descrição | O aplicativo tem meios de mecanismo de desbloqueio de cartões.  |
-| Requisito Funcional | [RF25]() |
-| História de Usuário | [US23]() |
-| Épico | [Épico 13]() |
-| Cenário | [Cenário 04]() |
-| Léxico | [LO01, LO02, LO03, LO04, LE01]() |
+| Requisito Funcional | [RF25](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| História de Usuário | [US23](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico | [Épico 13](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 04](http://127.0.0.1:8000/Modelagem/01-cenarios/) |
+| Léxico | [LO01, LO02, LO03, LO04, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [---]() |
-| Fonte de Elicitação | [Q04]() |
+| Fonte de Elicitação | [Q04](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
 | Vídeo/Foto Demonstrativo | vídeo/foto |
 
 Fonte: BRAGA, Caio.
@@ -79,13 +79,13 @@ Fonte: BRAGA, Caio.
 | Tópico | Referência |
 |--------|------------|
 | Descrição | O aplicativo concede acesso às paradas próximas.  |
-| Requisito Funcional | [RF26]() |
-| História de Usuário | [US02]() |
-| Épico | [Épico 01]() |
-| Cenário | [Cenário 02]() |
-| Léxico | [LV01, LV02, LO03, LO04, LO05, LV03, LE01]() |
-| Caso de Uso | [UC03]() |
-| Fonte de Elicitação | [Q05]() |
+| Requisito Funcional | [RF26](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| História de Usuário | [US02](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico | [Épico 01](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 02](http://127.0.0.1:8000/Modelagem/01-cenarios/) |
+| Léxico | [LV01, LV02, LO03, LO04, LO05, LV03, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
+| Caso de Uso | [UC03](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
+| Fonte de Elicitação | [Q05](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
 | Vídeo/Foto Demonstrativo | vídeo/foto |
 
 Fonte: BRAGA, Caio.
@@ -97,13 +97,13 @@ Fonte: BRAGA, Caio.
 | Tópico | Referência |
 |--------|------------|
 | Descrição | O aplicativo concede visualização a quantidade de passes.   |
-| Requisito Funcional | [RF27]() |
-| História de Usuário | [US01]() |
-| Épico | [Épico 01]() |
+| Requisito Funcional | [RF27](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| História de Usuário | [US01](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico | [Épico 01](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
 | Cenário | [---]() |
-| Léxico | [LV01, LV03, LO02, LO03, LO04, LO05, LO06, LE02]() |
+| Léxico | [LV01, LV03, LO02, LO03, LO04, LO05, LO06, LE02](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [---]() |
-| Fonte de Elicitação | [Q06]() |
+| Fonte de Elicitação | [Q06](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
 | Vídeo/Foto Demonstrativo | vídeo/foto |
 
 Fonte: BRAGA, Caio.
@@ -115,13 +115,13 @@ Fonte: BRAGA, Caio.
 | Tópico | Referência |
 |--------|------------|
 | Descrição | O aplicativo tem opção de pagamento via cartão de crédito.  |
-| Requisito Funcional | [RF28]() |
-| História de Usuário | [US07]() |
-| Épico | [Épico 10]() |
-| Cenário | [Cenário 07]() |
-| Léxico | [LV01, LO01, LO03, LO04, LO06]() |
-| Caso de Uso | [UC02]() |
-| Fonte de Elicitação | [Q07]() |
+| Requisito Funcional | [RF28](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| História de Usuário | [US07](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico | [Épico 10](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 07](http://127.0.0.1:8000/Modelagem/01-cenarios/) |
+| Léxico | [LV01, LO01, LO03, LO04, LO06](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
+| Caso de Uso | [UC02](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
+| Fonte de Elicitação | [Q07](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
 | Vídeo/Foto Demonstrativo | vídeo/foto |
 
 Fonte: BRAGA, Caio.
@@ -133,13 +133,13 @@ Fonte: BRAGA, Caio.
 | Tópico | Referência |
 |--------|------------|
 | Descrição | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado. |
-| Requisito Funcional | [RF29]() |
-| História de Usuário | [US16]() |
-| Épico | [Épico 08]() |
-| Cenário | [Cenário 03]() |
-| Léxico | [LV03, LO02, LO03, LO04, LO06]() |
+| Requisito Funcional | [RF29](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| História de Usuário | [US16](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico | [Épico 08](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 03](http://127.0.0.1:8000/Modelagem/01-cenarios/) |
+| Léxico | [LV03, LO02, LO03, LO04, LO06](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [---]() |
-| Fonte de Elicitação | [Q08]() |
+| Fonte de Elicitação | [Q08](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
 | Vídeo/Foto Demonstrativo | vídeo/foto |
 
 Fonte: BRAGA, Caio.
@@ -152,20 +152,111 @@ Fonte: BRAGA, Caio.
 | Tópico | Referência |
 |--------|------------|
 | Descrição | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso.   |
-| Requisito Funcional | [RF30]() |
-| História de Usuário | [US19]() |
-| Épico | [Épico 19]() |
-| Cenário | [Cenário 06]() |
-| Léxico | [LV01, LV03, LV04, LO03, LO04, LO05, LE01]() |
-| Caso de Uso | [UC05]() |
-| Fonte de Elicitação | [Q09]() |
+| Requisito Funcional | [RF30](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| História de Usuário | [US19](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) |
+| Épico | [Épico 19](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 06](http://127.0.0.1:8000/Modelagem/01-cenarios/) |
+| Léxico | [LV01, LV03, LV04, LO03, LO04, LO05, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
+| Caso de Uso | [UC05](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
+| Fonte de Elicitação | [Q09](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
 | Vídeo/Foto Demonstrativo | vídeo/foto |
 
 Fonte: BRAGA, Caio.
 
 <br>
 
-</center>
+
+### **Requisitos responsáveis pela análise do integrante Caio Lelis:**
+
+
+<br>
+
+**Tabela 39: Requisito Não Funcional 06**
+
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Deve ser de código aberto e gratuito. |
+| Requisito Não Funcional  | [RNF06](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+| NFR | [NFR Portabilidade](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao_2) |
+| Especificação Suplementar | [IS18(Suportabilidade)](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
+Fonte: LELIS, Caio.
+
+<br>
+
+**Tabela 40: Requisito Não Funcional 07**.
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve fornecer segurança ao usuário com dados cadastrados |
+| Requisito Não Funcional   | [RNF07](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+| NFR | [NFR Confiabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
+| Especificação Suplementar | [Q11(+)](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Questionário](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+
+Fonte: LELIS, Caio.
+
+<br>
+
+**Tabela 41: Requisito Não Funcional 08**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve rastrear os ônibus via GPS. |
+| Requisito Não Funcional  | [RNF08](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+| NFR | [NFR Perfomance](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
+| Especificação Suplementar | [Q12(+)](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Questionário](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+
+Fonte: LELIS, Caio.
+
+<br>
+
+**Tabela 42: Requisito Não Funcional 09 (REPETIDO)**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve rastrear os ônibus via GPS. |
+|  Requisito Não Funcional  | [RNF 09](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+| NFR | [NFR Perfomance](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
+| Especificação Suplementar | [Q12(Desempenho)](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Questionário](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+
+Fonte: LELIS, Caio.
+
+<br>
+
+**Tabela 43: Requisito Não Funcional 10**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve ter atualização imediata de saldo. |
+|  Requisito Não Funcional  | [RNF 10](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+| NFR | [NFR Perfomance](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
+| Especificação Suplementar | [Q12(Usabilidade)](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Questionário](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+
+Fonte: LELIS, Caio.
+
+<br>
+
+
+**Tabela 44: Requisito Não Funcional 11**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. |
+|  Requisito Não Funcional  | [RNF 11](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+| NFR | [NFR Usabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
+| Especificação Suplementar | [Q13(Usabilidade)](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
+| Fonte de Elicitação | [Questionário](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
+
+Fonte: LELIS, Caio.
+
+<br>
+
 
 
 ## **Bibliografia**
