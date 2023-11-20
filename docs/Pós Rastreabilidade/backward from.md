@@ -471,8 +471,6 @@ Elos:
 
 Agrega RNF06 (Deve ser de código aberto e gratuito): A funcionalidade de garantir compatibilidade com sistemas operacionais Android e iOS agrega a capacidade específica de ser de código aberto e gratuito.
 
-Satisfaz RF22 (O aplicativo possui mecanismo de visualização do saldo): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF22, garantindo que o aplicativo possua um mecanismo para visualização do saldo.
-
 ### **RNF02** - Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão
 
 Origem: IS14
@@ -481,7 +479,7 @@ Elos:
 
 Agrega RNF07 (O aplicativo deve fornecer segurança ao usuário com dados cadastrados): A funcionalidade de oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão agrega a capacidade específica de fornecer segurança ao usuário com dados cadastrados.
 
-Satisfaz RF23 (O aplicativo acessa o histórico de acessos): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF23, garantindo o acesso ao histórico de acessos.
+Satisfaz Q12 (O aplicativo deve ser otimizado): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito Q12, garantindo que o aplicativo seja otimizado.
 
 ### **RNF03** - Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação
 
@@ -491,7 +489,7 @@ Elos:
 
 Agrega RNF08 (O aplicativo deve ser otimizado): A funcionalidade de apresentar uma interface de usuário amigável e intuitiva agrega a capacidade específica de otimizar o aplicativo.
 
-Satisfaz RF24 (O aplicativo tem meios de mecanismo de bloqueio de cartões): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF24, garantindo que o aplicativo tenha meios de mecanismo de bloqueio de cartões.
+Representa Q12 (O aplicativo deve ser otimizado): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito Q12, garantindo que o aplicativo seja otimizado.
 
 ### **RNF04** - Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes
 
@@ -513,13 +511,15 @@ Agrega RF07 (Cadastrar Métodos de Pagamento): A funcionalidade de implementar m
 
 Satisfaz RF09 (Realizar Cadastro): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF09, garantindo a capacidade de realizar cadastro.
 
+Representa Q11 (O aplicativo deve fornecer segurança ao usuário com dados cadastrados): Este elo representa que a funcionalidade atende à necessidade identificada no requisito Q11, garantindo segurança ao usuário com dados cadastrados.
+
+Satisfaz Q12 (O aplicativo deve ser otimizado): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito Q12, garantindo que o aplicativo seja otimizado.
+
 ### **RNF06** - Deve ser de código aberto e gratuito
 
 Origem: IS18
 
 Elos:
-
-Agrega RF01 (Consultar Saldo e Extrato): A funcionalidade de ser de código aberto e gratuito agrega a capacidade específica de consultar saldo e extrato.
 
 Satisfaz RF03 (Realizar Recargas de Créditos no Cartão): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF03, garantindo a capacidade de realizar recargas de créditos no cartão.
 
@@ -565,7 +565,7 @@ Satisfaz RF03 (Realizar Recargas de Créditos no Cartão): Este elo estabelece q
 
 ### **RNF11** - O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas
 
-Origem: Q12
+Origem: Q13
 
 Elos:
 
