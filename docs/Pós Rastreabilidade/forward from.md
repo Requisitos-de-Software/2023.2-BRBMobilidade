@@ -155,6 +155,118 @@ Nesta seção serão mostradas as tabelas dos requisitos implementados e não im
 
 <br>
 
+### **Requisitos analisados por Gabriel:**
+
+<br>
+
+**Tabela 21: Requisito Funcional 19**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Deve ser possível acessar informações sobre o histórico de atividades. |
+| Requisito Funcional | [RF19](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| História de Usuário | [US19](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us19-acesso-ao-historico-detalhado-das-atividades) |
+| Épico | [Épico 19](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-6-consultar-extrato-de-uso) |
+| Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
+| Caso de Uso | [UC05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso) |
+| Fonte de Elicitação | [OBS08](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: BARBOSA, Gabriel
+
+<br>
+
+**Tabela 22: Requisito Funcional 20**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Deve ser possível solicitar uma 2ª via do cartão desejado.|
+| Requisito Funcional | [RF20](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| História de Usuário | [US23](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us23-solicitacao-de-segunda-via-do-cartao-de-mobilidade) |
+| Épico | [Épico 13](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-4-solicitar-2avia-do-cartao) |
+| Léxico | [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
+| Caso de Uso | [UC04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc04-acompanhar-cadastrocartao) |
+| Fonte de Elicitação | [OBS09](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: BARBOSA, Gabriel
+
+<br>
+
+**Tabela 23: Requisito Funcional 21**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve fornecer ajuda com perguntas frequentes.|
+| Requisito Funcional | [RF21](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| História de Usuário | [US15](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us15-fornecer-secao-de-comunicacao-direta), [US04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us04-interagir-com-um-chatbot-para-esclarecer-duvidas) |
+| Épico | [Épico 20](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [---]() |
+| Léxico | [LO01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo1-suporte), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface), [LO07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l07-chatbot) |
+| Caso de Uso | [---]() |
+| Fonte de Elicitação | [OBS10](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: BARBOSA, Gabriel
+
+<br>
+
+**Tabela 24: Requisito Funcional 22**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo possui mecanismo de visualização do saldo. |
+| Requisito Funcional | [RF22](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| História de Usuário | [US01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us01-consultar-saldo-e-extrato-de-uso-do-cartao-de-mobilidade) |
+| Épico | [Épico 01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-3-consultar-saldo-disponivel) |
+| Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface), [LO06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l06-saldo), [LE02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le2-saldo-disponivel) |
+| Caso de Uso | [---]() |
+| Fonte de Elicitação | [BS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais), [IS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabelas-de-requisitos), [Q01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: BARBOSA, Gabriel
+
+<br>
+
+**Tabela 25: Requisito Funcional 23**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo acessa o histórico de acessos. |
+| Requisito Funcional | [RF23](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| História de Usuário | [US19](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us19-acesso-ao-historico-detalhado-das-atividades), [US30](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us30-acesso-ao-historico-detalhado-das-atividades) |
+| Épico | [Épico 19](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [---]() |
+| Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface)|
+| Caso de Uso | [UC05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso) |
+| Fonte de Elicitação | [Q02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: BARBOSA, Gabriel
+
+<br>
+
+**Tabela 26: Requisito Funcional 24**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo tem meios de mecanismo de bloqueio de cartões. |
+| Requisito Funcional | [RF24](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| História de Usuário | [---]() |
+| Épico | [---]() |
+| Cenário | [---]() |
+| Léxico | [LO02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LE01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le1-status) |
+| Caso de Uso | [---]() |
+| Fonte de Elicitação | [Q03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: BARBOSA, Gabriel
+
+<br>
+
 ### **Requisitos analisados pelo Caio Braga:**
 
 <br>
