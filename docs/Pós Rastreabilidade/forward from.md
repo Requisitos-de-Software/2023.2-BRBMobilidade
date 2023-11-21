@@ -68,7 +68,7 @@ Nesta seção serão mostradas as tabelas dos requisitos implementados e não im
 | Léxico | [LO01, LO02, LO03, LO04, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Q04](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <img src="../assets/RF25.png" style="height:30vw"></img>|
 
 Fonte: BRAGA, Caio.
 
@@ -86,7 +86,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV01, LV02, LO03, LO04, LO05, LV03, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [UC03](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
 | Fonte de Elicitação | [Q05](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <img src="../assets/RF26.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -104,7 +104,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV01, LV03, LO02, LO03, LO04, LO05, LO06, LE02](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Q06](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <img src="../assets/RF27.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -122,7 +122,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV01, LO01, LO03, LO04, LO06](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [UC02](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
 | Fonte de Elicitação | [Q07](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <img src="../assets/RF28.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -140,7 +140,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV03, LO02, LO03, LO04, LO06](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Q08](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <img src="../assets/RF29.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -159,7 +159,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV01, LV03, LV04, LO03, LO04, LO05, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [UC05](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
 | Fonte de Elicitação | [Q09](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <img src="../assets/RF30.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -214,11 +214,11 @@ Fonte: LELIS, Caio.
 
 <br>
 
-**Tabela 42: Requisito Não Funcional 09 (REPETIDO)**
+**Tabela 42: Requisito Não Funcional 09**
 
 | Tópico | Referência |
 |--------|------------|
-| Descrição | O aplicativo deve rastrear os ônibus via GPS. |
+| Descrição | O aplicativo deve ser otimizado  |
 |  Requisito Não Funcional  | [RNF 09](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais) |
 | NFR | [NFR Perfomance](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
 | Especificação Suplementar | [Q12(Desempenho)](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
