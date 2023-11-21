@@ -27,6 +27,10 @@ A metodologia proposta para a criação da matriz de rastreabilidade [Forward fr
 
 ## Modelo de Rastreabilidade Requisitos funcionais
 
+<div style="text-align: left">
+<p>Tabela 1: Modelo de rastreabilidade requisito funcional. Fonte: LELIS, Caio</p>
+</div>
+
 | Tópico | Referência |
 |--------|------------|
 | Descrição | Descreve a funcionalidade do requisito |
@@ -39,6 +43,7 @@ A metodologia proposta para a criação da matriz de rastreabilidade [Forward fr
 | Fonte de Elicitação | [Fonte de ElicitaçãoXX]() |
 | Demonstração | vídeo/foto |
 
+
 ## Modelo de Rastreabilidade Requisitos não funcionais
 
 | Tópico | Referência |
@@ -49,16 +54,20 @@ A metodologia proposta para a criação da matriz de rastreabilidade [Forward fr
 | Especificação Suplementar | [Especificação SuplementarXX]() |
 | Fonte de Elicitação | [Fonte de ElicitaçãoXX]() |
 
+<div style="text-align: left">
+<p>Tabela 2: Modelo de rastreabilidade requisito não funcional. Fonte: LELIS, Caio</p>
+</div>
 
 ## Divisão de Requisitos para a preparação do Forward from
 
 De modo que fique mais viável a execução do nosso artefato foi feito a seguinte divisão (N° de requisitos) / (N° de integrantes do grupo). Assim feito, concluímo que cada integrante do grupo ficará responsável pela análise de 6 requisitos para a preparação do nosso artefat [Forward from]().
 
 
-## Tabela de divisão de requisitos:
+## Divisão de requisitos:
 
 
 ## Requisitos responsáveis pela análise do integrante Miguel:
+
 
 | ID | Descrição |
 |----|-----------|
@@ -68,6 +77,11 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 | RF04 | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | 
 | RF05 | Suportar informações em tempo real sobre o status dos transportes públicos. |
 | RF06 | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. |
+
+<div style="text-align: left">
+<p>Tabela 3: Requisitos para análise do integrante Miguel. Fonte: LELIS, Caio</p>
+</div>
+
 
 ## Requisitos responsáveis pela análise do integrante Doan:
 
@@ -80,6 +94,9 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 | RF11 | O usuário deve fornecer sua localização. | 
 | RF12 | Deve ser capaz de consultar o extrato. | 
 
+<div style="text-align: left">
+<p>Tabela 4: Requisitos para análise do integrante Doan Filho. Fonte: LELIS, Caio</p>
+</div>
 
 ## Requisitos responsáveis pela análise do integrante Joel:
 
@@ -92,6 +109,10 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 | RF17 | O aplicativo deve fornecer uma seção de comunicação direta. |
 | RF18 | O aplicativo deve fornecer ajuda com perguntas frequentes. | 
 
+<div style="text-align: left">
+<p>Tabela 5: Requisitos para análise do integrante Joel. Fonte: LELIS, Caio</p>
+</div>
+
 ## Requisitos responsáveis pela análise do integrante Gabriel:
 
 | ID | Descrição |
@@ -102,6 +123,10 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 | RF22 | O aplicativo possui mecanismo de visualização do saldo. | 
 | RF23 | O aplicativo acessa o histórico de acessos. | 
 | RF24 | O aplicativo tem meios de mecanismo de bloqueio de cartões. | 
+
+<div style="text-align: left">
+<p>Tabela 6: Requisitos para análise do integrante Gabriel. Fonte: LELIS, Caio</p>
+</div>
 
 ## Requisitos responsáveis pela análise do integrante Caio Braga:
 
@@ -114,6 +139,9 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 | RF29 | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado. | 
 | RF30 | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso. |
 
+<div style="text-align: left">
+<p>Tabela 7: Requisitos para análise do integrante Caio Braga. Fonte: LELIS, Caio</p>
+</div>
 
 ## Requisitos responsáveis pela análise do integrante Guilherme Basílio:
 
@@ -126,7 +154,9 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 | RNF04  |    Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes.|
 | RNF05  |    Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo.|
 
-
+<div style="text-align: left">
+<p>Tabela 8: Requisitos para análise do integrante Guilherme Basílio. Fonte: LELIS, Caio</p>
+</div>
 ## Requisitos responsáveis pela análise do integrante Caio Lelis:
 
 |ID  | Descrição |
@@ -138,6 +168,9 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 | RNF10 |    O aplicativo deve ter atualização imediata de saldo       |
 | RNF11 |    O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas  |
 
+<div style="text-align: left">
+<p>Tabela 9: Requisitos para análise do integrante Caio Lelis. Fonte: LELIS, Caio</p>
+</div>
 
 ## Bibliografia
 
@@ -147,5 +180,5 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |  Caio Lelis  |   20/11/2023   |  |
-
+| 1.1 | Adição de conteúdo | Caio Lelis | 20/11/2023 |  |
 
