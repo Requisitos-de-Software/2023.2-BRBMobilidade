@@ -380,6 +380,24 @@ Fonte: SOARES, Joel. BRAGA, Caio
 Fonte: SOARES, Joel. BRAGA, Caio
 
 <br>
+
+**Tabela 23: Requisito Funcional 18**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve fornecer ajuda com perguntas frequentes.|
+| Requisito Funcional | [RF18](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| História de Usuário | [US15](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us15-fornecer-secao-de-comunicacao-direta), [US04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us04-interagir-com-um-chatbot-para-esclarecer-duvidas) |
+| Épico | [Épico 20](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [---]() |
+| Léxico | [LO01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo1-suporte), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface), [LO07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l07-chatbot) |
+| Caso de Uso | [---]() |
+| Fonte de Elicitação | [OBS10](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| Demonstração | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF21.png" style="width:20vw"/> </div> |
+
+Fonte: SOARES, Joel. BRAGA, Caio
+
+<br>
 </center>
 
 ### **Requisitos analisados por Gabriel:**
