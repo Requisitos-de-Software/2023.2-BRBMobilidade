@@ -30,6 +30,11 @@ Encontra-se acima uma breve explicação sobre os principais componentes que est
 <br><br>
 
 
+## **Bibliografia**
+
+> BENYON, David. Interação Humano-Computador. São Paulo, 2a edição, Pearson Prentice Hall, 2011.
+
+
 ### **Histórico de versão**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  

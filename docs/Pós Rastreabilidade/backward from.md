@@ -8,7 +8,7 @@ Este artefato apresenta uma abordagem detalhada para cada requisito, descrevendo
 
 ## **Objetivo**
 
-O artefato tem como objetivo mapear os requisitos funcionais e não funcionais do aplicativo BRB Mobilidade, identificando suas origens e conexões com outros requisitos. E a cração de elos entre os requisitos.
+O artefato tem como objetivo mapear os requisitos funcionais e não funcionais do aplicativo BRB Mobilidade, identificando suas origens e conexões com outros requisitos. E a criação de elos entre os requisitos.
 
 ## **Metodologia**
 

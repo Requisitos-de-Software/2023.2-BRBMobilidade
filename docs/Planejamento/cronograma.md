@@ -275,8 +275,8 @@
 
 | Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
 |--------|:--------------------------:|------------|:------------------:|--------|
-| Forward From  | Início: 14/11 <br> Fim: 19/11 | Caio Braga, Guilherme Basilio e Caio Lelis | Início: 19/11 <br> Fim: 20/11 | Miguel de Frias |
-| Backward From | Início: 14/11 <br> Fim: 19/11 | Doan Filho, Gabriel Barbosa, Guilherme Basilio e Miguel de Frias  | Início: 19/11 <br> Fim: 20/11 | Caio Braga |
+| Forward From  | Início: 14/11 <br> Fim: 19/11 |  Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias  | Início: 19/11 <br> Fim: 20/11 |  Caio Braga, Doan Filho e Miguel de Frias |
+| Backward From | Início: 14/11 <br> Fim: 19/11 | Caio Lelis e Guilherme Basilio | Início: 19/11 <br> Fim: 20/11 | Caio Lelis, Guilherme Basilio e Miguel de Frias|
 | Atualizar Gitpage | Início: 14/11 <br> Fim: 19/11 | Caio Braga, Doan Filho e Caio Lelis | Início: 19/11 <br> Fim: 20/11 | Caio Braga |
 | Gravação da Apresentação | Início: 19/11 <br> Fim: 19/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 19/11 <br> Fim: 19/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
 | Postagem da Apresentação| Início: 19/11 <br> Fim: 19/11 | Joel Soares | Início: 19/11 <br> Fim: 19/11 | Miguel de Frias |
@@ -286,6 +286,22 @@
     <p> <b>Tabela 12</b>: Tarefas planejadas para a Entrega 6. (Fonte: Miguel de Frias, 2023).</p>
 </div>
 
+### **Executado**
+
+&emsp;&emsp;A tabela 13 mostra as atividades realizadas para a entrega 6 do projeto.
+
+| Tarefa | Período de Desenvolvimento | Atribuição | Período de Revisão | Revisor|
+|--------|:--------------------------:|------------|:------------------:|--------|
+| Forward From  | Início: 14/11 <br> Fim: 20/11 |  Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias  | Início: 20/11 <br> Fim: 20/11 |  Caio Braga, Doan Filho e Miguel de Frias |
+| Backward From | Início: 14/11 <br> Fim: 20/11 | Caio Lelis e Guilherme Basilio | Início: 20/11 <br> Fim: 20/11 | Caio Lelis, Guilherme Basilio e Miguel de Frias|
+| Atualizar Gitpage | Início: 14/11 <br> Fim: 20/11 | Caio Braga, Doan Filho e Caio Lelis | Início: 20/11 <br> Fim: 20/11 | Caio Braga |
+| Gravação da Apresentação | Início: 20/11 <br> Fim: 20/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 20/11 <br> Fim: 20/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
+| Postagem da Apresentação| Início: 20/11 <br> Fim: 20/11 | Joel Soares | Início: 20/11 <br> Fim: 20/11 | Miguel de Frias |
+| Cronograma Realizado | Início: 14/11 <br> Fim: 20/11 | Miguel de Frias | Início: 20/11 <br> Fim: 20/11 | Gabriel Barbosa |
+| Correções da Entrega 5.1 | Início: 14/11 <br> Fim: 19/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 19/11 <br> Fim: 20/11 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
+<div style="text-align: center">
+    <p> <b>Tabela 13</b>: Tarefas realizadas na Entrega 6. (Fonte: Miguel de Frias, 2023).</p>
+</div>
 
 
 
@@ -352,3 +368,4 @@
 | 3.1 | Atualizando datas Realizado entrega 3 | Miguel de Frias | 23/10/2023 | Guilherme Basilio | 25/10/2023 |
 | 4.0 | Adição Realizado entrega 4 | Miguel de Frias | 06/11/2023 | Doan Filho | 06/11/2023 |
 | 5.0 | Adição Realizado entrega 5.1 | Miguel de Frias | 13/11/2023 | Joel Soares | 13/11/2023 |
+| 6.0 | Adição Realizado entrega 6 | Miguel de Frias | 20/11/2023 | Gabriel Barbosa | 20/11/2023 |
