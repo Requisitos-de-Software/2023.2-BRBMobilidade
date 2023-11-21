@@ -172,6 +172,116 @@ Fonte: FILHO, Doan.
 <br>
 </center>
 
+### **Requisitos analisados por Joel:**
+
+<br>
+
+**Tabela 21: Requisito Funcional 13**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve permitir a visualização de linhas e horários. |
+| Requisito Funcional | [RF13](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=M%C3%A9dia-,RF13,-O%20aplicativo%20deve) |
+| História de Usuário | [US12](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us12-visualizar-linhas-e-horarios-de-onibus) |
+| Épico | [Informações](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-2-visualizacao-de-linhas-e-horarios) |
+| Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar) |
+| Caso de Uso | [UC03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios) |
+| Fonte de Elicitação | [OBS02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#requisitos-elicitados) |
+| Demonstração | vídeo/foto |
+
+Fonte: SOARES, Joel
+
+<br>
+
+**Tabela 22: Requisito Funcional 14**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Deve ser possível fazer a recarga do saldo. |
+| Requisito Funcional | [RF14](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=Alta-,RF14,-Deve%20ser%20poss%C3%ADvel) |
+| História de Usuário | [US03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us03-realizar-recargas-de-creditos-no-cartao) |
+| Épico | [Recarga](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/) |
+| Cenário | [Cenário 01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-1-realizar-recarga) |
+| Léxico | [LE2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le2-saldo-disponivel), [LO2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao), [LO6](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao) |
+| Caso de Uso | [UC02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc02-realizar-recarga) |
+| Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: SOARES, Joel
+
+<br>
+
+**Tabela 23: Requisito Funcional 15**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Deve ser possível salvar rotas |
+| Requisito Funcional | [RF15](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=Alta-,RF15,-Deve%20ser%20poss%C3%ADvel) |
+| História de Usuário | [US14](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us14-salvar-rotas-personalizadas) |
+| Épico |[---]()  |
+| Cenário |  [Cenário 02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-2-visualizacao-de-linhas-e-horarios) |
+| Léxico | [LO5](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l05-transporte) |
+| Caso de Uso | [UC03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios) |
+| Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: SOARES, Joel
+
+<br>
+
+**Tabela 24: Requisito Funcional 16**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | Deve ser possível alterar informações de cadastro |
+| Requisito Funcional | [RF16](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=Baixa-,RF16,-Deve%20ser%20poss%C3%ADvel) |
+| História de Usuário | [---]() |
+| Épico |[---]()  |
+| Cenário | [---]()|
+| Léxico | [LO3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario) |
+| Caso de Uso | [UC01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc01-fazer-login) |
+| Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: SOARES, Joel
+
+<br>
+
+**Tabela 25: Requisito Funcional 17**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve fornecer uma seção de comunicação direta |
+| Requisito Funcional | [RF17](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=Alta-,RF17,-O%20aplicativo%20deve) |
+| História de Usuário | [US15](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us15-fornecer-secao-de-comunicacao-direta) |
+| Épico | [Informações](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog:~:text=M%C3%A9dia-,Informa%C3%A7%C3%B5es,-Visualiza%C3%A7%C3%A3o%20de%20linhas) |
+| Cenário | [---]()|
+| Léxico | [LO4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
+| Caso de Uso | [---]() |
+| Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: SOARES, Joel
+
+<br>
+
+**Tabela 26: Requisito Funcional 18**
+
+| Tópico | Referência |
+|--------|------------|
+| Descrição | O aplicativo deve fornecer ajuda com perguntas frequentes. |
+| Requisito Funcional | [RF18](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=M%C3%A9dia-,RF18,-O%20aplicativo%20deve) |
+| História de Usuário | [US15](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us15-fornecer-secao-de-comunicacao-direta) |
+| Épico | [Informações](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog:~:text=M%C3%A9dia-,Informa%C3%A7%C3%B5es,-Visualiza%C3%A7%C3%A3o%20de%20linhas) |
+| Cenário | [---]() |
+| Léxico | [LO4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
+| Caso de Uso | [---]() |
+| Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
+| Demonstração | vídeo/foto |
+
+Fonte: SOARES, Joel
+
 ### **Requisitos analisados por Gabriel:**
 
 <center>
@@ -578,4 +688,5 @@ Fonte: LELIS, Caio.
 |  1.1   | Requisitos de 25 a 30  |   Doan FIlho   |   19/11/2023   | Caio Braga |  19/11/2023    |
 |  1.2   | Requisitos de 07 a 12  |   Doan FIlho   |   19/11/2023   | Caio Braga |  19/11/2023    |
 |  1.3   | Requisitos não funcionais de 01 a 05  |   Guilherme Basilio  |   19/11/2023   | Caio Braga |  19/11/2023    |
+|  1.4   | Requisitos  funcionais de 13 a 18  |   Joel Soares  |   20/11/2023   | Caio Braga |  20/11/2023    |
 
