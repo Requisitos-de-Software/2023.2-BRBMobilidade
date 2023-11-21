@@ -677,6 +677,7 @@ Fonte: BASILIO, Guilherme.
 <br>
 
 **Tabela 36: Requisito Não Funcional 04**
+
 | Tópico | Referência |
 |--------|------------|
 | Descrição | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. |
@@ -684,6 +685,7 @@ Fonte: BASILIO, Guilherme.
 | NFR | [NFR Perfomance](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
 | Especificação Suplementar | [IS16](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
 | Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
 Fonte: BASILIO, Guilherme.
 
 <br>
