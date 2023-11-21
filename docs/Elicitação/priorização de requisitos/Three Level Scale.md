@@ -32,14 +32,14 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RF01   | Consultar saldo e extrato de uso do cartão de mobilidade. | IS01 | Sim | Alta |
 | RF02   | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. | IS02 | Sim | Alta |
 | RF03   | Realizar recargas de créditos no cartão. | IS03 | Sim | Alta |
-| RF04   | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04 |  | Baixa |
-| RF05   | Suportar informações em tempo real sobre o status dos transportes públicos. | IS05 |  | Média |
-| RF06   | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | IS06 |  | Média |
-| RF07   | O aplicativo deve permitir cadastrar métodos de pagamento. | IS08 |  | Média |
-| RF08   | Deve ser possível personalizar a aparência da interface do usuário. | IS09 |  | Baixa |
-| RF09   | O usuário deve ser capaz de realizar cadastro | IS10 |  | Alta |
-| RF10   | O usuário deve ser capaz de realizar login | IS11 |  | Alta |
-| RF11   | O usuário deve fornecer sua localização | IS12 |  | Média |
+| RF04   | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04 | Não | Baixa |
+| RF05   | Suportar informações em tempo real sobre o status dos transportes públicos. | IS05 | Não | Média |
+| RF06   | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | IS06 | Não | Média |
+| RF07   | O aplicativo deve permitir cadastrar métodos de pagamento. | IS08 | Não | Média |
+| RF08   | Deve ser possível personalizar a aparência da interface do usuário. | IS09 | Não | Baixa |
+| RF09   | O usuário deve ser capaz de realizar cadastro | IS10 | Não | Alta |
+| RF10   | O usuário deve ser capaz de realizar login | IS11 |Não  | Alta |
+| RF11   | O usuário deve fornecer sua localização | IS12 | Não | Média |
 | RF12   | Deve ser capaz de consultar o extrato | OBS01 | Sim | Média |
 | RF13   | O aplicativo deve permitir a visualização de linhas e horários | OBS02 | Sim | Alta |
 | RF14   | Deve ser possível fazer a recarga do saldo | OBS03 | Sim | Alta |
@@ -54,8 +54,8 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RNF02  | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão | IS14 | Sim | Alta |
 | RNF03  | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | IS15 | Sim | Alta |
 | RNF04  | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. | IS16 | Sim | Alta |
-| RNF05  | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 |  | Alta |
-| RNF06  | Deve ser de código aberto e gratuito. | IS18 |  | Média |
+| RNF05  | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 | Não | Alta |
+| RNF06  | Deve ser de código aberto e gratuito. | IS18 | Não | Média |
 | RF22  | O aplicativo possui mecanismo de visualização do saldo | Q01 | Sim | Alta |
 | RF23  | O aplicativo acessa o histórico de acessos | Q02 | Sim | Baixa |
 | RF24   | O aplicativo tem meios de mecanismo de bloqueio de cartões | Q03 | Não | Média |
@@ -70,7 +70,7 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RNF08  | O aplicativo deve rastrear os ônibus via GPS | Q12 | Sim | Média |
 | RNF09  | O aplicativo deve ser otimizado | Q12 | Sim | Alta |
 | RNF10  | O aplicativo deve ter atualização imediata de saldo | Q12 | Não | Alta |
-| RNF11  | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas | Q12 |  | Alta |
+| RNF11  | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas | Q12 | Não | Alta |
 
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Tabela dos Requisitos Priorizados.</p>
