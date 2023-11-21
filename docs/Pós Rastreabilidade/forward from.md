@@ -48,10 +48,13 @@ Fonte: LELIS, Caio.
 
 ## **Rastreabilidade**
 
-Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45
+Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45 representam as rastreabilidades dos requisitos funcionais e não funcionais elicitados.
 
 
 ### **Requisitos elicitados por Doan Filho**
+<br>
+
+<center>
 
 **Tabela 09- Requisito Funcional 07**
 
@@ -67,8 +70,10 @@ Nesta seção serão mostradas as tabelas dos requisitos implementados e não im
 | Fonte de Elicitação | [BS07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/) |
 | Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF07.png" style="width:20vw"/> </div>|
 
-<p> Figura 1: Requisito Funcional 07. Fonte: Doan Filho </p>
 
+Fonte: FILHO, Doan.
+
+<br>
 
 
 **Tabela 11 - Requisito Funcional 08**
@@ -85,8 +90,10 @@ Nesta seção serão mostradas as tabelas dos requisitos implementados e não im
 | Fonte de Elicitação | [IS09](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/) |
 | Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF08.png" style="width:20vw"/> </div>|
 
-<p> Figura 1: Requisito Funcional 08. Fonte: Doan Filho </p>
+
 Fonte: FILHO, Doan.
+
+<br>
 
 **Tabela 13 - Requisito Funcional 09**
 
@@ -102,8 +109,10 @@ Fonte: FILHO, Doan.
 | Fonte de Elicitação | [BS08]() |
 | Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF09.png" style="width:20vw"/> </div>|
 
-<p> Figura 1: Requisito Funcional 09. Fonte: Doan Filho </p>
+
 Fonte: FILHO, Doan.
+
+<br>
 
 **Tabela 15 -  Requisito Funcional 10**
 
@@ -119,8 +128,10 @@ Fonte: FILHO, Doan.
 | Fonte de Elicitação | [IS12](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais) |
 | Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF10.png" style="width:20vw"/> </div> |
 
-<p> Figura 1: Requisito Funcional 10. Fonte: Doan Filho </p>
+
 Fonte: FILHO, Doan.
+
+<br>
 
 **Tabela 17 - Requisito Funcional 11**
 
@@ -136,8 +147,10 @@ Fonte: FILHO, Doan.
 | Fonte de Elicitação | [BS10](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais) |
 | Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF11.png" style="width:20vw"/> </div> |
 
-<p> Figura 1: Requisito Funcional 11. Fonte: Doan Filho </p>
+
 Fonte: FILHO, Doan.
+
+<br>
 
 **Tabela 19 - Requisito Funcional 12**
 
@@ -154,16 +167,14 @@ Fonte: FILHO, Doan.
 | Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF12.png" style="width:20vw"/> </div> |
 
 
-<p> Figura 1: Requisito Funcional 12. Fonte: Doan Filho </p>
-Fonte: FILHO, Doan.
-
-
-### **Requisitos analisados pelo Caio Braga**
-Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45 representam a rastreabilidade dos requisitos funcionais e não funcionais: 
+Fonte: FILHO, Doan. 
 
 <br>
+</center>
 
 ### **Requisitos analisados por Gabriel:**
+
+<center>
 
 <br>
 
@@ -275,7 +286,11 @@ Fonte: BARBOSA, Gabriel
 
 <br>
 
+</center>
+
 ### **Requisitos analisados pelo Caio Braga:**
+
+<center>
 
 <br>
 
@@ -388,10 +403,12 @@ Fonte: BRAGA, Caio.
 
 <br>
 
+</center>
+
 
 ### **Requisitos responsáveis pela análise do integrante Caio Lelis:**
 
-
+<center>
 <br>
 
 **Tabela 39: Requisito Não Funcional 06**
@@ -479,7 +496,7 @@ Fonte: LELIS, Caio.
 Fonte: LELIS, Caio.
 
 <br>
-
+</center>
 
 
 ## **Bibliografia**
