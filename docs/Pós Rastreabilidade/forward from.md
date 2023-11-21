@@ -51,7 +51,7 @@ Fonte: LELIS, Caio.
 Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45 representam as rastreabilidades dos requisitos funcionais e não funcionais elicitados.
 
 ### **Requisitos analisados por Miguel de Frias**
-**Tabela 03- Requisito Funcional 01**
+**Tabela 03 - Requisito Funcional 01**
 
 | Tópico  | Referência |
 |---------|------------|
