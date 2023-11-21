@@ -27,7 +27,7 @@ Tabela 01
 | Léxico | [LéxicoXX]() |
 | Caso de Uso | [Caso de UsoXX]() |
 | Fonte de Elicitação | [Fonte de ElicitaçãoXX]() |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Foto/Video Demonstrativo | vídeo/foto |
 
 Fonte: LELIS, Caio.
 
@@ -67,7 +67,7 @@ Nesta seção serão mostradas as tabelas dos requisitos implementados e não im
 | Léxicos | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar) |
 | Caso de Uso | [UC05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso) |
 | Fonte de Elicitação | [IS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
-| Vídeo/Foto Demonstrativo | <img src="../assets/Miguel-RF01.jpeg" style="height:30vw"></img> |
+| Foto/Video Demonstrativo | <img src="../assets/Miguel-RF01.jpeg" style="height:30vw"></img> |
 
 Fonte: DE FRIAS, Miguel
 
@@ -85,7 +85,7 @@ Fonte: DE FRIAS, Miguel
 | Léxicos | [LO5](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l05-transporte) |
 | Caso de Uso | [UC03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios) |
 | Fonte de Elicitação | [IS02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
-| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF02.jpeg" style="height:30vw"></img> |
+| Foto/Video Demonstrativo |  <img src="../assets/Miguel-RF02.jpeg" style="height:30vw"></img> |
 
 Fonte: DE FRIAS, Miguel
 
@@ -103,7 +103,7 @@ Fonte: DE FRIAS, Miguel
 | Léxicos | [LO2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao) |
 | Caso de Uso | [UC02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc02-realizar-recarga) |
 | Fonte de Elicitação | [IS03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
-| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF03.jpeg" style="height:30vw"></img> |
+| Foto/Video Demonstrativo |  <img src="../assets/Miguel-RF03.jpeg" style="height:30vw"></img> |
 
 Fonte: DE FRIAS, Miguel
 
@@ -121,7 +121,7 @@ Fonte: DE FRIAS, Miguel
 | Léxicos | [LO7](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l07-chatbot) |
 | Caso de Uso | |
 | Fonte de Elicitação | [IS04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
-| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF04.jpeg" style="height:30vw"></img> |
+| Foto/Video Demonstrativo |  <img src="../assets/Miguel-RF04.jpeg" style="height:30vw"></img> |
 
 Fonte: DE FRIAS, Miguel
 
@@ -139,7 +139,7 @@ Fonte: DE FRIAS, Miguel
 | Léxicos | [LO1](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo1-suporte) |
 | Caso de Uso | |
 | Fonte de Elicitação | [IS05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
-| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF05.jpeg" style="height:30vw"></img> |
+| Foto/Video Demonstrativo |  <img src="../assets/Miguel-RF05.jpeg" style="height:30vw"></img> |
 
 Fonte: DE FRIAS, Miguel
 
@@ -157,7 +157,7 @@ Fonte: DE FRIAS, Miguel
 | Léxicos | [LO3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario) |
 | Caso de Uso | |
 | Fonte de Elicitação | [IS06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
-| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF06.jpeg" style="height:30vw"></img> |
+| Foto/Video Demonstrativo |  <img src="../assets/Miguel-RF06.jpeg" style="height:30vw"></img> |
 
 Fonte: DE FRIAS, Miguel
 
@@ -182,7 +182,7 @@ Fonte: DE FRIAS, Miguel
 | Léxicos | [L06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/), [LE2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [UC02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/) |
 | Fonte de Elicitação | [BS07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/) |
-| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF07.png" style="width:20vw"/> </div>|
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF07.png" style="width:20vw"/> </div>|
 
 
 Fonte: FILHO, Doan.
@@ -202,7 +202,7 @@ Fonte: FILHO, Doan.
 | Léxicos | [L04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#descricao), [LE3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#descricao) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [IS09](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/) |
-| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF08.png" style="width:20vw"/> </div>|
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF08.png" style="width:20vw"/> </div>|
 
 
 Fonte: FILHO, Doan.
@@ -221,7 +221,7 @@ Fonte: FILHO, Doan.
 | Léxicos | [L03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/)|
 | Caso de Uso | [---]()|
 | Fonte de Elicitação | [BS08]() |
-| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF09.png" style="width:20vw"/> </div>|
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF09.png" style="width:20vw"/> </div>|
 
 
 Fonte: FILHO, Doan.
@@ -240,7 +240,7 @@ Fonte: FILHO, Doan.
 | Léxicos | [LV1](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#Acessar), [LV3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#Acessar)|
 | Caso de Uso | [UC01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#casos-de-uso-especificacao)|
 | Fonte de Elicitação | [IS12](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF10.png" style="width:20vw"/> </div> |
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF10.png" style="width:20vw"/> </div> |
 
 
 Fonte: FILHO, Doan.
@@ -259,7 +259,7 @@ Fonte: FILHO, Doan.
 | Léxicos | [LV2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv2-buscar), [LV3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv2-buscar)|
 | Caso de Uso | [---]()|
 | Fonte de Elicitação | [BS10](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF11.png" style="width:20vw"/> </div> |
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF11.png" style="width:20vw"/> </div> |
 
 
 Fonte: FILHO, Doan.
@@ -278,7 +278,7 @@ Fonte: FILHO, Doan.
 | Léxicos | [LV4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv4-exibir-extrato-de-uso), [LV3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar)|
 | Caso de Uso | [Uc05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso)|
 | Fonte de Elicitação | [BS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/) |
-| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF12.png" style="width:20vw"/> </div> |
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF12.png" style="width:20vw"/> </div> |
 
 
 Fonte: FILHO, Doan. 
@@ -303,7 +303,7 @@ Fonte: FILHO, Doan.
 | Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar) |
 | Caso de Uso | [UC03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios) |
 | Fonte de Elicitação | [OBS02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#requisitos-elicitados) |
-| Demonstração | vídeo/foto |
+| Foto/Video Demonstrativo | <img src="../assets/RF26.png" style="height:30vw"></img> |
 
 Fonte: SOARES, Joel
 
@@ -321,7 +321,7 @@ Fonte: SOARES, Joel
 | Léxico | [LE2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le2-saldo-disponivel), [LO2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao), [LO6](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao) |
 | Caso de Uso | [UC02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc02-realizar-recarga) |
 | Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
+| Foto/Video Demonstrativo | <img src="../assets/DoanFilho-RF07" style="height:30vw"></img> |
 
 Fonte: SOARES, Joel
 
@@ -339,7 +339,7 @@ Fonte: SOARES, Joel
 | Léxico | [LO5](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l05-transporte) |
 | Caso de Uso | [UC03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios) |
 | Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
+| Foto/Video Demonstrativo | vídeo/foto |
 
 Fonte: SOARES, Joel
 
@@ -357,7 +357,7 @@ Fonte: SOARES, Joel
 | Léxico | [LO3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario) |
 | Caso de Uso | [UC01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc01-fazer-login) |
 | Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
+| Foto/Video Demonstrativo | vídeo/foto |
 
 Fonte: SOARES, Joel
 
@@ -375,7 +375,7 @@ Fonte: SOARES, Joel
 | Léxico | [LO4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
+| Foto/Video Demonstrativo | vídeo/foto |
 
 Fonte: SOARES, Joel
 
@@ -393,7 +393,7 @@ Fonte: SOARES, Joel
 | Léxico | [LO4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
+| Foto/Video Demonstrativo | vídeo/foto |
 
 Fonte: SOARES, Joel
 
@@ -418,7 +418,7 @@ Fonte: SOARES, Joel
 | Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
 | Caso de Uso | [UC05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso) |
 | Fonte de Elicitação | [OBS08](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | <div align="center"> <img src="../assets/RF30.png" style="width:20vw"/> </div>|
+| Foto/Video Demonstrativo | <div align="center"> <img src="../assets/RF30.png" style="width:20vw"/> </div>|
 
 Fonte: BARBOSA, Gabriel
 
@@ -436,7 +436,7 @@ Fonte: BARBOSA, Gabriel
 | Léxico | [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
 | Caso de Uso | [UC04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc04-acompanhar-cadastrocartao) |
 | Fonte de Elicitação | [OBS09](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF20.jpeg" style="width:20vw"/> </div>
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF20.jpeg" style="width:20vw"/> </div>
  |
 
 Fonte: BARBOSA, Gabriel
@@ -455,7 +455,7 @@ Fonte: BARBOSA, Gabriel
 | Léxico | [LO01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo1-suporte), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface), [LO07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l07-chatbot) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [OBS10](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF21.png" style="width:20vw"/> </div> |
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF21.png" style="width:20vw"/> </div> |
 
 Fonte: BARBOSA, Gabriel
 
@@ -473,7 +473,7 @@ Fonte: BARBOSA, Gabriel
 | Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface), [LO06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l06-saldo), [LE02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le2-saldo-disponivel) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [BS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais), [IS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabelas-de-requisitos), [Q01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Demonstração | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF22.png" style="width:20vw"/> </div> |
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF22.png" style="width:20vw"/> </div> |
 
 Fonte: BARBOSA, Gabriel
 
@@ -491,7 +491,7 @@ Fonte: BARBOSA, Gabriel
 | Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface)|
 | Caso de Uso | [UC05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso) |
 | Fonte de Elicitação | [Q02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Demonstração | <div align="center"> <img src="../assets/RF30.png" style="width:20vw"/> </div> |
+| Foto/Video Demonstrativo| <div align="center"> <img src="../assets/RF30.png" style="width:20vw"/> </div> |
 
 Fonte: BARBOSA, Gabriel
 
@@ -509,7 +509,7 @@ Fonte: BARBOSA, Gabriel
 | Léxico | [LO02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LE01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le1-status) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Q03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Demonstração | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF24.jpeg" style="width:20vw"/> </div> |
+| Foto/Video Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF24.jpeg" style="width:20vw"/> </div> |
 
 Fonte: BARBOSA, Gabriel
 
@@ -535,7 +535,7 @@ Fonte: BARBOSA, Gabriel
 | Léxico | [LO01, LO02, LO03, LO04, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Q04](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | <img src="../assets/RF25.png" style="height:30vw"></img>|
+| Foto/Video Demonstrativo | <img src="../assets/RF25.png" style="height:30vw"></img>|
 
 Fonte: BRAGA, Caio.
 
@@ -553,7 +553,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV01, LV02, LO03, LO04, LO05, LV03, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [UC03](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
 | Fonte de Elicitação | [Q05](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | <img src="../assets/RF26.png" style="height:30vw"></img> |
+| Foto/Video Demonstrativo | <img src="../assets/RF26.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -571,7 +571,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV01, LV03, LO02, LO03, LO04, LO05, LO06, LE02](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Q06](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | <img src="../assets/RF27.png" style="height:30vw"></img> |
+| Foto/Video Demonstrativo | <img src="../assets/RF27.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -589,7 +589,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV01, LO01, LO03, LO04, LO06](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [UC02](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
 | Fonte de Elicitação | [Q07](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | <img src="../assets/RF28.png" style="height:30vw"></img> |
+| Foto/Video Demonstrativo | <img src="../assets/RF28.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -607,7 +607,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV03, LO02, LO03, LO04, LO06](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Q08](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | <img src="../assets/RF29.png" style="height:30vw"></img> |
+| Foto/Video Demonstrativo | <img src="../assets/RF29.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -626,7 +626,7 @@ Fonte: BRAGA, Caio.
 | Léxico | [LV01, LV03, LV04, LO03, LO04, LO05, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [UC05](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
 | Fonte de Elicitação | [Q09](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | <img src="../assets/RF30.png" style="height:30vw"></img> |
+| Foto/Video Demonstrativo | <img src="../assets/RF30.png" style="height:30vw"></img> |
 
 Fonte: BRAGA, Caio.
 
@@ -647,6 +647,7 @@ Fonte: BRAGA, Caio.
 | NFR | [NFR Portabilidade](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao_2) |
 | Especificação Suplementar | [IS13](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
 | Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
 Fonte: BASILIO, Guilherme.
 
 <br>
@@ -660,6 +661,7 @@ Fonte: BASILIO, Guilherme.
 | NFR | [NFR Usabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
 | Especificação Suplementar | [IS14](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
 | Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
 Fonte: BASILIO, Guilherme.
 
 <br>
@@ -673,6 +675,7 @@ Fonte: BASILIO, Guilherme.
 | NFR | [NFR Usabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
 | Especificação Suplementar | [IS15](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
 | Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
 Fonte: BASILIO, Guilherme.
 
 <br>
@@ -700,6 +703,7 @@ Fonte: BASILIO, Guilherme.
 | NFR | [NFR Perfomance](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao) |
 | Especificação Suplementar | [IS17](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1) |
 | Fonte de Elicitação | [Introspecção](http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais) |
+
 Fonte: BASILIO, Guilherme.
 
 <br>
