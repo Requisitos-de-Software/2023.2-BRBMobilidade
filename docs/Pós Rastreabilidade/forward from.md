@@ -303,9 +303,9 @@ Fonte: FILHO, Doan.
 | Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar) |
 | Caso de Uso | [UC03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios) |
 | Fonte de Elicitação | [OBS02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#requisitos-elicitados) |
-| Demonstração | vídeo/foto |
+| Demonstração | <img src="../assets/RF26.png" style="height:30vw"></img> |
 
-Fonte: SOARES, Joel
+Fonte: SOARES, Joel. BRAGA, Caio
 
 <br>
 
@@ -321,9 +321,9 @@ Fonte: SOARES, Joel
 | Léxico | [LE2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le2-saldo-disponivel), [LO2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao), [LO6](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao) |
 | Caso de Uso | [UC02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc02-realizar-recarga) |
 | Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
+| Demonstração | <img src="../assets/RF14.png" style="height:30vw"></img> |
 
-Fonte: SOARES, Joel
+Fonte: SOARES, Joel. BRAGA, Caio
 
 <br>
 
@@ -339,9 +339,9 @@ Fonte: SOARES, Joel
 | Léxico | [LO5](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l05-transporte) |
 | Caso de Uso | [UC03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios) |
 | Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
+| Demonstração | <img src="../assets/RF15.png" style="height:30vw"></img> |
 
-Fonte: SOARES, Joel
+Fonte: SOARES, Joel. BRAGA, Caio
 
 <br>
 
@@ -357,9 +357,9 @@ Fonte: SOARES, Joel
 | Léxico | [LO3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario) |
 | Caso de Uso | [UC01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc01-fazer-login) |
 | Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
+| Demonstração |<img src="../assets/RF16-2.png" style="height:30vw"></img> <img src="../assets/RF16-1.png" style="height:30vw"></img>   |
 
-Fonte: SOARES, Joel
+Fonte: SOARES, Joel. BRAGA, Caio
 
 <br>
 
@@ -375,27 +375,9 @@ Fonte: SOARES, Joel
 | Léxico | [LO4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
+| Demonstração | <img src="../assets/Miguel-RF04.jpeg" style="height:30vw"></img> |
 
-Fonte: SOARES, Joel
-
-<br>
-
-**Tabela 26: Requisito Funcional 18**
-
-| Tópico | Referência |
-|--------|------------|
-| Descrição | O aplicativo deve fornecer ajuda com perguntas frequentes. |
-| Requisito Funcional | [RF18](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=M%C3%A9dia-,RF18,-O%20aplicativo%20deve) |
-| História de Usuário | [US15](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us15-fornecer-secao-de-comunicacao-direta) |
-| Épico | [Informações](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog:~:text=M%C3%A9dia-,Informa%C3%A7%C3%B5es,-Visualiza%C3%A7%C3%A3o%20de%20linhas) |
-| Cenário | [---]() |
-| Léxico | [LO4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
-| Caso de Uso | [---]() |
-| Fonte de Elicitação | [Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | vídeo/foto |
-
-Fonte: SOARES, Joel
+Fonte: SOARES, Joel. BRAGA, Caio
 
 <br>
 </center>
