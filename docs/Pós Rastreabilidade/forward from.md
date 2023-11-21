@@ -50,6 +50,102 @@ Fonte: LELIS, Caio.
 
 Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45 representam as rastreabilidades dos requisitos funcionais e não funcionais elicitados.
 
+### **Requisitos analisados por Miguel de Frias**
+**Tabela 03- Requisito Funcional 01**
+
+| Tópico  | Referência |
+|---------|------------|
+|Descrição| Consultar saldo e extrato de uso do cartão de mobilidade. |
+| Requisito Funcional | [RF01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados)|
+| História de Usuário | [US01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us01-consultar-saldo-e-extrato-de-uso-do-cartao-de-mobilidade) |
+| Épico | [Consulta](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog) |
+| Cenário | [Cenário03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-3-consultar-saldo-disponivel) |
+| Léxicos | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar) |
+| Caso de Uso | [UC05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso) |
+| Fonte de Elicitação | [IS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
+| Vídeo/Foto Demonstrativo | <img src="../assets/Miguel-RF01.jpeg" style="height:30vw"></img> |
+
+Fonte: DE FRIAS, Miguel
+
+**Tabela 04  - Requisito Funcional 02**
+
+| Tópico  | Referência |
+|---------|------------|
+|Descrição| Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. |
+| Requisito Funcional | [RF02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados)|
+| História de Usuário | [US02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us02-acessar-itinerarios-detalhados-de-onibus) |
+| Épico | [Consulta](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog) |
+| Cenário | [Cenário02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-2-visualizacao-de-linhas-e-horarios) |
+| Léxicos | [LO5](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l05-transporte) |
+| Caso de Uso | [UC03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios) |
+| Fonte de Elicitação | [IS02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
+| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF02.jpeg" style="height:30vw"></img> |
+
+Fonte: DE FRIAS, Miguel
+
+**Tabela 05  - Requisito Funcional 03**
+
+| Tópico  | Referência |
+|---------|------------|
+|Descrição| Realizar recargas de créditos no cartão. |
+| Requisito Funcional | [RF03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados)|
+| História de Usuário | [US03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us03-realizar-recargas-de-creditos-no-cartao) |
+| Épico | [Recarga](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog) |
+| Cenário | [Cenário01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-1-realizar-recarga) |
+| Léxicos | [LO2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao) |
+| Caso de Uso | [UC02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc02-realizar-recarga) |
+| Fonte de Elicitação | [IS03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
+| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF03.jpeg" style="height:30vw"></img> |
+
+Fonte: DE FRIAS, Miguel
+
+**Tabela 06  - Requisito Funcional 04**
+
+| Tópico  | Referência |
+|---------|------------|
+|Descrição| Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. |
+| Requisito Funcional | [RF04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados)|
+| História de Usuário | [US04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us04-interagir-com-um-chatbot-para-esclarecer-duvidas) |
+| Épico | [Acessibilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog) |
+| Cenário |  |
+| Léxicos | [LO7](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l07-chatbot) |
+| Caso de Uso | |
+| Fonte de Elicitação | [IS04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
+| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF04.jpeg" style="height:30vw"></img> |
+
+Fonte: DE FRIAS, Miguel
+
+**Tabela 07  - Requisito Funcional 05**
+
+| Tópico  | Referência |
+|---------|------------|
+|Descrição| Suportar informações em tempo real sobre o status dos transportes públicos. |
+| Requisito Funcional | [RF05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados)|
+| História de Usuário | [US05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us05-suportar-informacoes-em-tempo-real-sobre-o-status-dos-transportes-publicos) |
+| Épico | [Estabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog) |
+| Cenário |  |
+| Léxicos | [LO1](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo1-suporte) |
+| Caso de Uso | |
+| Fonte de Elicitação | [IS05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
+| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF05.jpeg" style="height:30vw"></img> |
+
+Fonte: DE FRIAS, Miguel
+
+**Tabela 08  - Requisito Funcional 06**
+
+| Tópico  | Referência |
+|---------|------------|
+|Descrição| Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus para o usuário. |
+| Requisito Funcional | [RF06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados)|
+| História de Usuário | [US07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us06-integrar-funcionalidades-de-navegacao-e-mapas) |
+| Épico | [Integração](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog) |
+| Cenário |  |
+| Léxicos | [LO3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario) |
+| Caso de Uso | |
+| Fonte de Elicitação | [IS06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais), [BS06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais)|
+| Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF06.jpeg" style="height:30vw"></img> |
+
+Fonte: DE FRIAS, Miguel
 
 ### **Requisitos elicitados por Doan Filho**
 <br>
@@ -689,4 +785,5 @@ Fonte: LELIS, Caio.
 |  1.2   | Requisitos de 07 a 12  |   Doan FIlho   |   19/11/2023   | Caio Braga |  19/11/2023    |
 |  1.3   | Requisitos não funcionais de 01 a 05  |   Guilherme Basilio  |   19/11/2023   | Caio Braga |  19/11/2023    |
 |  1.4   | Requisitos  funcionais de 13 a 18  |   Joel Soares  |   20/11/2023   | Caio Braga |  20/11/2023    |
+|  1.5   | Requisitos  funcionais de 1 ao 6  |   Miguel de Frias  |   20/11/2023   | Caio Braga |  20/11/2023    |
 
