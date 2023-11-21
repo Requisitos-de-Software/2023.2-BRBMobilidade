@@ -153,6 +153,10 @@ Satisfaz OBS03 (Observação sobre a recarga do saldo): Este elo indica que a fu
 
 Satisfaz BS03 (Brainstorming sobre Recargas de Créditos): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming específico sobre a recarga de créditos.
 
+Agrega RF03 (Realizar Recargas de Créditos no Cartão): A funcionalidade de fazer a recarga do saldo agrega a capacidade específica de realizar recargas de créditos no cartão.
+
+Satisfaz Q04 (O aplicativo tem meios de mecanismo de desbloqueio de cartões): Este elo estabelece que a funcionalidade atende à necessidade identificada no questionário Q04, garantindo que o aplicativo tenha meios de desbloqueio de cartões.
+
 ### **RF04** - Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público
 
 Origem: IS04
@@ -163,6 +167,8 @@ Agrega RF27 (Concede Visualização a Quantidade de Passes): A funcionalidade de
 
 Satisfaz Q03 (O aplicativo tem meios de mecanismo de bloqueio de cartões): Este elo estabelece que a funcionalidade atende à necessidade identificada no questionário Q03, garantindo que o aplicativo tenha meios de bloqueio de cartões.
 
+Satisfaz Q04 (O aplicativo tem meios de mecanismo de desbloqueio de cartões): Este elo estabelece que a funcionalidade atende à necessidade identificada no questionário Q04, garantindo que o aplicativo tenha meios de desbloqueio de cartões.
+
 Satisfaz BS04 (Brainstorming sobre Interação com Chatbot): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming sobre a interação com um chatbot.
 
 ### **RF05** - Suportar informações em tempo real sobre o status dos transportes públicos
@@ -170,8 +176,6 @@ Satisfaz BS04 (Brainstorming sobre Interação com Chatbot): Este elo estabelece
 Origem: IS05
 
 Elos:
-
-Agrega RF28 (Pagamento via Cartão de Crédito): A funcionalidade de suportar informações em tempo real agrega a opção específica de pagamento via cartão de crédito.
 
 Satisfaz Q05 (O aplicativo concede acesso às paradas próximas): Este elo estabelece que a funcionalidade atende à necessidade identificada no questionário Q05, garantindo que o aplicativo conceda acesso às paradas próximas.
 
@@ -200,6 +204,10 @@ Agrega RF28 (Pagamento via Cartão de Crédito): A funcionalidade de cadastrar m
 Satisfaz OBS05 (Observação sobre alteração de informações de cadastro): Este elo indica que a funcionalidade atende à observação específica (OBS05) relacionada à alteração de informações de cadastro.
 
 Satisfaz BS07 (Brainstorming sobre Cadastro de Métodos de Pagamento): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming específico sobre o cadastro de métodos de pagamento.
+
+Satisfaz RF07 (Cadastrar Métodos de Pagamento): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF07, garantindo a capacidade de cadastrar métodos de pagamento.
+
+Agrega RF29 (Mostra a Previsão de Depósito de Dinheiro Depositado): A funcionalidade de opção de pagamento via cartão de crédito agrega a capacidade específica de mostrar a previsão de depósito de dinheiro depositado.
 
 ### **RF08** - Deve ser possível personalizar a aparência da interface do usuário
 
@@ -231,11 +239,15 @@ Origem: IS11
 
 Elos:
 
+Satisfaz RF10 (Realizar Login): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF10, garantindo a capacidade de realizar login.
+
 Agrega RF23 (Acesso ao Histórico de Acessos): A funcionalidade de realizar login agrega a capacidade específica de acessar o histórico de acessos.
 
 Satisfaz OBS08 (Observação sobre histórico de atividades): Este elo indica que a funcionalidade atende à observação específica (OBS08) relacionada ao histórico de atividades.
 
 Satisfaz BS10 (Brainstorming sobre Fornecimento de Localização): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming sobre o fornecimento de localização.
+
+Satisfaz BS09 (Brainstorming sobre Realização de Login): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming sobre a realização de login.
 
 ### **RF11** - O usuário deve fornecer sua localização
 
@@ -243,11 +255,13 @@ Origem: IS12
 
 Elos:
 
+Agrega BS09 (Brainstorming sobre Realização de Login): Este elo estabelece que o requisito agrega às ideias provenientes do brainstorming, pois é necessario a realização de login.
+
 Agrega RF26 (Concede Acesso às Paradas Próximas): A funcionalidade de fornecer localização agrega a capacidade específica de conceder acesso às paradas próximas.
 
 Satisfaz OBS09 (Observação sobre solicitar 2ª via do cartão): Este elo indica que a funcionalidade atende à observação específica (OBS09) relacionada a solicitar uma 2ª via do cartão desejado.
 
-Satisfaz BS14 (Brainstorming sobre Recuperação de Senha): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming sobre a recuperação de senha.
+Satisfaz BS05 (Brainstorming sobre Suporte a Informações em Tempo Real): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming específico sobre o suporte a informações em tempo real.
 
 ### **RF12** - Deve ser capaz de consultar o extrato
 
@@ -263,19 +277,15 @@ Satisfaz Q01 (O aplicativo possui mecanismo de visualização do saldo): Este el
 
 Satisfaz OBS01 (Observação sobre o uso de consulta de saldo e extrato): Este elo indica que a funcionalidade considera as observações específicas (OBS01) feitas durante o processo de observação, incorporando esses insights no design e na implementação.
 
-Agrega BS06 (Brainstorming sobre Integração com Navegação e Mapas): A funcionalidade de integrar navegação e mapas agrega a capacidade específica de mostrar pontos de recarga, proporcionando aos usuários informações detalhadas sobre a localização desses pontos.
-
 ### **RF13** - O aplicativo deve permitir a visualização de linhas e horários
 
 Origem: OBS02
 
 Elos:
 
-Agrega RF27 (Concede Visualização a Quantidade de Passes): A funcionalidade de visualização de linhas e horários agrega a capacidade específica de conceder visualização à quantidade de passes.
+Satisfaz BS20 (Brainstorming sobre Favoritar Linhas de Ônibus): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming sobre a possibilidade de favoritar linhas de ônibus.
 
-Satisfaz Q02 (O aplicativo acessa o histórico de acessos): Este elo estabelece que a funcionalidade atende à necessidade identificada no questionário Q02, garantindo que o aplicativo acesse o histórico de acessos.
-
-Satisfaz BS17 (Brainstorming sobre Bloqueio/Cancelamento do Cartão): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming sobre o bloqueio/cancelamento do cartão.
+Satisfaz OBS02 (Observação sobre visualização de linhas e horários): Este elo indica que a funcionalidade considera observações específicas (OBS02) relacionadas à visualização de linhas e horários durante o processo de observação.
 
 ### **RF14** - Deve ser possível fazer a recarga do saldo
 
@@ -295,10 +305,6 @@ Origem: OBS04
 
 Elos:
 
-Agrega RF17 (Fornece uma Seção de Comunicação Direta): A funcionalidade de salvar rotas agrega a capacidade específica de fornecer uma seção de comunicação direta.
-
-Satisfaz Q06 (O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado): Este elo estabelece que a funcionalidade atende à necessidade identificada no questionário Q06, garantindo que o aplicativo mostre ao usuário a previsão de depósito de dinheiro depositado.
-
 Satisfaz BS20 (Brainstorming sobre Favoritar Linhas de Ônibus): Este elo estabelece que o requisito atende às ideias provenientes do brainstorming sobre a possibilidade de favoritar linhas de ônibus.
 
 ### **RF16** - Deve ser possível alterar informações de cadastro
@@ -309,7 +315,7 @@ Elos:
 
 Agrega RF09 (Realizar Cadastro): A funcionalidade de alterar informações de cadastro agrega a capacidade específica de realizar cadastro.
 
-Satisfaz Q07 (O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso): Este elo estabelece que a funcionalidade atende à necessidade identificada no questionário Q07, garantindo que o aplicativo mostre o histórico de transportes pegos pelo usuário ao longo do seu uso.
+Agrega BS19 (Fornecer informações de contato): A funcionalidade de fornecer ajuda com perguntas frequentes agrega a capacidade específica de fornecer informações de contato.
 
 ### **RF17** - O aplicativo deve fornecer uma seção de comunicação direta
 
@@ -318,8 +324,6 @@ Origem: OBS06
 Elos:
 
 Agrega RF18 (Ajuda com Perguntas Frequentes): A funcionalidade de fornecer uma seção de comunicação direta agrega a capacidade específica de fornecer ajuda com perguntas frequentes.
-
-Satisfaz Q08 (O aplicativo deve fornecer notificações de depósito ao usuário): Este elo estabelece que a funcionalidade atende à necessidade identificada no questionário Q08, garantindo que o aplicativo forneça notificações de depósito ao usuário.
 
 ### **RF18** - O aplicativo deve fornecer ajuda com perguntas frequentes
 
@@ -357,9 +361,11 @@ Origem: OBS10
 
 Elos:
 
-Agrega RF22 (Mecanismo de Visualização do Saldo): A funcionalidade de fornecer ajuda com perguntas frequentes agrega a capacidade específica de oferecer um mecanismo de visualização do saldo.
+Agrega BBS13 (feedback ao usuário sobre a recarga e outras interações relevantes): A funcionalidade de fornecer ajuda com perguntas frequentes agrega a capacidade específica de fornecer feedback ao usuário sobre a recarga e outras interações relevantes.
 
-Satisfaz Q01 (O aplicativo possui mecanismo de visualização do saldo): Este elo estabelece que a funcionalidade atende à necessidade identificada no questionário Q01, garantindo que o aplicativo possua um mecanismo para visualização do saldo.
+Agrega BS16 (fornecer informações quanto a obtenção do cartão): A funcionalidade de fornecer ajuda com perguntas frequentes agrega a capacidade específica de fornecer informações quanto a obtenção do cartão.
+
+Agrega BS19 (Fornecer informações de contato): A funcionalidade de fornecer ajuda com perguntas frequentes agrega a capacidade específica de fornecer informações de contato.
 
 ### **RF22** - O aplicativo possui mecanismo de visualização do saldo
 
@@ -376,8 +382,6 @@ Satisfaz RF23 (Acesso ao Histórico de Acessos): Este elo indica que a funcional
 Origem: Q02
 
 Elos:
-
-Agrega RF24 (Mecanismo de Bloqueio de Cartões): A funcionalidade de acesso ao histórico de acessos agrega a capacidade específica de mecanismo de bloqueio de cartões.
 
 Satisfaz RF02 (Acessar Itinerários Detalhados de Ônibus): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF02, garantindo o acesso a itinerários detalhados de ônibus.
 
@@ -397,8 +401,6 @@ Origem: Q04
 
 Elos:
 
-Agrega RF26 (Concede Acesso às Paradas Próximas): A funcionalidade de mecanismo de desbloqueio de cartões agrega a capacidade específica de conceder acesso às paradas próximas.
-
 Satisfaz RF05 (Suportar Informações em Tempo Real): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF05, garantindo o suporte a informações em tempo real sobre o status dos transportes públicos.
 
 ### **RF26** - O aplicativo concede acesso às paradas próximas
@@ -407,8 +409,6 @@ Origem: Q05
 
 Elos:
 
-Agrega RF27 (Concede Visualização a Quantidade de Passes): A funcionalidade de conceder acesso às paradas próximas agrega a capacidade específica de visualização à quantidade de passes.
-
 Satisfaz RF06 (Integrar Funcionalidades de Navegação e Mapas): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF06, garantindo a integração com funcionalidades de navegação e mapas.
 
 ### **RF27** - O aplicativo concede visualização a quantidade de passes
@@ -416,6 +416,8 @@ Satisfaz RF06 (Integrar Funcionalidades de Navegação e Mapas): Este elo estabe
 Origem: Q06
 
 Elos:
+
+Satisfaz RF01 (Consultar Saldo e Extrato): Este elo estabelece que a funcionalidade de visualização do saldo satisfaz a necessidade de consultar o saldo e extrato do cartão de mobilidade.
 
 Agrega RF28 (Pagamento via Cartão de Crédito): A funcionalidade de conceder visualização à quantidade de passes agrega a opção específica de pagamento via cartão de crédito.
 
@@ -429,17 +431,15 @@ Elos:
 
 Agrega RF29 (Mostra a Previsão de Depósito de Dinheiro Depositado): A funcionalidade de opção de pagamento via cartão de crédito agrega a capacidade específica de mostrar a previsão de depósito de dinheiro depositado.
 
-Satisfaz RF08 (Personalizar a Aparência da Interface do Usuário): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF08, garantindo a personalização da aparência da interface do usuário.
-
 ### **RF29** - O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado
 
 Origem: Q08
 
 Elos:
 
-Agrega RF30 (Mostra o Histórico de Transportes Pego pelo Usuário): A funcionalidade de mostrar a previsão de depósito de dinheiro depositado agrega a capacidade específica de mostrar o histórico de transportes pegos pelo usuário ao longo do seu uso.
+Agrega RF09 (Realizar Cadastro): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF09, garantindo a capacidade de realizar cadastro.
 
-Satisfaz RF09 (Realizar Cadastro): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF09, garantindo a capacidade de realizar cadastro.
+Satisfaz BS01 (saldo e extrato de uso do cartão de mobilidade): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito BS01, garantindo a capacidade de consultar o saldo e extrado de uso.
 
 ### **RF30** - O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso
 
@@ -447,9 +447,9 @@ Origem: Q09
 
 Elos:
 
-Agrega RF31 (Fornecer Notificações de Depósito ao Usuário): A funcionalidade de mostrar o histórico de transportes pegos pelo usuário ao longo do seu uso agrega a capacidade específica de fornecer notificações de depósito ao usuário.
+Agrega RF10 (Realizar Login): Este elo estabelece que a funcionalidade agrega ao requisito RF10, sendo nessessario realizar login.
 
-Satisfaz RF10 (Realizar Login): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF10, garantindo a capacidade de realizar login.
+Satisfaz OBS11(O aplicativo deve fornecer ao usuário o feedback de suas ações): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF09, garantindo que o aplicativo forneça ao usuário o feedback de suas ações.
 
 ### **RF31** - O aplicativo deve fornecer notificações de depósito ao usuário
 
