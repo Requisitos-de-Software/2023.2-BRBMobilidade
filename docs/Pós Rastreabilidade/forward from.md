@@ -65,7 +65,9 @@ Nesta seção serão mostradas as tabelas dos requisitos implementados e não im
 | Léxicos | [L06](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/), [LE2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/) |
 | Caso de Uso | [UC02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/) |
 | Fonte de Elicitação | [BS07](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF07.png" style="width:20vw"/> </div>|
+
+<p> Figura 1: Requisito Funcional 07. Fonte: Doan Filho </p>
 
 
 
@@ -81,8 +83,9 @@ Nesta seção serão mostradas as tabelas dos requisitos implementados e não im
 | Léxicos | [L04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#descricao), [LE3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#descricao) |
 | Caso de Uso | [---]() |
 | Fonte de Elicitação | [IS09](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF08.png" style="width:20vw"/> </div>|
 
+<p> Figura 1: Requisito Funcional 08. Fonte: Doan Filho </p>
 Fonte: FILHO, Doan.
 
 **Tabela 13 - Requisito Funcional 09**
@@ -97,8 +100,9 @@ Fonte: FILHO, Doan.
 | Léxicos | [L03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/)|
 | Caso de Uso | [---]()|
 | Fonte de Elicitação | [BS08]() |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF09.png" style="width:20vw"/> </div>|
 
+<p> Figura 1: Requisito Funcional 09. Fonte: Doan Filho </p>
 Fonte: FILHO, Doan.
 
 **Tabela 15 -  Requisito Funcional 10**
@@ -113,8 +117,9 @@ Fonte: FILHO, Doan.
 | Léxicos | [LV1](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#Acessar), [LV3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#Acessar)|
 | Caso de Uso | [UC01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#casos-de-uso-especificacao)|
 | Fonte de Elicitação | [IS12](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF10.png" style="width:20vw"/> </div> |
 
+<p> Figura 1: Requisito Funcional 10. Fonte: Doan Filho </p>
 Fonte: FILHO, Doan.
 
 **Tabela 17 - Requisito Funcional 11**
@@ -129,8 +134,9 @@ Fonte: FILHO, Doan.
 | Léxicos | [LV2](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv2-buscar), [LV3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv2-buscar)|
 | Caso de Uso | [---]()|
 | Fonte de Elicitação | [BS10](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF11.png" style="width:20vw"/> </div> |
 
+<p> Figura 1: Requisito Funcional 11. Fonte: Doan Filho </p>
 Fonte: FILHO, Doan.
 
 **Tabela 19 - Requisito Funcional 12**
@@ -145,8 +151,10 @@ Fonte: FILHO, Doan.
 | Léxicos | [LV4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv4-exibir-extrato-de-uso), [LV3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar)|
 | Caso de Uso | [Uc05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso)|
 | Fonte de Elicitação | [BS01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/) |
-| Vídeo/Foto Demonstrativo | vídeo/foto |
+| Vídeo/Foto Demonstrativo | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF12.png" style="width:20vw"/> </div> |
 
+
+<p> Figura 1: Requisito Funcional 12. Fonte: Doan Filho </p>
 Fonte: FILHO, Doan.
 
 
