@@ -51,6 +51,9 @@ Fonte: LELIS, Caio.
 Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45 representam as rastreabilidades dos requisitos funcionais e não funcionais elicitados.
 
 ### **Requisitos analisados por Miguel de Frias**
+<br>
+
+<center>
 **Tabela 03 - Requisito Funcional 01**
 
 | Tópico  | Referência |
@@ -66,6 +69,8 @@ Nesta seção serão mostradas as tabelas dos requisitos implementados e não im
 | Vídeo/Foto Demonstrativo | <img src="../assets/Miguel-RF01.jpeg" style="height:30vw"></img> |
 
 Fonte: DE FRIAS, Miguel
+
+<br>
 
 **Tabela 04  - Requisito Funcional 02**
 
@@ -83,6 +88,8 @@ Fonte: DE FRIAS, Miguel
 
 Fonte: DE FRIAS, Miguel
 
+<br>
+
 **Tabela 05  - Requisito Funcional 03**
 
 | Tópico  | Referência |
@@ -98,6 +105,8 @@ Fonte: DE FRIAS, Miguel
 | Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF03.jpeg" style="height:30vw"></img> |
 
 Fonte: DE FRIAS, Miguel
+
+<br>
 
 **Tabela 06  - Requisito Funcional 04**
 
@@ -115,6 +124,8 @@ Fonte: DE FRIAS, Miguel
 
 Fonte: DE FRIAS, Miguel
 
+<br>
+
 **Tabela 07  - Requisito Funcional 05**
 
 | Tópico  | Referência |
@@ -131,6 +142,8 @@ Fonte: DE FRIAS, Miguel
 
 Fonte: DE FRIAS, Miguel
 
+<br>
+
 **Tabela 08  - Requisito Funcional 06**
 
 | Tópico  | Referência |
@@ -146,6 +159,10 @@ Fonte: DE FRIAS, Miguel
 | Vídeo/Foto Demonstrativo |  <img src="../assets/Miguel-RF06.jpeg" style="height:30vw"></img> |
 
 Fonte: DE FRIAS, Miguel
+
+<br>
+
+</center>
 
 ### **Requisitos elicitados por Doan Filho**
 <br>
@@ -270,6 +287,7 @@ Fonte: FILHO, Doan.
 
 ### **Requisitos analisados por Joel:**
 
+<center>
 <br>
 
 **Tabela 21: Requisito Funcional 13**
@@ -378,6 +396,9 @@ Fonte: SOARES, Joel
 
 Fonte: SOARES, Joel
 
+<br>
+</center>
+
 ### **Requisitos analisados por Gabriel:**
 
 <center>
@@ -396,7 +417,7 @@ Fonte: SOARES, Joel
 | Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface) |
 | Caso de Uso | [UC05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso) |
 | Fonte de Elicitação | [OBS08](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais) |
-| Demonstração | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF30.png" style="width:20vw"/> </div>|
+| Demonstração | <div align="center"> <img src="../assets/RF30.png" style="width:20vw"/> </div>|
 
 Fonte: BARBOSA, Gabriel
 
@@ -469,7 +490,7 @@ Fonte: BARBOSA, Gabriel
 | Léxico | [LV03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar), [LV01](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar), [LO03](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario), [LO04](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface)|
 | Caso de Uso | [UC05](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso) |
 | Fonte de Elicitação | [Q02](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais) |
-| Demonstração | <div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/RF30.png" style="width:20vw"/> </div> |
+| Demonstração | <div align="center"> <img src="../assets/RF30.png" style="width:20vw"/> </div> |
 
 Fonte: BARBOSA, Gabriel
 
