@@ -15,7 +15,11 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha o relato dos aplicativos analisados e a conclusão apresentando o aplicativo selecionado, a motivação dessa escolha e a relevância do estudo dessa aplicação para o projeto.
 
+
 ## **Lista de Verificação**
+
+
+## **Gravação com os avaliadores**
 
 
 ## **Correções sugeridas**

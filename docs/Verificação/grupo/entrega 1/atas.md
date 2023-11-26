@@ -18,6 +18,8 @@ Espera-se que esse documento contenha o conjunto de reuniões gravadas pela equi
 ## **Lista de Verificação**
 
 
+## **Gravação com os avaliadores**
+
 ## **Correções sugeridas**
 
 

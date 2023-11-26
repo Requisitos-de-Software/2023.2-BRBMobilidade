@@ -19,6 +19,9 @@ Espera-se que esse documento contenha o planejamento cronológico da equipe para
 ## **Lista de Verificação**
 
 
+## **Gravação com os avaliadores**
+
+
 ## **Correções sugeridas**
 
 

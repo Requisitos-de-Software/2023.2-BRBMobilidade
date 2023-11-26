@@ -17,6 +17,8 @@ Espera-se que esse documento contenha o diagrama Rich Picture do aplicativo sele
 
 ## **Lista de Verificação**
 
+## **Gravação com os avaliadores**
+
 
 ## **Correções sugeridas**
 

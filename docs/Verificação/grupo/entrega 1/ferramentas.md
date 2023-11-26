@@ -15,6 +15,9 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha o conjunto de ferramentas que foram utilizadas ao longo do desenvolvimento do projeto.
 
+## **Gravação com os avaliadores**
+
+
 ## **Lista de Verificação**
 
 

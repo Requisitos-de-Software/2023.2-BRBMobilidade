@@ -15,6 +15,9 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha o conjunto de regras de fontes, padrões de commit e outras regras de uso acordadas em grupo.
 
+## **Gravação com os avaliadores**
+
+
 ## **Lista de Verificação**
 
 

@@ -17,6 +17,8 @@ Espera-se que esse documento contenha o conjunto de Termos de uso da aplicação
 
 ## **Lista de Verificação**
 
+## **Gravação com os avaliadores**
+
 
 ## **Correções sugeridas**
 
@@ -24,8 +26,7 @@ Espera-se que esse documento contenha o conjunto de Termos de uso da aplicação
 ## **Bibliografia**
 
 >
->
->
+
 
 ## **Histórico de Versões**
 
