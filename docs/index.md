@@ -5,6 +5,7 @@
     <p> Figura 1: Imagem BRB Mobilidade . Fonte: <a href="https://mobilidade.brb.com.br/passelivre/">BRB Mobilidade</a></p> 
 </div>
 
+<br>
 
 <p style="text-align: center;">
 Somos o Grupo 3 de Requisitos de Software. Este repositório centraliza nossos artefatos e documentações. A página oferece uma visão organizada de nossos trabalhos, incluindo especificações, diagramas e atas de reuniões.

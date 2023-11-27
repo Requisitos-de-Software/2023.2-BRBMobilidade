@@ -1,4 +1,4 @@
-# **Termos de Uso**
+# **Termos de uso**
 
 Nesta seção, você encontrará informações detalhadas sobre o planejamento do nosso projeto. Isso inclui o heatmap de disponibilidade dos integrantes, o aplicativo selecionado, os termos de uso do aplicativo, as ferramentas do projeto, um cronograma detalhado e o rich picture.
 # **Termos de Uso - BRB Mobilidade**
@@ -8,9 +8,9 @@ Esse documento tem como objetivo documentar os termos de uso da aplicação BRB 
 
 ## **Termos de Uso e Política de Privacidade**
 
-![Termos de Uso - 1](img/termosdeuso1.jpg)
-![Termos de Uso - 2](img/termosdeuso2.jpg)
-![Termos de Uso - 3](img/termosdeuso3.jpg)
+![Termos de Uso - 1](assets/termosdeuso1.jpg)
+![Termos de Uso - 2](assets/termosdeuso2.jpg)
+![Termos de Uso - 3](assets/termosdeuso3.jpg)
 
 ## **Conclusão**
 

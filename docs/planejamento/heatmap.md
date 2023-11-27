@@ -5,7 +5,7 @@ Para facilitar a organização de reuniões e garantir a participação de todos
 
 ### **Imagem do Heatmap**
 
-![Heatmap de Disponibilidade](img/heatMap.png)
+![Heatmap de Disponibilidade](assets/heatMap.png)
 
 ### **Resultados da Análise de Disponibilidade**
 

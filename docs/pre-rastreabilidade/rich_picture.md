@@ -7,7 +7,7 @@ Um Rich Picture (imagem rica, em tradução livre) é uma representação visual
 
 ### Diagrama
 
-![Rich Picture](img/richPicture.png)
+![Rich Picture](assets/richPicture.png)
 
 <center>
     <p> Figura 1: Rich Picture do BRB Mobilidade.Fonte: Caio Braga</p>
@@ -23,7 +23,7 @@ Encontra-se acima uma breve explicação sobre os principais componentes que est
 <br><br>
 <center>
 
-![Descricao](img/componentesRichPicture.png)
+![Descricao](assets/componentesRichPicture.png)
 
 <p> Figura 1: Componentes do Rich Picture do BRB Mobilidade.Fonte: Caio Braga</p>
 </center>

@@ -11,7 +11,8 @@ As histórias do usuário são descrições concisas de funcionalidades do ponto
 
 ## **Metodologia** 
 
-Construímos nossas histórias de usuário com base no nosso [backlog](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/), onde foi feita uma entrevista com nosso usuário PO Isaque Santos, aonde ele aceitou o [Termo de Consentimento](https://unbbr-my.sharepoint.com/:w:/g/personal/211061645_aluno_unb_br/EaOMpyry-npLg-Kh0Vrq0KgBRs-Yz9OoPlpqfDuAc-iuwA?e=F5VC90) para a produção do artefato base. A seguir, apresentamos o nosso protótipo a ser seguido para as histórias de usuário e as histórias de usuários que foram definidas para o projeto.
+Construímos nossas histórias de usuário com base no nosso [backlog](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/), onde foi feita uma entrevista com nosso usuário PO Isaque Santos, 
+ para a produção do artefato base. A seguir, apresentamos o nosso protótipo a ser seguido para as histórias de usuário e as histórias de usuários que foram definidas para o projeto.
 
 
 
