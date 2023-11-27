@@ -21,7 +21,7 @@ Aqui coletamos coletamos as idades dos participantes alvos do questionário indo
 18 a 25, 26 a 60 e menores de 18.
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQPFaixaEtaria.png" width = 700px>
+<img src = "../assets/QueQPFaixaEtaria.png" width = 700px>
 <p>Figura1: Pergunta 01, Perfil do usuário</p>
 </center>
 <br><br>
@@ -31,7 +31,7 @@ Aqui coletamos coletamos as idades dos participantes alvos do questionário indo
 Coletamos a sexualidade do usuário dentre eles masculino, feminino e prefiro não informar
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQPSexualidade.png" width = 700px>
+<img src = "../assets/QueQPSexualidade.png" width = 700px>
 <p>Figura2: Pergunta 02, Perfil do usuário</p>
 <br><br>
 </center>
@@ -42,7 +42,7 @@ Aferição à cerca de definir a escolaridade das pessoas que responderam o ques
 
 <center>
 
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQPEscolaridade.png" width = 700px>
+<img src = "../assets/QueQPEscolaridade.png" width = 700px>
 <p>Figura3: Pergunta 03, Perfil do usuário</p>
 <br><br>
 </center>
@@ -52,7 +52,7 @@ Aferição à cerca de definir a escolaridade das pessoas que responderam o ques
 Aferimos a familiariedade de uso do usuário com o BRB-Mobilidade
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQPFamiliaridadeApp.png" width = 700px>
+<img src = "../assets/QueQPFamiliaridadeApp.png" width = 700px>
 <p>Figura4: Pergunta 04, Perfil do usuário</p>
 <br><br>
 </center>
@@ -62,7 +62,7 @@ Aferimos a familiariedade de uso do usuário com o BRB-Mobilidade
 Aferimos a expêriencia dos usuários com relação ao uso do aplicativo
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQPExperienciaApp.png" width = 700px>
+<img src = "../assets/QueQPExperienciaApp.png" width = 700px>
 <p>Figura5: Pergunta 05, Perfil do usuário</p>
 <br><br>
 </center>
@@ -72,7 +72,7 @@ Aferimos a expêriencia dos usuários com relação ao uso do aplicativo
 Aqui temos uma avaliação sobre a experiência do usuário com o aplicativo BRB-Mobilidade
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQPAvalExperiencia.png" width = 700px>
+<img src = "../assets/QueQPAvalExperiencia.png" width = 700px>
 <p>Figura6: Pergunta 06, Perfil do usuário</p>
 <br><br>
 </center>
@@ -84,7 +84,7 @@ Aqui temos uma avaliação sobre a experiência do usuário com o aplicativo BRB
 Avaliação do usuário com relação a função de inserção de saldo variando de 1(pouco útil) á 3(muito útil).
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQFSaldo.png" width = 700px>
+<img src = "../assets/QueQFSaldo.png" width = 700px>
 <p>Figura6: Pergunta 07, Avaliação funcionalidades existentes</p>
 <br><br>
 </center>
@@ -94,7 +94,7 @@ Avaliação do usuário com relação a função de inserção de saldo variando
 Avaliação do usuário com relação a função de Extrato uso mensal variando de 1(pouco útil) á 3(muito útil).
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQFExtratoDeUso.png" width = 700px>
+<img src = "../assets/QueQFExtratoDeUso.png" width = 700px>
 <p>Figura7: Pergunta 08, Avaliação funcionalidades existentes</p>
 <br><br>
 </center>
@@ -104,7 +104,7 @@ Avaliação do usuário com relação a função de Extrato uso mensal variando 
 Avaliação do usuário com relação a função de acompanhamento de itinerário variando de 1(pouco útil) á 3(muito útil).
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQFItinerario.png" width = 700px>
+<img src = "../assets/QueQFItinerario.png" width = 700px>
 <p>Figura8: Pergunta 08, Avaliação funcionalidades existentes</p>
 <br><br>
 </center>
@@ -116,7 +116,7 @@ Avaliação do usuário com relação a função de acompanhamento de itinerári
 Dada algumas opções, o usuário pode sugerir algumas melhorias propostas no questionário.
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQSFuncionalidades.png" width = 700px>
+<img src = "../assets/QueQSFuncionalidades.png" width = 700px>
 <p>Figura9: Pergunta 09, Sugestão de melhorias</p>
 <br><br>
 </center>
@@ -126,34 +126,34 @@ Dada algumas opções, o usuário pode sugerir algumas melhorias propostas no qu
 Avaliação do usuário á cerca das funcionalidades propostas.
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQSAvalFuncionalidade.png" width = 700px>
+<img src = "../assets/QueQSAvalFuncionalidade.png" width = 700px>
 <p>Figura10: Pergunta 10, Sugestão de melhorias</p>
 <br><br>
 </center>
 
 ### **Perguntas abertas**
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQAFuncionalidades.png" width = 700px>
+<img src = "../assets/QueQAFuncionalidades.png" width = 700px>
 <p>Figura11: Pergunta 11, Perguntas Abertas</p>
 <br><br>
 </center>
 
 <center>
-<img src = "https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQASaldo.png" width = 700px>
+<img src = "../assets/QueQASaldo.png" width = 700px>
 <p>Figura12: Pergunta 12, Perguntas Abertas</p>
 <br><br>
 </center>
 
 
 <center>
-<img src ="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQAExtratoDeUso.png" width = 700px>
+<img src ="../assets/QueQAExtratoDeUso.png" width = 700px>
 <p>Figura13: Pergunta 13, Perguntas Abertas</p>
 <br><br>
 </center>
 
 
 <center>
-<img src ="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Img/QueQAItinerario.png" width = 700px>
+<img src ="../assets/QueQAItinerario.png" width = 700px>
 <p>Figura14: Pergunta 14, Perguntas Abertas</p>
 <br><br>
 </center>
