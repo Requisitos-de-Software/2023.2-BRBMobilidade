@@ -10,18 +10,34 @@ A principal função desse artefato é apresentar os resultados obtidos a partir
 
 ## **Metodologia**
 
-Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Caio Braga. As respostas poderão ser assinaladas com as opções **Sim**, **Não** e **Incompleto** ou **N/A (Não se aplica)**. Cada avaliador poderá também fazer observações em cada item do checklist.
+Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Caio Braga. As respostas poderão ser assinaladas com as opções **Sim**, **Não** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
+
+## **Lista de Verificação**
 
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha o conjunto de regras de fontes, padrões de commit e outras regras de uso acordadas em grupo.
 
-## **Gravação com os avaliadores**
+## **Inspeção em Dupla**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7gbrkKjb3y8?si=JuRd809MptE2Z-Tr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## **Lista de Verificação**
+## **Inspeção Individual** 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z72MrZO9AAQ?si=Afi2jWkiTvTapmXC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 ## **Correções sugeridas**
+
+Após a inspeção, foram identificados e levados até o dono do artefato, Doan Filho, os seguintes problemas para correção:
+
+- Adicionar tópico de Objetivo do artefato
+- Separar Referências Bibliográficas de Bibliografias
+- Arrumar imagem quebrada no Tópico "Imagens: tag, link referênciado, padrão, legendas."
+
+
+## **Reunião com Doan Filho**
 
 
 ## **Bibliografia**
@@ -34,4 +50,5 @@ Espera-se que esse documento contenha o conjunto de regras de fontes, padrões d
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento  |   Caio Braga   |   25/11/2023   |  |  19/11/2023    |
+|  1.0   | Criação do documento  |   Caio Braga   |   25/11/2023   | Caio Lelis |  27/11/2023   |
+| 1.1   | Adição de conteúdo  |   Caio Lelis   |   27/11/2023   |  |  --/--/2023    |
