@@ -45,13 +45,11 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 | RF06 | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | BS06 | Sim | 
 | RF07 | O aplicativo permite cadastrar métodos de pagamento. | BS07 | Sim |
 | RF08 | O usuário deve ser capaz de realizar cadastro | BS08 | Sim |
-| RF09 | O usuário deve ser capaz de realizar login | BS09 | Sim |
-| RF10 | O usuário deve fornecer sua localização | BS10 | Sim |
-| RF11 | Fornecer a possibilidade de Recuperar a senha do usuário. | BS14 | Sim |
-| RF12 | Integrar funcionalidades de navegação e mapas para mostrar os pontos de recarga | BS15 | Não |
-| RF13 | Deve apresentar a possibilidade de bloqueio/cancelamento do cartão | BS17 | Sim |
-| RF14 | Deve mostrar o histórico de utilização do cartão. | BS18 | Sim |
-| RF15 | Possibilidade de favoritar linhas de ônibus. | BS20 | Sim |
+| RF10 | O usuário deve fornecer sua localização | BS09 | Sim |
+| RF11 | Fornecer a possibilidade de Recuperar a senha do usuário. | BS10 | Sim |
+| RF13 | Deve apresentar a possibilidade de bloqueio/cancelamento do cartão | BS11 | Sim |
+| RF14 | Deve mostrar o histórico de utilização do cartão. | BS12 | Sim |
+| RF15 | Possibilidade de favoritar linhas de ônibus. | BS13 | Sim |
 
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Tabela dos Requisitos Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
@@ -61,11 +59,9 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 
 | Tipo   | Funcionalidade                                       | ID   | Implementado |
 | :---:  | :--------------------------------------------------: | :--: | :----------: |
-| RNF01 | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. | BS11 | Sim |
-| RNF02 | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | BS12 | Sim |
-| RNF03 | Fornecer feedback ao usuário sobre a recarga e outras interações relevantes. | BS13 | Não |
-| RNF04 | Deve fornecer informações quanto a obtenção do cartão | BS16 | Sim |
-| RNF05 | Fornecer informações de contato | BS19 | Sim |
+| RNF01 | Garantir compatibilidade com sistemas operacionais Android e iOS. | BS14 | Sim |
+| RNF02 | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | BS15 | Sim |
+| RNF03 | Fornecer feedback ao usuário sobre a recarga e outras interações relevantes. | BS16 | Não |
 
 <div style="text-align: center">
     <p> <b>Tabela 2</b>: Tabela dos Requisitos Não Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>

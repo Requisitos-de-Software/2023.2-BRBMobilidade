@@ -40,7 +40,7 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RF09   | O usuário deve ser capaz de realizar cadastro | IS10 | Não | Alta |
 | RF10   | O usuário deve ser capaz de realizar login | IS11 |Não  | Alta |
 | RF11   | O usuário deve fornecer sua localização | IS12 | Não | Média |
-| RF12   | Deve ser capaz de consultar o extrato | OBS01 | Sim | Média |
+| RF12   | Deve ser capaz de consultar o extrato | OBS01 | Sim | Média |  #Apagar
 | RF13   | O aplicativo deve permitir a visualização de linhas e horários | OBS02 | Sim | Alta |
 | RF14   | Deve ser possível fazer a recarga do saldo | OBS03 | Sim | Alta |
 | RF15   | Deve ser possível salvar rotas | OBS04 | Sim | Baixa |
@@ -66,6 +66,8 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RF29   | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado | Q08 | Não | Média |
 | RF30   | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso | Q09 | Não | Baixa |
 | RF31   | O aplicativo deve fornecer notificações de depósito ao usuário | Q10 | Sim | Alta |
+| RF32   | Fornecer a possibilidade de Recuperar a senha do usuário. | BS10 | Sim | Alta |
+| RF33   | Possibilidade de favoritar linhas de ônibus. | BS** | Sim | Não | Média |
 | RNF07  | O aplicativo deve fornecer segurança ao usuário com dados cadastrados | Q11 | Sim | Alta |
 | RNF08  | O aplicativo deve rastrear os ônibus via GPS | Q12 | Sim | Média |
 | RNF09  | O aplicativo deve ser otimizado | Q12 | Sim | Alta |

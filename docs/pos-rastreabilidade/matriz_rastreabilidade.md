@@ -74,6 +74,16 @@ A partir dos documentos backward e forward, foram identificados os requisitos fu
 | RF   | RF28                       | O aplicativo tem opção de pagamento via cartão de crédito. | Q07 | [US07](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) ,  [Épico Pagamento](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/) ,  [Cenário 07](http://127.0.0.1:8000/Modelagem/01-cenarios/) , [LV01, LO01, LO03, LO04, LO06](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/) , [UC02](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/)     |
 | RF   | RF29                       | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado. | Q08 |    [US16](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/) ,   [Épico 08](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/)    ,    [Cenário 03](http://127.0.0.1:8000/Modelagem/01-cenarios/)   ,       [LV03, LO02, LO03, LO04, LO06](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/)      |
 | RF   | RF30                       | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso. | Q09 | [US19](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/)   , [Épico 19](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/)   ,  [Cenário 06](http://127.0.0.1:8000/Modelagem/01-cenarios/)     ,   [LV01, LV03, LV04, LO03, LO04, LO05, LE01](http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/)    ,    [UC05](http://127.0.0.1:8000/Modelagem/03-casos-de-uso/) |
+| RNF  | RNF01 | Garantir compatibilidade com sistemas operacionais Android e iOS. | IS13, BS14 | -                   |
+| RNF  | RNF02 | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. | IS14 | -                   |
+| RNF  | RNF03 | Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | IS15, BS15 | -                   |
+| RNF  | RNF04 | Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. | IS16, BS16, OBS10 | -                   |
+| RNF  | RNF05 | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 | -                   |
+| RNF  | RNF06 | Deve ser de código aberto e gratuito. | IS18 | -                   |
+| RNF  | RNF07 | O aplicativo deve fornecer segurança ao usuário com dados cadastrados. | Q10 | -                   |
+| RNF  | RNF08| O aplicativo deve rastrear os ônibus via GPS. | Q11 | -                   |
+| RNF  | RNF09 | O aplicativo deve ser otimizado. | Q12 | -                   |
+| RNF  | RNF10 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 | -                   |
 
 
 <div style="text-align: center">

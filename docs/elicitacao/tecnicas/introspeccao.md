@@ -35,6 +35,7 @@ ISx: Requisito nºx elicitado pela introspecção.
 | RF04   | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04 | Sim   |
 | RF05   | Suportar informações em tempo real sobre o status dos transportes públicos. | IS05 | Sim     |
 | RF06   | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | IS06 | Sim    |
+| RF12 | Fornecer a possibilidade de recuperar a senha do usuário. | IS07 | Sim |
 | RF07   | O aplicativo deve permitir cadastrar métodos de pagamento. | IS08 | Sim     |
 | RF08   | Deve ser possível personalizar a aparência da interface do usuário. | IS09 |  Não    |
 | RF09   | O usuário deve ser capaz de realizar cadastro | IS10 |    Sim          |
