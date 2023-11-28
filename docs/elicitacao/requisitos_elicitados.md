@@ -61,6 +61,8 @@ As seguintes tabelas apresentam, respectivamente, os requisitos funcionais e nã
 | RF29 | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso. | Q09 |
 | RF30 | Possibilidade de favoritar linhas de ônibus. | BS13|
 
+**Tabela 1**: Requisitos funcionais elicitados (Fonte: autores)
+
 ### Tabela de Requisitos Não Funcionais
 
 
@@ -77,7 +79,7 @@ As seguintes tabelas apresentam, respectivamente, os requisitos funcionais e nã
 | RNF09 | O aplicativo deve ser otimizado. | Q12 |
 | RNF10 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 |
 
-
+**Tabela 2**: Requisitos não funcionais elicitados (Fonte: autores)
 
 
 ## **Histórico de Versões**
