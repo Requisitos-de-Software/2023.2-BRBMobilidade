@@ -34,9 +34,9 @@ Espera-se que esse documento contenha o conjunto de regras de fontes, padrões d
 
 Após a inspeção, foram identificados e levados até o dono do artefato, Doan Filho, os seguintes problemas para correção:
 
-- Adicionar tópico de Objetivo do artefato
-- Separar Referências Bibliográficas de Bibliografias
-- Arrumar imagem quebrada no Tópico "Imagens: tag, link referênciado, padrão, legendas."
+- Adicionar tópico de Objetivo do artefato;
+- Separar Referências Bibliográficas de Bibliografias;
+- Arrumar imagem quebrada no Tópico "Imagens: tag, link referênciado, padrão, legendas".
 
 ## **Bibliografia**
 
