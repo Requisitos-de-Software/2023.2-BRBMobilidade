@@ -28,7 +28,7 @@ Espera-se que esse documento contenha a separação dos requisitos em épicos, f
 
 ## **Inspeção Individual** 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z72MrZO9AAQ?si=Afi2jWkiTvTapmXC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fpRtQzYuiRc?si=XpL83n36CVmosnpX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -36,8 +36,11 @@ Espera-se que esse documento contenha a separação dos requisitos em épicos, f
 
 Após a inspeção, foram identificados e levados até o dono do artefato, Doan Filho, os seguintes problemas para correção:
 
-- Problema 01
-- Problema 02
+- A tabela do Backlog está muito pouco legível, tendo em vista que está muito extensa e expremida. Sendo assim, é necessário que seja feita uma nova tabela, com as mesmas informações, porém com uma melhor visualização;
+- Referência Bibliográfica: é necessário que seja feita uma referência bibliográfica para o artefato Backlog, pois não há nenhuma referência no documento, apenas uma indicação de nome de professores;
+- Padronização de tamanho de Títulos;
+- No item "Temas", encontra-se um erro de português, onde está escrito "o" ao invés de "ao";
+- Gravação não condiz com nada do documento de Backlog.
 
 ## **Bibliografia**
 
@@ -50,3 +53,4 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Caio Lelis   |   03/12/2023   |  |     |
+| 1.1   | Adição de conteúdo  |   Caio Lelis   |   03/12/2023   |  |     |
