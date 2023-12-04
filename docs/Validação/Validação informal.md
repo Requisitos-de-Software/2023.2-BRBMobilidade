@@ -3,7 +3,7 @@
 
 ## **Introdução**
 
-Esse documento se trata da etapa de comprovação informal do artefato Cenários produzido pelo nosso grupo no decorrer do projeto.
+Esse documento se trata da etapa de comprovação informal do projeto produzido pelo nosso grupo no decorrer do semestre.
 
 ## **Metodologia**
 
