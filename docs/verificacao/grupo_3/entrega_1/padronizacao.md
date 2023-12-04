@@ -10,9 +10,11 @@ A principal função desse artefato é apresentar os resultados obtidos a partir
 
 ## **Metodologia**
 
-Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Caio Braga. As respostas poderão ser assinaladas com as opções **Sim**, **Não** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
+Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Caio Braga. As respostas poderão ser assinaladas com as opções **Conforme**, **Não Conforme** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
 
 ## **Lista de Verificação**
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5SXgpqZXJbIhdXZ6nl3yolDHUpTNSR4nyP1HNseXq9qQDr_6_xIMxQP-l8NG62kUKuAQUFXtBeUvu/pubhtml?gid=1786891033&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha o conjunto de regras de fontes, padrões de commit e outras regras de uso acordadas em grupo.
@@ -35,10 +37,6 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 - Adicionar tópico de Objetivo do artefato
 - Separar Referências Bibliográficas de Bibliografias
 - Arrumar imagem quebrada no Tópico "Imagens: tag, link referênciado, padrão, legendas."
-
-
-## **Reunião com Doan Filho**
-
 
 ## **Bibliografia**
 
