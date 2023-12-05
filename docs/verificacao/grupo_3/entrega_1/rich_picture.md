@@ -42,5 +42,4 @@ As principais correções/sugestões observadas foram:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento  |   Caio Braga   |   25/11/2023   | Gabriel Barbosa |  19/11/2023    |
-|  1.1   | Finalização documento  | Gabriel Barboa | 03/12/2023 |  Guilherme Basílio  |  04/11/2023      |
+|  1.0   | Finalização documento  | Gabriel Barboa | 03/12/2023 |  Guilherme Basílio  |  04/11/2023      |
