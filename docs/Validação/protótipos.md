@@ -14,6 +14,7 @@ Cada integrante do grupo tem o dever de selecionar um requisito não implementad
 | Requisito | Descrição | Integrante |
 |:---------:|:---------:|:----------:|
 | RF02 | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. | Caio Lelis |
+| RF27 | O aplicativo tem opção de pagamento via cartão de crédito. | Caio Braga |
 
 <div style="text-align: center">
 <p>Tabela de requisitos selecionados pelos integrantes. Fonte: LELIS,Caio</p>
@@ -22,13 +23,9 @@ Cada integrante do grupo tem o dever de selecionar um requisito não implementad
 
 ## *Protótipo de alta fidelidade*
 
-### *RF02 - Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens.*
 
-#### Descritivo do requisito
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCJHhvdYCuzGETzEC38SZ4m%2FPrototipoRequisitos%3Ftype%3Ddesign%26node-id%3D1-60%26t%3DK3Zlene7GlIdBznF-1%26scaling%3Dscale-down%26page-id%3D0%3A1%26starting-point-node-id%3D1%3A60%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 
-O requisito se trata da possibilidade de acessar os itinerários detalhados de ônibus, facilitando o planejamento de viagens. O usuário poderá acessar os itinerários de cada linha de ônibus, podendo visualizar as paradas e os horários de saídas dos ônibus.
-
-(protótipo )
 
 
 ## *Participantes da validação*
