@@ -1,4 +1,4 @@
-# **Verificação dos Rich Picture**
+# **Verificação do Rich Picture**
 
 ## **Introdução**
 

@@ -128,19 +128,8 @@ nav:
     - Grupo 3:
 
       - Entrega 1:
-          - Verificação da Página Inicial: verificacao/grupo_3/entrega_1/pagina_inicial.md
-          - Verificação da Atas: verificacao/grupo_3/entrega_1/atas.md
-          - Verificação da Apresentações: verificacao/grupo_3/entrega_1/apresentacoes.md
-          - Verificação do Planejamento:
-            - Verificação do Aplicativo selecionado:  verificacao/grupo_3/entrega_1/aplicativo_selecionado.md
-            - Verificação dos Cronogramas: verificacao/grupo_3/entrega_1/cronogramas.md
-            - Verificação das Ferramentas: verificacao/grupo_3/entrega_1/ferramentas.md
-            - Verificação do HeatMap: verificacao/grupo_3/entrega_1/heatmap.md
-            - Verificação da Padronização: verificacao/grupo_3/entrega_1/padronizacao.md
-            - Verificação do Metodologia: verificacao/grupo_3/entrega_1/metodologia.md
-
           - Verificação da Pré-Rastreabilidade:
-            - Verificação das Rich Picture: verificacao/grupo_3/entrega_2/richpicture.md
+            - Verificação do Rich Picture: verificacao/grupo_3/entrega_1/rich_picture.md
 
       - Entrega 2: 
         - Questionário: verificacao/grupo_3/entrega_2/questionario.md 
