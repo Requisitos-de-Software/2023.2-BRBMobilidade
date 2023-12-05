@@ -143,10 +143,13 @@ nav:
             - Verificação das Rich Picture: verificacao/grupo_3/entrega_2/richpicture.md
 
       - Entrega 2: 
-        - Questionário: verificacao/grupo_3/entrega_2/questionario.md  
+        - Questionário: verificacao/grupo_3/entrega_2/questionario.md 
+        - Brainstorming: verificacao/grupo_3/entrega_2/brainstorming.md
+        - Moscow: verificacao/grupo_3/entrega_2/moscow.md 
 
       - Entrega 3:
         - Backlog: verificacao/grupo_3/entrega_3/backlog.md
+        - Histórias de Usuário: verificacao/grupo_3/entrega_3/historias_de_usuario.md
   - Validação:
      - Validação Informal: Validação/Validação informal.md
      - Protótipos: Validação/protótipos.md
