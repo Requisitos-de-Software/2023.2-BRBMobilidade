@@ -40,11 +40,22 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 - Adicionar por que estar usando este método de elicitação
 - Colocar Perfil de Usuário em outro documento, tendo em vista que ele não é usado em várias etapas do projeto 
 
+
+## **Resultados obtidos**
+
+
+A figura abaixo mostra a relação entre os itens avaliados e a quantidade de avaliadores que marcaram como **Conforme**, **Não Conforme** ou **Incompleto**.
+
+<center>
+
+**Gráfico 1**: Relação entre os itens avaliados e a quantidade de avaliadores que marcaram como **Conforme**, **Não Conforme** ou **Incompleto**.
+</center>
+
+<script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Market Share Pie Chart Square" data-url="g76p71p0-new-project" data-w="1200" data-full-h="false" data-h="1500" data-domain="my"></div><p style="width:100px !important;border-radius:3px !important;padding:3px !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Feito com <a href="https://www.visme.co/?vc=Made-With-Visme&amp;utm_medium=Embed" target="_blank" rel="noreferrer" style="font-weight:600 !important;text-decoration:none !important;font-size:12px !important;font-family:Arial, sans-serif !important;color:#314152 !important;white-space:nowrap !important">Visme</a></p>
+
 ## **Bibliografia**
 
->
->
->
+> WIEGERS, Karl; BEATTY, Joy. Software Requirements (Developer Best Practices), 3rd Edition, Microsoft Press, 2013
 
 ## **Histórico de Versões**
 

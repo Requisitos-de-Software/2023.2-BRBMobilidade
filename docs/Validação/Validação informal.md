@@ -1,6 +1,6 @@
 # Comprovação Informal
 
-
+para acessar as fontes das checklists, clique [aqui](https://docs.google.com/document/d/e/2PACX-1vTyUZUtw77vPkA8yL0uji0dCiCu7rNPhE-Oag0EPp_I50hfjsIkhiW5cIKBOpcKFBDebFkdDp4rdtE2/pub)
 ## **Introdução**
 
 Esse documento se trata da etapa de comprovação informal do projeto produzido pelo nosso grupo no decorrer do semestre.

@@ -1,0 +1,5581 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../preparacao_forward_from/">
+      
+      
+        <link rel="next" href="../matriz_rastreabilidade/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.3.1">
+    
+    
+      
+        <title>Forward From - BRB Mobilidade</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.046329b4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.85d0ee34.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="blue">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#forward-from" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="BRB Mobilidade" class="md-header__button md-logo" aria-label="BRB Mobilidade" data-md-component="logo">
+      
+  <img src="../../planejamento/assets/LogoBRBMOBILIDADE.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            BRB Mobilidade
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Forward From
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2023.2-BRBMobilidade
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Página Inicial
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../apresentacoes/gravacoes/" class="md-tabs__link">
+        
+  
+    
+  
+  Apresentações
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../atas/reuniao_01/" class="md-tabs__link">
+          
+  
+  Atas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../planejamento/aplicativo_selecionado/" class="md-tabs__link">
+          
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../pre-rastreabilidade/rich_picture/" class="md-tabs__link">
+          
+  
+  Pré-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../elicitacao/perfil_do_usuario/" class="md-tabs__link">
+          
+  
+  Elicitação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../modelagem/cenarios/" class="md-tabs__link">
+          
+  
+  Modelagem
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../backward_from/" class="md-tabs__link">
+          
+  
+  Pós-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../verificacao/grupo_4/planejamento_verificacao_grupo4/" class="md-tabs__link">
+          
+  
+  Verificação
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Valida%C3%A7%C3%A3o/Valida%C3%A7%C3%A3o%20informal/" class="md-tabs__link">
+          
+  
+  Validação
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="BRB Mobilidade" class="md-nav__button md-logo" aria-label="BRB Mobilidade" data-md-component="logo">
+      
+  <img src="../../planejamento/assets/LogoBRBMOBILIDADE.png" alt="logo">
+
+    </a>
+    BRB Mobilidade
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2023.2-BRBMobilidade
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Página Inicial
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/gravacoes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao_05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 5
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/aplicativo_selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativo escolhido
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronogramas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    HeatMap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/padronizacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Padronização
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/termos_de_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Termos de uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/rich_picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/perfil_do_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+        
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/brainstorming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/in_or_out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/three_level_scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Three Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/moscow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MoSCow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/requisitos_elicitados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/casos_de_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especificacao_suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+        
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/agil/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/agil/historia_de_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/agil/nfr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" checked>
+        
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../backward_from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../preparacao_forward_from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Preparação Forward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Forward From
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Forward From
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    Objetivo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-funcionais" class="md-nav__link">
+    Requisitos Funcionais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-nao-funcionais" class="md-nav__link">
+    Requisitos Não Funcionais
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rastreabilidade" class="md-nav__link">
+    Rastreabilidade
+  </a>
+  
+    <nav class="md-nav" aria-label="Rastreabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-analisados-por-miguel-de-frias" class="md-nav__link">
+    Requisitos analisados por Miguel de Frias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-por-doan-filho" class="md-nav__link">
+    Requisitos elicitados por Doan Filho
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-analisados-por-joel" class="md-nav__link">
+    Requisitos analisados por Joel:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-analisados-por-gabriel" class="md-nav__link">
+    Requisitos analisados por Gabriel:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-analisados-pelo-caio-braga" class="md-nav__link">
+    Requisitos analisados pelo Caio Braga:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-responsaveis-pela-analise-do-integrante-guilherme-basilio" class="md-nav__link">
+    Requisitos responsáveis pela análise do integrante Guilherme Basilio:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-responsaveis-pela-analise-do-integrante-caio-lelis" class="md-nav__link">
+    Requisitos responsáveis pela análise do integrante Caio Lelis:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../matriz_rastreabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1" >
+        
+          <label class="md-nav__link" for="__nav_9_1" id="__nav_9_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grupo +1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo +1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/planejamento_verificacao_grupo4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação do Grupo 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_2" >
+        
+          <label class="md-nav__link" for="__nav_9_1_2" id="__nav_9_1_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_2_1" >
+        
+          <label class="md-nav__link" for="__nav_9_1_2_1" id="__nav_9_1_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação do Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_1_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação do Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_1/aplicativo_selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Aplicativo selecionado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_1/cronogramas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação dos Cronogramas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_1/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação das Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_1/metodologia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Metodologia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_2_2" >
+        
+          <label class="md-nav__link" for="__nav_9_1_2_2" id="__nav_9_1_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação da Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_1_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação da Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_2/richpicture.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação das Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_3" >
+        
+          <label class="md-nav__link" for="__nav_9_1_3" id="__nav_9_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_2/perfil_de_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_2/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação da Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_3_3" >
+        
+          <label class="md-nav__link" for="__nav_9_1_3_3" id="__nav_9_1_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação das Técnicas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_1_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação das Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_2/brainstorming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação dos Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_2/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação dos Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_3_4" >
+        
+          <label class="md-nav__link" for="__nav_9_1_3_4" id="__nav_9_1_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação da Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_1_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação da Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_2/%24100/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do $100
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_2/fist_things_first.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação das First Thing First
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_2/three_level_scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação das Three Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_4" >
+        
+          <label class="md-nav__link" for="__nav_9_1_4" id="__nav_9_1_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_3/planejamento_entrega_3.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_3/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação da Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_3/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_3/casos_de_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_3/especificacao_suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_5" >
+        
+          <label class="md-nav__link" for="__nav_9_1_5" id="__nav_9_1_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_4/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_4/historias_de_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_4/entrega_4/nfr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do NFR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2" >
+        
+          <label class="md-nav__link" for="__nav_9_2" id="__nav_9_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grupo 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_1" >
+        
+          <label class="md-nav__link" for="__nav_9_2_1" id="__nav_9_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_1_1" >
+        
+          <label class="md-nav__link" for="__nav_9_2_1_1" id="__nav_9_2_1_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação da Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_2_1_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_1_1">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação da Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_1/rich_picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_2" >
+        
+          <label class="md-nav__link" for="__nav_9_2_2" id="__nav_9_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_2/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_2_2" >
+        
+          <label class="md-nav__link" for="__nav_9_2_2_2" id="__nav_9_2_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas de Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_2_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_2/brainstorming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_2/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_2/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_2_3" >
+        
+          <label class="md-nav__link" for="__nav_9_2_2_3" id="__nav_9_2_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas de Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_2_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_2/moscow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MoSCow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_2/threlevelscale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Three Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_3" >
+        
+          <label class="md-nav__link" for="__nav_9_2_3" id="__nav_9_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_3/casosdeuso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_3/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_3/especificacao_suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_3/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_3_5" >
+        
+          <label class="md-nav__link" for="__nav_9_2_3_5" id="__nav_9_2_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_2_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_3/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_3/historias_de_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_3/nfr_framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_4" >
+        
+          <label class="md-nav__link" for="__nav_9_2_4" id="__nav_9_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_4/BackwardFrom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_4/forwardfrom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo_3/entrega_4/matriz/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Validação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Validação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Valida%C3%A7%C3%A3o/Valida%C3%A7%C3%A3o%20informal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Validação Informal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Valida%C3%A7%C3%A3o/prot%C3%B3tipos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protótipos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    Objetivo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-funcionais" class="md-nav__link">
+    Requisitos Funcionais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-nao-funcionais" class="md-nav__link">
+    Requisitos Não Funcionais
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rastreabilidade" class="md-nav__link">
+    Rastreabilidade
+  </a>
+  
+    <nav class="md-nav" aria-label="Rastreabilidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-analisados-por-miguel-de-frias" class="md-nav__link">
+    Requisitos analisados por Miguel de Frias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-elicitados-por-doan-filho" class="md-nav__link">
+    Requisitos elicitados por Doan Filho
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-analisados-por-joel" class="md-nav__link">
+    Requisitos analisados por Joel:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-analisados-por-gabriel" class="md-nav__link">
+    Requisitos analisados por Gabriel:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-analisados-pelo-caio-braga" class="md-nav__link">
+    Requisitos analisados pelo Caio Braga:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-responsaveis-pela-analise-do-integrante-guilherme-basilio" class="md-nav__link">
+    Requisitos responsáveis pela análise do integrante Guilherme Basilio:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#requisitos-responsaveis-pela-analise-do-integrante-caio-lelis" class="md-nav__link">
+    Requisitos responsáveis pela análise do integrante Caio Lelis:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="forward-from">Forward From</h1>
+<h2 id="introducao"><strong>Introdução</strong></h2>
+<p>Este artefato objetiva-se a elucidar a rastreabilidade dos requisitos elicitados ao longo do desenvolvimento do projeto. Neste caso, associaremos os requisitos às implementações ou aos artefatos de desenhos, utilizando a técnica Forward-from.</p>
+<h2 id="objetivo"><strong>Objetivo</strong></h2>
+<p>O principal objetivo será realizar de maneira objetiva o requisito à sua operacionalização. A partir deste artefato, poder-se-á concluir se os os requisitos levantados já possuem implementação, e disponibilizá-la na nossa documentação. Caso não haja implementação de determinado requisito, será possível verificar uma possível implementação através de um protótipo de alta fidelidade. Dessa forma, será possível ter uma compreensão abrangente do estado da aplicação, e como ela poderá receber futuras melhorias através das soluções propostas.</p>
+<h2 id="metodologia"><strong>Metodologia</strong></h2>
+<p>Os requisitos funcionais e não funcionais previmente elicitados foram estruturados para criar as tabelas a seguir. Dessa forma, foi necessário verificar a implementação dos requisitos, ou efetuar a criação dos protótipos caso não tivessem implementados na aplicação. Cada requisito foi analisado por determinado aluno, cobrindo assim todos os requisitos elicitados.</p>
+<p>As <em>Tabelas 1 e 2</em> apresentam os modelos que serão utilizados no processo para os requisitos funcionais e não funcionais, respectivamente:</p>
+<h3 id="requisitos-funcionais">Requisitos Funcionais</h3>
+<p>Tabela 01</p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="">RFXX</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="">USXX</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="">ÉpicoXX</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">CenárioXX</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="">LéxicoXX</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">Caso de UsoXX</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="">Fonte de ElicitaçãoXX</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td>vídeo/foto</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: LELIS, Caio.</p>
+<h3 id="requisitos-nao-funcionais">Requisitos Não Funcionais</h3>
+<p>Tabela 02</p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="">RNFXX</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="">NFRXX</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="">Especificação SuplementarXX</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="">Fonte de ElicitaçãoXX</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: LELIS, Caio.</p>
+<h2 id="rastreabilidade"><strong>Rastreabilidade</strong></h2>
+<p>Nesta seção serão mostradas as tabelas dos requisitos implementados e não implementados pelo BRB Mobilidade. Dessa forma, as Tabelas de 3 a 45 representam as rastreabilidades dos requisitos funcionais e não funcionais elicitados.</p>
+<h3 id="requisitos-analisados-por-miguel-de-frias"><strong>Requisitos analisados por Miguel de Frias</strong></h3>
+<p><br></p>
+<p><center></p>
+<p><strong>Tabela 03 - Requisito Funcional 01</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Consultar saldo e extrato de uso do cartão de mobilidade.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados">RF01</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us01-consultar-saldo-e-extrato-de-uso-do-cartao-de-mobilidade">US01</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog">Consulta</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-3-consultar-saldo-disponivel">Cenário03</a></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar">LV03</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso">UC05</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais">IS01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">BS01</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/Miguel-RF01.jpeg" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: DE FRIAS, Miguel</p>
+<p><br></p>
+<p><strong>Tabela 04  - Requisito Funcional 02</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados">RF02</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us02-acessar-itinerarios-detalhados-de-onibus">US02</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog">Consulta</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-2-visualizacao-de-linhas-e-horarios">Cenário02</a></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l05-transporte">LO5</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios">UC03</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais">IS02</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">BS02</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/Miguel-RF02.jpeg" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: DE FRIAS, Miguel</p>
+<p><br></p>
+<p><strong>Tabela 05  - Requisito Funcional 03</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Realizar recargas de créditos no cartão.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados">RF03</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us03-realizar-recargas-de-creditos-no-cartao">US03</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog">Recarga</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-1-realizar-recarga">Cenário01</a></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao">LO2</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc02-realizar-recarga">UC02</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais">IS03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">BS03</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/Miguel-RF03.jpeg" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: DE FRIAS, Miguel</p>
+<p><br></p>
+<p><strong>Tabela 06  - Requisito Funcional 04</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados">RF04</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us04-interagir-com-um-chatbot-para-esclarecer-duvidas">US04</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog">Acessibilidade</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l07-chatbot">LO7</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais">IS04</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">BS04</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/Miguel-RF04.jpeg" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: DE FRIAS, Miguel</p>
+<p><br></p>
+<p><strong>Tabela 07  - Requisito Funcional 05</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Suportar informações em tempo real sobre o status dos transportes públicos.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados">RF05</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us05-suportar-informacoes-em-tempo-real-sobre-o-status-dos-transportes-publicos">US05</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog">Estabilidade</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo1-suporte">LO1</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais">IS05</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">BS05</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/Miguel-RF05.jpeg" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: DE FRIAS, Miguel</p>
+<p><br></p>
+<p><strong>Tabela 08  - Requisito Funcional 06</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus para o usuário.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados">RF06</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us06-integrar-funcionalidades-de-navegacao-e-mapas">US07</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog">Integração</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario">LO3</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais">IS06</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">BS06</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/Miguel-RF06.jpeg" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: DE FRIAS, Miguel</p>
+<p><br></p>
+<p></center></p>
+<h3 id="requisitos-elicitados-por-doan-filho"><strong>Requisitos elicitados por Doan Filho</strong></h3>
+<p><br></p>
+<p><center></p>
+<p><strong>Tabela 09- Requisito Funcional 07</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve permitir cadastrar métodos de pagamento.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/https://requisitos">RF07</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US07</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Pagamento</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/">Cenário07</a></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/">L06</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/">LE2</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/">UC02</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/">BS07</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF07.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: FILHO, Doan.</p>
+<p><br></p>
+<p><strong>Tabela 11 - Requisito Funcional 08</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Deve ser possível personalizar a aparência da interface do usuário.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/">RF08</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US10</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Acessibilidade</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#descricao">L04</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#descricao">LE3</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/">IS09</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF08.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: FILHO, Doan.</p>
+<p><br></p>
+<p><strong>Tabela 13 - Requisito Funcional 09</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de realizar cadastro.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">RF09</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US08</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog">Autenticação</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/">L03</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="">BS08</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF09.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: FILHO, Doan.</p>
+<p><br></p>
+<p><strong>Tabela 15 -  Requisito Funcional 10</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve ser capaz de realizar login.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">RF10</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us01-consultar-saldo-e-extrato-de-uso-do-cartao-de-mobilidade">US08</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Autenticação</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#Acessar">LV1</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#Acessar">LV3</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#casos-de-uso-especificacao">UC01</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-funcionais">IS12</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF10.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: FILHO, Doan.</p>
+<p><br></p>
+<p><strong>Tabela 17 - Requisito Funcional 11</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário deve fornecer sua localização.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">RF11</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US09</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog">Consultas</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv2-buscar">LV2</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv2-buscar">LV3</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">BS10</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF11.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: FILHO, Doan.</p>
+<p><br></p>
+<p><strong>Tabela 19 - Requisito Funcional 12</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Deve ser capaz de consultar o extrato.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabelas-de-requisitos">RF12</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#metodologia">US01</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog">Consultas</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-6-consultar-extrato-de-uso">Cenário 06</a></td>
+</tr>
+<tr>
+<td>Léxicos</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv4-exibir-extrato-de-uso">LV4</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar">LV3</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso">Uc05</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/">BS01</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/DoanFilho-RF12.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: FILHO, Doan. </p>
+<p><br>
+</center></p>
+<h3 id="requisitos-analisados-por-joel"><strong>Requisitos analisados por Joel:</strong></h3>
+<p><center>
+<br></p>
+<p><strong>Tabela 21: Requisito Funcional 13</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve permitir a visualização de linhas e horários.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=M%C3%A9dia-,RF13,-O%20aplicativo%20deve">RF13</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us12-visualizar-linhas-e-horarios-de-onibus">US12</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Informações</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-2-visualizacao-de-linhas-e-horarios">Cenário 02</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar">LV03</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios">UC03</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#requisitos-elicitados">OBS02</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF26.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: SOARES, Joel. BRAGA, Caio</p>
+<p><br></p>
+<p><strong>Tabela 22: Requisito Funcional 14</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Deve ser possível fazer a recarga do saldo.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=Alta-,RF14,-Deve%20ser%20poss%C3%ADvel">RF14</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us03-realizar-recargas-de-creditos-no-cartao">US03</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Recarga</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-1-realizar-recarga">Cenário 01</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le2-saldo-disponivel">LE2</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao">LO2</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao">LO6</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc02-realizar-recarga">UC02</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">Observação</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF14.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: SOARES, Joel. BRAGA, Caio</p>
+<p><br></p>
+<p><strong>Tabela 23: Requisito Funcional 15</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Deve ser possível salvar rotas</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=Alta-,RF15,-Deve%20ser%20poss%C3%ADvel">RF15</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us14-salvar-rotas-personalizadas">US14</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-2-visualizacao-de-linhas-e-horarios">Cenário 02</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l05-transporte">LO5</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc03-visualizar-linhas-e-horarios">UC03</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">Observação</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF15.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: SOARES, Joel. BRAGA, Caio</p>
+<p><br></p>
+<p><strong>Tabela 24: Requisito Funcional 16</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Deve ser possível alterar informações de cadastro</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=Baixa-,RF16,-Deve%20ser%20poss%C3%ADvel">RF16</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario">LO3</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc01-fazer-login">UC01</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">Observação</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF16-2.png" style="height:30vw"></img> <img src="../assets/RF16-1.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: SOARES, Joel. BRAGA, Caio</p>
+<p><br></p>
+<p><strong>Tabela 25: Requisito Funcional 17</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve fornecer uma seção de comunicação direta</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o%20de%20requisitos/Three%20Level%20Scale/#requisitos-priorizados:~:text=Alta-,RF17,-O%20aplicativo%20deve">RF17</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us15-fornecer-secao-de-comunicacao-direta">US15</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/#product-backlog:~:text=M%C3%A9dia-,Informa%C3%A7%C3%B5es,-Visualiza%C3%A7%C3%A3o%20de%20linhas">Informações</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface">LO4</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">Observação</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/Miguel-RF04.jpeg" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: SOARES, Joel. BRAGA, Caio</p>
+<p><br></p>
+<p><strong>Tabela 23: Requisito Funcional 18</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve fornecer ajuda com perguntas frequentes.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">RF18</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us15-fornecer-secao-de-comunicacao-direta">US15</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us04-interagir-com-um-chatbot-para-esclarecer-duvidas">US04</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 20</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo1-suporte">LO01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar">LV01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario">LO03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface">LO04</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l07-chatbot">LO07</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">OBS10</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF21.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: SOARES, Joel. BRAGA, Caio</p>
+<p><br>
+</center></p>
+<h3 id="requisitos-analisados-por-gabriel"><strong>Requisitos analisados por Gabriel:</strong></h3>
+<p><center></p>
+<p><br></p>
+<p><strong>Tabela 21: Requisito Funcional 19</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Deve ser possível acessar informações sobre o histórico de atividades.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">RF19</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us19-acesso-ao-historico-detalhado-das-atividades">US19</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 19</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-6-consultar-extrato-de-uso">Cenário 06</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar">LV03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar">LV01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario">LO03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface">LO04</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso">UC05</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">OBS08</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="../assets/RF30.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BARBOSA, Gabriel</p>
+<p><br></p>
+<p><strong>Tabela 22: Requisito Funcional 20</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Deve ser possível solicitar uma 2ª via do cartão desejado.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">RF20</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us23-solicitacao-de-segunda-via-do-cartao-de-mobilidade">US23</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 13</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-4-solicitar-2avia-do-cartao">Cenário 04</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar">LV01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao">LO02</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario">LO03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface">LO04</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc04-acompanhar-cadastrocartao">UC04</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">OBS09</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF20.jpeg" style="width:20vw"/> </div></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BARBOSA, Gabriel</p>
+<p><br></p>
+<p><strong>Tabela 23: Requisito Funcional 21</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve fornecer ajuda com perguntas frequentes.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">RF21</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us15-fornecer-secao-de-comunicacao-direta">US15</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us04-interagir-com-um-chatbot-para-esclarecer-duvidas">US04</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 20</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo1-suporte">LO01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar">LV01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario">LO03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface">LO04</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l07-chatbot">LO07</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Observa%C3%A7%C3%A3o/#funcionais">OBS10</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF21.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BARBOSA, Gabriel</p>
+<p><br></p>
+<p><strong>Tabela 24: Requisito Funcional 22</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo possui mecanismo de visualização do saldo.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">RF22</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us01-consultar-saldo-e-extrato-de-uso-do-cartao-de-mobilidade">US01</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 01</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/01-cenarios/#cenario-3-consultar-saldo-disponivel">Cenário 03</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar">LV03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario">LO03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface">LO04</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l06-saldo">LO06</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le2-saldo-disponivel">LE02</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Brainstorming/#tabela-de-requisitos-funcionais">BS01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabelas-de-requisitos">IS01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">Q01</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF22.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BARBOSA, Gabriel</p>
+<p><br></p>
+<p><strong>Tabela 25: Requisito Funcional 23</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo acessa o histórico de acessos.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">RF23</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us19-acesso-ao-historico-detalhado-das-atividades">US19</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/#us30-acesso-ao-historico-detalhado-das-atividades">US30</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 19</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv3-visualizar">LV03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar">LV01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo3-usuario">LO03</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface">LO04</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/03-casos-de-uso/#uc05-vizualizar-extrato-de-uso">UC05</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">Q02</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="../assets/RF30.png" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BARBOSA, Gabriel</p>
+<p><br></p>
+<p><strong>Tabela 26: Requisito Funcional 24</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo tem meios de mecanismo de bloqueio de cartões.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">RF24</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lo2-cartao">LO02</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#l04-interface">LO04</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#lv1-acessar">LV01</a>, <a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/02-l%C3%A9xicos/#le1-status">LE01</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">Q03</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><div align="center"> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/P%C3%B3s%20Rastreabilidade/assets/Gabriel_RF24.jpeg" style="width:20vw"/> </div></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BARBOSA, Gabriel</p>
+<p><br></p>
+<p></center></p>
+<h3 id="requisitos-analisados-pelo-caio-braga"><strong>Requisitos analisados pelo Caio Braga:</strong></h3>
+<p><center></p>
+<p><br></p>
+<p><strong>Tabela 27: Requisito Funcional 25</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo tem meios de mecanismo de desbloqueio de cartões.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">RF25</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US23</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 13</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/01-cenarios/">Cenário 04</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/">LO01, LO02, LO03, LO04, LE01</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">Q04</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF25.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BRAGA, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 28: Requisito Funcional 26</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo concede acesso às paradas próximas.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">RF26</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US02</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 01</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/01-cenarios/">Cenário 02</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/">LV01, LV02, LO03, LO04, LO05, LV03, LE01</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/03-casos-de-uso/">UC03</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">Q05</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF26.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BRAGA, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 29: Requisito Funcional 27</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo concede visualização a quantidade de passes.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">RF27</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US01</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 01</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/">LV01, LV03, LO02, LO03, LO04, LO05, LO06, LE02</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">Q06</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF27.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BRAGA, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 30: Requisito Funcional 28</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo tem opção de pagamento via cartão de crédito.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">RF28</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US07</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 10</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/01-cenarios/">Cenário 07</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/">LV01, LO01, LO03, LO04, LO06</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/03-casos-de-uso/">UC02</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">Q07</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF28.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BRAGA, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 31: Requisito Funcional 29</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">RF29</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US16</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 08</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/01-cenarios/">Cenário 03</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/">LV03, LO02, LO03, LO04, LO06</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="">---</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">Q08</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF29.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BRAGA, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 32: Requisito Funcional 30</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso.</td>
+</tr>
+<tr>
+<td>Requisito Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">RF30</a></td>
+</tr>
+<tr>
+<td>História de Usuário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/02-Hist%C3%B3ria%20de%20usu%C3%A1rio/">US19</a></td>
+</tr>
+<tr>
+<td>Épico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/">Épico 19</a></td>
+</tr>
+<tr>
+<td>Cenário</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/01-cenarios/">Cenário 06</a></td>
+</tr>
+<tr>
+<td>Léxico</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/02-l%C3%A9xicos/">LV01, LV03, LV04, LO03, LO04, LO05, LE01</a></td>
+</tr>
+<tr>
+<td>Caso de Uso</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/03-casos-de-uso/">UC05</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-funcionais">Q09</a></td>
+</tr>
+<tr>
+<td>Foto/Video Demonstrativo</td>
+<td><img src="../assets/RF30.png" style="height:30vw"></img></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BRAGA, Caio.</p>
+<p><br></p>
+<p></center></p>
+<h3 id="requisitos-responsaveis-pela-analise-do-integrante-guilherme-basilio"><strong>Requisitos responsáveis pela análise do integrante Guilherme Basilio:</strong></h3>
+<p><br></p>
+<p><strong>Tabela 33: Requisito Não Funcional 01</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Garantir compatibilidade com sistemas operacionais Android e iOS.</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">RNF01</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao_2">NFR Portabilidade</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">IS13</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">Introspecção</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BASILIO, Guilherme.</p>
+<p><br></p>
+<p><strong>Tabela 34: Requisito Não Funcional 02</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão.</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">RNF02</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao">NFR Usabilidade</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">IS14</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">Introspecção</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BASILIO, Guilherme.</p>
+<p><br></p>
+<p><strong>Tabela 35: Requisito Não Funcional 03</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação.</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">RNF03</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao">NFR Usabilidade</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">IS15</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">Introspecção</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BASILIO, Guilherme.</p>
+<p><br></p>
+<p><strong>Tabela 36: Requisito Não Funcional 04</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes.</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">RNF04</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao">NFR Perfomance</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">IS16</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">Introspecção</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BASILIO, Guilherme.</p>
+<p><br></p>
+<p><strong>Tabela 37: Requisito Não Funcional 05</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo.</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">RNF05</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao">NFR Perfomance</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">IS17</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">Introspecção</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: BASILIO, Guilherme.</p>
+<p><br></p>
+<h3 id="requisitos-responsaveis-pela-analise-do-integrante-caio-lelis"><strong>Requisitos responsáveis pela análise do integrante Caio Lelis:</strong></h3>
+<p><center>
+<br></p>
+<p><strong>Tabela 39: Requisito Não Funcional 06</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>Deve ser de código aberto e gratuito.</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">RNF06</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao_2">NFR Portabilidade</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">IS18(Suportabilidade)</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Introspec%C3%A7%C3%A3o/#tabela-dos-requisitos-nao-funcionais">Introspecção</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: LELIS, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 40: Requisito Não Funcional 07</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve fornecer segurança ao usuário com dados cadastrados</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">RNF07</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao">NFR Confiabilidade</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">Q11(+)</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">Questionário</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: LELIS, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 41: Requisito Não Funcional 08</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve rastrear os ônibus via GPS.</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">RNF08</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao">NFR Perfomance</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">Q12(+)</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">Questionário</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: LELIS, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 42: Requisito Não Funcional 09</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve ser otimizado</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">RNF 09</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao">NFR Perfomance</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">Q12(Desempenho)</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">Questionário</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: LELIS, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 43: Requisito Não Funcional 10</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve ter atualização imediata de saldo.</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">RNF 10</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao">NFR Perfomance</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">Q12(Usabilidade)</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">Questionário</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: LELIS, Caio.</p>
+<p><br></p>
+<p><strong>Tabela 44: Requisito Não Funcional 11</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tópico</th>
+<th>Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas.</td>
+</tr>
+<tr>
+<td>Requisito Não Funcional</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">RNF 11</a></td>
+</tr>
+<tr>
+<td>NFR</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/Modelagem%20%C3%81gil/03-NFR/#com-propagacao">NFR Usabilidade</a></td>
+</tr>
+<tr>
+<td>Especificação Suplementar</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Modelagem/04-especifica%C3%A7%C3%A3o-suplementar/#especificacao-suplementar_1">Q13(Usabilidade)</a></td>
+</tr>
+<tr>
+<td>Fonte de Elicitação</td>
+<td><a href="http://127.0.0.1:8000/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas/Questionario/#requisitos-nao-funcionais">Questionário</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: LELIS, Caio.</p>
+<p><br>
+</center></p>
+<h2 id="bibliografia"><strong>Bibliografia</strong></h2>
+<blockquote>
+<p>SERRANO, Mauricio. SERRANO, Milene. Slides da aula "Requisitos: aula 26". Acesso em 19/11/2023</p>
+</blockquote>
+<h2 id="historico-de-versoes"><strong>Histórico de Versões</strong></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Revisor</th>
+<th style="text-align: center;">Data de revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: center;">Criação do documento</td>
+<td style="text-align: center;">Caio Braga</td>
+<td style="text-align: center;">19/11/2023</td>
+<td style="text-align: center;">Doan Filho</td>
+<td style="text-align: center;">19/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.1</td>
+<td style="text-align: center;">Requisitos de 25 a 30</td>
+<td style="text-align: center;">Caio Braga</td>
+<td style="text-align: center;">19/11/2023</td>
+<td style="text-align: center;">Doan Filho</td>
+<td style="text-align: center;">19/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.2</td>
+<td style="text-align: center;">Requisitos de 07 a 12</td>
+<td style="text-align: center;">Doan FIlho</td>
+<td style="text-align: center;">19/11/2023</td>
+<td style="text-align: center;">Caio Braga</td>
+<td style="text-align: center;">19/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3</td>
+<td style="text-align: center;">Requisitos não funcionais de 01 a 05</td>
+<td style="text-align: center;">Guilherme Basilio</td>
+<td style="text-align: center;">19/11/2023</td>
+<td style="text-align: center;">Caio Braga</td>
+<td style="text-align: center;">19/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.4</td>
+<td style="text-align: center;">Requisitos  funcionais de 13 a 18</td>
+<td style="text-align: center;">Joel Soares</td>
+<td style="text-align: center;">20/11/2023</td>
+<td style="text-align: center;">Caio Braga</td>
+<td style="text-align: center;">20/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">Requisitos  funcionais de 1 ao 6</td>
+<td style="text-align: center;">Miguel de Frias</td>
+<td style="text-align: center;">20/11/2023</td>
+<td style="text-align: center;">Caio Braga</td>
+<td style="text-align: center;">20/11/2023</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Voltar ao topo
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../preparacao_forward_from/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Preparação Forward From" rel="prev">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Preparação Forward From
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../matriz_rastreabilidade/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Matriz de Rastreabilidade" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              <div class="md-ellipsis">
+                Matriz de Rastreabilidade
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.footer", "toc.follow", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../../assets/javascripts/workers/search.dfff1995.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.dff1b7c8.min.js"></script>
+      
+    
+  </body>
+</html>
