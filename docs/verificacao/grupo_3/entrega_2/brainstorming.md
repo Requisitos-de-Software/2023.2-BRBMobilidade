@@ -69,8 +69,22 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 - Os usuários mínimos para a realização da técnica não foi cumprido. Será necessário, portanto, que isso seja revisto
 -  Alguns requisitos estão parcialmente implementados na aplicação, e portanto será necessário repensar a coluna de implementação dos requisitos
 
-## **Estimativas**
+## **Resultados obtidos**
 
+A figura abaixo representa a contabilização dos dados coletados pelas respostas aos itens da checklist:
+
+<br>
+<center>
+
+**Figura 1:** Gráfico de setores da coleta dos dados da Verificação do Brainstorming
+</center>
+
+<script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Gráfico-Brainstorming" data-url="z4n8opxy-new-project" data-w="700" data-full-h="false" data-h="400" data-domain="my"></div>
+
+<center>
+
+**Fonte**: BRAGA, Caio.
+</center>
 
 
 ## **Bibliografia**
@@ -86,3 +100,4 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Caio Braga   |   04/12/2023   | Caio Lelis |  04/12/2023  |
+|  1.1   | Adiciona estimativas  |   Caio Braga   |   04/12/2023   | Caio Lelis |  04/12/2023  |
