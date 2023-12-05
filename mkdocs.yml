@@ -140,21 +140,21 @@ nav:
             - Verificação do Metodologia: verificacao/grupo_3/entrega_1/metodologia.md
 
           - Verificação da Pré-Rastreabilidade:
-            - Verificação do Rich Picture: verificacao/grupo_3/entrega_1/rich_picture.md
+            - Verificação das Rich Picture: verificacao/grupo_3/entrega_2/richpicture.md
 
       - Entrega 2: 
         - Questionário: verificacao/grupo_3/entrega_2/questionario.md 
         - Brainstorming: verificacao/grupo_3/entrega_2/brainstorming.md
-        - Moscow: verificacao/grupo_3/entrega_2/moscow.md 
-        - ThreeLevelScale: verificacao/grupo_3/entrega_2/threlevelscale.md
+        - MoSCow: verificacao/grupo_3/entrega_2/moscow.md 
+        - Three Level Scale: verificacao/grupo_3/entrega_2/threlevelscale.md
 
       - Entrega 3:
         - Backlog: verificacao/grupo_3/entrega_3/backlog.md
         - Casos de Uso: verificacao/grupo_3/entrega_3/casosdeuso.md
-        - Cenários: verificacao/grupo_3/entrega_3/Cenarios.md
+        - Cenários: verificacao/grupo_3/entrega_3/cenarios.md
         - Especificação Suplementar: verificacao/grupo_3/entrega_3/especificacao_suplementar.md
         - Histórias de Usuário: verificacao/grupo_3/entrega_3/historias_de_usuario.md
-        - NFR Framework: verificacao/grupo_3/entrega_3/NRFFreamework.md
+        - NFR Framework: verificacao/grupo_3/entrega_3/nfr_framework.md
         - Léxicos: verificacao/grupo_3/entrega_3/lexicos.md
       - Entrega 4: 
         - Backward From: verificacao/grupo_3/entrega_4/BackwardFrom.md
