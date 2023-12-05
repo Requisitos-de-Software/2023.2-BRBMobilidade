@@ -116,9 +116,9 @@ nav:
       - Entrega 3:
         - Planejamento da Verificação da Entrega 3: verificacao/grupo_3/entrega_3/planejamento_entrega_3.md
         - Verificação da Cenários: verificacao/grupo_3/entrega_3/cenarios.md
-        - Verificação do Casos de Uso: verificacao/grupo_4/entrega_3/lexicos.md
+        - Verificação do Léxicos: verificacao/grupo_4/entrega_3/lexicos.md
         - Verificação do Casos de Uso: verificacao/grupo_4/entrega_3/casos_de_uso.md
-        - Verificação do Casos de Uso: verificacao/grupo_4/entrega_3/especificacao_suplementar.md
+        - Verificação do Especificação Suplementar: verificacao/grupo_4/entrega_3/especificacao_suplementar.md
 
       - Entrega 4:
         - Verificação do Backlog: verificacao/grupo_4/entrega_4/backlog.md
@@ -156,13 +156,13 @@ nav:
 
 
       - Entrega 4: 
-        - Backward From: verificacao/grupo_3/entrega_4/BackwardFrom.md
-        - Forward From: verificacao/grupo_3/entrega_4/forwardfrom.md
-        - Matriz de Rastreabilidade: verificacao/grupo_3/entrega_4/matriz.md
+        - Backward From: verificacao/grupo_3/entrega_4/backward_from.md
+        - Forward From: verificacao/grupo_3/entrega_4/forward_from.md
+        - Matriz de Rastreabilidade: verificacao/grupo_3/entrega_4/matriz_rastreabilidade.md
 
   - Validação:
-     - Validação Informal: Validação/Validação informal.md
-     - Protótipos: Validação/protótipos.md
+     - Validação Informal: validacao/validacao_informal.md
+     - Protótipos: validacao/prototipos.md
 
 
     
