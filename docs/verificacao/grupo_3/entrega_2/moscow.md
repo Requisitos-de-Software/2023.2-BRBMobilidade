@@ -56,8 +56,23 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 - Deve haver uma gravação do processo de priorização dos requisitos utilizando a técnica no artefato
 - É necessário que o produto da priorização seja validado com um usuário do site
 
-## **Estimativas**
+## **Resultados obtidos**
 
+A figura abaixo representa a contabilização dos dados coletados pelas respostas aos itens da checklist:
+
+<br>
+<center>
+
+**Figura 1:** Gráfico de setores da coleta dos dados da Verificação do Método de Priorização MoSCow
+</center>
+
+<script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Gráfico-MoScow" data-url="g76p77r6-grafico-moscow" data-w="700" data-full-h="false" data-h="400" data-domain="my"></div>
+
+
+<center>
+
+**Fonte**: BRAGA, Caio.
+</center>
 
 ## **Bibliografia**
 
@@ -70,3 +85,4 @@ Practices), 3rd Edition, Microsoft Press, 2013
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Caio Braga   |   25/11/2023   | Caio Lelis |  27/11/2023   |
 | 1.1   | Adição de conteúdo  |   Caio Lelis   |   03/12/2023   | Caio Braga |  03/12/2023    |
+|  1.2   | Adiciona estimativas  |   Caio Braga   |   04/12/2023   | Caio Lelis |  04/12/2023  |
