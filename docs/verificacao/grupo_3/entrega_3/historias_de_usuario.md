@@ -70,8 +70,9 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 - É necessário adicionar as subdivisões das tarefas no artefato
 - É importante colocar estimativas de esforço ou pontos de história
 
-## **Estimativas**
+## **Resultados obtidos**
 
+<script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Gráfico-Historias-Usuario" data-url="4djgdkyk-grafico-historias-usuario" data-w="700" data-full-h="false" data-h="400" data-domain="my"></div>
 
 ## **Bibliografia**
 
@@ -83,4 +84,6 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Caio Braga   |   03/12/2023   | Caio Lelis |  03/12/2023   |
-| 1.1   | Adição de conteúdo  |   Caio Braga   |   03/12/2023   | Caio Lelis |   03/12/2023  |
+| 1.1   | Adição de conteúdo  |   Caio Lelis   |   03/12/2023   | Caio Braga |   03/12/2023  |
+|  1.1   | Adiciona estimativas  |   Caio Braga   |   04/12/2023   | Caio Lelis |  04/12/2023  |
+
