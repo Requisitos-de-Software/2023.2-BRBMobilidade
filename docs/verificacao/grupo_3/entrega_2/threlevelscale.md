@@ -23,8 +23,10 @@ Espera-se que esse documento contenha os requisitos elicitados a partir de um qu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iVd9Rgc27f0?si=m3zbo4nv4fO5RmEK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 ## **Inspeção Individual** 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NsgVpliJHv0?si=pBJfJlbiu3l7qluT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## **Correções sugeridas**
 

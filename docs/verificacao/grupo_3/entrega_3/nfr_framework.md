@@ -27,10 +27,9 @@ Este documento tem como propósito registrar a verificação do artefato NRFFrea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xk_e4eJ4JXk?si=wS0UrsovcMB5wGKz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 ## **Inspeção Individual** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aGSsdRXD-9A?si=cMrIDavPg4HKmV1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
----
 ## **Correções sugeridas**
 
 - Links de rastreabilidade quebrados
