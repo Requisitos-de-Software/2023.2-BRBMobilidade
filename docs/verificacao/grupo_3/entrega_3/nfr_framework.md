@@ -17,6 +17,8 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpfRvAx5nbPmOSPOUFOagMidlaxpW6qvDuGDQdobTJJtU3kTuyb81cOYLkZP2_51BYWErM9l8_f0ga/pubhtml?widget=true&amp;headers=false" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
+Para acessar as fontes da lista de verificação, clique [aqui](https://docs.google.com/document/d/e/2PACX-1vTWbArJAgoNR0GqeoEgBzVTQQS9Rfkcl71cwuSQAwPNxAtIOzBM1AohtNi4qWDMx3NmE_kZc40M3uOi/pub)
+
 ## **Conteúdo esperado no artefato**
 
 Este documento tem como propósito registrar a verificação do artefato NRFFreamework, desenvolvido ao longo do projeto.

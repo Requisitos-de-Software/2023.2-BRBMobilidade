@@ -18,7 +18,7 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRCNyoZrr0ipXKdhcSYsW5_vAExZ4GaZ8mlkLZqjgnF9H0D7TYEyGbbGHYCwbYayjmg6RCvPlHhrsUG/pubhtml?gid=1103927766&single=true"width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 
-
+Para acessar as fontes da lista de verificação, clique [aqui](https://docs.google.com/document/d/e/2PACX-1vTyUZUtw77vPkA8yL0uji0dCiCu7rNPhE-Oag0EPp_I50hfjsIkhiW5cIKBOpcKFBDebFkdDp4rdtE2/pub)
 
 ## **Inspeção em Dupla**
 
