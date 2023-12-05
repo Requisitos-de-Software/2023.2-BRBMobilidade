@@ -14,7 +14,7 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 
 ## **Lista de Verificação**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpfRvAx5nbPmOSPOUFOagMidlaxpW6qvDuGDQdobTJJtU3kTuyb81cOYLkZP2_51BYWErM9l8_f0ga/pubhtml?gid=1088657321&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpfRvAx5nbPmOSPOUFOagMidlaxpW6qvDuGDQdobTJJtU3kTuyb81cOYLkZP2_51BYWErM9l8_f0ga/pubhtml?gid=1088657321&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha os léxicos produzidos pela equipe de acordo com os documentos do projeto.
@@ -26,7 +26,7 @@ Espera-se que esse documento contenha os léxicos produzidos pela equipe de acor
 
 
 ## **Inspeção Individual** 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/fn-sTUpKLuA" title="Individual REQ Léxicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fn-sTUpKLuA" title="Individual REQ Léxicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
