@@ -30,17 +30,16 @@ Cada integrante do grupo tem o dever de selecionar um requisito não implementad
 
 ## *Participantes da validação*
 
-
-
-
+A validação foi feita com o participante e usuário do aplicativo, Pedro Vitor, que é um estudante de 21 anos que utiliza o transporte público diariamente para ir à faculdade. O participante foi selecionado por ser um usuário frequente do transporte público e por ter um perfil de usuário que se encaixa no público alvo do projeto.
 
 
 ## *Entrevistas*
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VMDamPaR7uo?si=2Mm_Mac_NficCAPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## *Análise dos resultados*
 
-
+Após a reunião, conseguimos concretizar que o desenvolvimento dos requisitos apresentados seria de muita utilidade para o usuário. O participante se mostrou muito interessado em utilizar o aplicativo e disse que o mesmo seria de grande ajuda para o seu dia a dia.
 
 ## Histórico de Versão
 
