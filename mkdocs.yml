@@ -5,18 +5,22 @@ repo_name: 2023.2-BRBMobilidade
 theme:
   icon:
    repo: fontawesome/brands/git-alt
-  logo: Planejamento/img/LogoBRBMOBILIDADE.png
+  logo: planejamento/assets/LogoBRBMOBILIDADE.png
   name: material
   features:
+    - navigation.instant
+    - navigation.tracking
     - navigation.tabs
-    - navigation.sections
-    - toc.integrate
+    - navigation.tabs.sticky
     - navigation.top
+    - navigation.footer
+    - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+
   language: pt
   palette:
     - scheme: default
@@ -31,3 +35,135 @@ theme:
         name: Switch to light mode    
       primary: indigo
       accent: blue
+
+nav:
+  - Página Inicial: index.md
+  - Apresentações: apresentacoes/gravacoes.md
+
+  - Atas:
+    - Ata 1: atas/reuniao_01.md
+    - Ata 2: atas/reuniao_02.md
+    - Ata 3: atas/reuniao_03.md
+    - Ata 4: atas/reuniao_04.md
+    - Ata 5: atas/reuniao_05.md
+
+  - Planejamento:
+    - Aplicativo escolhido: planejamento/aplicativo_selecionado.md
+    - Cronogramas: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+    - HeatMap: planejamento/heatmap.md
+    - Padronização: planejamento/padronizacao.md
+    - Termos de uso: planejamento/termos_de_uso.md
+
+  - Pré-Rastreabilidade:
+    - Rich Picture: pre-rastreabilidade/rich_picture.md
+
+  - Elicitação:
+    - Perfil de Usuário: elicitacao/perfil_do_usuario.md
+    - Personas: elicitacao/personas.md
+    - Técnicas:
+        - Brainstorming: elicitacao/tecnicas/brainstorming.md
+        - Introspecção: elicitacao/tecnicas/introspeccao.md
+        - Observação: elicitacao/tecnicas/observacao.md
+        - Questionário: elicitacao/tecnicas/questionario.md
+
+    - Priorização:
+        - In or Out: elicitacao/priorizacao/in_or_out.md
+        - Three Level Scale: elicitacao/priorizacao/three_level_scale.md
+        - MoSCow: elicitacao/priorizacao/moscow.md
+    - Requisitos Elicitados: elicitacao/requisitos_elicitados.md
+
+  - Modelagem:
+    - Cenários: modelagem/cenarios.md
+    - Léxicos: modelagem/lexicos.md
+    - Casos de uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
+    - Ágil:
+        - Backlog: modelagem/agil/backlog.md
+        - Histórias de Usuário: modelagem/agil/historia_de_usuario.md
+        - NFR: modelagem/agil/nfr.md
+
+  - Pós-Rastreabilidade:
+    - Backward From: pos-rastreabilidade/backward_from.md
+    - Preparação Forward From: pos-rastreabilidade/preparacao_forward_from.md
+    - Forward From: pos-rastreabilidade/forward_from.md
+    - Matriz de Rastreabilidade: pos-rastreabilidade/matriz_rastreabilidade.md
+
+  - Verificação:
+    - Grupo +1:
+      - Planejamento da Verificação do Grupo 4: verificacao/grupo_4/planejamento_verificacao_grupo4.md
+      - Entrega 1:
+          
+          - Verificação do Planejamento: 
+            - Verificação do Aplicativo selecionado:  verificacao/grupo_4/entrega_1/aplicativo_selecionado.md
+            - Verificação dos Cronogramas: verificacao/grupo_4/entrega_1/cronogramas.md
+            - Verificação das Ferramentas: verificacao/grupo_4/entrega_1/ferramentas.md
+            - Verificação do Metodologia: verificacao/grupo_4/entrega_1/metodologia.md
+          - Verificação da Pré-Rastreabilidade:
+            - Verificação das Rich Picture: verificacao/grupo_4/entrega_2/richpicture.md
+
+      - Entrega 2:
+        - Verificação do Perfil de Usuário: verificacao/grupo_4/entrega_2/perfil_de_usuario.md
+        - Verificação da Personas: verificacao/grupo_3/entrega_2/personas.md
+        - Verificação das Técnicas:
+          - Verificação dos Brainstorming: verificacao/grupo_4/entrega_2/brainstorming.md
+          - Verificação dos Questionário: verificacao/grupo_4/entrega_2/questionario.md
+        - Verificação da Priorização:
+          - Verificação do $100:  verificacao/grupo_4/entrega_2/$100.md
+          - Verificação das First Thing First: verificacao/grupo_4/entrega_2/fist_things_first.md
+          - Verificação das Three Level Scale: verificacao/grupo_4/entrega_2/three_level_scale.md
+
+      - Entrega 3:
+        - Planejamento da Verificação da Entrega 3: verificacao/grupo_3/entrega_3/planejamento_entrega_3.md
+        - Verificação da Cenários: verificacao/grupo_3/entrega_3/cenarios.md
+        - Verificação do Casos de Uso: verificacao/grupo_4/entrega_3/lexicos.md
+        - Verificação do Casos de Uso: verificacao/grupo_4/entrega_3/casos_de_uso.md
+        - Verificação do Casos de Uso: verificacao/grupo_4/entrega_3/especificacao_suplementar.md
+
+      - Entrega 4:
+        - Verificação do Backlog: verificacao/grupo_4/entrega_4/backlog.md
+        - Verificação do Histórias de Usuário: verificacao/grupo_4/entrega_4/historias_de_usuario.md
+        - Verificação do NFR: verificacao/grupo_4/entrega_4/nfr.md
+
+    - Grupo 3:
+
+      - Entrega 1:
+          - Verificação da Pré-Rastreabilidade:
+            - Rich Picture: verificacao/grupo_3/entrega_1/rich_picture.md
+
+      - Entrega 2: 
+        - Personas: verificacao/grupo_3/entrega_2/personas.md
+        - Técnicas de Elicitação: 
+          - Brainstorming: verificacao/grupo_3/entrega_2/brainstorming.md
+          - Observação: verificacao/grupo_3/entrega_2/observacao.md
+          - Questionário: verificacao/grupo_3/entrega_2/questionario.md 
+
+        - Técnicas de Priorização: 
+          - MoSCow: verificacao/grupo_3/entrega_2/moscow.md 
+          - Three Level Scale: verificacao/grupo_3/entrega_2/threlevelscale.md
+       
+
+      - Entrega 3:
+        
+        - Casos de Uso: verificacao/grupo_3/entrega_3/casosdeuso.md
+        - Cenários: verificacao/grupo_3/entrega_3/cenarios.md
+        - Especificação Suplementar: verificacao/grupo_3/entrega_3/especificacao_suplementar.md
+        - Léxicos: verificacao/grupo_3/entrega_3/lexicos.md
+        - Ágil: 
+            - Backlog: verificacao/grupo_3/entrega_3/backlog.md
+            - Histórias de Usuário: verificacao/grupo_3/entrega_3/historias_de_usuario.md
+            - NFR Framework: verificacao/grupo_3/entrega_3/nfr_framework.md
+
+
+      - Entrega 4: 
+        - Backward From: verificacao/grupo_3/entrega_4/BackwardFrom.md
+        - Forward From: verificacao/grupo_3/entrega_4/forwardfrom.md
+        - Matriz de Rastreabilidade: verificacao/grupo_3/entrega_4/matriz.md
+
+  - Validação:
+     - Validação Informal: Validação/Validação informal.md
+     - Protótipos: Validação/protótipos.md
+
+
+    
+

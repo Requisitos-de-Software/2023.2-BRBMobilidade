@@ -1,0 +1,4934 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../backlog/">
+      
+      
+        <link rel="next" href="../nfr/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.3.1">
+    
+    
+      
+        <title>Histórias de Usuário - BRB Mobilidade</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.046329b4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.85d0ee34.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="blue">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#historias-de-usuario" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../../.." title="BRB Mobilidade" class="md-header__button md-logo" aria-label="BRB Mobilidade" data-md-component="logo">
+      
+  <img src="../../../planejamento/assets/LogoBRBMOBILIDADE.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            BRB Mobilidade
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Histórias de Usuário
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2023.2-BRBMobilidade
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Página Inicial
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../apresentacoes/gravacoes/" class="md-tabs__link">
+        
+  
+    
+  
+  Apresentações
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../atas/reuniao_01/" class="md-tabs__link">
+          
+  
+  Atas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../planejamento/aplicativo_selecionado/" class="md-tabs__link">
+          
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../pre-rastreabilidade/rich_picture/" class="md-tabs__link">
+          
+  
+  Pré-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../elicitacao/perfil_do_usuario/" class="md-tabs__link">
+          
+  
+  Elicitação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../cenarios/" class="md-tabs__link">
+          
+  
+  Modelagem
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../pos-rastreabilidade/backward_from/" class="md-tabs__link">
+          
+  
+  Pós-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../verificacao/grupo_4/planejamento_verificacao_grupo4/" class="md-tabs__link">
+          
+  
+  Verificação
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Valida%C3%A7%C3%A3o/Valida%C3%A7%C3%A3o%20informal/" class="md-tabs__link">
+          
+  
+  Validação
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="BRB Mobilidade" class="md-nav__button md-logo" aria-label="BRB Mobilidade" data-md-component="logo">
+      
+  <img src="../../../planejamento/assets/LogoBRBMOBILIDADE.png" alt="logo">
+
+    </a>
+    BRB Mobilidade
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2023.2-BRBMobilidade
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Página Inicial
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/gravacoes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentações
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/reuniao_01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/reuniao_02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/reuniao_03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/reuniao_04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/reuniao_05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 5
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/aplicativo_selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativo escolhido
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/cronograma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronogramas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    HeatMap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/padronizacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Padronização
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/termos_de_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Termos de uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pre-rastreabilidade/rich_picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/perfil_do_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+        
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/tecnicas/brainstorming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/tecnicas/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/tecnicas/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/tecnicas/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/priorizacao/in_or_out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/priorizacao/three_level_scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Three Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/priorizacao/moscow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MoSCow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/requisitos_elicitados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../casos_de_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../especificacao_suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" checked>
+        
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#us01-consultar-saldo-e-extrato-de-uso-do-cartao-de-mobilidade" class="md-nav__link">
+    US01 - Consultar saldo e extrato de uso do cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us02-acessar-itinerarios-detalhados-de-onibus" class="md-nav__link">
+    US02 - Acessar itinerários detalhados de ônibus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us03-realizar-recargas-de-creditos-no-cartao" class="md-nav__link">
+    US03 - Realizar recargas de créditos no cartão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us04-interagir-com-um-chatbot-para-esclarecer-duvidas" class="md-nav__link">
+    US04 - Interagir com um chatbot para esclarecer dúvidas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us05-suportar-informacoes-em-tempo-real-sobre-o-status-dos-transportes-publicos" class="md-nav__link">
+    US05 - Suportar informações em tempo real sobre o status dos transportes públicos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us06-integrar-funcionalidades-de-navegacao-e-mapas" class="md-nav__link">
+    US06 - Integrar funcionalidades de navegação e mapas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us07-permitir-cadastrar-metodos-de-pagamento" class="md-nav__link">
+    US07 - Permitir cadastrar métodos de pagamento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us08-capacidade-de-realizar-cadastro" class="md-nav__link">
+    US08 - Capacidade de realizar cadastro
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us09-fornecer-a-localizacao-do-usuario" class="md-nav__link">
+    US09 - Fornecer a localização do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us10-possibilidade-de-personalizar-a-aparencia-da-interface-do-usuario" class="md-nav__link">
+    US10 - Possibilidade de personalizar a aparência da interface do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us11-mostrar-ao-usuario-a-previsao-de-deposito-de-dinheiro" class="md-nav__link">
+    US11 - Mostrar ao usuário a previsão de depósito de dinheiro
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us12-visualizar-linhas-e-horarios-de-onibus" class="md-nav__link">
+    US12 - Visualizar linhas e horários de ônibus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us13-realizar-recargas-de-creditos-no-cartao" class="md-nav__link">
+    US13 - Realizar recargas de créditos no cartão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us14-salvar-rotas-personalizadas" class="md-nav__link">
+    US14 - Salvar rotas personalizadas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us15-fornecer-secao-de-comunicacao-direta" class="md-nav__link">
+    US15 - Fornecer seção de comunicação direta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us16-mostrar-ao-usuario-a-previsao-de-deposito-de-dinheiro" class="md-nav__link">
+    US16 - Mostrar ao usuário a previsão de depósito de dinheiro
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us17-suporte-para-usuarios-com-deficiencia-fisica" class="md-nav__link">
+    US17 - Suporte para usuários com deficiência física
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us18-previsao-de-deposito-de-dinheiro-no-cartao-de-mobilidade" class="md-nav__link">
+    US18 - Previsão de depósito de dinheiro no cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us19-acesso-ao-historico-detalhado-das-atividades" class="md-nav__link">
+    US19 - Acesso ao histórico detalhado das atividades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us20-notificacoes-de-deposito-de-dinheiro-no-cartao-de-mobilidade" class="md-nav__link">
+    US20 - Notificações de depósito de dinheiro no cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us21-visualizacao-de-rotas-alternativas-durante-interrupcoes-do-servico" class="md-nav__link">
+    US21 - Visualização de rotas alternativas durante interrupções do serviço
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us22-compra-de-bilhetes-de-transporte-publico-pelo-aplicativo" class="md-nav__link">
+    US22 - Compra de bilhetes de transporte público pelo aplicativo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us23-solicitacao-de-segunda-via-do-cartao-de-mobilidade" class="md-nav__link">
+    US23 - Solicitação de segunda via do cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us24-recebimento-de-notificacoes-sobre-eventos-e-promocoes" class="md-nav__link">
+    US24 - Recebimento de notificações sobre eventos e promoções
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us25-compartilhamento-de-viagens-com-amigos-e-familiares" class="md-nav__link">
+    US25 - Compartilhamento de viagens com amigos e familiares
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us26-fornecimento-de-feedback-sobre-o-servico-de-transporte-publico" class="md-nav__link">
+    US26 - Fornecimento de feedback sobre o serviço de transporte público
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us27-suporte-adicional-para-usuarios-com-deficiencia-visual" class="md-nav__link">
+    US27 - Suporte adicional para usuários com deficiência visual
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us28-previsao-de-deposito-de-dinheiro-no-cartao-de-mobilidade" class="md-nav__link">
+    US28 - Previsão de depósito de dinheiro no cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us29-notificacoes-de-deposito-de-dinheiro-no-cartao-de-mobilidade" class="md-nav__link">
+    US29 - Notificações de depósito de dinheiro no cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us30-acesso-ao-historico-detalhado-das-atividades" class="md-nav__link">
+    US30 - Acesso ao histórico detalhado das atividades
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#video-de-entrevista-com-o-po" class="md-nav__link">
+    Vídeo de entrevista com o PO
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nfr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pos-rastreabilidade/backward_from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pos-rastreabilidade/preparacao_forward_from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Preparação Forward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pos-rastreabilidade/forward_from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pos-rastreabilidade/matriz_rastreabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1" >
+        
+          <label class="md-nav__link" for="__nav_9_1" id="__nav_9_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grupo +1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo +1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/planejamento_verificacao_grupo4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação do Grupo 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_2" >
+        
+          <label class="md-nav__link" for="__nav_9_1_2" id="__nav_9_1_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_2_1" >
+        
+          <label class="md-nav__link" for="__nav_9_1_2_1" id="__nav_9_1_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação do Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_1_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação do Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_1/aplicativo_selecionado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Aplicativo selecionado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_1/cronogramas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação dos Cronogramas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_1/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação das Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_1/metodologia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Metodologia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_2_2" >
+        
+          <label class="md-nav__link" for="__nav_9_1_2_2" id="__nav_9_1_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação da Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_1_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação da Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_2/richpicture.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação das Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_3" >
+        
+          <label class="md-nav__link" for="__nav_9_1_3" id="__nav_9_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_2/perfil_de_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_2/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação da Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_3_3" >
+        
+          <label class="md-nav__link" for="__nav_9_1_3_3" id="__nav_9_1_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação das Técnicas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_1_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação das Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_2/brainstorming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação dos Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_2/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação dos Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_3_4" >
+        
+          <label class="md-nav__link" for="__nav_9_1_3_4" id="__nav_9_1_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação da Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_1_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação da Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_2/%24100/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do $100
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_2/fist_things_first.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação das First Thing First
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_2/three_level_scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação das Three Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_4" >
+        
+          <label class="md-nav__link" for="__nav_9_1_4" id="__nav_9_1_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_3/planejamento_entrega_3.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_3/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação da Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_3/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_3/casos_de_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_3/especificacao_suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1_5" >
+        
+          <label class="md-nav__link" for="__nav_9_1_5" id="__nav_9_1_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_4/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_4/historias_de_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_4/entrega_4/nfr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do NFR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2" >
+        
+          <label class="md-nav__link" for="__nav_9_2" id="__nav_9_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grupo 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_1" >
+        
+          <label class="md-nav__link" for="__nav_9_2_1" id="__nav_9_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_1_1" >
+        
+          <label class="md-nav__link" for="__nav_9_2_1_1" id="__nav_9_2_1_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação da Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_2_1_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_1_1">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação da Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_1/rich_picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_2" >
+        
+          <label class="md-nav__link" for="__nav_9_2_2" id="__nav_9_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_2/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_2_2" >
+        
+          <label class="md-nav__link" for="__nav_9_2_2_2" id="__nav_9_2_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas de Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_2_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_2/brainstorming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_2/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_2/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_2_3" >
+        
+          <label class="md-nav__link" for="__nav_9_2_2_3" id="__nav_9_2_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas de Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_2_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_2/moscow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MoSCow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_2/threlevelscale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Three Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_3" >
+        
+          <label class="md-nav__link" for="__nav_9_2_3" id="__nav_9_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_3/casosdeuso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_3/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_3/especificacao_suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_3/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_3_5" >
+        
+          <label class="md-nav__link" for="__nav_9_2_3_5" id="__nav_9_2_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_9_2_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_3/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_3/historias_de_usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_3/nfr_framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2_4" >
+        
+          <label class="md-nav__link" for="__nav_9_2_4" id="__nav_9_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_9_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_4/BackwardFrom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_4/forwardfrom/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao/grupo_3/entrega_4/matriz/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Validação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Validação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Valida%C3%A7%C3%A3o/Valida%C3%A7%C3%A3o%20informal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Validação Informal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Valida%C3%A7%C3%A3o/prot%C3%B3tipos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protótipos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#us01-consultar-saldo-e-extrato-de-uso-do-cartao-de-mobilidade" class="md-nav__link">
+    US01 - Consultar saldo e extrato de uso do cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us02-acessar-itinerarios-detalhados-de-onibus" class="md-nav__link">
+    US02 - Acessar itinerários detalhados de ônibus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us03-realizar-recargas-de-creditos-no-cartao" class="md-nav__link">
+    US03 - Realizar recargas de créditos no cartão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us04-interagir-com-um-chatbot-para-esclarecer-duvidas" class="md-nav__link">
+    US04 - Interagir com um chatbot para esclarecer dúvidas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us05-suportar-informacoes-em-tempo-real-sobre-o-status-dos-transportes-publicos" class="md-nav__link">
+    US05 - Suportar informações em tempo real sobre o status dos transportes públicos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us06-integrar-funcionalidades-de-navegacao-e-mapas" class="md-nav__link">
+    US06 - Integrar funcionalidades de navegação e mapas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us07-permitir-cadastrar-metodos-de-pagamento" class="md-nav__link">
+    US07 - Permitir cadastrar métodos de pagamento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us08-capacidade-de-realizar-cadastro" class="md-nav__link">
+    US08 - Capacidade de realizar cadastro
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us09-fornecer-a-localizacao-do-usuario" class="md-nav__link">
+    US09 - Fornecer a localização do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us10-possibilidade-de-personalizar-a-aparencia-da-interface-do-usuario" class="md-nav__link">
+    US10 - Possibilidade de personalizar a aparência da interface do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us11-mostrar-ao-usuario-a-previsao-de-deposito-de-dinheiro" class="md-nav__link">
+    US11 - Mostrar ao usuário a previsão de depósito de dinheiro
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us12-visualizar-linhas-e-horarios-de-onibus" class="md-nav__link">
+    US12 - Visualizar linhas e horários de ônibus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us13-realizar-recargas-de-creditos-no-cartao" class="md-nav__link">
+    US13 - Realizar recargas de créditos no cartão
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us14-salvar-rotas-personalizadas" class="md-nav__link">
+    US14 - Salvar rotas personalizadas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us15-fornecer-secao-de-comunicacao-direta" class="md-nav__link">
+    US15 - Fornecer seção de comunicação direta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us16-mostrar-ao-usuario-a-previsao-de-deposito-de-dinheiro" class="md-nav__link">
+    US16 - Mostrar ao usuário a previsão de depósito de dinheiro
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us17-suporte-para-usuarios-com-deficiencia-fisica" class="md-nav__link">
+    US17 - Suporte para usuários com deficiência física
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us18-previsao-de-deposito-de-dinheiro-no-cartao-de-mobilidade" class="md-nav__link">
+    US18 - Previsão de depósito de dinheiro no cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us19-acesso-ao-historico-detalhado-das-atividades" class="md-nav__link">
+    US19 - Acesso ao histórico detalhado das atividades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us20-notificacoes-de-deposito-de-dinheiro-no-cartao-de-mobilidade" class="md-nav__link">
+    US20 - Notificações de depósito de dinheiro no cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us21-visualizacao-de-rotas-alternativas-durante-interrupcoes-do-servico" class="md-nav__link">
+    US21 - Visualização de rotas alternativas durante interrupções do serviço
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us22-compra-de-bilhetes-de-transporte-publico-pelo-aplicativo" class="md-nav__link">
+    US22 - Compra de bilhetes de transporte público pelo aplicativo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us23-solicitacao-de-segunda-via-do-cartao-de-mobilidade" class="md-nav__link">
+    US23 - Solicitação de segunda via do cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us24-recebimento-de-notificacoes-sobre-eventos-e-promocoes" class="md-nav__link">
+    US24 - Recebimento de notificações sobre eventos e promoções
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us25-compartilhamento-de-viagens-com-amigos-e-familiares" class="md-nav__link">
+    US25 - Compartilhamento de viagens com amigos e familiares
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us26-fornecimento-de-feedback-sobre-o-servico-de-transporte-publico" class="md-nav__link">
+    US26 - Fornecimento de feedback sobre o serviço de transporte público
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us27-suporte-adicional-para-usuarios-com-deficiencia-visual" class="md-nav__link">
+    US27 - Suporte adicional para usuários com deficiência visual
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us28-previsao-de-deposito-de-dinheiro-no-cartao-de-mobilidade" class="md-nav__link">
+    US28 - Previsão de depósito de dinheiro no cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us29-notificacoes-de-deposito-de-dinheiro-no-cartao-de-mobilidade" class="md-nav__link">
+    US29 - Notificações de depósito de dinheiro no cartão de mobilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#us30-acesso-ao-historico-detalhado-das-atividades" class="md-nav__link">
+    US30 - Acesso ao histórico detalhado das atividades
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#video-de-entrevista-com-o-po" class="md-nav__link">
+    Vídeo de entrevista com o PO
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="historias-de-usuario"><strong>Histórias de Usuário</strong></h1>
+<h2 id="introducao"><strong>Introdução</strong></h2>
+<p style="text-align: justify;">
+As histórias do usuário são descrições concisas de funcionalidades do ponto de vista do usuário final. Seu objetivo central é detalhar como uma tarefa específica ou funcionalidade pode agregar valor ao cliente ou usuário final do sistema. Essas histórias oferecem uma visão estruturada e focada nas necessidades do usuário, garantindo que o software desenvolvido atenda às exigências do cliente e proporcione um produto final valioso.
+</p>
+
+<h2 id="metodologia"><strong>Metodologia</strong></h2>
+<p>Construímos nossas histórias de usuário com base no nosso <a href="http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/">backlog</a>, onde foi feita uma entrevista com nosso usuário PO Isaque Santos, 
+ para a produção do artefato base. A seguir, apresentamos o nosso protótipo a ser seguido para as histórias de usuário e as histórias de usuários que foram definidas para o projeto.</p>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">USXX</td>
+<td style="text-align: left;">Titulo</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> XXX, <em>desejo</em> XXX <em>para</em> XXX</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">-XXX <br> -XXX <br></td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta, Média ou Baixa</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 1: Padrão de histórias de usuário - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us01-consultar-saldo-e-extrato-de-uso-do-cartao-de-mobilidade"><strong>US01 - Consultar saldo e extrato de uso do cartão de mobilidade</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US01</td>
+<td style="text-align: left;">Consultar saldo e extrato de uso do cartão de mobilidade</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> consultar o saldo e o extrato de uso do meu cartão de mobilidade <em>para</em> monitorar minhas transações e saldo disponível.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- Na página inicial do aplicativo, o usuário deve encontrar uma opção clara para consultar saldo e extrato. <br> - As informações devem ser atualizadas em tempo real.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 2: - História de Usuário Consultar saldo e extrato - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us02-acessar-itinerarios-detalhados-de-onibus"><strong>US02 - Acessar itinerários detalhados de ônibus</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US02</td>
+<td style="text-align: left;">Acessar itinerários detalhados de ônibus</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> acessar itinerários detalhados de ônibus <em>para</em> planejar minhas viagens com informações precisas sobre as rotas e horários.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder inserir o ponto de partida e o destino para visualizar os itinerários disponíveis. <br> - O aplicativo deve mostrar horários de partida e chegada, além de possíveis paradas intermediárias.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 3: - História de Usuário Acessar itinerários detalhados de ônibus. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us03-realizar-recargas-de-creditos-no-cartao"><strong>US03 - Realizar recargas de créditos no cartão</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US03</td>
+<td style="text-align: left;">Realizar recargas de créditos no cartão</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> recarregar créditos no meu cartão de mobilidade <em>para</em> continuar usando os serviços de transporte público.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder escolher o valor da recarga e o método de pagamento. <br> - Após a recarga, o saldo do cartão deve ser atualizado imediatamente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 4: - História de Usuário Realizar recargas de créditos no cartão. - (Fonte: LELIS, Caio).</p>
+</div>
+<p></center></p>
+<h3 id="us04-interagir-com-um-chatbot-para-esclarecer-duvidas"><strong>US04 - Interagir com um chatbot para esclarecer dúvidas</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US04</td>
+<td style="text-align: left;">Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> interagir com um chatbot para obter respostas rápidas às minhas dúvidas e solicitar serviços relacionados ao transporte público <em>para</em> melhorar minha experiência de usuário.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O chatbot deve estar disponível em horários específicos e também permitir envio de mensagens a qualquer momento. <br> - O chatbot deve fornecer respostas precisas e úteis para as perguntas dos usuários.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Baixa</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 5: - História de Usuário Interagir com um chatbot para esclarecer dúvidas. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us05-suportar-informacoes-em-tempo-real-sobre-o-status-dos-transportes-publicos"><strong>US05 - Suportar informações em tempo real sobre o status dos transportes públicos</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US05</td>
+<td style="text-align: left;">Suportar informações em tempo real sobre o status dos transportes públicos</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> receber informações em tempo real sobre o status dos transportes públicos <em>para</em> planejar minhas viagens com precisão e evitar atrasos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve mostrar informações atualizadas sobre atrasos, cancelamentos e outras interrupções no serviço de transporte público. <br> - As informações devem ser precisas e em tempo real.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 6: - História de Usuário Suportar informações em tempo real sobre o status dos transportes públicos. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us06-integrar-funcionalidades-de-navegacao-e-mapas"><strong>US06 - Integrar funcionalidades de navegação e mapas</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US06</td>
+<td style="text-align: left;">Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> ter acesso a funcionalidades de navegação e mapas para encontrar rotas otimizadas e localizar paradas de ônibus facilmente <em>para</em> facilitar minha jornada no transporte público.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve mostrar o mapa da região com as paradas de ônibus marcadas. <br> - Deve ser possível traçar rotas de viagem com base na localização atual do usuário e no destino desejado.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 7: - História de Usuário Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us07-permitir-cadastrar-metodos-de-pagamento"><strong>US07 - Permitir cadastrar métodos de pagamento</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US07</td>
+<td style="text-align: left;">Permitir cadastrar métodos de pagamento</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> cadastrar diferentes métodos de pagamento no aplicativo <em>para</em> efetuar transações de recarga e compra de bilhetes de forma conveniente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder adicionar múltiplos métodos de pagamento, como cartões de crédito ou PayPal. <br> - As informações de pagamento devem ser seguras e criptografadas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 8: - História de Usuário Permitir cadastrar métodos de pagamento. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us08-capacidade-de-realizar-cadastro"><strong>US08 - Capacidade de realizar cadastro</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US08</td>
+<td style="text-align: left;">Capacidade de realizar cadastro</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> ter a capacidade de criar uma conta no aplicativo <em>para</em> acessar funcionalidades exclusivas e personalizar minha experiência.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- Deve haver um formulário de cadastro com campos obrigatórios, como nome, e-mail e senha. <br> - Após o cadastro, o usuário deve poder fazer login imediatamente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 09: - História de Usuário Capacidade de realizar cadastro. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us09-fornecer-a-localizacao-do-usuario"><strong>US09 - Fornecer a localização do usuário</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US09</td>
+<td style="text-align: left;">Fornecer a localização do usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo seja capaz de acessar minha localização atual <em>para</em> fornecer informações precisas sobre paradas e rotas de transporte público.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve solicitar permissão ao usuário para acessar a localização. <br> - A localização deve ser usada apenas para fornecer informações relevantes aos serviços do aplicativo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 10: - História de Usuário Fornecer a localização do usuário. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us10-possibilidade-de-personalizar-a-aparencia-da-interface-do-usuario"><strong>US10 - Possibilidade de personalizar a aparência da interface do usuário</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US10</td>
+<td style="text-align: left;">Possibilidade de personalizar a aparência da interface do usuário</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> poder personalizar a aparência da interface do aplicativo <em>para</em> tornar a experiência de uso mais agradável e adaptada ao meu gosto pessoal.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve oferecer opções de temas, cores e fontes que podem ser customizadas pelo usuário. <br> - As alterações devem ser visíveis imediatamente após a personalização.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Baixa</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 11: - História de Usuário Possibilidade de personalizar a aparência da interface da usuário. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us11-mostrar-ao-usuario-a-previsao-de-deposito-de-dinheiro"><strong>US11 - Mostrar ao usuário a previsão de depósito de dinheiro</strong></h3>
+<p><center></p>
+<p><font size="3">Tabela 26 - Mostrar ao usuário a previsão de depósito de dinheiro.</font></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US11</td>
+<td style="text-align: left;">Mostrar ao usuário a previsão de depósito de dinheiro</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> ter acesso a informações sobre a previsão de depósito de dinheiro no meu cartão de mobilidade <em>para</em> planejar minhas viagens e evitar surpresas ao descobrir que meu saldo está baixo._</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve mostrar uma previsão clara e precisa das datas em que os depósitos de dinheiro são esperados no cartão do usuário. <br> - As informações devem ser atualizadas em tempo real ou em intervalos frequentes para refletir mudanças no status da transação. <br> - A previsão deve ser facilmente acessível para o usuário, com poucos cliques ou toques.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 12: - História de Usuário Mostrar ao usuário a previsão de depósito de dinheiro. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us12-visualizar-linhas-e-horarios-de-onibus"><strong>US12 - Visualizar linhas e horários de ônibus</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US12</td>
+<td style="text-align: left;">Visualizar linhas e horários de ônibus</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> poder ver informações detalhadas sobre as linhas de ônibus, incluindo horários de partida e chegada, <em>para</em> poder planejar minha viagem com precisão e evitar longos períodos de espera.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder selecionar uma linha de ônibus específica para ver os horários de partida e chegada. <br> - As informações devem ser precisas e atualizadas regularmente para refletir os horários reais de operação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 13: - História de Usuário Visualizar linhas e horários de ônibus. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us13-realizar-recargas-de-creditos-no-cartao"><strong>US13 - Realizar recargas de créditos no cartão</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US13</td>
+<td style="text-align: left;">Realizar recargas de créditos no cartão</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> recarregar créditos no meu cartão de mobilidade <em>para</em> continuar usando os serviços de transporte público.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder escolher o valor da recarga e o método de pagamento. <br> - Após a recarga, o saldo do cartão deve ser atualizado imediatamente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 14: - História de Usuário Realizar recargas de créditos no cartão. - (Fonte: LELIS, Caio).</p>
+</div>
+<p></center></p>
+<h3 id="us14-salvar-rotas-personalizadas"><strong>US14 - Salvar rotas personalizadas</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US14</td>
+<td style="text-align: left;">Salvar rotas personalizadas</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> poder salvar rotas de viagem personalizadas <em>para</em> facilitar o planejamento de futuras viagens, economizando tempo ao inserir destinos frequentes e preferidos.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder salvar múltiplas rotas com nomes descritivos para facilitar a identificação. <br> - As rotas salvas devem poder ser editadas ou excluídas pelo usuário conforme necessário. <br> - As rotas devem ser acessíveis a qualquer momento para consulta ou edição.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Baixa</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 15: - História de Usuário Salvar rotas personalizadas. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us15-fornecer-secao-de-comunicacao-direta"><strong>US15 - Fornecer seção de comunicação direta</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US15</td>
+<td style="text-align: left;">Fornecer seção de comunicação direta</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> ter uma seção dentro do aplicativo dedicada à comunicação direta com o suporte ao cliente <em>para</em> poder relatar problemas, fazer perguntas ou fornecer feedback facilmente.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve ter uma seção claramente identificada para suporte ao cliente ou comunicação direta. <br> - O usuário deve poder enviar mensagens e receber respostas em tempo real ou dentro de um prazo razoável. <br> - As interações devem ser registradas para referência futura.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 16: - História de Usuário Fornecer seção de comunicação direta. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us16-mostrar-ao-usuario-a-previsao-de-deposito-de-dinheiro"><strong>US16 - Mostrar ao usuário a previsão de depósito de dinheiro</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US16</td>
+<td style="text-align: left;">Mostrar ao usuário a previsão de depósito de dinheiro</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> ter acesso a informações sobre a previsão de depósito de dinheiro no meu cartão de mobilidade <em>para</em> planejar minhas viagens e evitar surpresas ao descobrir que meu saldo está baixo._</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve mostrar uma previsão clara e precisa das datas em que os depósitos de dinheiro são esperados no cartão do usuário. <br> - As informações devem ser atualizadas em tempo real ou em intervalos frequentes para refletir mudanças no status da transação. <br> - A previsão deve ser facilmente acessível para o usuário, com poucos cliques ou toques.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 17: - História de Usuário Mostrar ao usuário a previsão de depósito de dinheiro. - (Fonte: LELIS, Caio).</p>
+</div>
+
+<p></center></p>
+<h3 id="us17-suporte-para-usuarios-com-deficiencia-fisica"><strong>US17 - Suporte para usuários com deficiência física</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US17</td>
+<td style="text-align: left;">Suporte para usuários com deficiência física</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário com deficiência física, <em>quero</em> receber suporte adicional no aplicativo <em>para</em> facilitar minha interação e compreensão das informações exibidas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve oferecer opções de acessibilidade, como leitores de tela e comandos de voz. <br> - Todas as funcionalidades do aplicativo devem ser acessíveis para usuários com deficiência física. <br> - As informações exibidas devem ser apresentadas de forma clara e compreensível.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 18: - História de Usuário Suporte para usuários com deficiência visual. </p>
+</div>
+
+<p></center></p>
+<h3 id="us18-previsao-de-deposito-de-dinheiro-no-cartao-de-mobilidade"><strong>US18 - Previsão de depósito de dinheiro no cartão de mobilidade</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US18</td>
+<td style="text-align: left;">Previsão de depósito de dinheiro no cartão de mobilidade</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário regular, <em>quero</em> ver a previsão de depósito de dinheiro no meu cartão de mobilidade <em>para</em> poder planejar minhas viagens de acordo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder visualizar a data e o valor estimado do próximo depósito em seu cartão de mobilidade. <br> - As informações devem ser atualizadas em tempo real para refletir o saldo disponível no cartão.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 19: - História de Usuário Previsão de depósito de dinheiro no cartão de mobilidade. </p>
+</div>
+
+<p></center></p>
+<h3 id="us19-acesso-ao-historico-detalhado-das-atividades"><strong>US19 - Acesso ao histórico detalhado das atividades</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US19</td>
+<td style="text-align: left;">Acesso ao histórico detalhado das atividades</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> acessar um histórico detalhado das minhas atividades no aplicativo, incluindo transações, viagens anteriores e outras interações <em>para</em> melhorar minha compreensão do meu uso do aplicativo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder acessar uma lista completa de suas atividades passadas, incluindo transações, viagens anteriores e outras interações relevantes. <br> - O histórico deve ser fácil de navegar e pesquisar. <br> - As informações devem ser organizadas de forma clara e compreensível.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 20: - História de Usuário Acesso ao histórico detalhado das atividades. </p>
+</div>
+
+<p></center></p>
+<h3 id="us20-notificacoes-de-deposito-de-dinheiro-no-cartao-de-mobilidade"><strong>US20 - Notificações de depósito de dinheiro no cartão de mobilidade</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US20</td>
+<td style="text-align: left;">Notificações de depósito de dinheiro no cartão de mobilidade</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>quero</em> receber notificações quando o dinheiro for depositado no meu cartão de mobilidade <em>para</em> estar ciente de quando meu saldo foi recarregado.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder optar por receber notificações por meio de mensagens push ou e-mails. <br> - As notificações devem ser enviadas imediatamente após o depósito de dinheiro no cartão.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 21: - História de Usuário Notificações de depósito de dinheiro no cartão de mobilidade. </p>
+</div>
+
+<p></center></p>
+<h3 id="us21-visualizacao-de-rotas-alternativas-durante-interrupcoes-do-servico"><strong>US21 - Visualização de rotas alternativas durante interrupções do serviço</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US21</td>
+<td style="text-align: left;">Visualização de rotas alternativas durante interrupções do serviço</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> poder visualizar rotas alternativas em tempo real durante as interrupções do serviço <em>para</em> encontrar a melhor maneira de chegar ao meu destino.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve fornecer informações em tempo real sobre rotas alternativas durante interrupções do serviço. <br> - O usuário deve poder comparar diferentes rotas e escolher a mais conveniente. <br> - As informações devem ser atualizadas rapidamente para refletir as condições em tempo real.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 22: - História de Usuário Visualização de rotas alternativas durante interrupções do serviço. </p>
+</div>
+
+<p></center></p>
+<h3 id="us22-compra-de-bilhetes-de-transporte-publico-pelo-aplicativo"><strong>US22 - Compra de bilhetes de transporte público pelo aplicativo</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US22</td>
+<td style="text-align: left;">Compra de bilhetes de transporte público pelo aplicativo</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> poder comprar bilhetes de transporte público diretamente pelo aplicativo <em>para</em> evitar a necessidade de usar máquinas de venda de bilhetes físicas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve oferecer opções para comprar diferentes tipos de bilhetes, como bilhetes unitários ou passes mensais. <br> - O processo de compra deve ser fácil, rápido e seguro. <br> - O usuário deve receber um comprovante de compra após a transação.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 23: - História de Usuário Compra de bilhetes de transporte público pelo aplicativo. </p>
+</div>
+
+<p></center></p>
+<h3 id="us23-solicitacao-de-segunda-via-do-cartao-de-mobilidade"><strong>US23 - Solicitação de segunda via do cartão de mobilidade</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US23</td>
+<td style="text-align: left;">Solicitação de segunda via do cartão de mobilidade</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário regular, <em>desejo</em> poder solicitar uma segunda via do cartão de mobilidade caso o meu seja perdido ou danificado <em>para</em> garantir que eu possa continuar utilizando o serviço de transporte público.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder solicitar a segunda via do cartão de mobilidade através do aplicativo. <br> - O processo de solicitação deve ser fácil e intuitivo. <br> - O usuário deve receber confirmação da solicitação e informações sobre o status do novo cartão.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 24: - História de Usuário Solicitação de segunda via do cartão de mobilidade. </p>
+</div>
+
+<p></center></p>
+<h3 id="us24-recebimento-de-notificacoes-sobre-eventos-e-promocoes"><strong>US24 - Recebimento de notificações sobre eventos e promoções</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US24</td>
+<td style="text-align: left;">Recebimento de notificações sobre eventos e promoções</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> receber notificações de eventos e promoções especiais relacionadas ao sistema de transporte público <em>para</em> estar ciente de ofertas exclusivas e eventos que possam beneficiar minha experiência de viagem.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder optar por receber notificações sobre eventos e promoções no aplicativo. <br> - As notificações devem ser claras e informativas, fornecendo detalhes sobre o evento ou promoção. <br> - O usuário deve poder desativar as notificações a qualquer momento.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Baixa</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 25: - História de Usuário Recebimento de notificações sobre eventos e promoções. </p>
+</div>
+
+<p></center></p>
+<h3 id="us25-compartilhamento-de-viagens-com-amigos-e-familiares"><strong>US25 - Compartilhamento de viagens com amigos e familiares</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US25</td>
+<td style="text-align: left;">Compartilhamento de viagens com amigos e familiares</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário regular, <em>quero</em> compartilhar minhas viagens com amigos e familiares <em>para</em> que eles saibam minha localização e estejam cientes da minha segurança durante o trajeto.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder compartilhar detalhes da viagem, incluindo a rota e a hora estimada de chegada, com amigos e familiares. <br> - O compartilhamento deve ser opcional e controlado pelo usuário. <br> - O usuário deve poder interromper o compartilhamento a qualquer momento.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 26: - História de Usuário Compartilhamento de viagens com amigos e familiares. </p>
+</div>
+
+<p></center></p>
+<h3 id="us26-fornecimento-de-feedback-sobre-o-servico-de-transporte-publico"><strong>US26 - Fornecimento de feedback sobre o serviço de transporte público</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US26</td>
+<td style="text-align: left;">Fornecimento de feedback sobre o serviço de transporte público</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> fornecer feedback sobre o serviço de transporte público, incluindo sugestões de melhorias e reclamações sobre problemas encontrados <em>para</em> contribuir para a melhoria contínua do serviço.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder enviar feedback diretamente pelo aplicativo. <br> - O aplicativo deve permitir que o usuário forneça detalhes sobre a experiência, incluindo sugestões construtivas e informações relevantes sobre problemas encontrados. <br> - O usuário deve receber confirmação do recebimento do feedback.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 27: - História de Usuário Fornecimento de feedback sobre o serviço de transporte público. </p>
+</div>
+
+<p></center></p>
+<h3 id="us27-suporte-adicional-para-usuarios-com-deficiencia-visual"><strong>US27 - Suporte adicional para usuários com deficiência visual</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US27</td>
+<td style="text-align: left;">Suporte adicional para usuários com deficiência visual</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário com deficiência visual, <em>quero</em> receber suporte adicional no aplicativo <em>para</em> facilitar minha interação e compreensão das informações exibidas.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O aplicativo deve oferecer opções de acessibilidade, como leitores de tela e comandos de voz. <br> - Todas as funcionalidades do aplicativo devem ser acessíveis para usuários com deficiência visual. <br> - As informações exibidas devem ser apresentadas de forma clara e compreensível.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 28: - História de Usuário Suporte adicional para usuários com deficiência visual. </p>
+</div>
+
+<p></center></p>
+<h3 id="us28-previsao-de-deposito-de-dinheiro-no-cartao-de-mobilidade"><strong>US28 - Previsão de depósito de dinheiro no cartão de mobilidade</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US28</td>
+<td style="text-align: left;">Previsão de depósito de dinheiro no cartão de mobilidade</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário regular, <em>quero</em> ver a previsão de depósito de dinheiro no meu cartão de mobilidade <em>para</em> poder planejar minhas viagens de acordo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder visualizar a data e o valor estimado do próximo depósito em seu cartão de mobilidade. <br> - As informações devem ser atualizadas em tempo real para refletir o saldo disponível no cartão.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 29: - História de Usuário Previsão de depósito de dinheiro no cartão de mobilidade. </p>
+</div>
+
+<p></center></p>
+<h3 id="us29-notificacoes-de-deposito-de-dinheiro-no-cartao-de-mobilidade"><strong>US29 - Notificações de depósito de dinheiro no cartão de mobilidade</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US29</td>
+<td style="text-align: left;">Notificações de depósito de dinheiro no cartão de mobilidade</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>quero</em> receber notificações quando o dinheiro for depositado no meu cartão de mobilidade <em>para</em> estar ciente de quando meu saldo foi recarregado.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder optar por receber notificações por meio de mensagens push ou e-mails. <br> - As notificações devem ser enviadas imediatamente após o depósito de dinheiro no cartão.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Média</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 30: - História de Usuário Notificações de depósito de dinheiro no cartão de mobilidade. </p>
+</div>
+
+<p></center></p>
+<h3 id="us30-acesso-ao-historico-detalhado-das-atividades"><strong>US30 - Acesso ao histórico detalhado das atividades</strong></h3>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>ID</strong></th>
+<th style="text-align: left;"><strong>Nome</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">US30</td>
+<td style="text-align: left;">Acesso ao histórico detalhado das atividades</td>
+</tr>
+<tr>
+<td style="text-align: left;">Descrição</td>
+<td style="text-align: left;"><em>Eu, como</em> usuário, <em>desejo</em> acessar um histórico detalhado das minhas atividades no aplicativo, incluindo transações, viagens anteriores e outras interações <em>para</em> melhorar minha compreensão do meu uso do aplicativo.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Critérios de Aceitação</td>
+<td style="text-align: left;">- O usuário deve poder acessar uma lista completa de suas atividades passadas, incluindo transações, viagens anteriores e outras interações relevantes. <br> - O histórico deve ser fácil de navegar e pesquisar. <br> - As informações devem ser organizadas de forma clara e compreensível.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Prioridade</td>
+<td style="text-align: left;">Alta</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 31: - História de Usuário Acesso ao histórico detalhado das atividades. </p>
+</div>
+
+<p></center></p>
+<h2 id="video-de-entrevista-com-o-po">Vídeo de entrevista com o PO</h2>
+<div style="text-align: center;">
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/os3wIH667go?si=cxZP-nOB0j5Y03WU" title="Vídeo de Entrevista com o Product Owner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<h2 id="referencias-bibliograficas"><strong>Referências Bibliográficas</strong></h2>
+<blockquote>
+<p>[1] Capítulo 03 Desenvolvimento Ágil: Engenharia de Software Pressman Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2692825/mod_resource/content/3/Engenharia_de_Software_Uma_Abordagem_Pro.pdf">https://aprender3.unb.br/pluginfile.php/2692825/mod_resource/content/3/Engenharia_de_Software_Uma_Abordagem_Pro.pdf</a>. Acesso em: 05 nov. 2023.</p>
+</blockquote>
+<h2 id="bibliografia"><strong>Bibliografia</strong></h2>
+<blockquote>
+<p>Vídeo professor Diogo Becker - Guia definitivo para Histórias de Usuário. Disponível em: <a href="https://youtu.be/pLJ3LxR292w?si=seamXCUIjA9qk0G3">https://youtu.be/pLJ3LxR292w?si=seamXCUIjA9qk0G3</a>. Acesso em 04 nov. 2023</p>
+</blockquote>
+<h2 id="historico-de-versoes"><strong>Histórico de Versões</strong></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Revisor</th>
+<th style="text-align: center;">Data de revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: center;">Criação do documento de história de usuários</td>
+<td style="text-align: center;">Caio Lelis e Doan</td>
+<td style="text-align: center;">04/11/2023</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">1.1</td>
+<td style="text-align: center;">Adição de histórias de usuário</td>
+<td style="text-align: center;">Caio Lelis e Doan</td>
+<td style="text-align: center;">04/11/2023</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">1.2</td>
+<td style="text-align: center;">Atualização de histórias de usuário</td>
+<td style="text-align: center;">Caio Lelis e Doan</td>
+<td style="text-align: center;">04/11/2023</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Voltar ao topo
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../backlog/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Backlog" rel="prev">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Backlog
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../nfr/" class="md-footer__link md-footer__link--next" aria-label="Próximo: NFR" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              <div class="md-ellipsis">
+                NFR
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.footer", "toc.follow", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../../../assets/javascripts/workers/search.dfff1995.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.dff1b7c8.min.js"></script>
+      
+    
+  </body>
+</html>
