@@ -49,4 +49,4 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Caio 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento  |  Joel Soares  |   04/12/2023   ||   |
+|  1.0   | Criação do documento  |  Joel Soares  |   04/12/2023   | Caio Braga |  04/12/2023 |
