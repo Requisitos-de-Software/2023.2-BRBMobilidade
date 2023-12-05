@@ -1,4 +1,4 @@
-# **Verificação do Artefato Questionário**
+# **Verificação do Artefato Observação**
 
 ## **Introdução**
 
@@ -14,7 +14,7 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 
 ## **Lista de Verificação**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_bjcg7VGGQxMD_8fI7XzsM5Po6lcgJ7TPMwDqTWe8Tl5Z1SIg1cBAXbu4BF2Ag5a8JLTY_7i-4HlN/pubhtml?gid=1147481718&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_bjcg7VGGQxMD_8fI7XzsM5Po6lcgJ7TPMwDqTWe8Tl5Z1SIg1cBAXbu4BF2Ag5a8JLTY_7i-4HlN/pubhtml?gid=1147481718&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha os requisitos elicitados a partir da observação feito junto a um usário da aplicação.

@@ -14,9 +14,17 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 
 ## **Lista de Verificação**
 
+<center>
+
+**Tabela 1**: Checklist de itens do artefato Histórias de usuário
+</center>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpfRvAx5nbPmOSPOUFOagMidlaxpW6qvDuGDQdobTJJtU3kTuyb81cOYLkZP2_51BYWErM9l8_f0ga/pubhtml?gid=1667129552&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
+<center>
+
+**Fonte**: BASILIO, Guilherme
+</center>
 
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha as Histórias de Usuário para cada requisito presente no nosso projeto, com o intuito de facilitar a compreensão do usuário e do desenvolvedor sobre o que é necessário para a implementação do requisito.
@@ -67,13 +75,12 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 
 ## **Bibliografia**
 
->
->
->
+> SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2523115/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 20/05/2023.
+> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento  |   Caio Lelis   |   03/12/2023   |  |     |
-| 1.1   | Adição de conteúdo  |   Caio Lelis   |   03/12/2023   |  |     |
+|  1.0   | Criação do documento  |   Caio Braga   |   03/12/2023   | Caio Lelis |  03/12/2023   |
+| 1.1   | Adição de conteúdo  |   Caio Braga   |   03/12/2023   | Caio Lelis |   03/12/2023  |

@@ -14,23 +14,48 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 
 ## **Lista de Verificação**
 
+<center>
+
+**Tabela 1**: Checklist de itens do artefato Backlog
+</center>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpfRvAx5nbPmOSPOUFOagMidlaxpW6qvDuGDQdobTJJtU3kTuyb81cOYLkZP2_51BYWErM9l8_f0ga/pubhtml?gid=2048575814&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
+<center>
+
+**Fonte**: FILHO, Doan.
+</center>
 
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha a separação dos requisitos em épicos, features e histórias de usuário, além de uma breve descrição de cada um deles.
 
 ## **Inspeção em Dupla**
 
+<center>
+
+**Vídeo 1**: Gravação da inspeção em dupla do artefato Backlog
+</center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxJCC5DcdEM?si=gm4J3owsaS5fzvH-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<center>
+
+**Fonte**: BRAGA, Caio. LELIS, Caio
+</center>
 
 
 ## **Inspeção Individual** 
 
+<center>
+
+**Vídeo 2**: Gravação da inspeção individual do artefato Backlog
+</center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fpRtQzYuiRc?si=XpL83n36CVmosnpX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<center>
 
+**Fonte**: BRAGA, Caio. LELIS, Caio
+</center>
 
 ## **Correções sugeridas**
 
@@ -44,13 +69,12 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 
 ## **Bibliografia**
 
->
->
+> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 015): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf Acesso em: 03/12/2023.
 >
 
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento  |   Caio Lelis   |   03/12/2023   |  |     |
-| 1.1   | Adição de conteúdo  |   Caio Lelis   |   03/12/2023   |  |     |
+|  1.0   | Criação do documento  |   Caio Lelis   |   03/12/2023   | Caio Braga |   03/12/2023   |
+| 1.1   | Adição de conteúdo  |   Caio Lelis   |   03/12/2023   | Caio Braga |   03/12/2023    |

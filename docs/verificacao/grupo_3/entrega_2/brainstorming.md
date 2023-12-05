@@ -10,12 +10,22 @@ A principal função desse artefato é apresentar os resultados obtidos a partir
 
 ## **Metodologia**
 
-Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Miguel. As respostas poderão ser assinaladas com as opções **Conforme**, **Não Conforme** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
+Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Guilherme Basílio. As respostas poderão ser assinaladas com as opções **Conforme**, **Não Conforme** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
 
 ## **Lista de Verificação**
 
+<center>
+
+**Tabela 1**: Checklist de itens do artefato Brainstorming
+</center>
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_bjcg7VGGQxMD_8fI7XzsM5Po6lcgJ7TPMwDqTWe8Tl5Z1SIg1cBAXbu4BF2Ag5a8JLTY_7i-4HlN/pubhtml?gid=1246417558&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
+
+<center>
+
+**Fonte**: Checklist de itens do artefato Brainstorming
+</center>
 
 ## **Conteúdo esperado no artefato**
 Espera-se que esse documento contenha os requisitos elicitados a partir de uma reunião de Brainstorming para concepção de ideias em conjunto. 
