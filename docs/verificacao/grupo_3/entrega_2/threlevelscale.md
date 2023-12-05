@@ -29,11 +29,12 @@ Espera-se que esse documento contenha os requisitos elicitados a partir de um qu
 ## **Correções sugeridas**
 
 Após a inspeção, foram identificados e levados até o dono do artefato, Caio Lelis , os seguintes problemas para correção:
--A introdução do artefato está muito simples e não introduz o documento 
--Pois não possui bibliográfia 
--Não há chamadas dentro do próprio arquivo 
--Adicionar  hiperlinks dentro do artefato
--Na tabela não seguem uma ordem logica
+
+- A introdução do artefato está muito simples e não introduz o documento 
+- Pois não possui bibliográfia 
+- Não há chamadas dentro do próprio arquivo 
+- Adicionar  hiperlinks dentro do artefato
+- Na tabela não seguem uma ordem logica
 
 ## **Bibliografia**
 
