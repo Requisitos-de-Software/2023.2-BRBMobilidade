@@ -6,11 +6,11 @@ Esse artefato documenta a verificação do artefato de Casos de Uso produzido ao
 
 ## **Objetivo**
 
-A principal função desse artefato é apresentar os resultados obtidos a partir da verificação do artefato Casos de Uso, confeccionado na Terceira Etapa do projeto.
+A principal função desse artefato é apresentar os resultados obtidos a partir da verificação do artefato Casos de Uso, confeccionado na terceira Etapa do projeto.
 
 ## **Metodologia**
 
-Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Miguel. As respostas poderão ser assinaladas com as opções **Conforme**, **Não Conforme** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
+Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Doan. As respostas poderão ser assinaladas com as opções **Conforme**, **Não Conforme** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
 
 ## **Lista de Verificação**
 
