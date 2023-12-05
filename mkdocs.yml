@@ -150,11 +150,21 @@ nav:
 
       - Entrega 3:
         - Backlog: verificacao/grupo_3/entrega_3/backlog.md
+        - Casos de Uso: verificacao/grupo_3/entrega_3/casosdeuso.md
+        - Cenários: verificacao/grupo_3/entrega_3/Cenarios.md
+        - Especificação Suplementar: verificacao/grupo_3/entrega_3/especificacao_suplementar.md
         - Histórias de Usuário: verificacao/grupo_3/entrega_3/historias_de_usuario.md
         - NRF Freamework: verificacao/grupo_3/entrega_3/NRFFreamework.md
+        - Léxicos: verificacao/grupo_3/entrega_3/lexicos.md
+      - Entrega 4: 
+        - Backward From: verificacao/grupo_3/entrega_4/BackwardFrom.md
+        - Forward From: verificacao/grupo_3/entrega_4/forwardfrom.md
+        - Matriz de Rastreabilidade: verificacao/grupo_3/entrega_4/matriz.md
+
   - Validação:
      - Validação Informal: Validação/Validação informal.md
      - Protótipos: Validação/protótipos.md
+
 
     
 
