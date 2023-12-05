@@ -22,33 +22,51 @@ Espera-se que esse documento contenha os requisitos priorizados com a ajuda de u
 
 ## **Inspeção em Dupla**
 
-(link youtube da inspeção em dupla)
+<center>
 
+**Vídeo 1:** Gravação da inspeção em dupla do artefato Moscow
+</center>
+
+<iframe width="640" height="315" src="https://www.youtube.com/embed/TjSEqWCMAqw?si=e7gChn9jcJWDqb61" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<center>
+
+**Fonte**: BRAGA, Caio. SOARES, Joel
+</center>
 
 ## **Inspeção Individual** 
 
-(link youtube da inspeção solo)
+<center>
 
+**Vídeo 2:** Gravação da inspeção individual do artefato Moscow
+</center>
 
+<iframe width="640" height="315" src="https://www.youtube.com/embed/zCvVqLS25xM?si=cj6MGboRQPK-plzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<center>
+
+**Fonte**: BRAGA, Caio. 
+</center>
 
 ## **Correções sugeridas**
 
 Após a inspeção, foram identificados e levados até o dono do artefato, Doan Filho, os seguintes problemas para correção:
 
-- 
-- 
--
+- Seria interessante adicionar um tópico de Objetivos, esclarecendo o que se busca alcançar com o uso dessa técnica
+- Deve haver uma gravação do processo de priorização dos requisitos utilizando a técnica no artefato
+- É necessário que o produto da priorização seja validado com um usuário do site
+
+## **Estimativas**
 
 
 ## **Bibliografia**
 
->
->
->
+> WIEGERS, Karl; BEATTY, Joy. Software Requirements (Developer Best 
+Practices), 3rd Edition, Microsoft Press, 2013
 
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Caio Braga   |   25/11/2023   | Caio Lelis |  27/11/2023   |
-| 1.1   | Adição de conteúdo  |   Caio Lelis   |   03/12/2023   |  |  --/--/2023    |
+| 1.1   | Adição de conteúdo  |   Caio Lelis   |   03/12/2023   | Caio Braga |  03/12/2023    |

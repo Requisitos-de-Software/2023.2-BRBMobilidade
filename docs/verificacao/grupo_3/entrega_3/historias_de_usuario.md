@@ -23,23 +23,47 @@ Espera-se que esse documento contenha as Histórias de Usuário para cada requis
 
 ## **Inspeção em Dupla**
 
+<center>
+
+**Vídeo 1:** Gravação da inspeção em dupla do artefato Histórias de Usuário 
+</center>
+
+<iframe width="640" height="315" src="https://www.youtube.com/embed/tnrTqh2Df54?si=3nfFI6U9upYEH6TV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+<center>
+
+**Fonte**: BRAGA, Caio. SOARES, Joel
+</center>
 
 ## **Inspeção Individual** 
 
+<center>
+
+**Vídeo 2:** Gravação da inspeção individual do artefato Histórias de Usuário 
+</center>
+
+<iframe width="640" height="315" src="https://www.youtube.com/embed/6qBotYEWOBw?si=8IS-20YKuOLiIxWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+<center>
 
+**Fonte**: BRAGA, Caio. 
+</center>
 
 ## **Correções sugeridas**
 
 Após a inspeção, foram identificados e levados até o dono do artefato, Doan Filho, os seguintes problemas para correção:
 
-- 
-- 
-- 
-- 
+- O artefato não possui uma seção de Objetivos. Será necessário corrigir isso.
+- A referência do vídeo utilizado precisa ser colocada nas normas da ABNT
+- É preciso adicionar os revisores e datas de revisão do artefato
+- Verificar títulos que não estão sendo escritos como Verbos
+- É necessário adicionar as subdivisões das tarefas no artefato
+- É importante colocar estimativas de esforço ou pontos de história
+
+## **Estimativas**
+
 
 ## **Bibliografia**
 
