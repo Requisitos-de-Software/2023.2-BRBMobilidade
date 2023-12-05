@@ -12,6 +12,8 @@ A principal função desse artefato é apresentar os resultados obtidos a partir
 
 Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Caio Braga. As respostas poderão ser assinaladas com as opções **Conforme**, **Não Conforme** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
 
+A lista de verificação com todas as referências bibliográficas pode ser acessada no seguinte <a href = "https://docs.google.com/document/d/e/2PACX-1vTgw14hu7Lkan_HVqYfNhrZvK6vHnK5zqPAd72jr26SnoC1mztaULZkwfAYTXLAjI9K4yjvTT2Xvdnp/pub">link</a>.
+
 ## **Lista de Verificação**
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpfRvAx5nbPmOSPOUFOagMidlaxpW6qvDuGDQdobTJJtU3kTuyb81cOYLkZP2_51BYWErM9l8_f0ga/pubhtml?gid=1088657321&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
