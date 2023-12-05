@@ -1,4 +1,4 @@
-# **Verificação do Artefato Backlog**
+# **Verificação do Backward From**
 
 ## **Introdução**
 
@@ -6,7 +6,7 @@ Esse artefato documenta a verificação do artefato de Backward From produzido a
 
 ## **Objetivo**
 
-A principal função desse artefato é apresentar os resultados obtidos a partir da verificação do artefato Backlog, confeccionado na Terceira Etapa do projeto.
+A principal função desse artefato é apresentar os resultados obtidos a partir da verificação do artefato Backward From, confeccionado durante a etapa de pós rastreablidade do projeto.
 
 ## **Metodologia**
 
