@@ -10,7 +10,9 @@ A principal função desse artefato é apresentar os resultados obtidos a partir
 
 ## **Metodologia**
 
-Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Miguel. As respostas poderão ser assinaladas com as opções **Conforme**, **Não Conforme** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
+Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Caio Braga. As respostas poderão ser assinaladas com as opções **Conforme**, **Não Conforme** ou **Incompleto** .Cada avaliador poderá também fazer observações em cada item do checklist.
+
+A lista de verificação com todas as referências bibliográficas pode ser acessada no seguinte <a href = "https://docs.google.com/document/d/e/2PACX-1vQepgWWDerHLh1OfRbLWr4bP4BOzc7KE3y2Sr1E6OTUcDnNFgWdnahEn5EhrX0W7LTGA9HTVidEaeaC/pub">link</a>.
 
 ## **Lista de Verificação**
 
