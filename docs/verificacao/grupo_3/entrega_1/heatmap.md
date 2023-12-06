@@ -44,4 +44,4 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Doan 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  |   Caio Braga   |   25/11/2023   | Guilherme Basilio |  25/11/2023    |
-|  1.0   | Adicionando conteúdo  |   Guilherme Basílio   |   25/11/2023   | Miguel de Frias |  06/12/2023    |
+|  1.1   | Adicionando conteúdo  |   Guilherme Basílio   |   25/11/2023   | Miguel de Frias |  06/12/2023    |
