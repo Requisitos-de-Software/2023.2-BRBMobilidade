@@ -2,11 +2,11 @@
 
 ## **Introdução**
 
-Esse artefato documenta a verificação do artefato de Brainstorming produzido ao longo do projeto. Ao longo do documento serão apresentados o objetivo, a metodologia e os dados da verificação. Destarte, serão sumarizados os principais problemas  identificados e será fornecida uma análise para obte um feedback que guie as correções a serem realizadas.
+Esse artefato documenta a verificação do artefato de [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/) produzido ao longo do projeto. Ao longo do documento serão apresentados o objetivo, a metodologia e os dados da verificação. Destarte, serão sumarizados os principais problemas  identificados e será fornecida uma análise para obte um feedback que guie as correções a serem realizadas.
 
 ## **Objetivo**
 
-A principal função desse artefato é apresentar os resultados obtidos a partir da verificação do artefato de Brainstorming, confeccionado na Segunda Etapa do projeto.
+A principal função desse artefato é apresentar os resultados obtidos a partir da verificação do artefato de [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/), confeccionado na Segunda Etapa do projeto.
 
 ## **Metodologia**
 
@@ -28,13 +28,13 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 </center>
 
 ## **Conteúdo esperado no artefato**
-Espera-se que esse documento contenha os requisitos elicitados a partir de uma reunião de Brainstorming para concepção de ideias em conjunto. 
+Espera-se que esse documento contenha os requisitos elicitados a partir de uma reunião de [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/) para concepção de ideias em conjunto. 
 
 ## **Inspeção em Dupla**
 
 <center>
 
-**Vídeo 1:** Gravação da inspeção em dupla do artefato Brainstorming
+**Vídeo 1:** Gravação da inspeção em dupla do artefato [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/)
 </center>
 
 <iframe width="640" height="315" src="https://www.youtube.com/embed/3Fmzw66QWBg?si=K69ej37qBBYTq2Ci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -48,7 +48,7 @@ Espera-se que esse documento contenha os requisitos elicitados a partir de uma r
 
 <center>
 
-**Vídeo 2:** Gravação da inspeção individual do artefato Brainstorming
+**Vídeo 2:** Gravação da inspeção individual do artefato [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/)
 </center>
 
 <iframe width="640" height="315" src="https://www.youtube.com/embed/WmQFVZvBtLI?si=3eRAUSqZzoRMyCFW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -76,7 +76,7 @@ A figura abaixo representa a contabilização dos dados coletados pelas resposta
 <br>
 <center>
 
-**Figura 1:** Gráfico de setores da coleta dos dados da Verificação do Brainstorming
+**Figura 1:** Gráfico de setores da coleta dos dados da Verificação do [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/)
 </center>
 
 <script src="//my.visme.co/visme-embed.js"></script><div class="visme_d" data-title="Gráfico-Brainstorming" data-url="z4n8opxy-new-project" data-w="700" data-full-h="false" data-h="400" data-domain="my"></div>
@@ -89,10 +89,10 @@ A figura abaixo representa a contabilização dos dados coletados pelas resposta
 
 ## **Bibliografia**
 
-> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO 
-> SANTANA DA SILVA, Interação Humano-Computador e Experiência do Usuário, 1a. Edição, Editora 
-> Campus, 2021. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado 
-> em: 03/05/2021.
+>[1]SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO 
+>[2]SANTANA DA SILVA, Interação Humano-Computador e Experiência do Usuário, 1a. Edição, Editora 
+>[3]Campus, 2021. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado 
+>[4]em: 03/05/2021.
 
 
 ## **Histórico de Versões**

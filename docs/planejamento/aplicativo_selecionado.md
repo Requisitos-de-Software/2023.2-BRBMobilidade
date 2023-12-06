@@ -26,10 +26,7 @@ Além da experiência, também consideramos a relevância do [BRB Mobilidade](ht
 
 Nossa decisão foi tomada com o apoio de todos os membros do grupo. Cada membro teve a oportunidade de compartilhar suas opiniões e preocupações, e a escolha final representa nossa determinação em trabalhar juntos para alcançar nossos objetivos.
 
-## **Bibliografia**
-
-> [1] BRB Mobilidade. Disponível em: https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&gl=US
-
+<a id = "ELEM1" href = "#REF1" ><sup>1</sup></a>
 ### **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  

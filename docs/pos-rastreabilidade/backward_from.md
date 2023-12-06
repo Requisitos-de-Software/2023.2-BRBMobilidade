@@ -2,7 +2,7 @@
 
 ## **Introdução**
 
-O Backward From é construído com base em um levantamento completo das fontes de requisitos, incluindo questionários, observações, brainstormings e outras fontes relevantes. Através desse processo, os requisitos funcionais são identificados, descrevendo as funcionalidades específicas que o sistema deve fornecer aos usuários. Enquanto isso, os requisitos não funcionais delineiam as características mais amplas e os atributos do sistema, como desempenho, segurança, usabilidade e compatibilidade.
+O Backward From é construído com base em um levantamento completo das fontes de requisitos, incluindo [questionários](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/questionario/), [observações](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/observacao/), [brainstormings](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/) e outras fontes relevantes. Através desse processo, os requisitos funcionais são identificados, descrevendo as funcionalidades específicas que o sistema deve fornecer aos usuários. Enquanto isso, os requisitos não funcionais delineiam as características mais amplas e os atributos do sistema, como desempenho, segurança, usabilidade e compatibilidade.
 
 Este artefato apresenta uma abordagem detalhada para cada requisito, descrevendo suas origens, conexões com outros requisitos e como eles satisfazem ou agregam uns aos outros. Através de uma estrutura clara e organizada
 
@@ -706,9 +706,9 @@ Os requisitos funcionais e não funcionais previamente [elicitados](https://requ
 | RNF11  | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas | Q15 | - Agrega RF08 (Personalizar a Aparência da Interface do Usuário): A funcionalidade de possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas agrega a capacidade específica de personalizar a aparência da interface do usuário. <br> - Satisfaz RF04 (Interagir com um Chatbot): Este elo estabelece que a funcionalidade atende à necessidade identificada no requisito RF04, garantindo a interação com um chatbot. |
 
 
-## **Referências**
+## **Bibliografia**
 
-> - Backward From - Tiktok. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/backwardfrom/>. Acesso em: 19 nov. 2023.
+>[1] Backward From - Tiktok. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/backwardfrom/>. Acesso em: 19 nov. 2023.
 
 ## **Histórico de Versões**
 

@@ -1,31 +1,31 @@
-# Roteiro de preparação para o forward from
+# **Roteiro de preparação para o forward from**
 
-## Introdução
+## **Introdução**
 
-Este documento busca orientar nossos integrantes a preparar o nosso documento onde teremos nossa matriz de rastreabilidade [Forward from]() a partir da ótica (para frente, a partir de).
+Este documento busca orientar nossos integrantes a preparar o nosso documento onde teremos nossa matriz de rastreabilidade [Forward from](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pos-rastreabilidade/forward_from/) a partir da ótica (para frente, a partir de).
 
 ## Objetivo
 
-O objetivo deste documento é orientar os integrantes do grupo a preparar o documento de rastreabilidade [Forward from]().
+O objetivo deste documento é orientar os integrantes do grupo a preparar o documento de rastreabilidade [Forward from](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pos-rastreabilidade/forward_from/).
 
-## Metodologia
+## **Metodologia**
 
-A metodologia proposta para a criação da matriz de rastreabilidade [Forward from]() é dividida em duas partes: requisitos funcionais e requisitos não funcionais.
+A metodologia proposta para a criação da matriz de rastreabilidade [Forward from](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pos-rastreabilidade/forward_from/) é dividida em duas partes: requisitos funcionais e requisitos não funcionais.
 
-## Requisitos Funcionais
+## **Requisitos Funcionais**
 
 1. **Análise das Histórias de Usuário e Vídeo/Foto Demonstrativo:**
     - Separar os documentos a serem analisados e sumarizados.
     - Relacionar cada história de usuário ao seu respectivo épico, cenário, léxico, caso de uso e onde foi elicitado.
     - Produzir um vídeo/foto demonstrativo que evidencie a implementação da funcionalidade no aplicativo ou no protótipo.
 
-## Requisitos Não Funcionais
+## **Requisitos Não Funcionais**
 
 1. **Associação de Requisitos aos NFR e Especificações Suplementares:**
     - Relacionar cada requisito não funcional ao seu respectivo NFR, Especificação Suplementar e fonte de eliciação.
 
 
-## Modelo de Rastreabilidade Requisitos funcionais
+## **Modelo de Rastreabilidade Requisitos funcionais**
 
 <div style="text-align: left">
 <p>Tabela 1: Modelo de rastreabilidade requisito funcional. Fonte: LELIS, Caio</p>
@@ -58,15 +58,15 @@ A metodologia proposta para a criação da matriz de rastreabilidade [Forward fr
 <p>Tabela 2: Modelo de rastreabilidade requisito não funcional. Fonte: LELIS, Caio</p>
 </div>
 
-## Divisão de Requisitos para a preparação do Forward from
+## **Divisão de Requisitos para a preparação do Forward from**
 
-De modo que fique mais viável a execução do nosso artefato foi feito a seguinte divisão (N° de requisitos) / (N° de integrantes do grupo). Assim feito, concluímo que cada integrante do grupo ficará responsável pela análise de 6 requisitos para a preparação do nosso artefat [Forward from]().
-
-
-## Divisão de requisitos:
+De modo que fique mais viável a execução do nosso artefato foi feito a seguinte divisão (N° de requisitos) / (N° de integrantes do grupo). Assim feito, concluímo que cada integrante do grupo ficará responsável pela análise de 6 requisitos para a preparação do nosso artefat [Forward from](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pos-rastreabilidade/forward_from/).
 
 
-## Requisitos responsáveis pela análise do integrante Miguel:
+## **Divisão de requisitos:**
+
+
+## **Requisitos responsáveis pela análise do integrante Miguel:**
 
 
 | ID | Descrição |
@@ -83,7 +83,7 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 </div>
 
 
-## Requisitos responsáveis pela análise do integrante Doan:
+## **Requisitos responsáveis pela análise do integrante Doan:**
 
 | ID | Descrição |
 |----|-----------|
@@ -98,7 +98,7 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 <p>Tabela 4: Requisitos para análise do integrante Doan Filho. Fonte: LELIS, Caio</p>
 </div>
 
-## Requisitos responsáveis pela análise do integrante Joel:
+## **Requisitos responsáveis pela análise do integrante Joel:**
 
 | ID | Descrição | Origem |
 |----|-----------|--------|
@@ -113,7 +113,7 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 <p>Tabela 5: Requisitos para análise do integrante Joel. Fonte: LELIS, Caio</p>
 </div>
 
-## Requisitos responsáveis pela análise do integrante Gabriel:
+## **Requisitos responsáveis pela análise do integrante Gabriel:**
 
 | ID | Descrição |
 |----|-----------|
@@ -128,7 +128,7 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 <p>Tabela 6: Requisitos para análise do integrante Gabriel. Fonte: LELIS, Caio</p>
 </div>
 
-## Requisitos responsáveis pela análise do integrante Caio Braga:
+## **Requisitos responsáveis pela análise do integrante Caio Braga:**
 
 | ID | Descrição |
 |----|-----------|
@@ -143,7 +143,7 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 <p>Tabela 7: Requisitos para análise do integrante Caio Braga. Fonte: LELIS, Caio</p>
 </div>
 
-## Requisitos responsáveis pela análise do integrante Guilherme Basílio:
+## **Requisitos responsáveis pela análise do integrante Guilherme Basílio:**
 
 |ID    | Descrição | 
 |----|-----------|
@@ -172,10 +172,11 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 <p>Tabela 9: Requisitos para análise do integrante Caio Lelis. Fonte: LELIS, Caio</p>
 </div>
 
-## Bibliografia
+## **Bibliografia**
+
+>[1] SERRANO, Mauricio. SERRANO, Milene. Slides da aula "Requisitos: aula 26". Acesso em 19/11/2023
 
 
-## Referência Bibliográfica
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
