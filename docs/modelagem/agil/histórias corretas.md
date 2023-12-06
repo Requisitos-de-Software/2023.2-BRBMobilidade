@@ -1,4 +1,7 @@
-### **US01 - Consultar saldo e extrato de uso do cartão de mobilidade**
+
+# Historia de usuario correta
+
+### **US01 - Consultar saldo**
 
 <center>
 
@@ -6,305 +9,300 @@
 
 | **ID**                 | **Nome**                                                                                                                                      |
 | :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| US01                   | Consultar saldo e extrato de uso do cartão de mobilidade                                                                                        |
-| Descrição              | _Eu, como_ usuário, _desejo_ consultar o saldo e o extrato de uso do meu cartão de mobilidade _para_ monitorar minhas transações e saldo disponível. |
-| Critérios de Aceitação | - Na página inicial do aplicativo, o usuário deve encontrar uma opção clara para consultar saldo e extrato. <br> - As informações devem ser atualizadas em tempo real. |
+| US01                   | Consultar saldo  do cartão                                                                                        |
+| Descrição              | _Eu, como_ usuário, _desejo_ consultar o saldo  do meu cartão de mobilidade _para_ monitorar quantos créditos. |
+| Critérios de Aceitação | - Na página inicial do aplicativo, o usuário deve encontrar uma opção clara para consultar saldo. <br> - As informações devem ser atualizadas em tempo real. |
 | Prioridade             | Alta                                                                                                                                          |
 
 <div style="text-align: center">
-<p> Tabela 2: - História de Usuário Consultar saldo e extrato - (Fonte: LELIS, Caio).</p>
+<p> Tabela 2: - História de Usuário Consultar saldo - (Fonte: BRAGA, Caio. LELIS, Caio).</p>
 </div>
 
 </center>
 
 
-### **US02 - Acessar itinerários detalhados de ônibus**
+### **US02 - Consultar extrato de uso**
 
 <center>
 
 | **ID**                 | **Nome**                                                                                                                            |
 | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| US02                   | Acessar itinerários detalhados de ônibus                                                                                             |
-| Descrição              | _Eu, como_ usuário, _desejo_ acessar itinerários detalhados de ônibus _para_ planejar minhas viagens com informações precisas sobre as rotas e horários. |
-| Critérios de Aceitação | - O usuário deve poder inserir o ponto de partida e o destino para visualizar os itinerários disponíveis. <br> - O aplicativo deve mostrar horários de partida e chegada, além de possíveis paradas intermediárias. |
+| US02                   | Consultar extrato de uso                                                                                             |
+| Descrição              | _Eu, como_ usuário, _desejo_ acessar o meu extrato de uso _para_ monitorar as minhas atividades no transporte público. |
+| Critérios de Aceitação |  - Na página inicial do aplicativo, o usuário deve encontrar uma opção clara para consultar o extrato de uso. <br> - As informações devem ser atualizadas em tempo real. |
 | Prioridade             | Alta                                                                                                                                  |
 
 <div style="text-align: center">
-<p> Tabela 3: - História de Usuário Acessar itinerários detalhados de ônibus. - (Fonte: LELIS, Caio).</p>
+<p> Tabela 3: - História de Usuário Consultar extrato de uso. - (Fonte: BRAGA, Caio. LELIS, Caio).</p>
 </div>
 
 </center>
 
 
-### **US03 - Realizar recargas de créditos no cartão**
+### **US03 - Visualizar previsão de recarga solicitada**
 
 <center>
 
 | **ID**                 | **Nome**                                                                                                                 |
 | :--------------------- | :----------------------------------------------------------------------------------------------------------------------- |
-| US03                   | Realizar recargas de créditos no cartão                                                                                   |
-| Descrição              | _Eu, como_ usuário, _desejo_ recarregar créditos no meu cartão de mobilidade _para_ continuar usando os serviços de transporte público. |
-| Critérios de Aceitação | - O usuário deve poder escolher o valor da recarga e o método de pagamento. <br> - Após a recarga, o saldo do cartão deve ser atualizado imediatamente. |
+| US03                   | Visualizar previsão de recarga solicitada                                                                                  |
+| Descrição              | _Eu, como_ usuário, _desejo_ visualizar uma data prevista de quando a recarga será concluída _para_ conseguir saber quanto terei disponibilidade de saldo. |
+| Critérios de Aceitação | - O aplicativo deve mostrar uma previsão clara e precisa das datas em que os depósitos de dinheiro são esperados no cartão do usuário. <br> - As informações devem ser atualizadas em tempo real ou em intervalos frequentes para refletir mudanças no status da transação. <br> - A previsão deve ser facilmente acessível para o usuário, com poucos cliques ou toques. |
 | Prioridade             | Alta                                                                                                                      |
 
 <div style="text-align: center">
-<p> Tabela 4: - História de Usuário Realizar recargas de créditos no cartão. - (Fonte: LELIS, Caio).</p>
+<p> Tabela 4: - História de Usuário Visualizar previsão de recarga solicitada. - (Fonte: BRAGA, Caio. LELIS, Caio).</p>
 </div>
 </center>
 
-### **US04 - Interagir com um chatbot para esclarecer dúvidas**
+### **US04 - Bloquear ou desbloquear cartão**
 
 <center>
 
 | **ID**                 | **Nome**                                                                                                                                       |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| US04                   | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público                                           |
-| Descrição              | _Eu, como_ usuário, _desejo_ interagir com um chatbot para obter respostas rápidas às minhas dúvidas e solicitar serviços relacionados ao transporte público _para_ melhorar minha experiência de usuário. |
-| Critérios de Aceitação | - O chatbot deve estar disponível em horários específicos e também permitir envio de mensagens a qualquer momento. <br> - O chatbot deve fornecer respostas precisas e úteis para as perguntas dos usuários. |
-| Prioridade             | Baixa                                                                                                                                         |
+| US04                   | Bloquear ou desbloquear cartão                                           |
+| Descrição              | _Eu, como_ usuário, _desejo_ ter a possibilidade de bloquear ou desbloquear o meu cartão _para_ caso eu o perca ou seja furtado. |
+| Critérios de Aceitação | - Deve existir uma opção ou funcionalidade no aplicativo para o usuário bloquear ou desbloquear seus cartões.<br> 
+                          - O processo de bloqueio/desbloqueio deve ser claro, simples e eficiente, permitindo ao usuário tomar essa ação imediatamente.<br>
+                          - Deve ser possível bloquear um ou mais cartões associados à conta do usuário.<br>
+                          - Após o bloqueio, o acesso aos cartões bloqueados deve ser negado até a ação de desbloqueio ser realizada.<br>  |
+| Prioridade             | Média                                                                                                                                        |
 
 <div style="text-align: center">
-<p> Tabela 5: - História de Usuário Interagir com um chatbot para esclarecer dúvidas. - (Fonte: LELIS, Caio).</p>
+<p> Tabela 5: - História de Usuário Bloquear ou desbloquear cartão. - (Fonte: LELIS, Caio).</p>
 </div>
 
 </center>
 
 
 
-### **US05 - Suportar informações em tempo real sobre o status dos transportes públicos**
+### **US05 - Consultar rotas das linhas de ônibus**
 
 <center>
 
 | **ID**                 | **Nome**                                                                                                                            |
 | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| US05                   | Suportar informações em tempo real sobre o status dos transportes públicos                                                          |
-| Descrição              | _Eu, como_ usuário, _desejo_ receber informações em tempo real sobre o status dos transportes públicos _para_ planejar minhas viagens com precisão e evitar atrasos. |
-| Critérios de Aceitação | - O aplicativo deve mostrar informações atualizadas sobre atrasos, cancelamentos e outras interrupções no serviço de transporte público. <br> - As informações devem ser precisas e em tempo real. |
-| Prioridade             | Média                                                                                                                                  |
+| US05                   | Consultar rotas das linhas de ônibus                                                          |
+| Descrição              | _Eu, como_ usuário, _desejo_ consultar rotas das linhas de ônibus _para_ verificar por quais pontos da minha cidade uma determinada linha passará. |
+| Critérios de Aceitação | - Na página inicial do aplicativo, o usuário deve encontrar uma opção clara para consultar o rotas das linhas disponíveis. <br> - As informações devem ser atualizadas em tempo real. |
+| Prioridade             | Alta                                                                                                                                 |
 
 <div style="text-align: center">
-<p> Tabela 6: - História de Usuário Suportar informações em tempo real sobre o status dos transportes públicos. - (Fonte: LELIS, Caio).</p>
+<p> Tabela 6: - História de Usuário Consultar rotas das linhas de ônibus - (Fonte: BRAGA, Caio. LELIS, Caio).</p>
 </div>
 
 </center>
 
-### **US06 - Integrar funcionalidades de navegação e mapas**
+### **US06 - Consultar horários das linhas de ônibus**
 
 <center>
 
 
 | **ID**                 | **Nome**                                                                                                                           |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
-| US06                   | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus                 |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter acesso a funcionalidades de navegação e mapas para encontrar rotas otimizadas e localizar paradas de ônibus facilmente _para_ facilitar minha jornada no transporte público. |
-| Critérios de Aceitação | - O aplicativo deve mostrar o mapa da região com as paradas de ônibus marcadas. <br> - Deve ser possível traçar rotas de viagem com base na localização atual do usuário e no destino desejado. |
-| Prioridade             | Média                                                                                                                               |
+| US06                   | Consultar horários das linhas de ônibus                |
+| Descrição              | _Eu, como_ usuário, _desejo_ consultar os horários das linhas de ônibus disponíveis _para_ poder me planejar com antecedência e evitar longos períodos de espera. |
+| Critérios de Aceitação | - O usuário deve poder selecionar uma linha de ônibus específica para ver os horários de partida e chegada. <br> - As informações devem ser precisas e atualizadas regularmente para refletir os horários reais de operação.   |
+| Prioridade             | Alta                                                                                                                               |
 
 <div style="text-align: center">
-<p> Tabela 7: - História de Usuário Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. - (Fonte: LELIS, Caio).</p>
+<p> Tabela 7: - História de Usuário Consultar horários das linhas de ônibus. - (Fonte: BRAGA, Caio. LELIS, Caio).</p>
 </div>
 
 </center>
 
 
-### **US07 - Permitir cadastrar métodos de pagamento**
+### **US07 - Favoritar rotas**
 
 <center>
 
 
 | **ID**                 | **Nome**                                                                                                               |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| US07                   | Permitir cadastrar métodos de pagamento                                                                                |
-| Descrição              | _Eu, como_ usuário, _desejo_ cadastrar diferentes métodos de pagamento no aplicativo _para_ efetuar transações de recarga e compra de bilhetes de forma conveniente.               |
-| Critérios de Aceitação | - O usuário deve poder adicionar múltiplos métodos de pagamento, como cartões de crédito ou PayPal. <br> - As informações de pagamento devem ser seguras e criptografadas. |
-| Prioridade             | Média                                                                                                                   |
+| US07                   | Favoritar rotas                                                                              |
+| Descrição              | _Eu, como_ usuário, _desejo_ ter a possibilidade de favoritar rotas _para_ que eu possa acessá-las facilmente quando necessário.               |
+| Critérios de Aceitação | - Deve existir uma funcionalidade no aplicativo que permita ao usuário favoritar linhas de ônibus desejadas.<br> 
+                          - Deve ser possível marcar ou desmarcar as linhas conforme a preferência do usuário.<br>
+                          - Deve ser de fácil acesso para gerenciar as linhas favoritadas.<br>
+                          - As linhas favoritadas devem estar disponíveis de forma rápida para consulta ou planejamento de viagens.<br> |
+| Prioridade             | Baixa                                                                                                                  |
 
 <div style="text-align: center">
-<p> Tabela 8: - História de Usuário Permitir cadastrar métodos de pagamento. - (Fonte: LELIS, Caio).</p>
+<p> Tabela 8: - História de Usuário Favoritar rotas. - (Fonte: BRAGA, Caio. LELIS, Caio).</p>
 </div>
 
 </center>
 
 
 
-### **US08 - Possibilidade de personalizar a aparência da interface do usuário**
+### **US08 - Consultar paradas próximas em uma rota**
 
 <center>
 
 | **ID**                 | **Nome**                                                                                                                         |
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| US08           | Possibilidade de personalizar a aparência da interface do usuário                                                                |
-| Descrição              | _Eu, como_ usuário, _desejo_ poder personalizar a aparência da interface do aplicativo _para_ tornar a experiência de uso mais agradável e adaptada ao meu gosto pessoal.               |
-| Critérios de Aceitação | - O aplicativo deve oferecer opções de temas, cores e fontes que podem ser customizadas pelo usuário. <br> - As alterações devem ser visíveis imediatamente após a personalização. |
-| Prioridade             | Baixa                                                                                                                            |
+| US08           | Consultar paradas próximas em uma rota                                                                |
+| Descrição              | _Eu, como_ usuário, _desejo_ consultar as paradas próximas em uma rota _para_ que possa me guiar durante uma viagem.              |
+| Critérios de Aceitação | - O aplicativo deve ser capaz de detectar a localização atual do usuário ou permitir que o usuário insira manualmente a localização desejada.<br> 
+                          - Deve fornecer informações precisas sobre as paradas próximas, como transporte disponível, horários, rotas, etc.<br>
+                          - Deve ser apresentado de forma clara e intuitiva para o usuário encontrar as informações facilmente.<br>
+                          - Deve ser atualizado em tempo real ou com uma frequência que forneça informações precisas.<br> |
+| Prioridade             | Média                                                                                                                            |
 
 <div style="text-align: center">
-<p> Tabela 11: - História de Usuário Possibilidade de personalizar a aparência da interface da usuário. - (Fonte: LELIS, Caio).</p>
+<p> Tabela 9: - História de Usuário  Consultar paradas próximas em uma rota - (Fonte: BRAGA, Caio. LELIS, Caio).</p>
 </div>
 
 </center>
 
 
-### **US09 - Capacidade de realizar cadastro**
+### **US09 - Adicionar recarga de saldo no cartão**
 
 <center>
 
 
 | **ID**                 | **Nome**                                                                                                         |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------- |
-| US09                   | Capacidade de realizar cadastro                                                                                   |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter a capacidade de criar uma conta no aplicativo _para_ acessar funcionalidades exclusivas e personalizar minha experiência.                   |
-| Critérios de Aceitação | - Deve haver um formulário de cadastro com campos obrigatórios, como nome, e-mail e senha. <br> - Após o cadastro, o usuário deve poder fazer login imediatamente.           |
-| Prioridade             | Alta                                                                                                              |
-
-<div style="text-align: center">
-<p> Tabela 09: - História de Usuário Capacidade de realizar cadastro. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
-
-
-
-### **US10 - Realizar Login**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                             |
-| :--------------------- | :------------------------------------------------------------------------------------------------------------------- |
-| US10                   | Realizar Login                                                                                    |
-| Descrição              | _Eu, como_ usuário, _desejo_ realizar o processo de login no aplicativo para acessar minha conta.                    |
-| Critérios de Aceitação | - O aplicativo deve fornecer campos de entrada para inserir o nome de usuário e senha.<br> 
-                          - Deve haver validação para garantir que apenas usuários autorizados possam acessar.<br>
-                          - Em caso de informações incorretas, deve exibir uma mensagem de erro adequada.<br>
-                          - Após um login bem-sucedido, o usuário deve ser redirecionado para a página inicial.<br> 
-| Prioridade             | Alta                                                                                                                 |
-
-<div style="text-align: center">
-<p> Tabela 13: - História de Usuário Visualizar linhas e horários de ônibus. - (Fonte: LELIS, Caio).</p>
-</div>
-
-
-</center>
-
-
-
-
-### **US11 - Fornecer a localização do usuário**
-
-<center>
-
-
-
-| **ID**                 | **Nome**                                                                                                             |
-| :--------------------- | :------------------------------------------------------------------------------------------------------------------- |
-| US11                   | Fornecer a localização do usuário                                                                                    |
-| Descrição              | _Eu, como_ usuário, _desejo_ que o aplicativo seja capaz de acessar minha localização atual _para_ fornecer informações precisas sobre paradas e rotas de transporte público. |
-| Critérios de Aceitação | - O aplicativo deve solicitar permissão ao usuário para acessar a localização. <br> - A localização deve ser usada apenas para fornecer informações relevantes aos serviços do aplicativo. |
-| Prioridade             | Média                                                                                                                 |
-
-<div style="text-align: center">
-<p> Tabela 10: - História de Usuário Fornecer a localização do usuário. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
-
-
-
-
-### **US12 - Recuperar Senha**
-
-<center>
-
-
-| **ID**                 | **Nome**                                                                                                                                      |
-| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| US12                   | Recuperar Senha                                                                                        |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter a capacidade de recuperar minha senha caso eu a tenha esquecido ou perdido acesso a ela.               |
-| Critérios de Aceitação | - O aplicativo deve fornecer uma opção para redefinir a senha através de um e-mail de recuperação.<br> 
-                          - Deve ser verificada a identidade do usuário antes de permitir a redefinição da senha.<br>
-                          - Deve haver um processo claro e simples para o usuário seguir ao recuperar a senha.<br>
-                          - Após a conclusão do processo de recuperação, o usuário deve conseguir acessar sua conta com a nova senha.<br> 
-| Prioridade             | Média                                                                                                                                          |
-
-<div style="text-align: center">
-<p> Tabela 13: - História de Usuário Visualizar linhas e horários de ônibus. - (Fonte: LELIS, Caio).</p>
-</div>
-
-
-</center>
-
-
-### **US13 - Visualizar linhas e horários de ônibus**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US13                   | Visualizar linhas e horários de ônibus                                                                                                                                                                           |
-| Descrição              | _Eu, como_ usuário, _desejo_ poder ver informações detalhadas sobre as linhas de ônibus, incluindo horários de partida e chegada, _para_ poder planejar minha viagem com precisão e evitar longos períodos de espera.              |
-| Critérios de Aceitação | - O usuário deve poder selecionar uma linha de ônibus específica para ver os horários de partida e chegada. <br> - As informações devem ser precisas e atualizadas regularmente para refletir os horários reais de operação.         |
-| Prioridade             | Alta                                                                                                                                                                                                             |
-
-<div style="text-align: center">
-<p> Tabela 13: - História de Usuário Visualizar linhas e horários de ônibus. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
-
-
-### **US14 - fazer a recarga do saldo**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                      |
-| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| US14                   | Fazer a Recarga do Saldo                                                                                        |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter a capacidade de recarregar o saldo da minha conta no aplicativo.                                     |
+| US09                   | Adicionar recarga de saldo no cartão                                                                                   |
+| Descrição              | _Eu, como_ usuário, _desejo_ adicionar regarga de saldo no meu cartão _para_ possa me locomover no transporte público.                   |
 | Critérios de Aceitação | - Deve existir uma opção clara e acessível para realizar a recarga do saldo.<br> 
                           - Deve permitir ao usuário escolher o valor desejado para recarregar.<br>
                           - Deve fornecer opções de pagamento seguras e confiáveis.<br>
-                          - Após a conclusão da recarga, o saldo da conta do usuário deve ser atualizado refletindo a nova quantia.<br> 
-| Prioridade             | Alta                                                                                                                                         |
+                          - Após a conclusão da recarga, o saldo da conta do usuário deve ser atualizado refletindo a nova quantia.<br>            |
+| Prioridade             | Alta                                                                                                              |
 
 <div style="text-align: center">
-<p> Tabela 13: - História de Usuário Visualizar linhas e horários de ônibus. - (Fonte: LELIS, Caio).</p>
+<p> Tabela 10: - História de Usuário Adicionar recarga de saldo no cartão. - (Fonte: BRAGA, Caio. LELIS, Caio).</p>
+</div>
+
+</center>
+
+
+
+### **US10 - Cadastrar métodos de pagamento**
+
+<center>
+
+| **ID**                 | **Nome**                                                                                                             |
+| :--------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| US10                   | Cadastrar métodos de pagamento                                                                                    |
+| Descrição              | _Eu, como_ usuário, _desejo_ cadastrar métodos de pagamento _para_ realizar recargas no cartão de mobilidade                   |
+| Critérios de Aceitação | - O aplicativo deve fornecer campos de entrada para os dados do método de pagamento (como cartão de crédiito ou débito).<br> - Deve existir uma opção clara e acessível para realizar o cadastro do método de pagamento.<br> 
+| Prioridade             | Média|
+
+<div style="text-align: center">
+<p> Tabela 11: - História de Usuário Cadastrar métodos de pagamento. - (Fonte: BRAGA, Caio. LELIS, Caio).</p>
 </div>
 
 
 </center>
 
 
-### **US15 - Salvar rotas personalizadas**
+
+
+### **US11 - Suporte de chatbot**
 
 <center>
 
 
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US15                   | Salvar rotas personalizadas                                                                                                                                                                                      |
-| Descrição              | _Eu, como_ usuário, _desejo_ poder salvar rotas de viagem personalizadas _para_ facilitar o planejamento de futuras viagens, economizando tempo ao inserir destinos frequentes e preferidos.                                 |
-| Critérios de Aceitação | - O usuário deve poder salvar múltiplas rotas com nomes descritivos para facilitar a identificação. <br> - As rotas salvas devem poder ser editadas ou excluídas pelo usuário conforme necessário. <br> - As rotas devem ser acessíveis a qualquer momento para consulta ou edição. |
-| Prioridade             | Baixa                                                                                                                                                                                                            |
+
+| **ID**                 | **Nome**                                                                                                             |
+| :--------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| US11                   | Suporte de chatbot|
+| Descrição              | _Eu, como_ usuário, _desejo_ que o aplicativo tenha um suporte de _chatbot_
+para auxilio em dúvidas  |
+| Critérios de Aceitação | - O chatbot deve está implementado no aplicativo <br> - Deve está presente na parte de suporte .<br> - Ter acesso ao suporte |
+| Prioridade             | Médio|
 
 <div style="text-align: center">
-<p> Tabela 15: - História de Usuário Salvar rotas personalizadas. - (Fonte: LELIS, Caio).</p>
+<p> Tabela 10: - História de Usuário Suporte de chatbot. - (Fonte: FILHO, Doa).</p>
 </div>
 
 </center>
 
-### **US16 - Alterar informações de cadastro**
+### **US12 - Solicitar 2ª via de cartão**
+<center>
+
+| **ID**                 | **Nome**  |
+| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| US12                   | Solicitar 2ª via de cartão |
+| Descrição              | _Eu, como_ usuário, _desejo_ solicitar a segunda via do cartão |
+| Critérios de Aceitação | - Ter cadastro no aplicativo.<br> - Ter o cartão (primeira via).<br> - Ter acesso ao suporte do aplicativo .<br> - Após a conclusão do processo de recuperação, o usuário deve conseguir acessar sua conta com a nova senha.<br> 
+| Prioridade             | Média  |
+
+<div style="text-align: center">
+<p> Tabela 13: - História de Usuário Solicitar 2ª via de cartão. - (Fonte: FILHO, Doan).</p>
+</div>
+
+
+</center>
+
+### **US13 - Suporte humano**
+
+<center>
+
+| **ID**                 | **Nome** |
+| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US13 | Visualizar linhas e horários de ônibus |
+| Descrição | _Eu, como_ usuário, _desejo_ ter suporte humano para ter auxilio presencialmente |
+| Critérios de Aceitação | - Ter o local de suporte <br> - O usuário precisa está presente no local do suporte .<br> - O suporte precisa está presente no local.|
+| Prioridade| Alta|
+
+<div style="text-align: center">
+<p> Tabela 13: - História de Usuário Visualizar Suporte humam. - (Fonte: FILHO, Doan).</p>
+</div>
+
+</center>
+
+
+### **US14 - Consultar perguntas frequentes**
+
+<center>
+
+| **ID**                 | **Nome** |
+| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| US14                   |Consultar perguntas frequentes|
+| Descrição              | _Eu, como_ usuário, _desejo_ ter acesso a aba de perguntas frequentes para consultar dúvidas |
+| Critérios de Aceitação |- Está presente na parte de suporte.<br> - Ter perguntas gerais de usuários | 
+| Prioridade             |  Média    |
+
+<div style="text-align: center">
+<p> Tabela 13: - História de Usuário Visualizar linhas e horários de ônibus. - (Fonte: FILHO, Doan).</p>
+</div>
+
+
+</center>
+
+
+### **US15 - Consultar mapa de uma rota**
+
+<center>
+
+
+| **ID**                 | **Nome**|
+| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US15                   | Consultar mapa de uma rota |
+| Descrição              | _Eu, como_ usuário, _desejo_ ver mapa de uma rota para consultar um trajeto especifico   |
+| Critérios de Aceitação | - Ter acesso a internet.<br>- Ter acesso a sessão de itinerários .<br> - Ter uma rota preestabelecidade       |
+| Prioridade             | Média |
+
+<div style="text-align: center">
+<p> Tabela 15: - História de Usuário Salvar rotas personalizadas. - (Fonte: FILHO, Doan).</p>
+</div>
+
+</center>
+
+### **US16 - Personalizar interface**
 
 <center>
 
 
 | **ID**                 | **Nome**                                                                                                                                      |
 | :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| US16                   | Alterar Informações de Cadastro                                                                                        |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter a capacidade de modificar as informações do meu cadastro no aplicativo.                                    |
-| Critérios de Aceitação | - Deve existir uma seção de perfil ou configurações onde seja possível alterar informações como nome, e-mail, número de telefone, etc.<br> 
-                          - Deve permitir ao usuário atualizar os detalhes do cadastro de maneira intuitiva e simples.<br>
-                          - Todas as alterações feitas devem ser refletidas corretamente na conta do usuário.<br>
-                          - Deve haver confirmação ou validação para garantir que as informações sejam atualizadas com precisão.<br> 
+| US16                   | Personalizar interface |
+| Descrição              | _Eu, como_ usuário, _desejo_ quero ter a capacidade de personalizar minha interface para ter mais acessibilidade e ter uma melhor experiência de usuário|
+| Critérios de Aceitação |- Ter cadastro no aplicativo.<br> - Ter acesso a interface principal do aplicativo.<br> - Ter implementado a opção de personalizar a interface| 
 | Prioridade             | Alta                                                                                                                                         |
 
 *Tabela 2: - História de Usuário Alterar Informações de Cadastro - (Fonte: LELIS, Caio).*
@@ -596,6 +594,3 @@
 
 
 </center>
-
-
-ahhhhh

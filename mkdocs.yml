@@ -82,6 +82,8 @@ nav:
         - Backlog: modelagem/agil/backlog.md
         - Histórias de Usuário: modelagem/agil/historia_de_usuario.md
         - NFR: modelagem/agil/nfr.md
+        - Historia de Usuario correta :  modelagem/agil/historia_de_usuario.md
+        - NFR: modelagem/agil/histórias corretas.md
 
   - Pós-Rastreabilidade:
     - Backward From: pos-rastreabilidade/backward_from.md
