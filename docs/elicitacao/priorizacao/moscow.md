@@ -1,10 +1,13 @@
 # **Moscow**
 
-## **O que é a técnica MoSCoW?**
+## **Introdução**
 
 <p style="text-align: justify;">
-O método MoSCoW é uma técnica de priorização usada na gestão como um todo, análise de negócios, gestão de projetos e desenvolvimento de softwares com o intuito de encontrar um entendimento em comum entre as partes interessadas sobre a importância que elas atribuem a cada requisito.
+O método MoSCoW é uma técnica de priorização usada na gestão como um todo, análise de negócios, gestão de projetos e desenvolvimento de softwares com o intuito de encontrar um entendimento em comum entre as partes interessadas sobre a importância que elas atribuem a cada requisito. Neste artefato, será apresentada a priorização dos requisitos elicitados pelo nosso projeto.
 </p>
+
+
+## **Objetivo**
 
 <p style="text-align: justify;">
 A técnica de priorização MoSCoW tem um papel fundamental em metodologias ágeis. Em um projeto ágil, é vital entender a importância de coisas diferentes. Isso acontece porque tempo é um recurso fixo, então a priorização é aplicada a requisitos, tarefas, serviços, produtos, cases, etc.
@@ -22,63 +25,93 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 
 - **Won't Have (Não vou fazer)**: Refere-se a tarefas que não são consideradas prioritárias no momento. Sua realização não é necessária para o sucesso do projeto e pode ser adiada ou descartada.
 
+Abaixo, apresenta-se o cronograma da priorização In or Out:
+
+**Tabela 1:** Cronograma da Priorização 1.
+
+
+| Entrevistador(es) | Entrevistado(a) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  Caio Braga e Doan Filho  |   Amanda Campos     |       16:00      |     16:30      | 06/12/2023 | Ailab(UnB)    | 
+
+**Fonte:** BRAGA, Caio. FILHO, Doan.
+
+</center>
+
+
+## **Gravação com o usuário**
+
+No vídeo abaixo foi registrada a priorização dos requisitos elicitados pelas nossas técnicas utilizadas no projeto BRB Mobilidade.
+
+<center>
+
+**Vídeo 1:** Gravação da priorização MoSCOW
+
+**Fonte:** BRAGA, Caio. FILHO, Doan;
+
+</center>
+
+## **Metodologia**
+
 Nesse sentido, a ordem de importância das tarefas vai seguindo uma ordem decrescente, onde Must Have são as mais relevantes e as Won't Have as que podem ficar para depois.
 
-
-Tabela 1 - Tabela com requisitos elicitados e suas prioridades.
 
 - INT : Introspecção
 - QTR : Questionário
 - OBS : Observação 
 - Q  : Questionário
 
-| Tipo   | Funcionalidade                                       | ID   | Prioridade |
-| :---:  | :--------------------------------------------------: | :---: | :----------: |
-| RF01   | Eu, como usuário, quero consultar o saldo e o extrato de uso do meu cartão de mobilidade. | IS01 | Must |
-| RF02   | Eu, como usuário, quero acessar itinerários detalhados de ônibus para facilitar o planejamento das minhas viagens. | IS02 | Must  |
-| RF03   | Eu, como usuário, desejo realizar recargas de créditos no meu cartão de transporte de forma fácil. | IS03 | Must |
-| RF04   | Eu, como usuário, gostaria de interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04 | Must |
-| RF05   | Eu, como usuário, preciso de informações em tempo real sobre o status dos transportes públicos. | IS05 |Must  |
-| RF06   | Eu, como usuário, quero integrar funcionalidades de navegação e mapas para otimizar minhas rotas e encontrar facilmente paradas de ônibus. | IS06 | Should |
-| RF07   | Eu, como usuário, quero ser capaz de cadastrar meus métodos de pagamento no aplicativo. | IS08 | Must |
-| RF08   | Eu, como usuário, desejo personalizar a aparência da interface do usuário de acordo com minhas preferências. | IS09 | Should |
-| RF09   | Eu, como usuário, preciso ser capaz de me cadastrar facilmente no aplicativo. | IS10 | Must |
-| RF10   | Eu, como usuário, quero fazer login de forma rápida e segura no aplicativo. | IS11 | Must |
-| RF11   | Eu, como usuário, concordo em fornecer minha localização para melhorar a experiência de uso. | IS12 | Must |
-| RF01   | Eu, como usuário, quero verificar meu extrato sempre que precisar. | OBS01 |  Must|
-| RF02   | Eu, como usuário, quero visualizar informações sobre linhas e horários de ônibus. | OBS02 | Must |
-| RF03   | Eu, como usuário, desejo recarregar meu saldo de maneira simples. | OBS03 | Must |
-| RF04   | Eu, como usuário, quero salvar minhas rotas frequentes para facilitar o planejamento. | OBS04 |Should  |
-| RF05   | Eu, como usuário, gostaria de poder atualizar minhas informações de cadastro conforme necessário. | OBS05 | Must |
-| RF06   | Eu, como usuário, desejo uma seção de comunicação direta para obter assistência rapidamente. | OBS06 | Should |
-| RF07   | Eu, como usuário, gostaria de encontrar respostas para perguntas frequentes no aplicativo. | OBS07 | Should |
-| RF08   | Eu, como usuário, quero acessar informações sobre o histórico das minhas atividades no app. | OBS08 | Could  |
-| RF09   | Eu, como usuário, quero solicitar uma segunda via do meu cartão quando necessário. | OBS09 | Must |
-| RF10   | Eu, como usuário, gostaria de receber notificações sobre depósitos no meu cartão. | OBS10 | Should |
-| RNF12  | Eu, como usuário, espero que o aplicativo seja compatível com sistemas Android e iOS. | IS13 | Must |
-| RNF13  | Eu, como usuário, quero que a instalação e o uso do aplicativo sejam intuitivos e fáceis de entender. | IS14 | Must |
-| RNF14  | Eu, como usuário, desejo uma interface de usuário amigável e intuitiva para facilitar minha navegação. | IS15 | Must |
-| RNF15  | Eu, como usuário, quero receber feedback sobre o status das minhas consultas, recargas e outras interações importantes. | IS16 | Should |
-| RNF16  | Eu, como usuário, espero que o aplicativo implemente medidas de segurança robustas para proteger minha privacidade. | IS17 | Must |
-| RNF17  | Eu, como usuário, gostaria que o aplicativo fosse de código aberto e gratuito. | IS18 | Could |
-| RF01   | Eu, como usuário, quero ver o saldo do meu cartão no aplicativo. | Q01 | Must |
-| RF02   | Eu, como usuário, gostaria de acessar meu histórico de viagens no aplicativo. | Q02 | Must |
-| RF03   | Eu, como usuário, quero a opção de bloquear meu cartão caso seja necessário. | Q03 | Must |
-| RF04   | Eu, como usuário, quero a opção de desbloquear meu cartão quando precisar. | Q04 | Must |
-| RF05   | Eu, como usuário, desejo visualizar as paradas de ônibus próximas a mim no aplicativo. | Q05 | Must |
-| RF06   | Eu, como usuário, quero ver quantos passes ainda tenho disponíveis no meu cartão. | Q06 | Must |
-| RF07   | Eu, como usuário, desejo pagar minhas viagens com cartão de crédito através do aplicativo. | Q07 |Must  |
-| RF08   | Eu, como usuário, quero receber previsões sobre o depósito de dinheiro no meu cartão. | Q08 | Could |
-| RF09   | Eu, como usuário, desejo visualizar o histórico das viagens que fiz ao longo do uso do aplicativo. | Q09 |Should  |
-| RF10   | Eu, como usuário, quero receber notificações sobre depósitos no meu cartão no aplicativo. | Q10 |Should  |
-| RNF01  | Eu, como usuário, desejo que o aplicativo forneça segurança adequada para os dados que cadastrei. | Q11 | Must |
-| RNF02  | Eu, como usuário, gostaria que o aplicativo rastreasse os ônibus em tempo real através do GPS. | Q12 |Must  |
-| RNF03  | Eu, como usuário, espero que o aplicativo seja otimizado para um desempenho suave. | Q12 | Could |
-| RNF03  | Eu, como usuário, quero que o saldo do meu cartão seja atualizado imediatamente após recargas. | Q12 | Should |
+A tabela abaixo apresenta os requisitos priorizados através da técnica Moscow:
 
-<div style="text-align: center">
-    <p> <b>Tabela 1</b>: Tabela dos Requisitos Priorizados.</p>
-</div>
+
+<center>
+
+**Tabela 1:** Requisitos elicitados e suas prioridades
+
+| Identificação | Descrição | Fontes de elicitação | Prioridade |
+| --- | --- | --- | --- |
+| RF01 | Consultar saldo e extrato de uso do cartão de mobilidade. | IS01, BS01, OBS01, Q01 | Must |
+| RF02 | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. | IS02, BS02 | Must  |
+| RF03 | Realizar recargas de créditos no cartão. | IS03, BS03 | Must |
+| RF04 | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | IS04, BS04 | Should |
+| RF05 | Suportar informações em tempo real sobre o status dos transportes públicos. | IS05, BS05 | Must |
+| RF06 | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus para o usuário. | IS06, BS06 | Must |
+| RF07 | O aplicativo deve permitir cadastrar métodos de pagamento. | BS07, IS08 | Must |
+| RF08 | Deve ser possível personalizar a aparência da interface do usuário. | IS09 | Should |
+| RF09 | O usuário deve ser capaz de realizar cadastro. | BS08, IS10 | Must |
+| RF10 | O usuário deve ser capaz de realizar login. | IS11 | Must |
+| RF11 | O usuário deve fornecer sua localização. | BS09, IS12 | Must |
+| RF12 | Fornecer a possibilidade de recuperar a senha do usuário. | BS10, IS07 | Must |
+| RF13 | O aplicativo deve permitir a visualização de linhas e horários. | OBS02 | Must |
+| RF14 | Deve ser possível fazer a recarga do saldo. | OBS03 | Must |
+| RF15 | Deve ser possível salvar rotas. | OBS04 | Could  |
+| RF16 | Deve ser possível alterar informações de cadastro. | OBS05 | Must |
+| RF17 | O aplicativo deve fornecer uma seção de comunicação direta. | OBS06 | Should |
+| RF18 | O aplicativo deve fornecer ajuda com perguntas frequentes. | OBS07 | Should |
+| RF19 | Deve ser possível acessar informações sobre o histórico de atividades. | OBS08, BS12, Q02 | Should  |
+| RF20 | Deve ser possível solicitar uma 2ª via do cartão desejado. | OBS09 | Must |
+| RF21 | O aplicativo possui mecanismo de visualização do saldo. | BS01, IS01, Q01 | Must |
+| RF22 | O aplicativo acessa o histórico de acessos. | Q02 |  Should |
+| RF23 | O aplicativo tem meios de mecanismo de bloqueio de cartões. | Q03, BS11 | Must |
+| RF24 | O aplicativo tem meios de mecanismo de desbloqueio de cartões. | Q04 | Should  |
+| RF25 | O aplicativo concede acesso às paradas próximas. | Q05 | Must |
+| RF26 | O aplicativo concede visualização a quantidade de passes. | Q06 | Must |
+| RF27 | O aplicativo tem opção de pagamento via cartão de crédito. | Q07 | Should  |
+| RF28 | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado. | Q08 | Must |
+| RF29 | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso. | Q09 | Must  |
+| RF30 | Possibilidade de favoritar linhas de ônibus. | BS13| Must  |
+| RNF01| Garantir compatibilidade com sistemas operacionais Android e iOS. | IS13, BS14 | Must |
+| RNF02| Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. | IS14 | Must  |
+| RNF03| Apresentar uma interface de usuário amigável e intuitiva para facilitar a navegação. | IS15, BS15 | Must |
+| RNF04| Fornecer feedback ao usuário sobre o status da consulta, recarga e outras interações relevantes. | IS16, BS16, OBS10 | Should |
+| RNF05| Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 |  Must |
+| RNF06| Deve ser de código aberto e gratuito. | IS18 | Could |
+| RNF07| O aplicativo deve fornecer segurança ao usuário com dados cadastrados. | Q10 | Must  |
+| RNF08 | O aplicativo deve rastrear os ônibus via GPS. | Q11 | Must |
+| RNF09 | O aplicativo deve ser otimizado. | Q12 | Must |
+| RNF10 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 | Must |
+
+</center>
 
 ## **Bibliografia**
 > [1] "Aprender 3", Disponivel em: [link](https://aprender3.unb.br/course/view.php?id=19953), acesso em 04 de Outubro de 2023
@@ -87,4 +120,4 @@ Tabela 1 - Tabela com requisitos elicitados e suas prioridades.
 
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criando MosCow | Doan Filho e Caio Lelis |   03/10/2023   | Joel Soares  |       04/10/2023      |
+|  1.0   | Criando MosCow | Caio Braga, Caio Lelis e Doan Filho |   03/10/2023   | Joel Soares  |       04/10/2023      |
