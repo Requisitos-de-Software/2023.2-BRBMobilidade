@@ -1,38 +1,3 @@
-# **Histórias de Usuário**
-
-
-## **Introdução**
-
-
-<p style="text-align: justify;">
-As histórias do usuário são descrições concisas de funcionalidades do ponto de vista do usuário final. Seu objetivo central é detalhar como uma tarefa específica ou funcionalidade pode agregar valor ao cliente ou usuário final do sistema. Essas histórias oferecem uma visão estruturada e focada nas necessidades do usuário, garantindo que o software desenvolvido atenda às exigências do cliente e proporcione um produto final valioso.
-</p>
-
-
-## **Metodologia** 
-
-Construímos nossas histórias de usuário com base no nosso [backlog](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/), onde foi feita uma entrevista com nosso usuário PO Isaque Santos, 
- para a produção do artefato base. A seguir, apresentamos o nosso protótipo a ser seguido para as histórias de usuário e as histórias de usuários que foram definidas para o projeto.
-
-
-
-<center>
-
-
-| **ID**                 | **Nome**                                |
-| :--------------------- | :-------------------------------------- |
-| USXX                   | Titulo                                  |
-| Descrição              | _Eu, como_ XXX, _desejo_ XXX _para_ XXX |
-| Critérios de Aceitação | -XXX <br> -XXX <br>                     |
-| Prioridade             | Alta, Média ou Baixa                    |
-
-<div style="text-align: center">
-<p> Tabela 1: Padrão de histórias de usuário - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
-
-
 ### **US01 - Consultar saldo e extrato de uso do cartão de mobilidade**
 
 <center>
@@ -631,29 +596,3 @@ Construímos nossas histórias de usuário com base no nosso [backlog](http://12
 
 
 </center>
-
-## Vídeo de entrevista com o PO
-
-<div style="text-align: center;">
-  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/os3wIH667go?si=cxZP-nOB0j5Y03WU" title="Vídeo de Entrevista com o Product Owner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-## **Referências Bibliográficas**
-
->[1] Capítulo 03 Desenvolvimento Ágil: Engenharia de Software Pressman Disponível em: <https://aprender3.unb.br/pluginfile.php/2692825/mod_resource/content/3/Engenharia_de_Software_Uma_Abordagem_Pro.pdf>. Acesso em: 05 nov. 2023.
-
-## **Bibliografia**
-
->Vídeo professor Diogo Becker - Guia definitivo para Histórias de Usuário. Disponível em: <https://youtu.be/pLJ3LxR292w?si=seamXCUIjA9qk0G3>. Acesso em 04 nov. 2023
-
-
-## **Histórico de Versões**
-
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de história de usuários |  Caio Lelis e Doan   |   04/11/2023   | |     |
-|  1.1   | Adição de histórias de usuário |  Caio Lelis e Doan   |   04/11/2023   | |     |
-|  1.2   | Atualização de histórias de usuário |  Caio Lelis e Doan   |   04/11/2023   | |     |
-
-
