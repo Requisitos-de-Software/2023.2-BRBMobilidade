@@ -71,9 +71,7 @@ As seguintes tabelas apresentam, respectivamente, os requisitos funcionais e nã
 <br>
 <br>
 
-<center>
-
-**Tabela 2**: Requisitos não funcionais elicitados
+### Tabela de Requisitos Não Funcionais
 
 | Identificação | Descrição | Fontes de elicitação |
 | --- | --- | --- |
@@ -84,9 +82,8 @@ As seguintes tabelas apresentam, respectivamente, os requisitos funcionais e nã
 | RNF05 | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 |
 | RNF06 | Deve ser de código aberto e gratuito. | IS18 |
 | RNF07 | O aplicativo deve fornecer segurança ao usuário com dados cadastrados. | Q10 |
-| RNF08 | O aplicativo deve rastrear os ônibus via GPS. | Q11 |
-| RNF09 | O aplicativo deve ser otimizado. | Q12 |
-| RNF10 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 |
+| RNF08 | O aplicativo deve ser otimizado. | Q12 |
+| RNF09 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 |
 
 **Fonte:** BRAGA, Caio. LELIS, Caio
 
@@ -106,6 +103,5 @@ Practices), 3rd Edition, Microsoft Press, 2013.
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criando documento de Requisitos Elicitados  | Caio Braga e Caio Lelis  |   28/11/2023   |  Doan Filho  |       29/11/2023      |
-
 
 

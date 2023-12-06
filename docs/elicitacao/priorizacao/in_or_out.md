@@ -71,6 +71,7 @@ A tabela abaixo possui todos os requisitos elicitados com a sua prioridade assoc
 | RF27 | O aplicativo tem opção de pagamento via cartão de crédito. | Q07 | |
 | RF28 | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado. | Q08 | |
 | RF29 | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso. | Q09 | |
+| RNF08 | O aplicativo deve rastrear os ônibus via GPS. | Q10 | |
 | RF30 | Possibilidade de favoritar linhas de ônibus. | BS13| |
 | RNF01 | Garantir compatibilidade com sistemas operacionais Android e iOS. | IS13, BS14 | |
 | RNF02 | Oferecer uma instalação e uso do aplicativo intuitivos e de fácil compreensão. | IS14 | |
@@ -79,9 +80,8 @@ A tabela abaixo possui todos os requisitos elicitados com a sua prioridade assoc
 | RNF05 | Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 | |
 | RNF06 | Deve ser de código aberto e gratuito. | IS18 | |
 | RNF07 | O aplicativo deve fornecer segurança ao usuário com dados cadastrados. | Q10 | |
-| RNF08 | O aplicativo deve rastrear os ônibus via GPS. | Q11 | |
 | RNF09 | O aplicativo deve ser otimizado. | Q12 | |
-| RNF10 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 | |
+| RNF08 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 | |
 
 
 
