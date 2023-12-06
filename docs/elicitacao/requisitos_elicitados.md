@@ -28,7 +28,7 @@ As seguintes tabelas apresentam, respectivamente, os requisitos funcionais e nã
 
 <center>
 
-**Tabela 1**: Requisitos funcionais elicitados
+### Tabela de Requisitos Funcionais
 
 | Identificação | Descrição | Fontes de elicitação |
 | --- | --- | --- |
