@@ -90,7 +90,7 @@ A tabela abaixo possui todos os requisitos elicitados com a sua prioridade assoc
 
 </center>
 
-## **Bibliografia**
+## **Referências bilbiográficas**
 
 > <a id = "REF1" href = "#ELEM1" >[1]</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements (Developer Best 
 Practices), 3rd Edition, Microsoft Press, 2013.
@@ -102,4 +102,4 @@ Practices), 3rd Edition, Microsoft Press, 2013.
 
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criando In or Out  | Doan Filho e Caio Braga |   03/10/2023   |  Caio Lelis  |       04/10/2023      |
+|  1.0   | Criando In or Out  | Caio Braga e Doan Filho  |   03/10/2023   |  Caio Lelis  |       04/10/2023      |

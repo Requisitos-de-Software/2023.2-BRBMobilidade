@@ -24,9 +24,11 @@ As seguintes tabelas apresentam, respectivamente, os requisitos funcionais e nã
 - BSx: Requisito nºx elicitado pelo Brainstorming
 - OBSx: Requisito nºx elicitado pela Observação
 
+<br>
 
-### Tabela de Requisitos Funcionais
+<center>
 
+**Tabela 1**: Requisitos funcionais elicitados
 
 | Identificação | Descrição | Fontes de elicitação |
 | --- | --- | --- |
@@ -61,17 +63,17 @@ As seguintes tabelas apresentam, respectivamente, os requisitos funcionais e nã
 | RF29 | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso. | Q09 |
 | RF30 | Possibilidade de favoritar linhas de ônibus. | BS13|
 
-<center>
 
-**Tabela 1**: Requisitos funcionais elicitados (Fonte: autores)
+**Fonte:** BRAGA, Caio. LELIS, Caio
 
 </center>
 
 <br>
 <br>
 
-### Tabela de Requisitos Não Funcionais
+<center>
 
+**Tabela 2**: Requisitos não funcionais elicitados
 
 | Identificação | Descrição | Fontes de elicitação |
 | --- | --- | --- |
@@ -86,14 +88,16 @@ As seguintes tabelas apresentam, respectivamente, os requisitos funcionais e nã
 | RNF09 | O aplicativo deve ser otimizado. | Q12 |
 | RNF10 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 |
 
-<center>
-
-**Tabela 2**: Requisitos não funcionais elicitados (Fonte: autores)
+**Fonte:** BRAGA, Caio. LELIS, Caio
 
 </center>
 
 <br>
-<br>
+
+## **Bibliografia**
+
+> WIEGERS, Karl; BEATTY, Joy. Software Requirements (Developer Best 
+Practices), 3rd Edition, Microsoft Press, 2013.
 
 
 ## **Histórico de Versões**

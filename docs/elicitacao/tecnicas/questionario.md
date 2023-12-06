@@ -217,5 +217,5 @@ Tabela 2: Requisitos não funcionais.
 
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criando questionário | Doan Filho |   03/10/2023   |  Caio Braga  |       04/10/2023      |
+|  1.0   | Criando questionário | Caio Braga e Doan Filho |   03/10/2023   |  Caio Lelis |       04/10/2023      |
 |  1.1   | Adição de imagens e elicitação de requisitos e ajustes | Doan Filho  |   04/10/2023   |  Caio Lelis | 04/10/2023 |
