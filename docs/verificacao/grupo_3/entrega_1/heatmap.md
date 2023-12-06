@@ -14,7 +14,9 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 
 ## **Lista de Verificação**
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5SXgpqZXJbIhdXZ6nl3yolDHUpTNSR4nyP1HNseXq9qQDr_6_xIMxQP-l8NG62kUKuAQUFXtBeUvu/pubhtml?gid=675588346&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5SXgpqZXJbIhdXZ6nl3yolDHUpTNSR4nyP1HNseXq9qQDr_6_xIMxQP-l8NG62kUKuAQUFXtBeUvu/pubhtml?gid=675588346&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
 
 ## **Conteúdo esperado no artefato**
 
