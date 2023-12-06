@@ -1,4 +1,4 @@
-# Ferramentas de Uso
+# **Ferramentas de Uso**
 
 ## **Introdução**
 
@@ -8,16 +8,14 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img style="border-radius: 25%" src="../assets/mkdocs.png" width=150px> | <a id="a" href="#a">MkDocs</a> | Ferramenta utilizada para a criação da documentação do projeto |
-| <img src="../assets/github.png"  width=75px> | <a id="b" href="#b">Github</a> | Plataforma usada para o vesionamento de códigos pelo grupo para manter o repositório |
-| <img src="../assets/Git-logo.png"  width=75px> | <a id="c" href="#c">Git</a> | Sistema de versionamento de código em que o grupo vai se basear para organização do projeto |
-| <img src="../assets/teams-logo.png" width=125px> | <a id="d" href="#d">Teams</a> | Aplicativo usado para fazer as reuniões e também para gravá-las |
-| <img src="../assets/telegram.png" width=70px> | <a id="e" href="#e">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe de forma fácil.|
-| <img src="../assets/miro.png"  width=80px> | <a id="f" href="#f">Miro</a> | Utilizado para criação do Rich picture |
-| <img src="../assets/vscode.png"  width=70px> | <a id="g" href="#g">Visual Studio Code</a> | IDE usada para realização do projeto, documentação, e implementar conceitos de versionamento |
-| <img src="../assets/GooglePlanilhas.png"  width=80px> | <a id="g" href="#g">Visual Studio Code</a> | Ferramenta usada para fazer as planilhas do projeto|
-| <img src="../assets/Figmalogo.png"  width=80px> | <a id="g" href="#g">Visual Studio Code</a> |Ferramenta usada para desenvolver protótipos  |
-
+| <img style="border-radius: 25%" src="../planejamento/assets/mkdocs.png" width=150px> | <a id="a" href="#a">MkDocs</a> | Ferramenta utilizada para a criação da documentação do projeto |
+| <img src="../planejamento/assets/github.png"  width=75px> | <a id="b" href="#b">Github</a> | Plataforma usada para o vesionamento de códigos pelo grupo para manter o repositório |
+| <img src="../planejamento/assets/Git-logo.png"  width=75px> | <a id="c" href="#c">Git</a> | Sistema de versionamento de código em que o grupo vai se basear para organização do projeto |
+| <img src="../planejamento/assets/teams-logo.png" width=125px> | <a id="d" href="#d">Teams</a> | Aplicativo usado para fazer as reuniões e também para gravá-las |
+| <img src="../planejamento/assets/telegram.png" width=70px> | <a id="e" href="#e">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe de forma fácil.|
+| <img src="../planejamento/assets/miro.png"  width=80px> | <a id="f" href="#f">Miro</a> | Utilizado para criação do Rich picture |
+| <img src="../planejamento/assets/vscode.png"  width=70px> | <a id="g" href="#g">Visual Studio Code</a> | IDE usada para realização do projeto, documentação, e implementar conceitos de versionamento |
+| <img src="../planejamento/assets/GooglePlanilhas.png"  width=80px> | <a id="g" href="#g">Google Planilhas</a> | Ferramenta usada para fazer as planilhas do projeto|
 
 
 
