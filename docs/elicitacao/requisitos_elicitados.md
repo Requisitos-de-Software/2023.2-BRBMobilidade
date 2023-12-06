@@ -103,5 +103,6 @@ Practices), 3rd Edition, Microsoft Press, 2013.
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criando documento de Requisitos Elicitados  | Caio Braga e Caio Lelis  |   28/11/2023   |  Doan Filho  |       29/11/2023      |
+|  1.0   | Trazendo correções  | Doan Filho  |   05/12/2023   | Caio Braga  |       06/12/2023      |
 
 
