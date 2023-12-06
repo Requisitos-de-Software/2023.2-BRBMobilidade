@@ -85,7 +85,7 @@ A tabela abaixo possui todos os requisitos elicitados com a sua prioridade assoc
 | RNF05| Implementar medidas de segurança robustas para proteger a privacidade dos usuários durante as interações no aplicativo. | IS17 | In |
 | RNF06| Deve ser de código aberto e gratuito. | IS18 | In |
 | RNF07| O aplicativo deve fornecer segurança ao usuário com dados cadastrados. | Q10 | In |
-| RNF08 | O aplicativo deve rastrear os ônibus via GPS. | Q11 | |
+| RNF08 | O aplicativo deve rastrear os ônibus via GPS. | Q11 | Out |
 | RNF09 | O aplicativo deve ser otimizado. | Q12 | In |
 | RNF10 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 | In |
 

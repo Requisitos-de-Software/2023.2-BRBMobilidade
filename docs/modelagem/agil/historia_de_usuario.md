@@ -14,9 +14,11 @@ As histórias do usuário são descrições concisas de funcionalidades do ponto
 Construímos nossas histórias de usuário com base no nosso [backlog](http://127.0.0.1:8000/Modelagem/Modelagem%20%C3%81gil/01-backlog/), onde foi feita uma entrevista com nosso usuário PO Isaque Santos, 
  para a produção do artefato base. A seguir, apresentamos o nosso protótipo a ser seguido para as histórias de usuário e as histórias de usuários que foram definidas para o projeto.
 
-
+<br>
 
 <center>
+
+**Tabela 1:** Padrão de histórias de usuário 
 
 
 | **ID**                 | **Nome**                                |
@@ -26,546 +28,398 @@ Construímos nossas histórias de usuário com base no nosso [backlog](http://12
 | Critérios de Aceitação | -XXX <br> -XXX <br>                     |
 | Prioridade             | Alta, Média ou Baixa                    |
 
-<div style="text-align: center">
-<p> Tabela 1: Padrão de histórias de usuário - (Fonte: LELIS, Caio).</p>
-</div>
+
+ **Fonte:** LELIS, Caio
+
 
 </center>
 
 
-### **US01 - Consultar saldo e extrato de uso do cartão de mobilidade**
+## **Histórias de Usuário**
+
+As tabelas 2 a 21 apresentam as histórias de usuário levantadas a partir do Backlog:
+<br>
+
+### **US01 - Consultar saldo**
 
 <center>
 
+**Tabela 2:** História de Usuário Consultar saldo
 
 
 | **ID**                 | **Nome**                                                                                                                                      |
 | :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| US01                   | Consultar saldo e extrato de uso do cartão de mobilidade                                                                                        |
-| Descrição              | _Eu, como_ usuário, _desejo_ consultar o saldo e o extrato de uso do meu cartão de mobilidade _para_ monitorar minhas transações e saldo disponível. |
-| Critérios de Aceitação | - Na página inicial do aplicativo, o usuário deve encontrar uma opção clara para consultar saldo e extrato. <br> - As informações devem ser atualizadas em tempo real. |
+| US01                   | Consultar saldo  do cartão                                                                                        |
+| Descrição              | _Eu, como_ usuário, _desejo_ consultar o saldo  do meu cartão de mobilidade _para_ monitorar quantos créditos. |
+| Critérios de Aceitação | - Na página inicial do aplicativo, o usuário deve encontrar uma opção clara para consultar saldo. <br> - As informações devem ser atualizadas em tempo real. |
 | Prioridade             | Alta                                                                                                                                          |
 
-<div style="text-align: center">
-<p> Tabela 2: - História de Usuário Consultar saldo e extrato - (Fonte: LELIS, Caio).</p>
-</div>
+
+**Fonte:** BRAGA, Caio. LELIS, Caio.
 
 </center>
 
 
-### **US02 - Acessar itinerários detalhados de ônibus**
+### **US02 - Consultar extrato de uso**
 
 <center>
+
+**Tabela 3:** História de Usuário Consultar extrato de uso.
+
 
 | **ID**                 | **Nome**                                                                                                                            |
 | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| US02                   | Acessar itinerários detalhados de ônibus                                                                                             |
-| Descrição              | _Eu, como_ usuário, _desejo_ acessar itinerários detalhados de ônibus _para_ planejar minhas viagens com informações precisas sobre as rotas e horários. |
-| Critérios de Aceitação | - O usuário deve poder inserir o ponto de partida e o destino para visualizar os itinerários disponíveis. <br> - O aplicativo deve mostrar horários de partida e chegada, além de possíveis paradas intermediárias. |
+| US02                   | Consultar extrato de uso                                                                                             |
+| Descrição              | _Eu, como_ usuário, _desejo_ acessar o meu extrato de uso _para_ monitorar as minhas atividades no transporte público. |
+| Critérios de Aceitação |  - Na página inicial do aplicativo, o usuário deve encontrar uma opção clara para consultar o extrato de uso. <br> - As informações devem ser atualizadas em tempo real. |
 | Prioridade             | Alta                                                                                                                                  |
 
-<div style="text-align: center">
-<p> Tabela 3: - História de Usuário Acessar itinerários detalhados de ônibus. - (Fonte: LELIS, Caio).</p>
-</div>
+
+**Fonte:** BRAGA, Caio. LELIS, Caio.
 
 </center>
 
 
-### **US03 - Realizar recargas de créditos no cartão**
+### **US03 - Visualizar previsão de recarga solicitada**
 
 <center>
+
+**Tabela 4:**  História de Usuário Visualizar previsão de recarga solicitada
 
 | **ID**                 | **Nome**                                                                                                                 |
 | :--------------------- | :----------------------------------------------------------------------------------------------------------------------- |
-| US03                   | Realizar recargas de créditos no cartão                                                                                   |
-| Descrição              | _Eu, como_ usuário, _desejo_ recarregar créditos no meu cartão de mobilidade _para_ continuar usando os serviços de transporte público. |
-| Critérios de Aceitação | - O usuário deve poder escolher o valor da recarga e o método de pagamento. <br> - Após a recarga, o saldo do cartão deve ser atualizado imediatamente. |
+| US03                   | Visualizar previsão de recarga solicitada                                                                                  |
+| Descrição              | _Eu, como_ usuário, _desejo_ visualizar uma data prevista de quando a recarga será concluída _para_ conseguir saber quanto terei disponibilidade de saldo. |
+| Critérios de Aceitação | - O aplicativo deve mostrar uma previsão clara e precisa das datas em que os depósitos de dinheiro são esperados no cartão do usuário. <br> - As informações devem ser atualizadas em tempo real ou em intervalos frequentes para refletir mudanças no status da transação. <br> - A previsão deve ser facilmente acessível para o usuário, com poucos cliques ou toques. |
 | Prioridade             | Alta                                                                                                                      |
 
-<div style="text-align: center">
-<p> Tabela 4: - História de Usuário Realizar recargas de créditos no cartão. - (Fonte: LELIS, Caio).</p>
-</div>
+
+**Fonte:** BRAGA, Caio. LELIS, Caio.
+
 </center>
 
-### **US04 - Interagir com um chatbot para esclarecer dúvidas**
+### **US04 - Bloquear ou desbloquear cartão**
 
 <center>
+
+**Tabela 5:**  História de Usuário Bloquear ou desbloquear cartão.
 
 | **ID**                 | **Nome**                                                                                                                                       |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| US04                   | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público                                           |
-| Descrição              | _Eu, como_ usuário, _desejo_ interagir com um chatbot para obter respostas rápidas às minhas dúvidas e solicitar serviços relacionados ao transporte público _para_ melhorar minha experiência de usuário. |
-| Critérios de Aceitação | - O chatbot deve estar disponível em horários específicos e também permitir envio de mensagens a qualquer momento. <br> - O chatbot deve fornecer respostas precisas e úteis para as perguntas dos usuários. |
-| Prioridade             | Baixa                                                                                                                                         |
+| US04                   | Bloquear ou desbloquear cartão                                           |
+| Descrição              | _Eu, como_ usuário, _desejo_ ter a possibilidade de bloquear ou desbloquear o meu cartão _para_ caso eu o perca ou seja furtado. |
+| Critérios de Aceitação | - Deve existir uma opção ou funcionalidade no aplicativo para o usuário bloquear ou desbloquear seus cartões.<br> - O processo de bloqueio/desbloqueio deve ser claro, simples e eficiente, permitindo ao usuário tomar essa ação imediatamente. <br> - Deve ser possível bloquear um ou mais cartões associados à conta do usuário. <br> - Após o bloqueio, o acesso aos cartões bloqueados deve ser negado até a ação de desbloqueio ser realizada.<br>  |
+| Prioridade             | Média                                                                                                                                        |
 
-<div style="text-align: center">
-<p> Tabela 5: - História de Usuário Interagir com um chatbot para esclarecer dúvidas. - (Fonte: LELIS, Caio).</p>
-</div>
+
+**Fonte:** BRAGA, Caio. LELIS, Caio.
 
 </center>
 
 
 
-### **US05 - Suportar informações em tempo real sobre o status dos transportes públicos**
+### **US05 - Consultar rotas das linhas de ônibus**
 
 <center>
+
+**Tabela 6:** História de Usuário Consultar rotas das linhas de ônibus
+
 
 | **ID**                 | **Nome**                                                                                                                            |
 | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| US05                   | Suportar informações em tempo real sobre o status dos transportes públicos                                                          |
-| Descrição              | _Eu, como_ usuário, _desejo_ receber informações em tempo real sobre o status dos transportes públicos _para_ planejar minhas viagens com precisão e evitar atrasos. |
-| Critérios de Aceitação | - O aplicativo deve mostrar informações atualizadas sobre atrasos, cancelamentos e outras interrupções no serviço de transporte público. <br> - As informações devem ser precisas e em tempo real. |
-| Prioridade             | Média                                                                                                                                  |
+| US05                   | Consultar rotas das linhas de ônibus                                                          |
+| Descrição              | _Eu, como_ usuário, _desejo_ consultar rotas das linhas de ônibus _para_ verificar por quais pontos da minha cidade uma determinada linha passará. |
+| Critérios de Aceitação | - Na página inicial do aplicativo, o usuário deve encontrar uma opção clara para consultar o rotas das linhas disponíveis. <br> - As informações devem ser atualizadas em tempo real. |
+| Prioridade             | Alta                                                                                                                                 |
 
-<div style="text-align: center">
-<p> Tabela 6: - História de Usuário Suportar informações em tempo real sobre o status dos transportes públicos. - (Fonte: LELIS, Caio).</p>
-</div>
+
+**Fonte:** BRAGA, Caio. LELIS, Caio.
 
 </center>
 
-### **US06 - Integrar funcionalidades de navegação e mapas**
+### **US06 - Consultar horários das linhas de ônibus**
 
 <center>
 
+**Tabela 7:** História de Usuário Consultar horários das linhas de ônibus.
 
 | **ID**                 | **Nome**                                                                                                                           |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
-| US06                   | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus                 |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter acesso a funcionalidades de navegação e mapas para encontrar rotas otimizadas e localizar paradas de ônibus facilmente _para_ facilitar minha jornada no transporte público. |
-| Critérios de Aceitação | - O aplicativo deve mostrar o mapa da região com as paradas de ônibus marcadas. <br> - Deve ser possível traçar rotas de viagem com base na localização atual do usuário e no destino desejado. |
-| Prioridade             | Média                                                                                                                               |
+| US06                   | Consultar horários das linhas de ônibus                |
+| Descrição              | _Eu, como_ usuário, _desejo_ consultar os horários das linhas de ônibus disponíveis _para_ poder me planejar com antecedência e evitar longos períodos de espera. |
+| Critérios de Aceitação | - O usuário deve poder selecionar uma linha de ônibus específica para ver os horários de partida e chegada. <br> - As informações devem ser precisas e atualizadas regularmente para refletir os horários reais de operação.   |
+| Prioridade             | Alta                                                                                                                               |
 
-<div style="text-align: center">
-<p> Tabela 7: - História de Usuário Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. - (Fonte: LELIS, Caio).</p>
-</div>
+  
+**Fonte:** BRAGA, Caio. LELIS, Caio.
 
 </center>
 
 
-### **US07 - Permitir cadastrar métodos de pagamento**
+### **US07 - Favoritar rotas**
 
 <center>
 
+**Tabela 8:** História de Usuário Favoritar rotas.
 
 | **ID**                 | **Nome**                                                                                                               |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| US07                   | Permitir cadastrar métodos de pagamento                                                                                |
-| Descrição              | _Eu, como_ usuário, _desejo_ cadastrar diferentes métodos de pagamento no aplicativo _para_ efetuar transações de recarga e compra de bilhetes de forma conveniente.               |
-| Critérios de Aceitação | - O usuário deve poder adicionar múltiplos métodos de pagamento, como cartões de crédito ou PayPal. <br> - As informações de pagamento devem ser seguras e criptografadas. |
-| Prioridade             | Média                                                                                                                   |
-
-<div style="text-align: center">
-<p> Tabela 8: - História de Usuário Permitir cadastrar métodos de pagamento. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
-
-### **US08 - Capacidade de realizar cadastro**
-
-<center>
+| US07                   | Favoritar rotas                                                                              |
+| Descrição              | _Eu, como_ usuário, _desejo_ ter a possibilidade de favoritar rotas _para_ que eu possa acessá-las facilmente quando necessário.               |
+| Critérios de Aceitação | - Deve existir uma funcionalidade no aplicativo que permita ao usuário favoritar linhas de ônibus desejadas.<br>  - Deve ser possível marcar ou desmarcar as linhas conforme a preferência do usuário.<br>- Deve ser de fácil acesso para gerenciar as linhas favoritadas.<br> - As linhas favoritadas devem estar disponíveis de forma rápida para consulta ou planejamento de viagens.<br> |
+| Prioridade             | Baixa                                                                                                                  |
 
 
-| **ID**                 | **Nome**                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------- |
-| US08                   | Capacidade de realizar cadastro                                                                                   |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter a capacidade de criar uma conta no aplicativo _para_ acessar funcionalidades exclusivas e personalizar minha experiência.                   |
-| Critérios de Aceitação | - Deve haver um formulário de cadastro com campos obrigatórios, como nome, e-mail e senha. <br> - Após o cadastro, o usuário deve poder fazer login imediatamente.           |
-| Prioridade             | Alta                                                                                                              |
-
-<div style="text-align: center">
-<p> Tabela 09: - História de Usuário Capacidade de realizar cadastro. - (Fonte: LELIS, Caio).</p>
-</div>
+ Fonte: BRAGA, Caio. LELIS, Caio.
 
 </center>
 
 
 
-
-### **US09 - Fornecer a localização do usuário**
-
-<center>
-
-
-
-| **ID**                 | **Nome**                                                                                                             |
-| :--------------------- | :------------------------------------------------------------------------------------------------------------------- |
-| US09                   | Fornecer a localização do usuário                                                                                    |
-| Descrição              | _Eu, como_ usuário, _desejo_ que o aplicativo seja capaz de acessar minha localização atual _para_ fornecer informações precisas sobre paradas e rotas de transporte público. |
-| Critérios de Aceitação | - O aplicativo deve solicitar permissão ao usuário para acessar a localização. <br> - A localização deve ser usada apenas para fornecer informações relevantes aos serviços do aplicativo. |
-| Prioridade             | Média                                                                                                                 |
-
-<div style="text-align: center">
-<p> Tabela 10: - História de Usuário Fornecer a localização do usuário. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
-
-
-### **US10 - Possibilidade de personalizar a aparência da interface do usuário**
+### **US08 - Consultar paradas próximas em uma rota**
 
 <center>
+
+**Tabela 9:** História de Usuário  Consultar paradas próximas em uma rota
 
 | **ID**                 | **Nome**                                                                                                                         |
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| US10           | Possibilidade de personalizar a aparência da interface do usuário                                                                |
-| Descrição              | _Eu, como_ usuário, _desejo_ poder personalizar a aparência da interface do aplicativo _para_ tornar a experiência de uso mais agradável e adaptada ao meu gosto pessoal.               |
-| Critérios de Aceitação | - O aplicativo deve oferecer opções de temas, cores e fontes que podem ser customizadas pelo usuário. <br> - As alterações devem ser visíveis imediatamente após a personalização. |
-| Prioridade             | Baixa                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 11: - História de Usuário Possibilidade de personalizar a aparência da interface da usuário. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
+| US08           | Consultar paradas próximas em uma rota                                                                |
+| Descrição              | _Eu, como_ usuário, _desejo_ consultar as paradas próximas em uma rota _para_ que possa me guiar durante uma viagem.              |
+| Critérios de Aceitação | - O aplicativo deve ser capaz de detectar a localização atual do usuário ou permitir que o usuário insira manualmente a localização desejada.<br> - Deve fornecer informações precisas sobre as paradas próximas, como transporte disponível, horários, rotas, etc.<br> - Deve ser apresentado de forma clara e intuitiva para o usuário encontrar as informações facilmente.<br> - Deve ser atualizado em tempo real ou com uma frequência que forneça informações precisas.<br> |
+| Prioridade             | Média                                                                                                                            |
 
 
-### **US11 - Mostrar ao usuário a previsão de depósito de dinheiro**
-
-
-<center>
-
-<font size="3">Tabela 26 - Mostrar ao usuário a previsão de depósito de dinheiro.</font>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US11                   | Mostrar ao usuário a previsão de depósito de dinheiro                                                                                                                                                             |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter acesso a informações sobre a previsão de depósito de dinheiro no meu cartão de mobilidade _para_ planejar minhas viagens e evitar surpresas ao descobrir que meu saldo está baixo._                |
-| Critérios de Aceitação | - O aplicativo deve mostrar uma previsão clara e precisa das datas em que os depósitos de dinheiro são esperados no cartão do usuário. <br> - As informações devem ser atualizadas em tempo real ou em intervalos frequentes para refletir mudanças no status da transação. <br> - A previsão deve ser facilmente acessível para o usuário, com poucos cliques ou toques. |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 12: - História de Usuário Mostrar ao usuário a previsão de depósito de dinheiro. - (Fonte: LELIS, Caio).</p>
-</div>
+**Fonte:** BRAGA, Caio. LELIS, Caio
 
 </center>
 
 
-### **US12 - Visualizar linhas e horários de ônibus**
+### **US09 - Adicionar recarga de saldo no cartão**
 
 <center>
 
+**Tabela 10:** História de Usuário Adicionar recarga de saldo no cartão.
+
+| **ID**                 | **Nome**                                                                                                         |
+| :--------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| US09                   | Adicionar recarga de saldo no cartão                                                                                   |
+| Descrição              | _Eu, como_ usuário, _desejo_ adicionar regarga de saldo no meu cartão _para_ possa me locomover no transporte público.                   |
+| Critérios de Aceitação | - Deve existir uma opção clara e acessível para realizar a recarga do saldo.<br> - Deve permitir ao usuário escolher o valor desejado para recarregar.<br> - Deve fornecer opções de pagamento seguras e confiáveis.<br> - Após a conclusão da recarga, o saldo da conta do usuário deve ser atualizado refletindo a nova quantia.<br>            |
+| Prioridade             | Alta                                                                                                              |
+
+
+**Fonte**: BRAGA, Caio. LELIS, Caio
+
+</center>
+
+
+
+### **US10 - Cadastrar métodos de pagamento**
+
+<center>
+
+**Tabela 11:**  História de Usuário Cadastrar métodos de pagamento.
+
+| **ID**                 | **Nome**                                                                                                             |
+| :--------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| US10                   | Cadastrar métodos de pagamento                                                                                    |
+| Descrição              | _Eu, como_ usuário, _desejo_ cadastrar métodos de pagamento _para_ realizar recargas no cartão de mobilidade                   |
+| Critérios de Aceitação | - O aplicativo deve fornecer campos de entrada para os dados do método de pagamento (como cartão de crédiito ou débito).<br> - Deve existir uma opção clara e acessível para realizar o cadastro do método de pagamento.<br> 
+| Prioridade             | Média|
+
+
+**Fonte**: BRAGA, Caio. LELIS, Caio
+
+</center>
+
+
+
+
+### **US11 - Suporte de chatbot**
+
+<center>
+
+**Tabela 10:** - História de Usuário Suporte de chatbot.
+
+| **ID**                 | **Nome**                                                                                                             |
+| :--------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| US11                   | Suporte de chatbot|
+| Descrição              | _Eu, como_ usuário, _desejo_ que o aplicativo tenha um suporte de _chatbot_
+_para_ auxilio em dúvidas  |
+| Critérios de Aceitação | - O chatbot deve está implementado no aplicativo <br> - Deve está presente na parte de suporte .<br> - Ter acesso ao suporte |
+| Prioridade             | Médio|
+
+
+**Fonte**: FILHO, Doan
+
+</center>
+
+### **US12 - Solicitar 2ª via de cartão**
+<center>
+
+**Tabela 13:** História de Usuário Solicitar 2ª via de cartão.
+
+| **ID**                 | **Nome**  |
+| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| US12                   | Solicitar 2ª via de cartão |
+| Descrição              | _Eu, como_ usuário, _desejo_ solicitar a segunda via do cartão |
+| Critérios de Aceitação | - Ter cadastro no aplicativo.<br> - Ter o cartão (primeira via).<br> - Ter acesso ao suporte do aplicativo .<br> - Após a conclusão do processo de recuperação, o usuário deve conseguir acessar sua conta com a nova senha.<br> 
+| Prioridade             | Média  |
+
+**Fonte**: FILHO, Doan
+
+
+</center>
+
+### **US13 - Suporte humano**
+
+<center>
+
+**Tabela 13:** - História de Usuário Suporte humano
+
+| **ID**                 | **Nome** |
+| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US13 | Visualizar linhas e horários de ônibus |
+| Descrição | _Eu, como_ usuário, _desejo_ ter suporte humano _para_ ter auxilio presencialmente |
+| Critérios de Aceitação | - Ter o local de suporte <br> - O usuário precisa está presente no local do suporte .<br> - O suporte precisa está presente no local.|
+| Prioridade| Alta|
+
+
+**Fonte**: FILHO, Doan
+
+</center>
+
+
+### **US14 - Consultar perguntas frequentes**
+
+<center>
+
+**Tabela 15:** História de Usuário Consultar perguntas frequentes.
+
+| **ID**                 | **Nome** |
+| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| US14                   |Consultar perguntas frequentes|
+| Descrição              | _Eu, como_ usuário, _desejo_ ter acesso a aba de perguntas frequentes _para_ consultar dúvidas |
+| Critérios de Aceitação |- Está presente na parte de suporte.<br> - Ter perguntas gerais de usuários | 
+| Prioridade             |  Média    |
+
+
+
+**Fonte**: FILHO, Doan
+
+</center>
+
+
+### **US15 - Consultar mapa de uma rota**
+
+<center>
+
+**Tabela 16:**  História de Usuário Consultar mapa de uma rota.
+
+| **ID**                 | **Nome**|
+| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US15                   | Consultar mapa de uma rota |
+| Descrição              | _Eu, como_ usuário, _desejo_ ver mapa de uma rota _para_ consultar um trajeto especifico   |
+| Critérios de Aceitação | - Ter acesso a internet.<br>- Ter acesso a sessão de itinerários .<br> - Ter uma rota preestabelecidade       |
+| Prioridade             | Média |
+
+
+**Fonte**: FILHO, Doan
+
+</center>
+
+### **US16 - Personalizar interface**
+
+<center>
+
+**Tabela 17:** - História de Usuário Personalizar interface.
+
+| **ID**                 | **Nome**                                                                                                                                      |
+| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| US16                   | Personalizar interface |
+| Descrição              | _Eu, como_ usuário, _desejo_ quero ter a capacidade de personalizar minha interface _para_ ter mais acessibilidade e ter uma melhor experiência de usuário|
+| Critérios de Aceitação |- Ter cadastro no aplicativo.<br> - Ter acesso a interface principal do aplicativo.<br> - Ter implementado a opção de personalizar a interface | 
+| Prioridade             |Baixa |
+
+
+**Fonte**: FILHO, Doan
+
+</center>
+
+
+### **US17 - Recuperar senha de usuário**
+
+<center>
+
+**Tabela 18:** - História de Usuário Recuperar senha de usuário .
+
+| **ID** | **Nome**                    |
+|--------|-----------------------------|
+| US17   | Recuperar senha do usuário  |
+| Descrição | _Eu, como_ usuário, _desejo_ ter a opção de recuperar a senha _para_ que eu possa ter a integridade da minha conta |
+| Critérios de Aceitação | - Ter se cadastrado antes .<br> - Ter um email correspondente à conta cadastrada|
+| Prioridade | Média |
+
+
+**Fonte**: FILHO, Doan
+
+</center>
+
+
+
+### **US18 - Alterar dados cadastrais**
+
+<center>
+
+**Tabela 19:** História de Usuário Alterar dados cadastrais .
+
+
 | **ID**                 | **Nome**                                                                                                                                                                                                         |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US12                   | Visualizar linhas e horários de ônibus                                                                                                                                                                           |
-| Descrição              | _Eu, como_ usuário, _desejo_ poder ver informações detalhadas sobre as linhas de ônibus, incluindo horários de partida e chegada, _para_ poder planejar minha viagem com precisão e evitar longos períodos de espera.              |
-| Critérios de Aceitação | - O usuário deve poder selecionar uma linha de ônibus específica para ver os horários de partida e chegada. <br> - As informações devem ser precisas e atualizadas regularmente para refletir os horários reais de operação.         |
+| US18                   | Alterar dados cadastrais        |
+| Descrição              | _Eu, como_ usuário, _desejo_ ter a opção de alterar meus dados cadastrais para ter flexiblidade de uso do aplicativo e aumentar a integridade de acordo com a necessidade |
+| Critérios de Aceitação |- Ter cadastro no aplicativo.<br>- Ter acesso as configurações de conta.<br> |
+| Prioridade             | Alta |
+
+
+**Fonte**: FILHO, Doan
+
+</center>
+
+
+### **US19 - Criação de conta de usuário**
+
+<center>
+
+**Tabela 20:** História de Usuário Criação de conta de usuário. 
+
+| **ID**                 | **Nome**                                                                                                                                                                                                         |
+| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US19                   |Criação de conta do usuário |
+| Descrição              | _Eu, como_ usuário, _desejo_ desejo ter a possibilidade de criar uma conta no software para ter acesso a aplicação|
+| Critérios de Aceitação |- Ter dados cadastrais compativéis com os dados da aplicação.<br> - Ter o aplicativo instalado no dispositivo.<br>|
 | Prioridade             | Alta                                                                                                                                                                                                             |
 
-<div style="text-align: center">
-<p> Tabela 13: - História de Usuário Visualizar linhas e horários de ônibus. - (Fonte: LELIS, Caio).</p>
-</div>
+**Fonte**: FILHO, Doan
 
 </center>
 
-### **US13 - Realizar recargas de créditos no cartão**
+
+### **US20 - Acessar o aplicativo com e-mail e senha**
 
 <center>
 
-| **ID**                 | **Nome**                                                                                                                 |
-| :--------------------- | :----------------------------------------------------------------------------------------------------------------------- |
-| US13                   | Realizar recargas de créditos no cartão                                                                                   |
-| Descrição              | _Eu, como_ usuário, _desejo_ recarregar créditos no meu cartão de mobilidade _para_ continuar usando os serviços de transporte público. |
-| Critérios de Aceitação | - O usuário deve poder escolher o valor da recarga e o método de pagamento. <br> - Após a recarga, o saldo do cartão deve ser atualizado imediatamente. |
-| Prioridade             | Alta                                                                                                                      |
-
-<div style="text-align: center">
-<p> Tabela 14: - História de Usuário Realizar recargas de créditos no cartão. - (Fonte: LELIS, Caio).</p>
-</div>
-</center>
-
-### **US14 - Salvar rotas personalizadas**
-
-<center>
-
+**Tabela 24:** História de Usuário Acessar o aplicativo com e-mail e senha.
 
 | **ID**                 | **Nome**                                                                                                                                                                                                         |
 | :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US14                   | Salvar rotas personalizadas                                                                                                                                                                                      |
-| Descrição              | _Eu, como_ usuário, _desejo_ poder salvar rotas de viagem personalizadas _para_ facilitar o planejamento de futuras viagens, economizando tempo ao inserir destinos frequentes e preferidos.                                 |
-| Critérios de Aceitação | - O usuário deve poder salvar múltiplas rotas com nomes descritivos para facilitar a identificação. <br> - As rotas salvas devem poder ser editadas ou excluídas pelo usuário conforme necessário. <br> - As rotas devem ser acessíveis a qualquer momento para consulta ou edição. |
-| Prioridade             | Baixa                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 15: - História de Usuário Salvar rotas personalizadas. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
-
-### **US15 - Fornecer seção de comunicação direta**
-
-<center>
-
-
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US15                   | Fornecer seção de comunicação direta                                                                                                                                                                              |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter uma seção dentro do aplicativo dedicada à comunicação direta com o suporte ao cliente _para_ poder relatar problemas, fazer perguntas ou fornecer feedback facilmente.                        |
-| Critérios de Aceitação | - O aplicativo deve ter uma seção claramente identificada para suporte ao cliente ou comunicação direta. <br> - O usuário deve poder enviar mensagens e receber respostas em tempo real ou dentro de um prazo razoável. <br> - As interações devem ser registradas para referência futura. |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 16: - História de Usuário Fornecer seção de comunicação direta. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
-
-
-### **US16 - Mostrar ao usuário a previsão de depósito de dinheiro**
-
-
-<center>
-
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US16                 | Mostrar ao usuário a previsão de depósito de dinheiro                                                                                                                                                             |
-| Descrição              | _Eu, como_ usuário, _desejo_ ter acesso a informações sobre a previsão de depósito de dinheiro no meu cartão de mobilidade _para_ planejar minhas viagens e evitar surpresas ao descobrir que meu saldo está baixo._                |
-| Critérios de Aceitação | - O aplicativo deve mostrar uma previsão clara e precisa das datas em que os depósitos de dinheiro são esperados no cartão do usuário. <br> - As informações devem ser atualizadas em tempo real ou em intervalos frequentes para refletir mudanças no status da transação. <br> - A previsão deve ser facilmente acessível para o usuário, com poucos cliques ou toques. |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 17: - História de Usuário Mostrar ao usuário a previsão de depósito de dinheiro. - (Fonte: LELIS, Caio).</p>
-</div>
-
-</center>
-
-### **US17 - Suporte para usuários com deficiência física**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US17                   | Suporte para usuários com deficiência física                                                                                                                                                                      |
-| Descrição              | _Eu, como_ usuário com deficiência física, _quero_ receber suporte adicional no aplicativo _para_ facilitar minha interação e compreensão das informações exibidas.                                                  |
-| Critérios de Aceitação | - O aplicativo deve oferecer opções de acessibilidade, como leitores de tela e comandos de voz. <br> - Todas as funcionalidades do aplicativo devem ser acessíveis para usuários com deficiência física. <br> - As informações exibidas devem ser apresentadas de forma clara e compreensível. |
-| Prioridade             | Alta                                                                                                                                                                                                             |
-
-<div style="text-align: center">
-<p> Tabela 18: - História de Usuário Suporte para usuários com deficiência visual. </p>
-</div>
-
-</center>
-
-### **US18 - Previsão de depósito de dinheiro no cartão de mobilidade**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US18                   | Previsão de depósito de dinheiro no cartão de mobilidade                                                                                                                                                           |
-| Descrição              | _Eu, como_ usuário regular, _quero_ ver a previsão de depósito de dinheiro no meu cartão de mobilidade _para_ poder planejar minhas viagens de acordo.                                                           |
-| Critérios de Aceitação | - O usuário deve poder visualizar a data e o valor estimado do próximo depósito em seu cartão de mobilidade. <br> - As informações devem ser atualizadas em tempo real para refletir o saldo disponível no cartão.             |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 19: - História de Usuário Previsão de depósito de dinheiro no cartão de mobilidade. </p>
-</div>
-
-</center>
-
-### **US19 - Acesso ao histórico detalhado das atividades**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US19                   | Acesso ao histórico detalhado das atividades                                                                                                                                                                       |
-| Descrição              | _Eu, como_ usuário, _desejo_ acessar um histórico detalhado das minhas atividades no aplicativo, incluindo transações, viagens anteriores e outras interações _para_ melhorar minha compreensão do meu uso do aplicativo.           |
-| Critérios de Aceitação | - O usuário deve poder acessar uma lista completa de suas atividades passadas, incluindo transações, viagens anteriores e outras interações relevantes. <br> - O histórico deve ser fácil de navegar e pesquisar. <br> - As informações devem ser organizadas de forma clara e compreensível. |
-| Prioridade             | Alta                                                                                                                                                                                                             |
-
-<div style="text-align: center">
-<p> Tabela 20: - História de Usuário Acesso ao histórico detalhado das atividades. </p>
-</div>
-
-</center>
-
-### **US20 - Notificações de depósito de dinheiro no cartão de mobilidade**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US20                   | Notificações de depósito de dinheiro no cartão de mobilidade                                                                                                                                                     |
-| Descrição              | _Eu, como_ usuário, _quero_ receber notificações quando o dinheiro for depositado no meu cartão de mobilidade _para_ estar ciente de quando meu saldo foi recarregado.                                           |
-| Critérios de Aceitação | - O usuário deve poder optar por receber notificações por meio de mensagens push ou e-mails. <br> - As notificações devem ser enviadas imediatamente após o depósito de dinheiro no cartão.                              |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 21: - História de Usuário Notificações de depósito de dinheiro no cartão de mobilidade. </p>
-</div>
-
-</center>
-
-### **US21 - Visualização de rotas alternativas durante interrupções do serviço**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US21                   | Visualização de rotas alternativas durante interrupções do serviço                                                                                                                                               |
-| Descrição              | _Eu, como_ usuário, _desejo_ poder visualizar rotas alternativas em tempo real durante as interrupções do serviço _para_ encontrar a melhor maneira de chegar ao meu destino.                                       |
-| Critérios de Aceitação | - O aplicativo deve fornecer informações em tempo real sobre rotas alternativas durante interrupções do serviço. <br> - O usuário deve poder comparar diferentes rotas e escolher a mais conveniente. <br> - As informações devem ser atualizadas rapidamente para refletir as condições em tempo real. |
-| Prioridade             | Alta                                                                                                                                                                                                             |
-
-<div style="text-align: center">
-<p> Tabela 22: - História de Usuário Visualização de rotas alternativas durante interrupções do serviço. </p>
-</div>
-
-</center>
-
-### **US22 - Compra de bilhetes de transporte público pelo aplicativo**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US22                   | Compra de bilhetes de transporte público pelo aplicativo                                                                                                                                                         |
-| Descrição              | _Eu, como_ usuário, _desejo_ poder comprar bilhetes de transporte público diretamente pelo aplicativo _para_ evitar a necessidade de usar máquinas de venda de bilhetes físicas.                                      |
-| Critérios de Aceitação | - O aplicativo deve oferecer opções para comprar diferentes tipos de bilhetes, como bilhetes unitários ou passes mensais. <br> - O processo de compra deve ser fácil, rápido e seguro. <br> - O usuário deve receber um comprovante de compra após a transação.                           |
-| Prioridade             | Alta                                                                                                                                                                                                             |
-
-<div style="text-align: center">
-<p> Tabela 23: - História de Usuário Compra de bilhetes de transporte público pelo aplicativo. </p>
-</div>
-
-</center>
-
-### **US23 - Solicitação de segunda via do cartão de mobilidade**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US23                   | Solicitação de segunda via do cartão de mobilidade                                                                                                                                                                 |
-| Descrição              | _Eu, como_ usuário regular, _desejo_ poder solicitar uma segunda via do cartão de mobilidade caso o meu seja perdido ou danificado _para_ garantir que eu possa continuar utilizando o serviço de transporte público.             |
-| Critérios de Aceitação | - O usuário deve poder solicitar a segunda via do cartão de mobilidade através do aplicativo. <br> - O processo de solicitação deve ser fácil e intuitivo. <br> - O usuário deve receber confirmação da solicitação e informações sobre o status do novo cartão.                         |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 24: - História de Usuário Solicitação de segunda via do cartão de mobilidade. </p>
-</div>
-
-</center>
-
-### **US24 - Recebimento de notificações sobre eventos e promoções**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US24                   | Recebimento de notificações sobre eventos e promoções                                                                                                                                                             |
-| Descrição              | _Eu, como_ usuário, _desejo_ receber notificações de eventos e promoções especiais relacionadas ao sistema de transporte público _para_ estar ciente de ofertas exclusivas e eventos que possam beneficiar minha experiência de viagem.                              |
-| Critérios de Aceitação | - O usuário deve poder optar por receber notificações sobre eventos e promoções no aplicativo. <br> - As notificações devem ser claras e informativas, fornecendo detalhes sobre o evento ou promoção. <br> - O usuário deve poder desativar as notificações a qualquer momento.         |
-| Prioridade             | Baixa                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 25: - História de Usuário Recebimento de notificações sobre eventos e promoções. </p>
-</div>
-
-</center>
-
-### **US25 - Compartilhamento de viagens com amigos e familiares**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US25                   | Compartilhamento de viagens com amigos e familiares                                                                                                                                                               |
-| Descrição              | _Eu, como_ usuário regular, _quero_ compartilhar minhas viagens com amigos e familiares _para_ que eles saibam minha localização e estejam cientes da minha segurança durante o trajeto.                                     |
-| Critérios de Aceitação | - O usuário deve poder compartilhar detalhes da viagem, incluindo a rota e a hora estimada de chegada, com amigos e familiares. <br> - O compartilhamento deve ser opcional e controlado pelo usuário. <br> - O usuário deve poder interromper o compartilhamento a qualquer momento.         |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 26: - História de Usuário Compartilhamento de viagens com amigos e familiares. </p>
-</div>
-
-</center>
-
-### **US26 - Fornecimento de feedback sobre o serviço de transporte público**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US26                   | Fornecimento de feedback sobre o serviço de transporte público                                                                                                                                                   |
-| Descrição              | _Eu, como_ usuário, _desejo_ fornecer feedback sobre o serviço de transporte público, incluindo sugestões de melhorias e reclamações sobre problemas encontrados _para_ contribuir para a melhoria contínua do serviço.                    |
-| Critérios de Aceitação | - O usuário deve poder enviar feedback diretamente pelo aplicativo. <br> - O aplicativo deve permitir que o usuário forneça detalhes sobre a experiência, incluindo sugestões construtivas e informações relevantes sobre problemas encontrados. <br> - O usuário deve receber confirmação do recebimento do feedback. |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 27: - História de Usuário Fornecimento de feedback sobre o serviço de transporte público. </p>
-</div>
-
-</center>
-
-### **US27 - Suporte adicional para usuários com deficiência visual**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US27                   | Suporte adicional para usuários com deficiência visual                                                                                                                                                             |
-| Descrição              | _Eu, como_ usuário com deficiência visual, _quero_ receber suporte adicional no aplicativo _para_ facilitar minha interação e compreensão das informações exibidas.                                                  |
-| Critérios de Aceitação | - O aplicativo deve oferecer opções de acessibilidade, como leitores de tela e comandos de voz. <br> - Todas as funcionalidades do aplicativo devem ser acessíveis para usuários com deficiência visual. <br> - As informações exibidas devem ser apresentadas de forma clara e compreensível. |
-| Prioridade             | Alta                                                                                                                                                                                                             |
-
-<div style="text-align: center">
-<p> Tabela 28: - História de Usuário Suporte adicional para usuários com deficiência visual. </p>
-</div>
-
-</center>
-
-### **US28 - Previsão de depósito de dinheiro no cartão de mobilidade**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US28                   | Previsão de depósito de dinheiro no cartão de mobilidade                                                                                                                                                           |
-| Descrição              | _Eu, como_ usuário regular, _quero_ ver a previsão de depósito de dinheiro no meu cartão de mobilidade _para_ poder planejar minhas viagens de acordo.                                                           |
-| Critérios de Aceitação | - O usuário deve poder visualizar a data e o valor estimado do próximo depósito em seu cartão de mobilidade. <br> - As informações devem ser atualizadas em tempo real para refletir o saldo disponível no cartão.             |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 29: - História de Usuário Previsão de depósito de dinheiro no cartão de mobilidade. </p>
-</div>
-
-</center>
-
-### **US29 - Notificações de depósito de dinheiro no cartão de mobilidade**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US29                | Notificações de depósito de dinheiro no cartão de mobilidade                                                                                                                                                     |
-| Descrição              | _Eu, como_ usuário, _quero_ receber notificações quando o dinheiro for depositado no meu cartão de mobilidade _para_ estar ciente de quando meu saldo foi recarregado.                                           |
-| Critérios de Aceitação | - O usuário deve poder optar por receber notificações por meio de mensagens push ou e-mails. <br> - As notificações devem ser enviadas imediatamente após o depósito de dinheiro no cartão.                              |
-| Prioridade             | Média                                                                                                                                                                                                            |
-
-<div style="text-align: center">
-<p> Tabela 30: - História de Usuário Notificações de depósito de dinheiro no cartão de mobilidade. </p>
-</div>
-
-</center>
-
-### **US30 - Acesso ao histórico detalhado das atividades**
-
-<center>
-
-| **ID**                 | **Nome**                                                                                                                                                                                                         |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US30                   | Acesso ao histórico detalhado das atividades                                                                                                                                                                       |
-| Descrição              | _Eu, como_ usuário, _desejo_ acessar um histórico detalhado das minhas atividades no aplicativo, incluindo transações, viagens anteriores e outras interações _para_ melhorar minha compreensão do meu uso do aplicativo.           |
-| Critérios de Aceitação | - O usuário deve poder acessar uma lista completa de suas atividades passadas, incluindo transações, viagens anteriores e outras interações relevantes. <br> - O histórico deve ser fácil de navegar e pesquisar. <br> - As informações devem ser organizadas de forma clara e compreensível. |
-| Prioridade             | Alta    |
-
-
-<div style="text-align: center">
-<p> Tabela 31: - História de Usuário Acesso ao histórico detalhado das atividades. </p>
-</div>
+| US20                   | Acessar o aplicativo com e-mail e senha                                                                                                                     |
+| Descrição              | _Eu, como_ usuário regular, _desejo_  poder acessar meu aplicativo com email e senha para a utilização da aplicação|
+| Critérios de Aceitação | - Ter o aplicativo disponivel para uso.<br>- Ter os dados já cadastrados na aplicação.|
+| Prioridade             | Alta                                                                                                                                                 |
+
+**Fonte**: FILHO, Doan
 
 </center>
 
@@ -589,8 +443,8 @@ Construímos nossas histórias de usuário com base no nosso [backlog](http://12
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de história de usuários |  Caio Lelis e Doan   |   04/11/2023   | |     |
-|  1.1   | Adição de histórias de usuário |  Caio Lelis e Doan   |   04/11/2023   | |     |
-|  1.2   | Atualização de histórias de usuário |  Caio Lelis e Doan   |   04/11/2023   | |     |
+|  1.0   | Criação do documento de história de usuários |  Caio Lelis e Doan   |   04/11/2023   | Caio Braga | 06/12/2023    |
+|  1.1   | Adição de histórias de usuário |  Caio Braga, Caio Lelis e Doan   |   04/11/2023   | Joel Soares | 06/12/2023    |
+|  1.2   | Atualização de histórias de usuário |  Caio Braga, Caio Lelis e Doan   |   04/11/2023   | Joel Soares | 06/12/2023  |
 
 

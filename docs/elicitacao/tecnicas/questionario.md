@@ -188,7 +188,7 @@ Tabela 1: Requisitos funcionais.
 | RF07   | O aplicativo tem opção de pagamento via cartão de crédito| Q07  |       não       |
 | RF08   | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado          | Q08  |   não           |
 | RF09   | O aplicativo mostra o histórico de transportes pego pelo usuário ao longo do seu uso       | Q09  |      não        |
-
+| RF10   | O aplicativo deve rastrear os ônibus via GPS           | Q10  |      sim        |
 
 </center>
 
@@ -205,9 +205,9 @@ Tabela 2: Requisitos não funcionais.
 | Tipo   | Funcionalidade   | ID   | Implementado |
 |--------|-------------------|------|--------------|
 | RNF01   | O aplicativo deve fornecer segurança ao usuário com dados cadastrados        | Q10  |     sim         |
-| RNF02   | O aplicativo deve rastrear os ônibus via GPS           | Q11  |      sim        |
-| RNF03   | O aplicativo deve ser otimizado           | Q12  |      sim        |
-| RNF04   | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas         | Q13  |           |
+| RNF02   | O aplicativo deve ser otimizado           | Q12  |      sim        |
+| RNF03   | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas         | Q13  |           |
+
 </center>
 
 ## **Bibliografia**

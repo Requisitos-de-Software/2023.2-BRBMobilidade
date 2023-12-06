@@ -65,11 +65,10 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 | RF28   | O aplicativo tem opção de pagamento via cartão de crédito | Q07 | Não | Alta |
 | RF29   | O aplicativo mostra ao usuário a previsão de depósito de dinheiro depositado | Q08 | Não | Média |
 | RF30   | O aplicativo mostra o histórico de transportes pegos pelo usuário ao longo do seu uso | Q09 | Não | Baixa |
-| RF31   | O aplicativo deve fornecer notificações de depósito ao usuário | Q10 | Sim | Alta |
+| RF31  | O aplicativo deve rastrear os ônibus via GPS | Q10 | Sim | Média |
 | RF32   | Fornecer a possibilidade de Recuperar a senha do usuário. | BS10 | Sim | Alta |
 | RF33   | Possibilidade de favoritar linhas de ônibus. | BS** | Sim | Não | Média |
 | RNF07  | O aplicativo deve fornecer segurança ao usuário com dados cadastrados | Q11 | Sim | Alta |
-| RNF08  | O aplicativo deve rastrear os ônibus via GPS | Q12 | Sim | Média |
 | RNF09  | O aplicativo deve ser otimizado | Q12 | Sim | Alta |
 | RNF10  | O aplicativo deve ter atualização imediata de saldo | Q12 | Não | Alta |
 | RNF11  | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas | Q12 | Não | Alta |
@@ -86,5 +85,5 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criando Three Level  | Caio Lelis  |   03/10/2023   |  Caio Braga  |       04/10/2023      |
+|  1.0   | Criando Three Level  | Doan Filho e Caio Lelis|   03/10/2023   |  Caio Braga |       04/10/2023      |
 |  1.1   | Adicionando requisito sobre acessibilidade  | Joel Soares  |   06/11/2023   | Caio Braga  |       27/11/2023      |
