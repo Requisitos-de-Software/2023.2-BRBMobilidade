@@ -34,9 +34,9 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 
 <a id="g" href="#g">[7]</a> VSCODE. Disponível em: [Visual Studio Code](https://code.visualstudio.com/). Acesso em: 19 de setembro de 2023.
 
-<a id="h" href="#h">[7]</a> DISCORD. Disponível em: [Discord](https://discord.com/). Acesso em: 06 de dezembro de 2023.
+<a id="h" href="#h">[8]</a> DISCORD. Disponível em: [Discord](https://discord.com/). Acesso em: 06 de dezembro de 2023.
 
-<a id="i" href="#i">[7]</a> OBS Studio. Disponível em: [OBS](https://obsproject.com/pt-br). Acesso em: 06 de dezembro de 2023.
+<a id="i" href="#i">[9]</a> OBS Studio. Disponível em: [OBS](https://obsproject.com/pt-br). Acesso em: 06 de dezembro de 2023.
 
 #### **Histórico de Versões**
 
