@@ -24,6 +24,18 @@
 
 </center>
 
+## **Perguntas geradas**
+
+| Pergunta |
+| :---: |
+| Como que e realizado o cadastro no aplicativo? |
+| O que e importante pro usuario logo apos o login? |
+| Como e cobrado o saldo de acordo com cada cartao? |
+| Quais metodos de pagamento a aplicacao possui? |
+| Uma pessoa pode ter mais de um cartao? |
+| Como que e fornecido as informacoes necessarias para o usuario cadastrar o tipo de cartao? |
+
+
 ## **Tabelas de Requisitos**
 
 &emsp;&emsp;As tabelas abaixo apresentam os requisitos de software identificados durante o Brainstorm do projeto BRB Mobilidade. Cada requisito recebeu uma identificação específica no formato 'BS' seguido por um número, e foi detalhadamente descrito. Além disso, cada requisito foi categorizado como um dos seguintes:
@@ -39,21 +51,21 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 | Tipo   | Funcionalidade                                       | ID   | Implementado |
 | :---:  | :--------------------------------------------------: | :--: | :----------: |
 | RF01 | Consultar saldo e extrato de uso do cartão de mobilidade. | BS01 | Sim | 
-| RF02 | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. | BS02 | Sim | 
+| RF02 | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. | BS02 | Parcialmente | 
 | RF03 | Realizar recargas de créditos no cartão. | BS03 | Sim | 
-| RF04 | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | BS04 | Sim | 
-| RF05 | Suportar informações em tempo real sobre o status dos transportes públicos. | BS05 | Sim | 
-| RF06 | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | BS06 | Sim | 
-| RF07 | O aplicativo permite cadastrar métodos de pagamento. | BS07 | Sim |
+| RF04 | Interagir com um chatbot para esclarecer dúvidas e solicitar serviços relacionados ao transporte público. | BS04 | Parcialmente | 
+| RF05 | Suportar informações em tempo real sobre o status dos transportes públicos. | BS05 | Parcialmente | 
+| RF06 | Integrar funcionalidades de navegação e mapas para otimizar rotas e facilitar a localização de paradas de ônibus. | BS06 | Parcialmente | 
+| RF07 | O aplicativo permite cadastrar métodos de pagamento. | BS07 | Parcialmente |
 | RF08 | O usuário deve ser capaz de realizar cadastro | BS08 | Sim |
-| RF10 | O usuário deve fornecer sua localização | BS09 | Sim |
+| RF10 | O usuário deve fornecer sua localização | BS09 | Parcialmente |
 | RF11 | Fornecer a possibilidade de Recuperar a senha do usuário. | BS10 | Sim |
 | RF13 | Deve apresentar a possibilidade de bloqueio/cancelamento do cartão | BS11 | Sim |
 | RF14 | Deve mostrar o histórico de utilização do cartão. | BS12 | Sim |
 | RF15 | Possibilidade de favoritar linhas de ônibus. | BS13 | Sim |
 
 <div style="text-align: center">
-    <p> <b>Tabela 1</b>: Tabela dos Requisitos Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
+    <p> <b>Tabela 2</b>: Tabela dos Requisitos Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
 </div>
 
 ### **Tabela de Requisitos Não Funcionais**
@@ -65,7 +77,7 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 | RNF03 | Fornecer feedback ao usuário sobre a recarga e outras interações relevantes. | BS16 | Não |
 
 <div style="text-align: center">
-    <p> <b>Tabela 2</b>: Tabela dos Requisitos Não Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
+    <p> <b>Tabela 3</b>: Tabela dos Requisitos Não Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
 </div>
 
 
@@ -77,7 +89,7 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 
 - [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
 
-- [2] 1library. Engenharia de Requisitos. Disponívem em: <<https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq.>> Acesso em: 03 de outubro 2023.
+- [2] UFSC. Técnicas de Elicitação de Requisitos. Disponívem em: <<https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>> Acesso em: 03 de outubro 2023.
 
 
 ## **Histórico de Versões**
@@ -85,3 +97,4 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criando Brainstorm | Miguel Matos  |   03/10/2023 |  Joel Soares    |       04/10/2023      |
+|  2.0   | Correcao do Brainstorming | Joel Soares  |   06/12/2023 |  Caio Braga    |       06/12/2023      |
