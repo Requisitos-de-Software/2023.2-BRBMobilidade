@@ -85,5 +85,5 @@ O usuário entrevistado foi Pedro de Jesus, que foi convidade a gravar a técnic
 
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criando Three Level  | Caio Lelis  |   03/10/2023   |  Caio Braga  |       04/10/2023      |
+|  1.0   | Criando Three Level  | Doan Filho e Caio Lelis|   03/10/2023   |  Caio Braga |       04/10/2023      |
 |  1.1   | Adicionando requisito sobre acessibilidade  | Joel Soares  |   06/11/2023   | Caio Braga  |       27/11/2023      |
