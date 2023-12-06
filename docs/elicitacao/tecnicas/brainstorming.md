@@ -53,7 +53,7 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 | RF15 | Possibilidade de favoritar linhas de ônibus. | BS13 | Sim |
 
 <div style="text-align: center">
-    <p> <b>Tabela 1</b>: Tabela dos Requisitos Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
+    <p> <b>Tabela 2</b>: Tabela dos Requisitos Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
 </div>
 
 ### **Tabela de Requisitos Não Funcionais**
@@ -65,7 +65,7 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 | RNF03 | Fornecer feedback ao usuário sobre a recarga e outras interações relevantes. | BS16 | Não |
 
 <div style="text-align: center">
-    <p> <b>Tabela 2</b>: Tabela dos Requisitos Não Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
+    <p> <b>Tabela 3</b>: Tabela dos Requisitos Não Funcionais Elicitados. (Fonte: Miguel de Frias, Guilherme Basilio e Joel Soares, 2023).</p>
 </div>
 
 
@@ -77,7 +77,7 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 
 - [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
 
-- [2] 1library. Engenharia de Requisitos. Disponívem em: <<https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq.>> Acesso em: 03 de outubro 2023.
+- [2] UFSC. Técnicas de Elicitação de Requisitos. Disponívem em: <<https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>> Acesso em: 03 de outubro 2023.
 
 
 ## **Histórico de Versões**
