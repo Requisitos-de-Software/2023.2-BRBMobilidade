@@ -15,6 +15,11 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 | <img src="../assets/telegram.png" width=70px> | <a id="e" href="#e">Telegram</a> | Aplicativo de mensagens usado para manter a comunicação da equipe de forma fácil.|
 | <img src="../assets/miro.png"  width=80px> | <a id="f" href="#f">Miro</a> | Utilizado para criação do Rich picture |
 | <img src="../assets/vscode.png"  width=70px> | <a id="g" href="#g">Visual Studio Code</a> | IDE usada para realização do projeto, documentação, e implementar conceitos de versionamento |
+| <img src="../assets/GooglePlanilhas.png"  width=80px> | <a id="g" href="#g">Visual Studio Code</a> | Ferramenta usada para fazer as planilhas do projeto|
+| <img src="../assets/Figmalogo.png"  width=80px> | <a id="g" href="#g">Visual Studio Code</a> |Ferramenta usada para desenvolver protótipos  |
+
+
+
 
 ## **Bibliografia**
 
