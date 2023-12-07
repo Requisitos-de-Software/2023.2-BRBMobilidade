@@ -169,12 +169,18 @@ nav:
      
 
   - Entrega Final: 
-    -  Artefatos: Entrega_Final/Artefatos-criados.md
-    -  Aplicativo Selecionado: Entrega_Final/Aplicativo-Selecionado.md
-    -  Apresentacao: Entrega_Final/Apresentacao.md
-    -  Cronograma Planejado e Executado : Entrega_Final/Cronograma-Planejado-e-Executado.md
-    -  Execução do projeto: Entrega_Final/Execução-do-projeto.md
-    -  Ferramentas: Entrega_Final/Ferramentas.md
-    -  Métodos de verificacao e validacao : Entrega_Final/Métodos-de-verificacao-e-validacao.md
-    -  Técnicas usadas: Entrega_Final/Técnicas-usadas.md
-    -  Resultados Alcançados : Entrega_Final/ResultadosAlcançados.md 
+
+    -  Aplicativo Selecionado: entrega_final/aplicativo_selecionado.md
+    -  Planejamento de recursos e das entregas : entrega_final/planejamento_recursos_entregas.md
+    -  Execução do projeto: entrega_final/execucao_projeto.md
+    -  Resultados Alcançados: entrega_final/resultados_alcancados.md 
+    -  Técnicas usadas: entrega_final/tecnicas_usadas.md
+    -  Artefatos criados: entrega_final/artefatos_criados.md
+    -  Métodos de verificação e validação : entrega_final/verificacao_validacao.md
+    -  Ferramentas: entrega_final/ferramentas.md
+    -  Apresentações: entrega_final/apresentacoes.md
+   
+    
+    
+    
+    
