@@ -1,5 +1,9 @@
 # **Tabela Tecnicas Utilizadas no Projeto**
 
+## **Introducao** 
+
+Este documento contempla uma tabela sintetizando quais técnicas foram utilizadas na execução do projeto. 
+
 | Tecnica Utilizada | Quem as utilizou | Artefatos relacionados |
 | :---: | :---: | :---: |
 | Inspeção de Fagan | Joel Soares, Miguel de Frias, Guilherme Basilio, Gabriel Barbosa, Caio Lelis, Caio Braga e Doan Filho | [Verificacao Grupo +1](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/planejamento_verificacao_grupo4/), [Verificacao Grupo 3](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_1/rich_picture/) |
@@ -13,3 +17,8 @@
 | Cenarios | Miguel Matos, Joel Soares, Guilherme Basilio, Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa	 | [Cenários](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/cenarios/) |
 | Lexicos | Doan Filho, Joel Soares, Doan Filho | [Léxicos](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/lexicos/) |
 | NFR | Caio Braga, Gabriel Barbosa e Miguel de Frias | [NFR Framework](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/agil/nfr/) |
+
+## **Histórico de versão**
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Adicionando artefato | Joel Soares  |   06/12/2023   |   | 06/12/2023 |
