@@ -31,6 +31,8 @@ Utilizar-se-á de uma reunião com o usuário para priorizar os requisitos elici
 ## **Gravação de Priorização com o usuário**
 
 **Vídeo 1:** Gravação da priorização MoSCOW
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0kMXq2nVm8?si=_AaQwYTTQnr48Qrl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 **Fonte:** BRAGA, Caio. FILHO, Doan;
 
@@ -94,12 +96,13 @@ A tabela abaixo possui todos os requisitos elicitados com a sua prioridade assoc
 
 </center>
 
+
+
 ## **Referências bilbiográficas**
 
 > <a id = "REF1" href = "#ELEM1" >[1]</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements (Developer Best 
 Practices), 3rd Edition, Microsoft Press, 2013.
 
->
 
 
 ## **Histórico de versões** 
