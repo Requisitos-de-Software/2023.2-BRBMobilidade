@@ -37,7 +37,7 @@ Uma representação visual de casos de uso, atores e suas interações em um sis
 Após a inspeção, foram identificados:
 
 - Há uma dificuldade de entender os componentes do diagrama, pode ser resolvido melhorando a descrição dos componentes na legenda
-- não há um fluxo principal no diagrama.
+- Não há um fluxo principal no diagrama.
 - Ator secundário não está à direita do diagrama.
 
 
@@ -47,5 +47,5 @@ Após a inspeção, foram identificados:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento  |   Miguel de Frias   |   04/12/2023   |  |     |
-| 1.1   | Adição de conteúdo  |   Miguel de Frias  |   04/12/2023   |  |     |
+|  1.0   | Criação do documento  |   Miguel de Frias   |   04/12/2023   | Caio Braga |  06/12/2023   |
+| 1.1   | Adição de conteúdo  |   Miguel de Frias  |   04/12/2023   | Caio Braga | 06/12/2023    |

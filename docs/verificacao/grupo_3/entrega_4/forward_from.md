@@ -36,7 +36,7 @@ Após a inspeção, foram identificados:
 - legendas diferentes da padronização do projeto
 - links de rastreabilidade dos requisitos quebrados
 - falta relacionar à artefatos desnvolvidos durante o projeto
-- imagens quabradas na imlementção dos requisitos
+- imagens quabradas na implementção dos requisitos
 
 
 
@@ -45,5 +45,5 @@ Após a inspeção, foram identificados:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento  |   Miguel de Frias   |   04/12/2023   |  |     |
-| 1.1   | Adição de conteúdo  |   Miguel de Frias  |   04/12/2023   |  |     |
+|  1.0   | Criação do documento  |   Miguel de Frias   |   04/12/2023   | Caio Braga | 06/12/2023    |
+| 1.1   | Adição de conteúdo  |   Miguel de Frias  |   04/12/2023   | Caio Braga | 06/12/2023    |

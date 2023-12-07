@@ -62,4 +62,4 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 17. 1º/2019. 46 slides. 
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adição de conteúdo inicial  | Gabriel Barbosa          | 13/11/2023   |              |                       |
+|  1.0   | Adição de conteúdo inicial  | Gabriel Barbosa          | 13/11/2023   |       Caio Braga       |      06/12/2023                 |

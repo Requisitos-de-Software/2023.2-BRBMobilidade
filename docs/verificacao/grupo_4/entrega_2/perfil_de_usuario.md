@@ -55,4 +55,4 @@ Requisitos - E-Título. Disponível em: https://requisitos-de-software.github.io
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adição de conteúdo inicial  | Gabriel Barbosa e Caio Braga  | 13/11/2023   |              |                       |
+|  1.0   | Adição de conteúdo inicial  | Gabriel Barbosa e Caio Braga  | 13/11/2023   |    Doan Filho          |   06/12/2023                    |

@@ -180,6 +180,6 @@ De modo que fique mais viável a execução do nosso artefato foi feito a seguin
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento  |  Caio Lelis  |   20/11/2023   |  |
-| 1.1 | Adição de conteúdo | Caio Lelis | 20/11/2023 |  |
+|  1.0   | Criação do documento  |  Caio Lelis  |   20/11/2023   | Caio  Braga | 06/12/2023
+| 1.1 | Adição de conteúdo | Caio Lelis | 20/11/2023 | Caio Braga  | 06/12/2023
 
