@@ -158,9 +158,3 @@ Este documento é referente ao cronograma que foi seguido no semestre 2023.2 na 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Adicionando artefato | Doan Filho  |   06/12/2023   | Caio Braga  | 06/12/2023 |
-
-## **Histórico de versão**
-
-| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
-|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adicionando artefato | Doan Filho  |   06/12/2023   | Caio Braga  | 06/12/2023 |

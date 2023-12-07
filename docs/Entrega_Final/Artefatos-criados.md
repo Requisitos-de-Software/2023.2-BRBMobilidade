@@ -70,4 +70,4 @@ Aqui temos a sintetização dos artefatos criados ao longo de todo o projeto
 ## **Histórico de versão**
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adicionando artefato | Doan Filho  | 06/12/2023   |   | 06/12/2023 |
+|  1.0   | Adicionando artefato | Doan Filho  | 06/12/2023   | Joel Soares   | 06/12/2023 |

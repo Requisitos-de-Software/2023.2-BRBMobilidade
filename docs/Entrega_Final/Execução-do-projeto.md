@@ -70,4 +70,4 @@ Este documento contempla as fases/etapas do desenvolvimento do projeto.
 ## **Histórico de versão**
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adicionando artefato | Joel Soares  |   06/12/2023   |   | 06/12/2023 |
+|  1.0   | Adicionando artefato | Joel Soares  |   06/12/2023   | Doan Filho   | 06/12/2023 |

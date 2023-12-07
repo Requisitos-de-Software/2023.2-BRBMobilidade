@@ -25,8 +25,6 @@ Além da experiência, também consideramos a relevância do [BRB Mobilidade](ht
 
 Nossa decisão foi tomada com o apoio de todos os membros do grupo. Cada membro teve a oportunidade de compartilhar suas opiniões e preocupações, e a escolha final representa nossa determinação em trabalhar juntos para alcançar nossos objetivos.
 
-<a id = "ELEM1" href = "#REF1" ><sup>1</sup></a>
-
 
 # **Bibliografia**
 >[1] Bilheteria Digital, Disponível em :<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>, acesso em 06 de Dezembro de 2023
