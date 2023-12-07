@@ -4,31 +4,31 @@
 
 Este documento contempla as fases/etapas do desenvolvimento do projeto.
 
-| Entrega | Artefatos Criados | Autores | Revisores|
+| Etapas | Artefatos Criados | Autores | Revisores|
 | :---: | :---: | :---: | :---: |
-| Planejamento | [HeatMap](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/heatmap/) | Caio Braga e Caio Lelis | Caio Braga e Doan Filho |
-| Planejamento | [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/aplicativo_selecionado/) | Caio Lelis | Doan Filho |
-| Planejamento | [Ferramentas do Projeto](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/ferramentas/)  | Gabriel Barbosa, Caio Lelis e Miguel de Frias | Caio Lelis, Gabriel Barbosa e Guilherme Basilio |
-| Planejamento | [Termos de Uso](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/termos_de_uso/)  | Joel Soares | Guilherme Basilio |
-| Planejamento | [Cronograma](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/cronograma/)   | Miguel de Frias e Doan Filho| Miguel de Frias, Doan Filho, Guilherme Basilio, Joel Soares e Gabriel Barbosa |
-| Pre-rastreabilidade | [Rich Picture](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pre-rastreabilidade/rich_picture/) | Caio Lelis e Caio Braga | Doan Filho |
-| Elicitacao de Requisitos | [Personas](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/personas/) | Gabriel Barbosa e Joel Soares | Joel Soares e Guilgerme Basilio |
-| Elicitacao de Requisitos | [Perfil de Usuario](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/perfil_do_usuario/) | Doan Filho e Caio Braga | Caio Braga e Doan Filho |
-| Elicitacao de Requisitos | [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/) | Miguel Matos e Joel Soares | Joel Soares e Caio Braga |
-| Elicitacao de Requisitos | [Introspeccao](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/introspeccao/) | Miguel Matos, Guilherme Basilio, Caio Braga, Caio Lelis e Doan Filho | Doan Filho e Joel Soares |
-| Elicitacao de Requisitos | [Obersvacao](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/introspeccao/#historico-de-versoes) | Gabriel Barbosa | Guilherme Basilio |
-| Elicitacao de Requisitos | [Questionario](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/questionario/) | Caio Braga e Doan Filho | Caio Lelis |
-| Elicitacao de Requisitos | [In or Out](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/in_or_out/) | Caio Braga, Caio Lelis e Doan Filho| Joel Soares|
-| Elicitacao de Requisitos | [Three Level Scale](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/three_level_scale/) | Doan Filho, Caio Lelis e Joel Soares| Caio Braga |
-| Elicitacao de Requisitos | [MosCow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/moscow/#historico-de-versoes) | Caio Braga, Caio Lelis e Doan Filho | Joel Soares |
-| Elicitacao de Requisitos | [Requisitos Elicitados](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/requisitos_elicitados/#historico-de-versoes) | Guilherme Basilio, Doan Filho, Caio Braga e Caio Lelis  | Doan Filho, Caio Braga e Miguel de Frias|
-| Modelagem de Requisitos | [Cenarios](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/cenarios/) | Joel Soares, Guilherme Basilio, Caio Lelis, Gabriel Barbosa, Doan Filho, Caio Braga, Miguel de Frias | Guilherme Basilio, Miguel de Frias |
-| Modelagem de Requisitos | [Lexicos](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/lexicos/) | Doan Filho, Joel Soares e Caio Lelis | Caio Braga, Doan Filho, Joel Soares	 |
-| Modelagem de Requisitos | [Casos de Uso](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/casos_de_uso/) | Guilherme Basilio, Gabriel Barbosa, Caio Braga  |  Joel Soares |
-| Modelagem de Requisitos | [Especificacao Suplementar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/especificacao_suplementar/) | Caio Lelis, Doan Filho |Gabriel Barbosa|
-| Modelagem de Requisitos Agil | [BackLog](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/agil/backlog/) | Caio Lelis, Guilherme Basilio e Joel Soares | Miguel de Frias |
-| Modelagem de Requisitos Agil | [Historias de Usuario](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/agil/historia_de_usuario/) | Caio Braga, Caio Lelis e Doan | Joel Soares|
-| Modelagem de Requisitos Agil | [NFR](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/agil/nfr/) | Caio Braga, Gabriel Barbosa e Miguel de Frias | Miguel de Frias, Gabriel Barbosa |
+| Planejamento (1) | [HeatMap](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/heatmap/) | Caio Braga e Caio Lelis | Caio Braga e Doan Filho |
+| Planejamento (1) | [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/aplicativo_selecionado/) | Caio Lelis | Doan Filho |
+| Planejamento (1) | [Ferramentas do Projeto](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/ferramentas/)  | Gabriel Barbosa, Caio Lelis e Miguel de Frias | Caio Lelis, Gabriel Barbosa e Guilherme Basilio |
+| Planejamento (1) | [Termos de Uso](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/termos_de_uso/)  | Joel Soares | Guilherme Basilio |
+| Planejamento (1) | [Cronograma](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/cronograma/)   | Miguel de Frias e Doan Filho| Miguel de Frias, Doan Filho, Guilherme Basilio, Joel Soares e Gabriel Barbosa |
+| Pre-rastreabilidade (1) | [Rich Picture](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pre-rastreabilidade/rich_picture/) | Caio Lelis e Caio Braga | Doan Filho |
+| Elicitacao de Requisitos (2) | [Personas](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/personas/) | Gabriel Barbosa e Joel Soares | Joel Soares e Guilgerme Basilio |
+| Elicitacao de Requisitos (2) | [Perfil de Usuario](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/perfil_do_usuario/) | Doan Filho e Caio Braga | Caio Braga e Doan Filho |
+| Elicitacao de Requisitos (2) | [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/) | Miguel Matos e Joel Soares | Joel Soares e Caio Braga |
+| Elicitacao de Requisitos (2) | [Introspeccao](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/introspeccao/) | Miguel Matos, Guilherme Basilio, Caio Braga, Caio Lelis e Doan Filho | Doan Filho e Joel Soares |
+| Elicitacao de Requisitos (2) | [Obersvacao](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/introspeccao/#historico-de-versoes) | Gabriel Barbosa | Guilherme Basilio |
+| Elicitacao de Requisitos (2) | [Questionario](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/questionario/) | Caio Braga e Doan Filho | Caio Lelis |
+| Elicitacao de Requisitos (2) | [In or Out](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/in_or_out/) | Caio Braga, Caio Lelis e Doan Filho| Joel Soares|
+| Elicitacao de Requisitos (2) | [Three Level Scale](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/three_level_scale/) | Doan Filho, Caio Lelis e Joel Soares| Caio Braga |
+| Elicitacao de Requisitos (2) | [MosCow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/moscow/#historico-de-versoes) | Caio Braga, Caio Lelis e Doan Filho | Joel Soares |
+| Elicitacao de Requisitos (2) | [Requisitos Elicitados](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/requisitos_elicitados/#historico-de-versoes) | Guilherme Basilio, Doan Filho, Caio Braga e Caio Lelis  | Doan Filho, Caio Braga e Miguel de Frias|
+| Modelagem de Requisitos (3) | [Cenarios](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/cenarios/) | Joel Soares, Guilherme Basilio, Caio Lelis, Gabriel Barbosa, Doan Filho, Caio Braga, Miguel de Frias | Guilherme Basilio, Miguel de Frias |
+| Modelagem de Requisitos (3) | [Lexicos](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/lexicos/) | Doan Filho, Joel Soares e Caio Lelis | Caio Braga, Doan Filho, Joel Soares	 |
+| Modelagem de Requisitos (3) | [Casos de Uso](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/casos_de_uso/) | Guilherme Basilio, Gabriel Barbosa, Caio Braga  |  Joel Soares |
+| Modelagem de Requisitos (3) | [Especificacao Suplementar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/especificacao_suplementar/) | Caio Lelis, Doan Filho |Gabriel Barbosa|
+| Modelagem de Requisitos Agil (4) | [BackLog](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/agil/backlog/) | Caio Lelis, Guilherme Basilio e Joel Soares | Miguel de Frias |
+| Modelagem de Requisitos Agil (4) | [Historias de Usuario](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/agil/historia_de_usuario/) | Caio Braga, Caio Lelis e Doan | Joel Soares|
+| Modelagem de Requisitos Agil (4) | [NFR](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/modelagem/agil/nfr/) | Caio Braga, Gabriel Barbosa e Miguel de Frias | Miguel de Frias, Gabriel Barbosa |
 | Analise de Requisitos (5.1) | [Planejamento de Verificacao do Grupo 4](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/planejamento_verificacao_grupo4/) | Guilherme Basilio e Caio Lelis | Caio Lelis e Guilherme Basilio |
 | Analise de Requisitos (5.1) | [Verificacao do Artefato Aplicativo selecionado](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_1/aplicativo_selecionado/) | Caio Lelis | Joel Soares |
 | Analise de Requisitos (5.1) | [Verificação dos artefatos Cronograma e Cronograma Executado](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_1/cronogramas/) | Caio Lelis | Joel Soares |
