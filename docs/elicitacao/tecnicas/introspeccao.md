@@ -23,6 +23,9 @@ Tendo em vista esse cenário, a reunião foi concebida pensando nesse fluxo de t
 
 O vídeo seguinte apresenta a gravação que foi realizada para elicitar os requisitos utilizando a técnica de introspeção
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2LQySXBtUE?si=_uaeFPa8EoPF8SeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## **Priorização de Requisitos**
 
 
