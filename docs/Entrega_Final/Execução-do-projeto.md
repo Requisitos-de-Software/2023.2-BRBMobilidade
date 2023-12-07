@@ -1,5 +1,9 @@
 # **Tabela Execucao do Projeto**
 
+## **Introducao** 
+
+Este documento contempla as fases/etapas do desenvolvimento do projeto.
+
 | Entrega | Artefatos Criados | Autores | Revisores|
 | :---: | :---: | :---: | :---: |
 | Planejamento | [HeatMap](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/planejamento/heatmap/) | Caio Braga e Caio Lelis | Caio Braga e Doan Filho |
@@ -62,3 +66,8 @@
 | Analise de Requisitos (5.2) | [Verificação do Backward From](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_4/backward_from/) | Gabriel Barbosa|Guilherme Basilio |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Forward From](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_4/forward_from/) | Miguel de Frias | |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_4/matriz_rastreabilidade/) | Joel Soares e Caio Braga| Caio Braga e Joel Soares |
+
+## **Histórico de versão**
+| Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Adicionando artefato | Joel Soares  |   06/12/2023   |   | 06/12/2023 |
