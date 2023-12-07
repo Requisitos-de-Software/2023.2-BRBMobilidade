@@ -23,7 +23,15 @@ Tendo em vista esse cenário, a reunião foi concebida pensando nesse fluxo de t
 
 O vídeo seguinte apresenta a gravação que foi realizada para elicitar os requisitos utilizando a técnica de introspeção
 
+<center>
+
+**Vídeo 1:** Gravação da técnica de Introspecção
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2LQySXBtUE?si=_uaeFPa8EoPF8SeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Fonte:** BRAGA, Caio. LELIS, Caio. FILHO, Doan;
+
+</center>
 
 
 ## **Priorização de Requisitos**
@@ -84,6 +92,8 @@ ISx: Requisito nºx elicitado pela introspecção.
 ## **Bibliografia**
 >[SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
 >1library. Engenharia de Requisitos. Disponívem em: <<https://1library.org/article/an%C3%A1lise-de-documentos-t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos.qor9dxjq>>. Acesso em: 03 de outubro 2023.
+
+
 > WIEGERS, Karl; BEATTY, Joy. Software Requirements (Developer Best 
 Practices), 3rd Edition, Microsoft Press, 2013.
 
