@@ -43,8 +43,8 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 |    |    |
 | :----: | :---------------------: |
 |  Nome  |   Maria Dale   |
-|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona1.png" width = 100px><p>Imagem:  persona 1 |
-| Descrição | Maria Dale, 26 anos, analista de marketing, moradora do Gama-DF |
+|  Foto  |   <img src="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/blob/main/docs/elicitacao/img/Persona1.png?raw=true" width = 100px><p>Imagem:  persona 1 |
+| Descrição | Maria Dale, 26 anos, analista de marketing, casada, moradora do Gama-DF |
 | Tipo| Persona primária |
 | Informações | Altamente dependente de transporte público. Ela valoriza a praticidade, eficiência e economia de tempo em seus deslocamentos diários. Preocupa-se com o meio ambiente e busca formas sustentáveis de transporte, como o transporte público |
 | Habilidades | Usa o BRB-Mobilidade para se informar sobre o caminho até seu trabalho e casa |
@@ -57,8 +57,8 @@ Tabela 2: Primeira persona. (BARBOSA, Gabriel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Leonardo Moura  |
-|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona2.png" width = 100px"><p>Imagem:  persona 2|
-| Descrição | Leonardo moura, 18 anos, Estudante de ensino médio, morador da Asa norte - DF |
+|  Foto  |   <img src="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/blob/main/docs/elicitacao/img/Persona2.png?raw=true" width = 100px><p>Imagem:  persona 2|
+| Descrição | Leonardo moura, 18 anos, Estudante de ensino médio, solteiro, morador da Asa norte - DF |
 | Tipo | Persona primária |
 | Informações | Leonardo é um jovem digitalmente nativo, muito familiarizado com tecnologia e aplicativos móveis. Como está prestes a ingressar na universidade, ele considera os custos e a eficiência no transporte como fatores importantes. |
 | Habilidades | Consegue acessar facilmente informações sobre horários e itinerários de transporte público para se deslocar entre a escola, aulas particulares e atividades extracurriculares. |
@@ -72,8 +72,8 @@ Tabela 3: Segunda persona. (BARBOSA, Gabriel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Renato Abreu  |
-|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona3.png" width = 100px"><p>Imagem:  persona 3|
-| Descrição | Renato Abreu, 65 anos, Aposentado, morador da Asa sul - DF|
+|  Foto  |   <img src="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/blob/main/docs/elicitacao/img/Persona3.png?raw=true" width = 100px><p>Imagem:  persona 3|
+| Descrição | Renato Abreu, 65 anos, Aposentado, viúvo, morador da Asa sul - DF|
 | Tipo | Persona primária |
 | Informações | Renato vive sozinho em um bairro residencial tranquilo e busca mais comodidade e simplicidade em suas atividades diárias, incluindo deslocamentos pela cidade. Como a maioria dos idosos, ele se preocupa com a segurança durante seus deslocamentos |
 | Habilidades | Possui habilidades básicas em tecnologia, utilizando um smartphone para tarefas simples, como fazer ligações e enviar mensagens de texto. |
@@ -87,10 +87,10 @@ Tabela 4: Terceira persona. (BARBOSA, Gabriel 2023)
 |    |    |
 | :----: | :---------------------: |
 |  Nome  | Marina Silva  |
-|  Foto  |   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-BRBMobilidade/main/docs/Elicita%C3%A7%C3%A3o/img/Persona4.png" width = 100px/><p>Imagem:  persona 4|
-| Descrição | Marina Silva, 38 anos, é afrodescendente e é empresária. Moradora de Águas Claras.|
+|  Foto  |   <img src="https://github.com/Requisitos-de-Software/2023.2-BRBMobilidade/blob/main/docs/elicitacao/img/Persona4.png?raw=true" width = 100px/><p> Imagem:  persona 4|
+| Descrição | Marina Silva, 38 anos, é Negra, casada e empresária. Moradora de Águas Claras.|
 | Tipo | Anti-persona |
-| Informações | Marina mora em um prédio em Águas Claras. Ela possui um automóvel próprio e vive em ótimas condições financeiras. |
+| Informações | Marina mora em um prédio em Águas Claras. Ela possui um automóvel próprio e vive em ótimas condições financeiras com sua esposa. |
 | Habilidades | Possui habilidades tecnológicas moderadas. Ela é capaz de usar um smartphone e aplicativos, evidenciando que tem alguma familiaridade com dispositivos móveis e navegação na internet. |
 | Expectativas | Marina não possui expectativas em relação ao BRB Mobilidades, pois, além de não se encaixar em nenhum requisito para receber um cartao de auxilio da empresa, ela também não possui necessidade de utilizar o transporte publico em nenhum momento de sua rotina. |
 
@@ -98,17 +98,15 @@ Tabela 5: Quarta persona. (SOARES, Joel 2023)
 
 ## **Bibliografia**
 
->[1] This Person Doest Not Exist. Acesso em: 04/10/2023. Disponível em: https://this-person-does-not-exist.com/en
-
->[2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-
->[3] About Face 3: The Essentials of Interaction Design, Third Edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692763/mod_resource/content/1/About_Face_3__The_Essentials_of_Interaction_Design.pdf. Acessado em 4 de outro de 2023
-
->[4] Personas. Acesso em: 04/10/2023. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html
-
+- This Person Doest Not Exist.  Disponível em: https://this-person-does-not-exist.com/en. Acesso em: 04/10/2023.
+- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+- About Face 3: The Essentials of Interaction Design, Third Edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692763/mod_resource/content/1/About_Face_3__The_Essentials_of_Interaction_Design.pdf. Acessado em 4 de outro de 2023
+- Personas. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html. Acesso em: 04/10/2023.
+  
 ## **Histórico de versão**
 
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação de Personas             | Gabriel Barbosa |   03/10/2023   |  Joel Soares  |       04/10/2023      |
-|  2.0   | Refatoração do documento + motivo de quantidade de personas + anti-persona + perfil-de-usuario          | Joel Soares |   24/10/2023   |  ----  |       25/10/2023      |
+|  2.0   | Refatoração do documento + motivo de quantidade de personas + anti-persona + perfil-de-usuario          | Joel Soares |   24/10/2023   |  Guilherme Basilio  |       25/10/2023      |
+|  3.0   | Versão final do documento          | Joel Soares |   06/12/2023   |  Guilherme Basilio  |       06/12/2023      |

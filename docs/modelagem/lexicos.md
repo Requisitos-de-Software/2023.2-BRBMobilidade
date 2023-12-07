@@ -24,6 +24,8 @@ Sendo tabelados da seguinte forma.
 | Sinônimo       | Sinônimo| 
 | Classificação  |Tipo: Verbo/Objeto/Estado |
 
+<figcaption align="center">Tabela 1: Léxico 01 (Fonte: BASILIO, Guilherme e FRIAS, Miguel. 2023)</figcaption>
+
 ### **Notações**
 Sendo a divisão dos léxicos feito através da sua classificação sendo elas: 
 
@@ -48,7 +50,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       |Utilizar| 
 | Classificação  |Verbo |
 
-<figcaption align="center">Tabela 1: Léxico 01 (Fonte: SOARES, Joel. 2023)</figcaption>
+<figcaption align="center">Tabela 2: Léxico 01 (Fonte: SOARES, Joel. 2023)</figcaption>
 
 ### <a id = "Busca">**LV2 Buscar**</a>
 
@@ -61,7 +63,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Pesquisar | 
 | Classificação  | Verbo |
 
-<figcaption align="center">Tabela 2: Léxico 02(Fonte: BASILIO, Guilherme. 2023)</figcaption>
+<figcaption align="center">Tabela 3: Léxico 02(Fonte: BASILIO, Guilherme. 2023)</figcaption>
 
 ### <a href = "Visualizar">**LV3 Visualizar**</a>
 
@@ -73,7 +75,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Impacto        |O <a href = "#Usuário" >usuário</a> poderá <a href = "#Visualizar">visualizar</a> o <a href = "#Saldo">saldo</a> restante, poderá ver eos itinerários dos <a href = "#Transporte">ônibus</a> e etc | 
 | Sinônimo       | Ver e Olhar| 
 | Classificação  |Verbo |
-<figcaption align="center">Tabela 3: Léxico 03(Fonte: FILHO, Doan. 2023)</figcaption>
+<figcaption align="center">Tabela 4: Léxico 03(Fonte: FILHO, Doan. 2023)</figcaption>
 
 ### <a id = "ExibirExtrato">**LV4 Exibir extrato de Uso**</a>
 
@@ -86,7 +88,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       |Ver| 
 | Classificação  |Verbo |
 
-<figcaption align="center">Tabela 4: Léxico 04 (Fonte: BRAGA, Caio. 2023)</figcaption>
+<figcaption align="center">Tabela 5: Léxico 04 (Fonte: BRAGA, Caio. 2023)</figcaption>
 
 --- 
 ## **Léxicos de Objeto**
@@ -102,7 +104,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Suporte| 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 5: Léxico 05 (Fonte: SOARES, Joel. 2023)</figcaption>
+<figcaption align="center">Tabela 6: Léxico 05 (Fonte: SOARES, Joel. 2023)</figcaption>
 
 
 ### <a id = "Cartao">**LO2 Cartão**</a>
@@ -116,7 +118,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Passe e ficha| 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 6: Léxico 06 (Fonte: FILHO, Doan. 2023)</figcaption>
+<figcaption align="center">Tabela 7: Léxico 06 (Fonte: FILHO, Doan. 2023)</figcaption>
 
 ### <a id = "Usuário"> **LO3 Usuário**</a>
 
@@ -129,7 +131,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Estudante, usuário pagante| 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 7: Léxico 07 (Fonte: BRAGA, Caio. 2023)</figcaption>
+<figcaption align="center">Tabela 8: Léxico 07 (Fonte: BRAGA, Caio. 2023)</figcaption>
 
 ### <a id ="Interface">**L04 Interface**</a>
 
@@ -142,7 +144,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Tela| 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 8: Léxico 8(Fonte: de Frias, Miguel. 2023)</figcaption>
+<figcaption align="center">Tabela 9: Léxico 8(Fonte: de Frias, Miguel. 2023)</figcaption>
 
 ### <a id ="Transporte">**L05 Transporte**</a>
 
@@ -155,7 +157,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Ônibus | 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 9: Léxico 9(Fonte: de Frias, Miguel. 2023)</figcaption>
+<figcaption align="center">Tabela 10: Léxico 9(Fonte: de Frias, Miguel. 2023)</figcaption>
 
 ### <a id ="Saldo">**L06 Saldo**</a>
 
@@ -168,7 +170,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Dinheiro| 
 | Classificação  |Objeto |
 
-<figcaption align="center">Tabela 10: Léxico 10(Fonte: Filho, Doan. 2023)</figcaption>
+<figcaption align="center">Tabela 11: Léxico 10(Fonte: Filho, Doan. 2023)</figcaption>
 
 ### <a id = "ChatBot">**L07 - ChatBot**</a>
 | L07            |Descrição     | 
@@ -181,7 +183,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Classificação  |Objeto |
 
 
-<figcaption align="center">Tabela 11: Léxico 11 (Fonte: LELIS, Caio. 2023)</figcaption>
+<figcaption align="center">Tabela 12: Léxico 11 (Fonte: LELIS, Caio. 2023)</figcaption>
 
 ---
 ## **Léxicos de Estado**
@@ -197,7 +199,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Condição| 
 | Classificação  |Estado |
 
-<figcaption align="center">Tabela 12: Léxico 12 (Fonte: SOARES, Joel. 2023)</figcaption>
+<figcaption align="center">Tabela 13: Léxico 12 (Fonte: SOARES, Joel. 2023)</figcaption>
 
 ### <a id = "SaldoDisponivel"> **LE2 Saldo disponível** </a>
 | LE2  |Descrição     | 
@@ -209,7 +211,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Saldo positivo | 
 | Classificação  |Estado |
 
-<figcaption align="center">Tabela 13: Léxico 13 (Fonte: FILHO, Doan. 2023)</figcaption>
+<figcaption align="center">Tabela 14: Léxico 13 (Fonte: FILHO, Doan. 2023)</figcaption>
 
 ### <a id = "Adptar"> **LE3 Adptado**</a>
 
@@ -222,7 +224,7 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 | Sinônimo       | Customizar | 
 | Classificação  |Estado |
 
-<figcaption align="center">Tabela 13: Léxico 13 (Fonte: LELIS, Caio. 2023)</figcaption>
+<figcaption align="center">Tabela 15: Léxico 13 (Fonte: LELIS, Caio. 2023)</figcaption>
 
 ## **Bibliografia**
 

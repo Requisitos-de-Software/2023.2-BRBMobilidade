@@ -20,7 +20,6 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 
 
 
-
 ## **Bibliografia**
 
 <a id="a" href="#a">[1]</a> MKDOCS. Disponível em: [MkDocs](https://www.mkdocs.org/). Acesso em: 23 de setembro de 2023.
@@ -37,9 +36,14 @@ Este documento tem como objetivo detalhar quais são os softwares que o grupo us
 
 <a id="g" href="#g">[7]</a> VSCODE. Disponível em: [Visual Studio Code](https://code.visualstudio.com/). Acesso em: 19 de setembro de 2023.
 
+<a id="h" href="#h">[8]</a> DISCORD. Disponível em: [Discord](https://discord.com/). Acesso em: 06 de dezembro de 2023.
+
+<a id="i" href="#i">[9]</a> OBS Studio. Disponível em: [OBS](https://obsproject.com/pt-br). Acesso em: 06 de dezembro de 2023.
+
 #### **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento e adição de ferramentas | Gabriel Barbosa | 14/09/2023   | Caio Lelis      |17/09/2023|
 |  1.1   | Atualização de ferramentas e logos           | Caio Lelis      | 19/09/2023   | Gabriel Barbosa |21/09/2023|
+|  1.2   | Atualização de ferramentas e logos           | Miguel de Frias      | 06/12/2023 | Guilherme Basilio | 06/12/2023 |

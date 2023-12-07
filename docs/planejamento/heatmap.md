@@ -1,11 +1,17 @@
 
 ## Heatmap de quadro de Disponibilidade
 
+## **Introdução**
+
 Para facilitar a organização de reuniões e garantir a participação de todos, o heatmap mostra os melhores horários para todos os membros da equipe. Com base nesses dados, um cronograma é criado considerando a disponibilidade de cada um. O mapa de calor foi preenchido por cada integrante, indicando sua disponibilidade, e os horários com maior disponibilidade são destacados.
 
 ### **Imagem do Heatmap**
 
 ![Heatmap de Disponibilidade](assets/heatMap.png)
+
+<div style="text-align: center">
+    <p> <b>Imagem 1</b>: Heatmap (Fonte: Caio Lelis, 2023).</p>
+</div>
 
 ### **Resultados da Análise de Disponibilidade**
 
