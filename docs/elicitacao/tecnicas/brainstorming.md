@@ -87,10 +87,9 @@ BSx: Requisito nºx elicitado pelo Brainstorming.
 
 ## **Bibliografia**
 
-- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
+>[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de outubro de 2023.
 
-- [2] UFSC. Técnicas de Elicitação de Requisitos. Disponívem em: <<https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>> Acesso em: 03 de outubro 2023.
-
+UFSC. Técnicas de Elicitação de Requisitos. Disponívem em: <<https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>> Acesso em: 03 de outubro 2023.
 
 ## **Histórico de Versões**
 

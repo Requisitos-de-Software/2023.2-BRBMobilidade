@@ -1,12 +1,12 @@
-# **Verificação do Artefato Moscow**
+# **Verificação do Artefato [Moscow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/moscow/)**
 
 ## **Introdução**
 
-Esse artefato documenta a verificação do artefato Moscow produzido ao longo do projeto. Ao longo do documento serão apresentados o objetivo, a metodologia e os dados da verificação. Destarte, serão sumarizados os principais problemas  identificados e será fornecida uma análise para obte um feedback que guie as correções a serem realizadas.
+Esse artefato documenta a verificação do artefato [Moscow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/moscow/) produzido ao longo do projeto. Ao longo do documento serão apresentados o objetivo, a metodologia e os dados da verificação. Destarte, serão sumarizados os principais problemas  identificados e será fornecida uma análise para obte um feedback que guie as correções a serem realizadas.
 
 ## **Objetivo**
 
-A principal função desse artefato é apresentar os resultados obtidos a partir da verificação do artefato Moscow, confeccionado na Segunda Etapa do projeto.
+A principal função desse artefato é apresentar os resultados obtidos a partir da verificação do artefato [Moscow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/moscow/), confeccionado na Segunda Etapa do projeto.
 
 ## **Metodologia**
 
@@ -18,13 +18,13 @@ Os resultados serão obtidos a partir das inspeções dos artefato utilizando um
 
 
 ## **Conteúdo esperado no artefato**
-Espera-se que esse documento contenha os requisitos priorizados com a ajuda de um usuário da aplicação a partir do método de elicitação Moscow.
+Espera-se que esse documento contenha os requisitos priorizados com a ajuda de um usuário da aplicação a partir do método de elicitação [Moscow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/moscow/).
 
 ## **Inspeção em Dupla**
 
 <center>
 
-**Vídeo 1:** Gravação da inspeção em dupla do artefato Moscow
+**Vídeo 1:** Gravação da inspeção em dupla do artefato [Moscow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/moscow/)
 </center>
 
 <iframe width="640" height="315" src="https://www.youtube.com/embed/TjSEqWCMAqw?si=e7gChn9jcJWDqb61" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -38,7 +38,7 @@ Espera-se que esse documento contenha os requisitos priorizados com a ajuda de u
 
 <center>
 
-**Vídeo 2:** Gravação da inspeção individual do artefato Moscow
+**Vídeo 2:** Gravação da inspeção individual do artefato [Moscow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/moscow/)
 </center>
 
 <iframe width="640" height="315" src="https://www.youtube.com/embed/zCvVqLS25xM?si=cj6MGboRQPK-plzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

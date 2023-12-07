@@ -2,7 +2,7 @@
 
 ## **Introdução**
 
-Esse artefato documenta a verificação do artefato de Rich Picture produzido no início do projeto. Ao longo do documento serão apresentados o objetivo, a metodologia e os dados da verificação. Destarte, serão sumarizados os principais problemas  identificados e será fornecida uma análise para obte um feedback que guie as correções a serem realizadas
+Esse artefato documenta a verificação do artefato de [Rich Picture](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pre-rastreabilidade/rich_picture/) produzido no início do projeto. Ao longo do documento serão apresentados o objetivo, a metodologia e os dados da verificação. Destarte, serão sumarizados os principais problemas  identificados e será fornecida uma análise para obte um feedback que guie as correções a serem realizadas
 
 ## **Objetivo**
 
@@ -13,14 +13,14 @@ A principal função desse artefato é apresentar os resultados obtidos a partir
 Os resultados serão obtidos a partir das inspeções dos artefato utilizando uma lista de verificação previamente elaborada pelo integrante Caio Braga. As respostas poderão ser assinaladas com as opções **Confome**, **Não Conforme** e **Incompleto** ou **N/A (Não se aplica)**. Cada avaliador poderá também fazer observações em cada item do checklist.
 
 ## **Conteúdo esperado no artefato**
-Espera-se que esse documento contenha o diagrama Rich Picture do aplicativo selecionado, expressando o domínio do sistema e a interação dos usuários de maneira "informal". 
+Espera-se que esse documento contenha o diagrama [Rich Picture](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pre-rastreabilidade/rich_picture/)  do aplicativo selecionado, expressando o domínio do sistema e a interação dos usuários de maneira "informal". 
 
 ## **Lista de Verificação**
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5SXgpqZXJbIhdXZ6nl3yolDHUpTNSR4nyP1HNseXq9qQDr_6_xIMxQP-l8NG62kUKuAQUFXtBeUvu/pubhtml?gid=1784900589&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 ## **Conteúdo esperado no artefato**
-Espera-se que esse documento contenha a um rich picture bem feito de acordo com a referência escolhida, além da definição dos elementos em seus lugares corretos.
+Espera-se que esse documento contenha a um [Rich Picture](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pre-rastreabilidade/rich_picture/) bem feito de acordo com a referência escolhida, além da definição dos elementos em seus lugares corretos.
 
 ## **Inspeção em Dupla**
 

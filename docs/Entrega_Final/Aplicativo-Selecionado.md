@@ -1,4 +1,3 @@
-
 # **Aplicativos selecionado**
 
 ## **BRB Mobilidade**
@@ -26,11 +25,12 @@ Além da experiência, também consideramos a relevância do [BRB Mobilidade](ht
 
 Nossa decisão foi tomada com o apoio de todos os membros do grupo. Cada membro teve a oportunidade de compartilhar suas opiniões e preocupações, e a escolha final representa nossa determinação em trabalhar juntos para alcançar nossos objetivos.
 
-<a id = "ELEM1" href = "#REF1" ><sup>1</sup></a>
-### **Histórico de Versões**
+
+# **Bibliografia**
+>[1] Bilheteria Digital, Disponível em :<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>, acesso em 06 de Dezembro de 2023
+
+## **Histórico de versão**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão inicial                      | Caio Lelis   | 17/09/2023   | Doan Filho  | 18/09/2023 |
-|  1.1   | Reconstruindo page app selecionado  | Caio Lelis   | 23/09/2023   | Doan Filho  | 25/09/2023 |
-|  1.2   | Trazendo padronização  | Doan Filho   | 05/12/2023   | Caio Braga | 06/12/2023 |
+|  1.0   | Adicionando artefato | Doan Filho  |   06/12/2023   | Caio Braga  | 06/12/2023 |

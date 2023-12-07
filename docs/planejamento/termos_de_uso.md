@@ -20,6 +20,11 @@ A equipe responsável pelo planejamento do projeto garante que foi lido e que se
 
 <a id="aa" href="#a">[1]</a> BRB Mobilidade. Disponível em sua aplicação Mobile. Acesso em: 18 de setembro de 2023.
 
+
+## **Bibliografia**
+
+> [1] BRB Mobilidade. Disponível em: https://play.google.com/store/apps/details?id=br.com.brb.mobilidade&gl=US
+
 #### **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  

@@ -97,8 +97,7 @@ As seguintes tabelas apresentam, respectivamente, os requisitos funcionais e nã
 
 ## **Bibliografia**
 
-> WIEGERS, Karl; BEATTY, Joy. Software Requirements (Developer Best 
-Practices), 3rd Edition, Microsoft Press, 2013.
+>[1] WIEGERS, Karl; BEATTY, Joy. Software Requirements (Developer Best  Practices), 3rd Edition, Microsoft Press, 2013.
 
 
 ## **Histórico de Versões**

@@ -143,7 +143,7 @@ Markdown é a linguagem de marcação mais usada no documento
 
 >[2] Awari Code, **Versionamento de código: entenda o que é e porque é importante**, Disponível em: <https://awari.com.br/versionamento-de-codigo/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Versionamento%20de%20c%C3%B3digo:%20entenda%20o%20que%20%C3%A9%20e%20porque%20%C3%A9%20importante#:~:text=Ou%20seja,%20o%20Github%20funciona,%C3%A9%20igual%20ao%20do%20Git.>, Acesso em : 06 de Outubro de 2023.
 
->[3] Even3, **Referência bibliográfica: como fazer e qual a sua importância**, Discponível em: <https://blog.even3.com.br/referencia-bibliografica-como-fazer-e-qual-a-sua-importancia/>, Acesso em : 07 de Outubro de 2023
+>[3] Even3, **Referência bibliográfica: como fazer e qual a sua importância**, Disponível em: <https://blog.even3.com.br/referencia-bibliografica-como-fazer-e-qual-a-sua-importancia/>, Acesso em : 07 de Outubro de 2023
 
 >[4] Daniela Diana, **Bibliografia**, Disponível em: <https://www.todamateria.com.br/bibliografia/>, Acesso em: 07 de Outrubro de 2023
 

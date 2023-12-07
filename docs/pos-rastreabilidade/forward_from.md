@@ -805,7 +805,7 @@ Fonte: LELIS, Caio.
 
 ## **Bibliografia**
 
-> SERRANO, Mauricio. SERRANO, Milene. Slides da aula "Requisitos: aula 26". Acesso em 19/11/2023
+>[1] SERRANO, Mauricio. SERRANO, Milene. Slides da aula "Requisitos: aula 26". Acesso em 19/11/2023
 
 ## **Histórico de Versões**
 

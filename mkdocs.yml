@@ -139,6 +139,7 @@ nav:
           - Brainstorming: verificacao/grupo_3/entrega_2/brainstorming.md
           - Observação: verificacao/grupo_3/entrega_2/observacao.md
           - Questionário: verificacao/grupo_3/entrega_2/questionario.md 
+          - Introspecção: verificacao/grupo_3/entrega_2/Introspecção.md
 
         - Técnicas de Priorização: 
           - MoSCow: verificacao/grupo_3/entrega_2/moscow.md 
@@ -166,14 +167,15 @@ nav:
      - Validação Informal: validacao/validacao_informal.md
      - Protótipos: validacao/prototipos.md
      
+
   - Entrega Final: 
     -  Artefatos: Entrega_Final/Artefatos-criados.md
     -  Aplicativo Selecionado: Entrega_Final/Aplicativo-Selecionado.md
     -  Apresentacao: Entrega_Final/Apresentacao.md
+    -  Cronograma Planejado e Executado : Entrega_Final/Cronograma-Planejado-e-Executado.md
+    -  Execução do projeto: Entrega_Final/Execução-do-projeto.md
     -  Cronograma Planejado e Executado : Entrega_Final/  
-    -  Execução do projeto: Entrega_Final/Cronograma-Planejado-e-Executado.md
     -  Ferramentas: Entrega_Final/Ferramentas.md
     -  Métodos de verificacao e validacao : Entrega_Final/Métodos-de-verificacao-e-validacao.md
-    -  Objetivo do projeto : Entrega_Final/Objetivo-do-projeto.md
     -  Técnicas usadas: Entrega_Final/Técnicas-usadas.md
 

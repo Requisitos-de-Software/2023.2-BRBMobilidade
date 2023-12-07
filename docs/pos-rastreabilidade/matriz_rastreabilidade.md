@@ -1,21 +1,21 @@
-# Matriz de Rastreabilidade
+# **Matriz de Rastreabilidade**
 
 
-## Introdução 
+## **Introdução**
 
 A matriz de rastreabilidade é uma ferramenta que permite a visualização das relações entre os requisitos e os artefatos do projeto. A partir dela, é possível identificar quais requisitos estão relacionados a quais artefatos, e vice-versa.
 
 
-## Objetivo
+## **Objetivo**
 
 Este artefato tem como propósito conectar de forma concisa e rastrear os requisitos entre si, facilitando a organização e acompanhamento dos requisitos nos documentos backward e forward.
 
-## Metodologia
+## **Metodologia**
 
 A partir dos documentos backward e forward, foram identificados os requisitos funcionais e não funcionais, e os artefatos de elicitação e especificação. Em seguida, foi feita a relação entre os requisitos e os artefatos, e vice-versa, por meio de uma matriz de rastreabilidade.
 
 
-## Modelo da Matriz de Rastreabilidade
+## **Modelo da Matriz de Rastreabilidade**
 
 
 <div style="text-align: center">
@@ -35,7 +35,7 @@ A partir dos documentos backward e forward, foram identificados os requisitos fu
 
 
 
-## Matriz de Rastreabilidade
+## **Matriz de Rastreabilidade**
 
 <div style="text-align: center">
 <p>Tabela 2 -  Matriz de Rastreabilidade</p>
@@ -91,14 +91,14 @@ A partir dos documentos backward e forward, foram identificados os requisitos fu
 </div>
 
 
-## Bibliografia
+## **Bibliografia**
 
-> SERRANO, Mauricio. SERRANO, Milene. Slides da aula "Requisitos: aula 26". Acesso em 19/11/2023
+> [1]SERRANO, Mauricio. SERRANO, Milene. Slides da aula "Requisitos: aula 26". Acesso em 19/11/2023
 
-> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 19 de novembro de 2023.
+>[2] 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 19 de novembro de 2023.
 
 
-## Histórico de Versão
+## **Histórico de Versão**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
