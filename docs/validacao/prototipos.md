@@ -23,14 +23,19 @@ Cada integrante do grupo tem o dever de selecionar um requisito não implementad
 
 ## *Protótipo de alta fidelidade*
 
-
+### *Prototipo 1*
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCJHhvdYCuzGETzEC38SZ4m%2FPrototipoRequisitos%3Ftype%3Ddesign%26node-id%3D1-60%26t%3DK3Zlene7GlIdBznF-1%26scaling%3Dscale-down%26page-id%3D0%3A1%26starting-point-node-id%3D1%3A60%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
+
+### *Prototipo 2*
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FyIavWCkanPxEiADpqiuoVW%2FUntitled%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DWETM53q05dq43A07-1" allowfullscreen></iframe><center>
+Fonte: Joel Soares</center>
+
 
 
 
 ## *Participantes da validação*
 
-A validação foi feita com o participante e usuário do aplicativo, Pedro Vitor, que é um estudante de 21 anos que utiliza o transporte público diariamente para ir à faculdade. O participante foi selecionado por ser um usuário frequente do transporte público e por ter um perfil de usuário que se encaixa no público alvo do projeto.
+A validação do prototipo 1 foi feita com o participante e usuário do aplicativo, Pedro Vitor, que é um estudante de 21 anos que utiliza o transporte público diariamente para ir à faculdade. O participante foi selecionado por ser um usuário frequente do transporte público e por ter um perfil de usuário que se encaixa no público alvo do projeto.
 
 
 ## *Entrevistas*
