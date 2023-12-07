@@ -40,9 +40,6 @@ Após a inspeção, foram identificados e levados até o dono do artefato, Caio 
 
 ## **Bibliografia**
 
->
->
->
 
 ## **Histórico de Versões**
 

@@ -153,9 +153,11 @@ Este documento é referente ao cronograma que foi seguido no semestre 2023.2 na 
 |7| Postagem da Apresentação| Início: 04/12 <br> Fim: 06/12 | Joel Soares | Início: 04/12 <br> Fim: 04/12 | Miguel de Frias |
 |7| Cronograma Realizado | Início: 30/11 <br> Fim: 06/12  | Miguel de Frias |  Início: 04/12 <br> Fim: 06/12 | Doan Filho |
 |7| Correções da Entrega 5.2 | Início: 30/11 <br> Fim: 06/12 | Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias | Início: 04/12 <br> Fim: 06/12 |Caio Braga, Caio Lelis, Doan Filho, Gabriel Barbosa, <br> Guilherme Basilio, Joel Soares e Miguel de Frias |
+## **Histórico de versão**
 
-# **Bibliografia**
->[1] Bilheteria Digital, Disponível em :<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>, acesso em 06 de Dezembro de 2023
+| Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Adicionando artefato | Doan Filho  |   06/12/2023   | Caio Braga  | 06/12/2023 |
 
 ## **Histórico de versão**
 
