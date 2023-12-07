@@ -98,6 +98,8 @@ Este artefato possui a sintetização de  todos as verificações e a validaçã
 |:------:|:------------------:|
 | Acessar itinerários detalhados de ônibus, facilitando o planejamento de viagens. | Caio Lelis |
 | O aplicativo tem opção de pagamento via cartão de crédito. | Caio Braga |
+|  O aplicativo mostra o histórico de transportes pego pelo usuário ao longo do seu uso|Doan Filho|
+
 
 ## **Histórico de versão**
 
