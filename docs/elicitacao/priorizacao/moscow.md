@@ -47,7 +47,8 @@ No vídeo abaixo foi registrada a priorização dos requisitos elicitados pelas 
 
 **Vídeo 1:** Gravação da priorização MoSCOW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JLg9yN2zm9o?si=-m-KEl3fb6053u7t&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-**Fonte:** BRAGA, Caio. FILHO, Doan;
+
+**Fonte:** BRAGA, Caio. LELIS, Caio. FILHO, Doan;
 
 </center>
 
@@ -110,6 +111,8 @@ A tabela abaixo apresenta os requisitos priorizados através da técnica Moscow:
 | RNF08 | O aplicativo deve rastrear os ônibus via GPS. | Q11 | Must |
 | RNF09 | O aplicativo deve ser otimizado. | Q12 | Must |
 | RNF10 | O aplicativo deve possuir meios de acessibilidade para pessoas que possuam deficiências visuais, físicas ou auditivas. | Q13 | Must |
+
+**Fonte:** BRAGA, Caio. LELIS, Caio. FILHO, Doan.
 
 </center>
 

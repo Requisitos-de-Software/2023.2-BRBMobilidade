@@ -30,12 +30,15 @@ Utilizar-se-á de uma reunião com o usuário para priorizar os requisitos elici
 
 ## **Gravação de Priorização com o usuário**
 
-**Vídeo 1:** Gravação da priorização MoSCOW
+<center>
+
+**Vídeo 1:** Gravação da priorização In or Out
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S0kMXq2nVm8?si=_AaQwYTTQnr48Qrl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+**Fonte:** BRAGA, Caio. LELIS, Caio. FILHO, Doan;
 
-**Fonte:** BRAGA, Caio. FILHO, Doan;
-
+</center>
 
 ## **Requisitos Priorizados**
 
