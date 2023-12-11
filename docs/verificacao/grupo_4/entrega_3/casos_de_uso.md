@@ -60,3 +60,4 @@ Planilha verificação. Disponível em: <https://docs.google.com/spreadsheets/d/
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento  | Miguel de Frias |   13/11/2023   | Doan Filho |  13/11/2023    |
 |  1.1   | Adicionando os tópicos abordados  | Miguel de Frias |   13/11/2023   |  Doan Filho |   13/11/2023   |
+|  1.2   | Adicionando conteúdo | Doan Filho |   13/11/2023   |  Miguel de Frias |   13/11/2023   |

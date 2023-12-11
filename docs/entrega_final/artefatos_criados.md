@@ -20,7 +20,7 @@ Neste documento está contido o conjunto de artefatos confeccionados para a disc
 | Elicitacao de Requisitos | [Perfil de Usuario](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/perfil_do_usuario/) | Doan Filho e Caio Braga | Caio Braga e Doan Filho |
 | Elicitacao de Requisitos | [Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/brainstorming/) | Miguel Matos e Joel Soares | Joel Soares e Caio Braga |
 | Elicitacao de Requisitos | [Introspeccao](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/introspeccao/) | Miguel Matos, Guilherme Basilio, Caio Braga, Caio Lelis e Doan Filho | Doan Filho e Joel Soares |
-| Elicitacao de Requisitos | [Obersvacao](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/introspeccao/#historico-de-versoes) | Gabriel Barbosa | Guilherme Basilio |
+| Elicitacao de Requisitos | [Obeservacao](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/introspeccao/#historico-de-versoes) | Gabriel Barbosa | Guilherme Basilio |
 | Elicitacao de Requisitos | [Questionario](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/tecnicas/questionario/) | Caio Braga e Doan Filho | Caio Lelis |
 | Elicitacao de Requisitos | [In or Out](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/in_or_out/) | Caio Braga, Caio Lelis e Doan Filho| Joel Soares|
 | Elicitacao de Requisitos | [Three Level Scale](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/elicitacao/priorizacao/three_level_scale/) | Doan Filho, Caio Lelis e Joel Soares| Caio Braga |
@@ -44,7 +44,7 @@ Neste documento está contido o conjunto de artefatos confeccionados para a disc
 | Analise de Requisitos (5.1) | [Verificação do artefato de priorização "$100"](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_2/%24100/) | Gabriel Barbosa | Caio Braga |
 | Analise de Requisitos (5.1) | [Verificação do artefato de priorização "Three Level Scale"](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_2/three_level_scale/) | Gabriel Barbosa | Caio Braga |
 | Analise de Requisitos (5.1) | [Léxicos](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_3/lexicos/) | Doan Filho | Miguel de Frias |
-| Analise de Requisitos (5.1) | [Casos de Uso](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_3/casos_de_uso/) | Miguel de Frias| Doan Filho|
+| Analise de Requisitos (5.1) | [Casos de Uso](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_3/casos_de_uso/) | Doan Filho| Miguel de Frias|
 | Analise de Requisitos (5.1) | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_3/especificacao_suplementar/) | Miguel de Frias | Doan Filho	 |
 | Analise de Requisitos (5.1) | [Verificação do artefato "Product Backlog"](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_4/backlog/) | Gabriel Barbosa | Doan Filho |
 | Analise de Requisitos (5.1) | [Verificação do artefato "Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_4/entrega_4/historias_de_usuario/) | Guilherme Basilio | Miguel de Frias |
@@ -55,9 +55,10 @@ Neste documento está contido o conjunto de artefatos confeccionados para a disc
 | Pos-Rastreabilidade (6) | [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/pos-rastreabilidade/matriz_rastreabilidade/) | Caio Lelis | Caio Braga |
 | Analise de Requisitos (5.2) | [Verificação do Rich Picture](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_1/rich_picture/) | Gabriel Barboa | Guilherme Basílio |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Personas](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_2/personas/) | Guilherme Basílio| Doan Filhio|
-| Analise de Requisitos (5.2) | [Verificação do Artefato Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_2/brainstorming/) | Caio Braga | Caio Lelis |
+| Analise de Requisitos (5.2) | [Verificação do Artefato Brainstorming](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_2/brainstorming/) | Caio Braga e Doan Filho | Caio Lelis |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Observação](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_2/observacao/) | Joel Soares | Caio Braga |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Questionário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_2/questionario/) | Caio Braga | Caio Lelis |
+| Analise de Requisitos (5.2) | [Verificação do Artefato Introspecção](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_2/Introspec%C3%A7%C3%A3o/) | Doan Filho e Caio Braga | Caio Lelis  |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Moscow](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_2/moscow/) | Caio Braga e Caio Lelis | Caio Lelis e Caio Braga |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Three Level scale](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_2/threlevelscale/) | 	Caio Braga, Caio Lelis e Doan Filho | Caio Lelis |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Casos de Uso](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_3/casosdeuso/) | Miguel de Frias | Caio Braga |
@@ -66,7 +67,7 @@ Neste documento está contido o conjunto de artefatos confeccionados para a disc
 | Analise de Requisitos (5.2) | [Verificação do Artefato Léxicos](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_3/lexicos/) | Joel Soares	| Caio Braga |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Backlog](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_3/backlog/) | Caio Lelis | Caio Braga	 |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_3/historias_de_usuario/) | Caio Braga e Caio Lelis | Caio Lelis e Caio Braga |
-| Analise de Requisitos (5.2) | [Verificação do Artefato NRF Freamework](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_3/nfr_framework/) | Guilherme Basílio e Doan Filho | Doan Filho	 |
+| Analise de Requisitos (5.2) | [Verificação do Artefato NRF Freamework](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_3/nfr_framework/) | Doan Filho | Miguel de  Frias	 |
 | Analise de Requisitos (5.2) | [Verificação do Backward From](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_4/backward_from/) | Gabriel Barbosa|Guilherme Basilio |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Forward From](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_4/forward_from/) | Miguel de Frias | Caio Braga |
 | Analise de Requisitos (5.2) | [Verificação do Artefato Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-BRBMobilidade/verificacao/grupo_3/entrega_4/matriz_rastreabilidade/) | Joel Soares e Caio Braga| Caio Braga e Joel Soares |
@@ -78,5 +79,5 @@ Neste documento está contido o conjunto de artefatos confeccionados para a disc
 ## **Histórico de versão**
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adicionando artefato | Doan Filho   06/12/2023   | Caio Braga  | 06/12/2023 |
+|  1.0   | Adicionando artefato | Doan Filho  | 06/12/2023   | Caio Braga  | 06/12/2023 |
 |  1.0   | Refatoração geral | Caio Braga |  06/12/2023   | Doan Filho  | 06/12/2023 |

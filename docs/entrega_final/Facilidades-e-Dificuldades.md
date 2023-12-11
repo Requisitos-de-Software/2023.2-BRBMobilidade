@@ -24,4 +24,4 @@ Acredito que uma das dificuldades durante os desenvolvimento do projeto foi a co
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Adicionando artefato | Doan Filho  |   06/12/2023   | Caio Braga  | 06/12/2023 |
-|  1.1   | Adicionando tópicos | Miguel de Frias  |   06/12/2023   |   | 06/12/2023 |
+|  1.1   | Adicionando tópicos | Miguel de Frias  |   06/12/2023   | Doan Filho  | 06/12/2023 |

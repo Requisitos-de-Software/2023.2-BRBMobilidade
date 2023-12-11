@@ -106,7 +106,7 @@ nav:
 
       - Entrega 2:
         - Verificação do Perfil de Usuário: verificacao/grupo_4/entrega_2/perfil_de_usuario.md
-        - Verificação da Personas: verificacao/grupo_3/entrega_2/personas.md
+        - Verificação da Personas: verificacao/grupo_4/entrega_2/personas.md
         - Verificação das Técnicas:
           - Verificação dos Brainstorming: verificacao/grupo_4/entrega_2/brainstorming.md
           - Verificação dos Questionário: verificacao/grupo_4/entrega_2/questionario.md
@@ -116,8 +116,8 @@ nav:
           - Verificação das Three Level Scale: verificacao/grupo_4/entrega_2/three_level_scale.md
 
       - Entrega 3:
-        - Planejamento da Verificação da Entrega 3: verificacao/grupo_3/entrega_3/planejamento_entrega_3.md
-        - Verificação da Cenários: verificacao/grupo_3/entrega_3/cenarios.md
+        - Planejamento da Verificação da Entrega 3: verificacao/grupo_4/entrega_3/planejamento_entrega_3.md
+        - Verificação da Cenários: verificacao/grupo_4/entrega_3/cenarios.md
         - Verificação do Léxicos: verificacao/grupo_4/entrega_3/lexicos.md
         - Verificação do Casos de Uso: verificacao/grupo_4/entrega_3/casos_de_uso.md
         - Verificação do Especificação Suplementar: verificacao/grupo_4/entrega_3/especificacao_suplementar.md
@@ -179,6 +179,7 @@ nav:
     -  Métodos de verificação e validação : entrega_final/verificacao_validacao.md
     -  Ferramentas: entrega_final/ferramentas.md
     -  Apresentações: entrega_final/apresentacoes.md
+    - Facilidades e Dificuldades: entrega_final/Facilidades-e-Dificuldades.md
    
     
     
