@@ -6,6 +6,10 @@ Este artefato ira conter todas as dificuldades e facilidades no curso ao longo d
 ### **Doan**
 As facilidades foram que a disciplina me ajudou muito trazendo conhecimentos sobre a matéria que iremos usar durante o curso e na vida de engenheiros de software, além de me alertar sobre como usar e planejar projetos, desde pequenos até grandes projetos, e mostrou a importância disso.
 
+### **Gabriel Barbosa**
+Durante a disciplina foi interessante aprender conceitos e implementá-los no projeto de forma contínua e em ciclos, isso facilitou para que conhecimento fosse consolidado.
+Outro ponto foi a experiência em grupo e as interações com usuários da plataforma, que serviram para praticar metodologias e técnicas que serão úteis durante a carreira. O apoio constante do professor e monitores também nos ajudou bastante. Na minha experiência, esse formato de entrega ajudou a desenvolver habilidades de comunicação e fala. 
+
 ### **Miguel de Frias**
 Acredito que uma das facilidades durante o projeto foi que as ferramentas utilizadas em sua maioria já foram utilizadas pelos membros do grupo, outra facilidade foi que por meio do plano de ensino foi fácil entender a estrutura do projeto e suas entregas, o que ajudou a manter um processo contínuo de desenvolvimento. E por último, o constante feedback do professor e dos monitores auxiliou muito o entendimento dos artefatos e o desenvolvimento do projeto.
 
@@ -14,6 +18,9 @@ As dificuldades gerais do grupo foi em questão de organização para lidar com 
 
 ### **Doan**
 Acho que minhas maiores dificuldades tenham sido na organização do grupo. Coordenar e alinhar os horários de todos os participantes foi uma tarefa complexa. Encontrar um período em que todos pudessem se reunir para discutir e trabalhar no projeto foi um desafio significativo. Isso muitas vezes resultou em dificuldades para avançar no trabalho, pois a falta de sincronização nos horários limitava nossa capacidade de colaboração em equipe.
+
+### **Gabriel Barbosa**
+Acredito que a principal dificuldade se deu pelo fato do grupo ter uma quantidade de integrantes alta isso resultou em uma fraca organização, comunicação e atribuição de tarefas. O volume de entregas também foi alto foi um fator que dificultou o semestre.
 
 ### **Miguel de Frias**
 Acredito que uma das dificuldades durante os desenvolvimento do projeto foi a conciliação de horários para a realização das tarefas. Outra dificuldade foi o tempo para as entregas, em particular acredito que foi difícil manter a constância que a disciplina exige, resultando em entregas de última hora. E por último, a comunicação entre os integrantes não foi muito boa, muitas vezes houve conflitos devido a esse problema.
@@ -25,3 +32,4 @@ Acredito que uma das dificuldades durante os desenvolvimento do projeto foi a co
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Adicionando artefato | Doan Filho  |   06/12/2023   | Caio Braga  | 06/12/2023 |
 |  1.1   | Adicionando tópicos | Miguel de Frias  |   06/12/2023   | Doan Filho  | 06/12/2023 |
+|  1.2   | Adicionando relatos | Gabriel Barbosa  |   06/12/2023   | Doan FIlho |  06/12/2023 |
