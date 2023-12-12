@@ -146,7 +146,6 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 
 <figcaption align="center">Tabela 9: Léxico 8(Fonte: de Frias, Miguel. 2023)</figcaption>
 
-### <a id ="Transporte">**L05 Transporte**</a>
 
  L05  |Descrição     | 
 |----------------|----------------|
@@ -238,3 +237,4 @@ Sendo a divisão dos léxicos feito através da sua classificação sendo elas:
 |  1.1   | Adicionando Léxicos: Acessar, Ajuda e Status |  Joel Soares  |   24/10/2023   | Doan Filho | 25/10/2023        |
 |  1.2   | Adicionando Léxicos: Visualizar, Cartão e Cartão com saldo |  Doan Filho  |   24/10/2023   | Joel Soares |   25/10/2023      |
 |  1.3   | Adicionando Léxicos:  Personalizar, ChatBot e Consulta |  Caio Lelis  |   24/10/2023   | Doan Filho | 25/10/2023   |
+|  1.4   | Adicionando Léxicos: Exibir extrato de uso |  Caio Braga  |   24/10/2023   | Doan Filho | 25/10/2023   | 

@@ -30,4 +30,4 @@ Neste artefato serão apresentadas as apresentações gravadas para cada entrega
 | Versão |          Descrição              |     Autor       |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:---------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Adicionando artefato | Doan Filho  |   06/12/2023   | Caio Braga  | 06/12/2023 |
-|  1.0   | Refatoração geral | Caio Braga  |   06/12/2023   | Doan Filho  | 06/12/2023 |
+|  1.1   | Refatoração geral | Caio Braga  |   06/12/2023   | Doan Filho  | 06/12/2023 |
