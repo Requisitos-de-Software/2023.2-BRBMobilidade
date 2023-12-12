@@ -1,4 +1,6 @@
-# **Introdução**
+# **Facilidades e Dificuldades**
+
+## **Introdução**
 
 Este artefato ira conter todas as dificuldades e facilidades no curso ao longo do semestre de 2023.2 da disciplina de Requisitos de software.
 
