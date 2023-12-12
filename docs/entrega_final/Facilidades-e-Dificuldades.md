@@ -3,6 +3,12 @@
 Este artefato ira conter todas as dificuldades e facilidades no curso ao longo do semestre de 2023.2 da disciplina de Requisitos de software.
 
 ## **Facilidades**
+
+### **Caio Lelis**
+
+Acredito que uma das facilidades durante o projeto foi a utilização de ferramentas que já foram utilizadas em outras disciplinas, como o GitHub, o Teams. Outra facilidade foi a utilização de uma metodologia ágil, que facilitou o desenvolvimento do projeto. E por último, acredito que a disciplina de Requisitos de Software foi uma facilidade, pois ela nos ajudou a entender o que é um requisito e como ele deve ser documentado.
+Nós estamos sempre acostumados com a chegada de Issue para serem resolvidas, e isso nos ajudou a entender como funciona o processo antes da criação das Issues. 
+
 ### **Doan**
 As facilidades foram que a disciplina me ajudou muito trazendo conhecimentos sobre a matéria que iremos usar durante o curso e na vida de engenheiros de software, além de me alertar sobre como usar e planejar projetos, desde pequenos até grandes projetos, e mostrou a importância disso.
 
@@ -15,6 +21,9 @@ Acredito que uma das facilidades durante o projeto foi que as ferramentas utiliz
 
 ## **Dificuldades**
 As dificuldades gerais do grupo foi em questão de organização para lidar com as entregas semanais da disciplina, porém aqui vamos listar por participantes.
+
+### **Caio Lelis**
+Acredito que a maior dificuldade realmente foi a tarefa de organizar o grupo, pois tivemos muitas dificuldades em relação a isso. Outra dificuldade foi a falta de tempo para realizar as entregas, pois tivemos muitas entregas em um curto período de tempo.
 
 ### **Doan**
 Acho que minhas maiores dificuldades tenham sido na organização do grupo. Coordenar e alinhar os horários de todos os participantes foi uma tarefa complexa. Encontrar um período em que todos pudessem se reunir para discutir e trabalhar no projeto foi um desafio significativo. Isso muitas vezes resultou em dificuldades para avançar no trabalho, pois a falta de sincronização nos horários limitava nossa capacidade de colaboração em equipe.
