@@ -164,5 +164,5 @@ O grupo conduziu a validação de um protótipo de alta fidelidade de um requisi
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Adicionando artefato | Caio Braga  |   06/12/2023   | Doan Filho  | 06/12/2023 |
+|  1.0   | Adicionando artefato | Doan Filho  |   06/12/2023   | Doan Filho  | 06/12/2023 |
 |  1.1   | Refatoração geral | Caio Braga  |   06/12/2023   | Doan Filho  | 06/12/2023 |
