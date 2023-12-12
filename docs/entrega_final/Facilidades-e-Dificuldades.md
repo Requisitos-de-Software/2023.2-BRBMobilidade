@@ -22,6 +22,9 @@ Acredito que uma das facilidades durante o projeto foi que as ferramentas utiliz
 ### **Guilherme Basilio**
 O feedback constante do professor e dos monitores foi crucial para o entendimento dos artefatos, organização, planejamento e o progresso do projeto. A familiaridade com ferramentas como GitHub e Teams, já utilizadas em disciplinas anteriores, trouxe facilidade à execução e a clareza do plano de ensino contribuíram para um processo de desenvolvimento contínuo. 
 
+### **Joel Soares**
+Uma facilidade ao longo do projeto foram os feedbacks constantes do professor e dos monitores, nos auxiliando a aprimorar o projeto.
+
 ## **Dificuldades**
 As dificuldades gerais do grupo foi em questão de organização para lidar com as entregas semanais da disciplina, porém aqui vamos listar por participantes. 
 
@@ -39,6 +42,9 @@ Acredito que uma das dificuldades durante os desenvolvimento do projeto foi a co
 
 ### **Guilherme Basilio**
 Na minha visão a maior dificuldade foi a organização do grupo, pois grande parte dos nossos problemas foi em relação a isso. As entregas constantes foi um fator que dificultou muito também, visto que o prazo entre as entregas eram curtos.
+
+### **Joel Soares**
+Houveram algumas dificuldades ao longo desse projeto. O primeiro foi que, ao fazer a disciplina de IHC e Requisitos simultaneamente, e com sites/aplicativos diferentes selecionados, houve uma demanda alta nas entregas, tendo em vista que são entregues semanalmente ao invés de mensalmente, além também da organização do grupo.
 
 
 ## **Histórico de Versões**
