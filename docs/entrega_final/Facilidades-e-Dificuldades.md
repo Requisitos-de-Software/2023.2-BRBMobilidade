@@ -19,8 +19,11 @@ Outro ponto foi a experiência em grupo e as interações com usuários da plata
 ### **Miguel de Frias**
 Acredito que uma das facilidades durante o projeto foi que as ferramentas utilizadas em sua maioria já foram utilizadas pelos membros do grupo, outra facilidade foi que por meio do plano de ensino foi fácil entender a estrutura do projeto e suas entregas, o que ajudou a manter um processo contínuo de desenvolvimento. E por último, o constante feedback do professor e dos monitores auxiliou muito o entendimento dos artefatos e o desenvolvimento do projeto.
 
+### **Guilherme Basilio**
+O feedback constante do professor e dos monitores foi crucial para o entendimento dos artefatos, organização, planejamento e o progresso do projeto. A familiaridade com ferramentas como GitHub e Teams, já utilizadas em disciplinas anteriores, trouxe facilidade à execução e a clareza do plano de ensino contribuíram para um processo de desenvolvimento contínuo. 
+
 ## **Dificuldades**
-As dificuldades gerais do grupo foi em questão de organização para lidar com as entregas semanais da disciplina, porém aqui vamos listar por participantes.
+As dificuldades gerais do grupo foi em questão de organização para lidar com as entregas semanais da disciplina, porém aqui vamos listar por participantes. 
 
 ### **Caio Lelis**
 Acredito que a maior dificuldade realmente foi a tarefa de organizar o grupo, pois tivemos muitas dificuldades em relação a isso. Outra dificuldade foi a falta de tempo para realizar as entregas, pois tivemos muitas entregas em um curto período de tempo.
@@ -34,6 +37,9 @@ Acredito que a principal dificuldade se deu pelo fato do grupo ter uma quantidad
 ### **Miguel de Frias**
 Acredito que uma das dificuldades durante os desenvolvimento do projeto foi a conciliação de horários para a realização das tarefas. Outra dificuldade foi o tempo para as entregas, em particular acredito que foi difícil manter a constância que a disciplina exige, resultando em entregas de última hora. E por último, a comunicação entre os integrantes não foi muito boa, muitas vezes houve conflitos devido a esse problema.
 
+### **Guilherme Basilio**
+Na minha visão a maior dificuldade foi a organização do grupo, pois grande parte dos nossos problemas foi em relação a isso. As entregas constantes foi um fator que dificultou muito também, visto que o prazo entre as entregas eram curtos.
+
 
 ## **Histórico de Versões**
 
@@ -42,3 +48,4 @@ Acredito que uma das dificuldades durante os desenvolvimento do projeto foi a co
 |  1.0   | Adicionando artefato | Doan Filho  |   06/12/2023   | Caio Braga  | 06/12/2023 |
 |  1.1   | Adicionando tópicos | Miguel de Frias  |   06/12/2023   | Doan Filho  | 06/12/2023 |
 |  1.2   | Adicionando relatos | Gabriel Barbosa  |   06/12/2023   | Doan FIlho |  06/12/2023 |
+|  1.3   | Adicionando relatos | Guilherme Basilio  |   06/12/2023   | Doan FIlho |  06/12/2023 |
